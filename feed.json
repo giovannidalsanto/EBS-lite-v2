@@ -1,0 +1,2063 @@
+{
+ "generatedAt": "2026-06-17T08:15:45+00:00",
+ "events": [
+  {
+   "ep": false,
+   "start": "2026-06-17T04:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "G7 Summit in Evian, France",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-290776",
+     "title": "G7 Summit in Evian, France",
+     "summary": "Details to follow",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-06-17T06:00:10.000Z",
+   "durationSec": 2606,
+   "channel": "EBS+",
+   "status": "EDIT",
+   "title": "EP Stockshots",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-287448",
+     "title": "EU - China relations",
+     "summary": "China is the EU's second-largest trading partner for trade in goods alone, after the United States. For the EU, ensuring reciprocity, achieving a level-playing field, and addressing asymmetries in the relationship are matters of priority. The EU remains committed to addressing these challenges through dialogue with China and underscores the importance of the WTO as the best avenue to address the root causes of the current imbalance. This infoclip shows footage of high-level meetings between political leaders from the European Union and China, including representatives of the European Parliament and the Presidents of the European Commission and the European Council. It also contains general shots of Beijing and Shanghai, along with Chinese companies such as Temu and Alibaba. In addition, it includes images of product packaging and views of the port of Antwerp.",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/video/infoclip-eu-china-relations_I287448"
+    },
+    {
+     "ref": "I-287099",
+     "title": "General views of Beijing (China)",
+     "summary": "This Infoclip presents general views of Beijing (China).",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I287099-V_v"
+    },
+    {
+     "ref": "I-278879",
+     "title": "Online protection of minors and young people",
+     "summary": "This infoclip shows young children watching videos and playing games on mobile devices and computers, parents searching on the internet for parental control tools and creating children’s friendly profiles on viewing platforms and gaming platforms, parents checking the content their children are accessing and setting up restrictions such as screen time restrictions on devices. It is also illustrating parents attending a training on online protection of children (provided by Child focus organisation). A growing number of children are navigating digital environments not designed for them. There is therefore a discussion on whether to enhance the protection of minors online. The Internal Market and Consumer Protection Committee (IMCO) has adopted an own-initiative report with recommendations for safer digital environments for minors.",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I278879-V_v"
+    },
+    {
+     "ref": "I-284382",
+     "title": "Women’s Rights - Combating Disinformation and Violence in the Digital Age",
+     "summary": "Online threats, cyber violence and disinformation, including deepfakes and AI‑generated content, contribute to broader pressures on democracy by undermining trust and can silence voices, including women’s by restraining their freedom of expression. Violence targeting women in politics leads to under‑representation. The EU and the European Parliament in particular, has recognised the seriousness of such phenomena and reinforces its efforts to support women in their efforts to overcome these serious obstacles to political participation. This infoclip illustrates women and young girls browsing through social media platforms, journalists verifying information using online tools, female journalists preparing and recording or broadcasting shows for various media and female leaders and politicians acting in their official capacities in different occasions/ events.",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I284382-V_v"
+    },
+    {
+     "ref": "I-265818",
+     "title": "Digital Services Act (DSA), E-Commerce and Social Media",
+     "summary": "This infoclip gives an overview of tech giants such as Amazon, Meta, Google, TikTok, LinkedIn and X. In 2025 Meta announced the end of its third party fact-checking program. In 2024 the Commission opened proceedings against TikTok for not having assessed risks linked to election integrity during the recent Romanian presidential elections. The Commission also proceeded against X and preliminary findings confirmed its breach of the DSA. This infoclip shows a woman buying on Amazon, people scrolling on Social media, and offices building of TikTok (Source : Tiktok).",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I265818-V_v"
+    },
+    {
+     "ref": "I-264419",
+     "title": "Protecting EU citizens from tobacco smoke and aerosol exposure",
+     "summary": "On 27 November 2024, during the plenary session in Brussels; MEPs discuss the Commission's proposal for a Council recommendation on smoke and aerosol-free environments, to replace Council Recommendation 2009/C296/02.The proposed recommendation calls on Member States to extend the coverage of smoke free environment policies to key outdoor areas, including: outdoor recreational areas for children (public playgrounds, amusement parks, swimming pools, zoos and other similar outdoor spaces); outdoor areas connected to healthcare and education premises (hospitals, health centres, schools, training centres); outdoor areas associated to a place of work; public buildings; service establishments (restaurants, bars, cafés); transport stops and stations (bus, tram, train, airports). It also recommends that Member States extend smoke-free policies to emerging products such as electronic cigarettes.",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I264419-V_v"
+    },
+    {
+     "ref": "I-281873",
+     "title": "General views of Tbilisi (Georgia)",
+     "summary": "This infoclip shows images of Tbilisi (capital city of Georgia). In particular we provide footage of the city centre of the Georgian capital, including views of prominent public buildings such as the Georgian Parliament, the Presidential Palace and the House of Justice.",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I281873-V_v"
+    },
+    {
+     "ref": "I-286506",
+     "title": "Energy challenges in the EU",
+     "summary": "Ongoing instability in Iran and the disruption of maritime traffic through the Strait of Hormuz have brought about a sharp increase in the cost of electricity and gas, as well as fuels such as petrol and diesel. This has had a direct effect on household energy bills and on European companies’ operating costs. This infoclip features illustrations of customers paying at petrol stations, highlights the rising cost of living, and shows the use of heating, gas, and electrical appliances, as well as the transport of goods and trade.",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I286506-V_v"
+    },
+    {
+     "ref": "I-283602",
+     "title": "Air passengers rights (extended version)",
+     "summary": "This infoclip presents different stages of air travel. It illustrates situations commonly experienced by travellers, including departures and arrivals, hand luggage, check-in procedures, security controls and aircraft operations. The footage intend to offer a broad, illustrative background to the topic of air passenger rights. The Video may not be used in any way to denigrate or damage the image of Aeroporti di Roma and the Mundys Group Companies.",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I283602-V_v"
+    },
+    {
+     "ref": "I-267260",
+     "title": "Maritime trade",
+     "summary": "The infoclip features the Antwerp’s commercial harbour, showing container barges transporting cars and other goods into containers. It also highlights tugboat maneuvers ships through the busy port. Aerial drone shots provide general overviews of the harbour’s scale and activity. From street-level views captured from a car, we see the trucks transporting goods into the port. The footage also highlights modern wind turbines. Shipping remains one of the most important means of trade for the Member States of the EU. Nowadays, ships carry more than half the value of goods imports to the EU and over 40 percent of goods exports from the EU. In 2021, about 1.1 trillion euros worth of goods were imported to the EU, and about 956 billion euros worth of cargo exported from the EU by sea.",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I267260-V_v"
+    },
+    {
+     "ref": "I-291079",
+     "title": "EP Stockshots",
+     "summary": "Infoclip: electrification plan",
+     "inst": "EP"
+    },
+    {
+     "ref": "I-254018",
+     "title": "New genomic techniques",
+     "summary": "NGTs are a variety of techniques that alter the genetic material of an organism. Currently in the EU, all plants obtained by NGTs are subject to the same rules as GMOs, which are among the strictest in the world. NGTs could help to make our food system more sustainable and resilient by developing improved plant varieties that are climate resilient, pest resistant, and give higher yields or that require fewer fertilisers and pesticides. This news item shows extracts from a CSIC laboratory, plant research, scientists at work, in vitro samples and genetically modified plant cultures.",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I254018-V_v"
+    }
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-06-17T06:57:07.560Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "EP Plenary Session Preparation of the European Council meeting of 18-19 June 2026",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "EL",
+    "PT",
+    "NL",
+    "DA",
+    "FI",
+    "SV",
+    "CS",
+    "ET",
+    "LV",
+    "LT",
+    "HU",
+    "MT",
+    "PL",
+    "SK",
+    "SL",
+    "BG",
+    "RO",
+    "GA",
+    "HR"
+   ],
+   "items": [
+    {
+     "ref": "I-290814",
+     "title": "EP Plenary Session Preparation of the European Council meeting of 18-19 June 2026",
+     "summary": "Opening statement by Marilena RAOUNA, Cypriot Deputy Minister for European Affairs and Maroš ŠEFČOVIČ, European Commissioner for Trade and Economic Security, and European Commissioner for Interinstitutional Relations and Transparency",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290814-V_v"
+    },
+    {
+     "ref": "I-290815",
+     "title": "EP Plenary Session Preparation of the European Council meeting of 18-19 June 2026",
+     "summary": "One round of political leaders and reply by Maroš ŠEFČOVIČ, European Commissioner for Trade and Economic Security, and European Commissioner for Interinstitutional Relations and Transparency",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290815-V_v"
+    },
+    {
+     "ref": "I-290816",
+     "title": "EP Plenary Session Preparation of the European Council meeting of 18-19 June 2026",
+     "summary": "MEPs debate part 1",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290816-V_v"
+    },
+    {
+     "ref": "I-291432",
+     "title": "EP Plenary Session Preparation of the European Council meeting of 18-19 June 2026",
+     "summary": "MEPs debate part 2",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291432-V_v"
+    },
+    {
+     "ref": "I-291033",
+     "title": "EP Plenary Session Future of EU-China economic relations",
+     "summary": "Closing statement",
+     "inst": "EP"
+    }
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-17T07:30:10.000Z",
+   "durationSec": 18,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "G7 Summit in Evian, France",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291330",
+     "title": "G7 Summit in Evian, France",
+     "summary": "Bilateral meeting Ursula von der LEYEN, President of the European Commission with William RUTO, President of Kenya",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-17T07:43:13.360Z",
+   "durationSec": 1703,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "European Competition Forum",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-290998",
+     "title": "European Competition Forum",
+     "summary": "Address by Teresa RIBERA, Executive Vice-President of the European Commission for a Clean, Just and Competitive Transition",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-17T08:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "RECORDED",
+   "title": "European Commissioner Andrius KUBILIUS in Paris, France at EUROSATORY",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-290783",
+     "title": "European Commissioner Andrius KUBILIUS in Paris, France at EUROSATORY",
+     "summary": "Speech by Andrius KUBILIUS, European Commissioner for Defence and Space",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-06-17T09:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "RECORDED",
+   "title": "EP Press Conference AI Omnibus final vote",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "SV"
+   ],
+   "items": [
+    {
+     "ref": "I-291037",
+     "title": "EP Press Conference AI Omnibus final vote",
+     "summary": "Press conference by Arba KOKALARI (EPP, SE) and Michael MCNAMARA (RE, IE), co-rapporteurs on the AI Omnibus final vote",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291037-V_v"
+    }
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-06-17T09:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "EP Plenary Session Protecting children’s safety and mental health from the risks posed by social media",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "EL",
+    "PT",
+    "NL",
+    "DA",
+    "FI",
+    "SV",
+    "CS",
+    "ET",
+    "LV",
+    "LT",
+    "HU",
+    "MT",
+    "PL",
+    "SK",
+    "SL",
+    "BG",
+    "RO",
+    "HR"
+   ],
+   "items": [
+    {
+     "ref": "I-291034",
+     "title": "EP Plenary Session Protecting children’s safety and mental health from the risks posed by social media",
+     "summary": "Opening statement",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291034-V_v"
+    },
+    {
+     "ref": "I-291036",
+     "title": "EP Plenary Session Protecting children’s safety and mental health from the risks posed by social media",
+     "summary": "MEPs debate",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291036-V_v"
+    },
+    {
+     "ref": "I-291038",
+     "title": "EP Plenary Session Protecting children’s safety and mental health from the risks posed by social media",
+     "summary": "Closing statement",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291038-V_v"
+    }
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-06-17T09:50:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "EP Press Point Press Point by Roberta METSOLA, EP President, and Andrzej POCZOBUT, Belarusian journalist, 2025 Sakharov Prize laureate",
+   "languages": [
+    "INT",
+    "EN",
+    "PL"
+   ],
+   "items": [
+    {
+     "ref": "I-291078",
+     "title": "EP Press Point Press Point by Roberta METSOLA, EP President, and Andrzej POCZOBUT, Belarusian journalist, 2025 Sakharov Prize laureate",
+     "summary": "Press Point by Roberta METSOLA, EP President, and Andrzej POCZOBUT, Belarusian journalist, 2025 Sakharov Prize laureate",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291078-V_v"
+    }
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-17T10:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "EC Midday press briefing of 17/06/2026",
+   "languages": [
+    "INT",
+    "EN",
+    "FR"
+   ],
+   "items": [
+    {
+     "ref": "I-290754",
+     "title": "EC Midday press briefing of 17/06/2026",
+     "summary": "Announcements",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-290755",
+     "title": "EC Midday press briefing of 17/06/2026",
+     "summary": "Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-290757",
+     "title": "EC Midday press briefing of 17/06/2026",
+     "summary": "Exterior views of the European Commission Berlaymont building",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-290756",
+     "title": "EC Midday press briefing of 17/06/2026",
+     "summary": "Recorded cutaways",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-06-17T10:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "EP Plenary Session Formal sitting with Andrzej POCZOBUT, 2025 Sakharov Prize Laureate",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "EL",
+    "PT",
+    "NL",
+    "DA",
+    "FI",
+    "SV",
+    "CS",
+    "ET",
+    "LV",
+    "LT",
+    "HU",
+    "PL",
+    "SK",
+    "SL",
+    "BG",
+    "RO",
+    "HR"
+   ],
+   "items": [
+    {
+     "ref": "I-291073",
+     "title": "EP Plenary Session Formal sitting with Andrzej POCZOBUT, 2025 Sakharov Prize Laureate",
+     "summary": "Address by Andrzej POCZOBUT, 2025 Sakharov Prize Laureate",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291073-V_v"
+    },
+    {
+     "ref": "I-291074",
+     "title": "EP Plenary Session Formal sitting with Andrzej POCZOBUT, 2025 Sakharov Prize Laureate",
+     "summary": "MEPs debate",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291074-V_v"
+    },
+    {
+     "ref": "I-291075",
+     "title": "EP Plenary Session Formal sitting with Andrzej POCZOBUT, 2025 Sakharov Prize Laureate",
+     "summary": "Closing statements",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291075-V_v"
+    }
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-06-17T10:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "EP Plenary Session Voting Session",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "EL",
+    "PT",
+    "NL",
+    "DA",
+    "FI",
+    "SV",
+    "CS",
+    "ET",
+    "LV",
+    "LT",
+    "HU",
+    "MT",
+    "PL",
+    "SK",
+    "SL",
+    "BG",
+    "RO",
+    "HR"
+   ],
+   "items": [
+    {
+     "ref": "I-291434",
+     "title": "EP Plenary Session Voting Session",
+     "summary": "Voting Session POLFJÄRD - Plants obtained by certain new genomic techniques and their food and feed",
+     "inst": "EP"
+    },
+    {
+     "ref": "I-291435",
+     "title": "EP Plenary Session Voting Session",
+     "summary": "(LIBE A10-0048/2026) AZMANI",
+     "inst": "EP"
+    },
+    {
+     "ref": "I-290817",
+     "title": "EP Plenary Session Voting Session",
+     "summary": "(INTA A10-0134/2026) BRICMONT - EU-Pakistan Agreement: modification of concessions on all the tariff rate quotas included in the EU Schedule CLXXV (INTA A10-0133/2026) KARLSBRO - EU–Liberia Voluntary Partnership Agreement on forest law enforcement, governance and trade in timber products: termination (INTA A10-0146/2026) KARLSBRO - EU–Liberia Voluntary Partnership Agreement on forest law enforcement, governance and trade in timber products: termination (Resolution) (ECON A10-0161/2026) KUBIN - Structure and rates of excise duty applied to tobacco and tobacco related products (recast) (ECON A10-0160/2026) KUBIN - General arrangements for excise duty applied to tobacco and tobacco related products (ECON A10-0159/2026) HADJIPANTELA - European Public Prosecutor’s Office (EPPO) and the European Anti-Fraud Office (OLAF): access to value added tax information at Union level (JURI A10-0157/2026) KYUCHYUK - Hague Convention (1980) on the Civil Aspects of International Child Abduction: accession of Cabo Verde (AFET A10-0150/2026 ) ORLANDO - Recommendation on promoting transnational governance on water in the interests of conflict prevention and peace (AFET A10-0140/2026) JUKNEVIČIENĖ - 2025 Commission report on Georgia",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290817-V_v"
+    }
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-06-17T11:15:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "EP News Preparation of the European Council meeting of 18-19 June 2026",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-290831",
+     "title": "EP News Preparation of the European Council meeting of 18-19 June 2026",
+     "summary": "Preparation of the European Council meeting of 18-19 June 2026 extracts from the debate",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290831-V_v"
+    }
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-06-17T11:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "EP Press Conference Returns Regulation",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "NL"
+   ],
+   "items": [
+    {
+     "ref": "I-291173",
+     "title": "EP Press Conference Returns regulation",
+     "summary": "Press conference by Malik AZMANI (Renew, NL), rapporteur on Returns regulation",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291173-V_v"
+    }
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-06-17T11:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "EP Plenary Session Protecting EU citizens’ data from hybrid threats: the Lithuanian case",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "EL",
+    "PT",
+    "NL",
+    "DA",
+    "FI",
+    "SV",
+    "CS",
+    "ET",
+    "LV",
+    "LT",
+    "HU",
+    "MT",
+    "PL",
+    "SK",
+    "SL",
+    "BG",
+    "RO",
+    "HR"
+   ],
+   "items": [
+    {
+     "ref": "I-290818",
+     "title": "EP Plenary Session Protecting EU citizens’ data from hybrid threats: the Lithuanian case",
+     "summary": "Opening statement",
+     "inst": "EP"
+    },
+    {
+     "ref": "I-290819",
+     "title": "EP Plenary Session Protecting EU citizens’ data from hybrid threats: the Lithuanian case",
+     "summary": "MEPs debate",
+     "inst": "EP"
+    },
+    {
+     "ref": "I-290820",
+     "title": "EP Plenary Session Protecting EU citizens’ data from hybrid threats: the Lithuanian case",
+     "summary": "Closing statement",
+     "inst": "EP"
+    }
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-17T11:45:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "European Commissioner Andrius KUBILIUS in Paris, France at EUROSATORY",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291029",
+     "title": "European Commissioner Andrius KUBILIUS in Paris, France at EUROSATORY",
+     "summary": "Signing Ceremony on SAFE in presence of Andrius KUBILIUS, European Commissioner for Defence and Space, Piotr SERAFIN, European Commissioner for Budget, Anti-Fraud and Public Administration, Catherine VAUTRIN, Minister for the Armed Forces and Veterans Affairs of France and Roland LESCURE, Minister of the Economy, Finance, and Industrial, Energy, and Digital Sovereignty of France",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-06-17T12:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "EP Press Conference 2025 report on Montenegro",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "NL",
+    "SL",
+    "HR"
+   ],
+   "items": [
+    {
+     "ref": "I-291040",
+     "title": "EP Press Conference 2025 report on Montenegro",
+     "summary": "Press conference by Marjan ŠAREC (RE, SI), Thomas WAITZ (Greens/EFA, AU), rapporteurs, and Maida Gorčević, minister of European affairs of Montenegro on the 2025 report on Montenegro",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291040-V_v"
+    }
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-06-17T12:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "EP Plenary Session Electrification Action Plan",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "EL",
+    "PT",
+    "NL",
+    "DA",
+    "FI",
+    "SV",
+    "CS",
+    "ET",
+    "LV",
+    "LT",
+    "HU",
+    "MT",
+    "PL",
+    "SK",
+    "SL",
+    "BG",
+    "RO",
+    "HR"
+   ],
+   "items": [
+    {
+     "ref": "I-291045",
+     "title": "EP Plenary Session Electrification Action Plan",
+     "summary": "Opening statement",
+     "inst": "EP"
+    },
+    {
+     "ref": "I-291046",
+     "title": "EP Plenary Session Electrification Action Plan",
+     "summary": "MEPs debate (part 1)",
+     "inst": "EP"
+    },
+    {
+     "ref": "I-291047",
+     "title": "EP Plenary Session Electrification Action Plan",
+     "summary": "MEPs debate (part 2)",
+     "inst": "EP"
+    }
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-06-17T13:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "EP Press Conference 2025 report on Albania, Bosnia and Hercegovina",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "LT",
+    "PL",
+    "HR"
+   ],
+   "items": [
+    {
+     "ref": "I-291041",
+     "title": "EP Press Conference 2025 report on Albania, Bosnia and Hercegovina",
+     "summary": "Press conference by Andreas SCHIEDER (S&D, AU) and Ondřej KOLÁŘ (EPP, CZ), rapporteurs on the 2025 reports on Albania and Bosnia and Hercegovina",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291041-V_v"
+    }
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-06-17T13:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "EP Press Conference 2025 report on Türkiye and Georgia",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "PL"
+   ],
+   "items": [
+    {
+     "ref": "I-291043",
+     "title": "EP Press Conference 2025 report on Türkiye and Georgia",
+     "summary": "Press conference by Nacho SÁNCHEZ AMOR (S&D, ES) rapporteur on the 2025 reports on Türkiye and Georgia",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291043-V_v"
+    }
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-17T14:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "European Commissioner Jozef SÍKELA in Portugal",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-290784",
+     "title": "European Commissioner Jozef SÍKELA in Portugal",
+     "summary": "Project Visit - Submarine Cable Systems and Data Centre (Medusa - EU-backed strategic connectivity diplomacy; 2Africa - Global private investment confidence in Portugal as a digital gateway; EllaLink)",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-06-17T14:15:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "EP News Roberta METSOLA, EP President meets with Andrzej POCZOBUT Protecting children’s safety and mental health from the risks posed by social media",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-290829",
+     "title": "EP News Roberta METSOLA, EP President meets with Andrzej POCZOBUT Protecting children’s safety and mental health from the risks posed by social media",
+     "summary": "Roberta METSOLA, EP President meets with Andrzej POCZOBUT, Belarusian journalist, 2025 Sakharov Prize laureate extracts from the formal sitting",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290829-V_v"
+    },
+    {
+     "ref": "I-291070",
+     "title": "EP News Roberta METSOLA, EP President meets with Andrzej POCZOBUT Protecting children’s safety and mental health from the risks posed by social media",
+     "summary": "Protecting children’s safety and mental health from the risks posed by social media extracts from the debate",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291070-V_v"
+    }
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-06-17T14:15:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "EP Plenary Session The resilience of the European transport sector and the need to ensure the supply of essential goods",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "EL",
+    "PT",
+    "NL",
+    "DA",
+    "FI",
+    "SV",
+    "CS",
+    "ET",
+    "LV",
+    "LT",
+    "HU",
+    "MT",
+    "PL",
+    "SK",
+    "SL",
+    "BG",
+    "RO",
+    "HR"
+   ],
+   "items": [
+    {
+     "ref": "I-291048",
+     "title": "EP Plenary Session The resilience of the European transport sector and the need to ensure the supply of essential goods",
+     "summary": "Opening statement",
+     "inst": "EP"
+    },
+    {
+     "ref": "I-291049",
+     "title": "EP Plenary Session The resilience of the European transport sector and the need to ensure the supply of essential goods",
+     "summary": "MEPs debate",
+     "inst": "EP"
+    },
+    {
+     "ref": "I-291050",
+     "title": "EP Plenary Session The resilience of the European transport sector and the need to ensure the supply of essential goods",
+     "summary": "Closing statement",
+     "inst": "EP"
+    }
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-06-17T15:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "RECORDED",
+   "title": "EP Press Conference Plants obtained by certain new genomic techniques and their food and feed",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "HU"
+   ],
+   "items": [
+    {
+     "ref": "I-291039",
+     "title": "EP Press Conference Plants obtained by certain new genomic techniques and their food and feed",
+     "summary": "Press conference by Jessica POLFJÄRD (EPP, SE), rapporteur on Plants obtained by certain new genomic techniques and their food and feed",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291039-V_v"
+    }
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-17T15:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT_RECORDED",
+   "title": "European Commissioner Andrius KUBILIUS in Paris, France at EUROSATORY",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291343",
+     "title": "European Commissioner Andrius KUBILIUS in Paris, France at EUROSATORY",
+     "summary": "Exhibition tour",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-291361",
+     "title": "European Commissioner Andrius KUBILIUS in Paris, France at EUROSATORY",
+     "summary": "Implementation dialogue with Andrius KUBILIUS, European Commissioner for Defence and Space",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-06-17T15:45:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "EP Plenary Session Debates on cases of breaches of human rights, democracy and the rule of law",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "EL",
+    "PT",
+    "NL",
+    "DA",
+    "FI",
+    "SV",
+    "CS",
+    "ET",
+    "LV",
+    "LT",
+    "HU",
+    "MT",
+    "PL",
+    "SK",
+    "SL",
+    "BG",
+    "RO",
+    "HR"
+   ],
+   "items": [
+    {
+     "ref": "I-290971",
+     "title": "EP Plenary Session Debates on cases of breaches of human rights, democracy and the rule of law",
+     "summary": "Political prisoners in Nicaragua – the cases of Carlos BRENES, Salvadora DEL SOCORRO MARTINEZ ABURTO and Brooklyn RIVERA",
+     "inst": "EP"
+    },
+    {
+     "ref": "I-290972",
+     "title": "EP Plenary Session Debates on cases of breaches of human rights, democracy and the rule of law",
+     "summary": "Deteriorating situation of political prisoners in Belarus, in particular the case of Aliaksandra PULINOVICH",
+     "inst": "EP"
+    },
+    {
+     "ref": "I-290973",
+     "title": "EP Plenary Session Debates on cases of breaches of human rights, democracy and the rule of law",
+     "summary": "Continued crackdown on civic space and fundamental freedoms in Burkina Faso",
+     "inst": "EP"
+    }
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-06-17T16:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "EP News LEX signing",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291071",
+     "title": "EP News LEX signing",
+     "summary": "LEX signing ceremony in the presence of Roberta METSOLA, EP President and Marilena RAOUNA, Deputy Minister for European Affairs, on behalf of the Cyprus Presidency",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291071-V_v"
+    }
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-17T16:15:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "RECORDED",
+   "title": "European Economic and Social Committee (EESC) 606th Plenary Session",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "EL",
+    "PT",
+    "NL",
+    "DA",
+    "FI",
+    "SV",
+    "CS",
+    "ET",
+    "LV",
+    "LT",
+    "HU",
+    "MT",
+    "PL",
+    "SK",
+    "SL",
+    "BG",
+    "RO",
+    "HR"
+   ],
+   "items": [
+    {
+     "ref": "I-291145",
+     "title": "European Economic and Social Committee (EESC) 606th Plenary Session",
+     "summary": "Driving a Just, Competitive and Ecological Transition towards a Circular and Climate Neutral Economy with Teresa RIBERA, Executive Vice-President of the European Commission for a Clean, Just and Competitive Transition linked to NAT/986 - Circular Economy Act - Circular economy and responsible resource consumption within planetary boundaries",
+     "inst": "European Economic "
+    },
+    {
+     "ref": "I-291146",
+     "title": "European Economic and Social Committee (EESC) 606th Plenary Session",
+     "summary": "Building resilience in Europe's Eastern border regions with Sviatlana TSIKHANOUSKAYA, leader of the democratic forces of Belarus; Neringa RINKEVIČIŪTĖ-LAURINAITIENĖ, Vice-minister of Finance of the Republic of Lithuania, and Hugo SOBRAL, European Commission's Deputy Director-General for Regional and Urban Policy linked to ECO/697 - Strategy to support the eastern border regions to address their specific challenges and support them in the reorientation of their local economy",
+     "inst": "European Economic "
+    }
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-17T16:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "RECORDED",
+   "title": "European Commissioner Costas KADIS in Mombasa, Kenya for the Our Ocean Kenya Conference 2026",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-290781",
+     "title": "European Commissioner Costas KADIS in Mombasa, Kenya for the Our Ocean Kenya Conference 2026",
+     "summary": "Side event “OceanEye: Stronger together for Global Ocean Observation”",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-17T23:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "European Commissioner Costas KADIS in Mombasa, Kenya for the Our Ocean Kenya Conference 2026",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-290782",
+     "title": "European Commissioner Costas KADIS in Mombasa, Kenya for the Our Ocean Kenya Conference 2026",
+     "summary": "Visit the CSDP Atalanta ship",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-18T00:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "RECORDED",
+   "title": "European Commission Executive Vice-President Teresa RIBERA in London, UK at the London School of Economics",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291312",
+     "title": "European Commission Executive Vice-President Teresa RIBERA in London, UK at the London School of Economics",
+     "summary": "Opening panel “Key challenges to sustainability: global, regional and national perspectives” at the Sustainability Conference hosted by the London School of Economics",
+     "inst": "Other Organisation"
+    }
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-06-18T06:30:00.000Z",
+   "durationSec": 850,
+   "channel": "EBS+",
+   "status": "EDIT",
+   "title": "EP Stockshots",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-276199",
+     "title": "Circularity of the design and end-of-life of vehicles",
+     "summary": "This Infoclip shows views of trafic and cars, a car factory, tests of a car prototype, a vehicle ricycling center, a collecting center and supplying of recycled car parts. The European Parliament discusses new rules covering the entire vehicle lifecycle, from design to end-of-life. This Infoclip show various steps of the car lifecycle, from manufactoring to recycling. In 2023, the Commission proposed a new regulation on circularity requirements for vehicle design and improved management of end-of-life vehicles, in line with the European Green Deal. According to the new regulation, new cars’ components should be easily replaced, reused, recycled, remanufactured, or refurbished. Besides, 20% of new vehicles’ plastic parts should consist in recycled material, in order to reduce waste. There are 285.6 million motor vehicles on EU roads and every year around 6.5 million vehicles come to the end of their lives.",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I276199-V_v"
+    },
+    {
+     "ref": "I-268131",
+     "title": "European Automotive Industry's competitiveness (extended version)",
+     "summary": "This infoclip illustrates the automotive industry from different angles, such as car shipping; manufacturing, car dealers, electric vehicles charging, and a car repair garage. The clip shows the automotive port of Antwerp-Bruges, the Audi factory in Brussels and a car dealer in Brussels city center. In spring 2024, the German manufacturer announced the restructuring of its Brussels plant, provoking protest among employees and trade unions. The European automotive sector is experiencing a crisis sparked by the transition to low carbon technologies, the degradation of supply chains, increased competition from Asia, and decreased demand for electric models.",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I268131-V_v"
+    },
+    {
+     "ref": "I-157003",
+     "title": "Wastewater treatment",
+     "summary": "This infoclip illustrates the water way, from waste water coming from dishes, getting into sewers and water treatment by the Brussels North Aquiris water treatment plant. And its return to the cycle of rivers and streams.",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/video/infoclip-wastewater-treatment_I157003"
+    }
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-06-18T07:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "EP Plenary Circularity requirements for vehicle design and management of end-of-life vehicles",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "EL",
+    "PT",
+    "NL",
+    "DA",
+    "FI",
+    "SV",
+    "CS",
+    "ET",
+    "LV",
+    "LT",
+    "HU",
+    "PL",
+    "SK",
+    "SL",
+    "BG",
+    "RO",
+    "HR"
+   ],
+   "items": [
+    {
+     "ref": "I-290952",
+     "title": "EP Plenary Circularity requirements for vehicle design and management of end-of-life vehicles",
+     "summary": "Opening statement",
+     "inst": "EP"
+    },
+    {
+     "ref": "I-290953",
+     "title": "EP Plenary Circularity requirements for vehicle design and management of end-of-life vehicles",
+     "summary": "MEPs debate",
+     "inst": "EP"
+    },
+    {
+     "ref": "I-290954",
+     "title": "EP Plenary Circularity requirements for vehicle design and management of end-of-life vehicles",
+     "summary": "Closing statement",
+     "inst": "EP"
+    }
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-06-18T08:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "EP Plenary Session Joint Declaration on ‘Culture for Europe - Europe for Culture’",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "EL",
+    "PT",
+    "NL",
+    "DA",
+    "FI",
+    "SV",
+    "CS",
+    "ET",
+    "LV",
+    "LT",
+    "HU",
+    "PL",
+    "SK",
+    "SL",
+    "BG",
+    "RO",
+    "HR"
+   ],
+   "items": [
+    {
+     "ref": "I-291051",
+     "title": "EP Plenary Session Joint Declaration on ‘Culture for Europe - Europe for Culture’",
+     "summary": "Opening statement",
+     "inst": "EP"
+    },
+    {
+     "ref": "I-291052",
+     "title": "EP Plenary Session Joint Declaration on ‘Culture for Europe - Europe for Culture’",
+     "summary": "MEPs debate",
+     "inst": "EP"
+    },
+    {
+     "ref": "I-291057",
+     "title": "EP Plenary Session Joint Declaration on ‘Culture for Europe - Europe for Culture’",
+     "summary": "Closing statement",
+     "inst": "EP"
+    }
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-18T09:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT_RECORDED",
+   "title": "Court of Justice of the European Union",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291155",
+     "title": "Court of Justice of the European Union",
+     "summary": "ECJ ruling in case C-232/25 Idziski regarding an alleging infringement of a natural and legal person of their personality rights resulting from their broadcasting of a series on television and its dissemination on the internet",
+     "inst": "Court of Justice o"
+    },
+    {
+     "ref": "I-291156",
+     "title": "Court of Justice of the European Union",
+     "summary": "ECJ ruling in case C-658/24 Penny Market regarding a national regulation requiring certain food distributors to reduce prices for certain foods, for a specified period and to maintain a certain quantity in stock",
+     "inst": "Court of Justice o"
+    },
+    {
+     "ref": "I-291158",
+     "title": "Court of Justice of the European Union",
+     "summary": "ECJ ruling in case C-522/24 Ministero della Difesa (Obligation vaccinale des militaires) regarding vaccination requirements imposed on military personal because of COVID-19 pandemic",
+     "inst": "Court of Justice o"
+    }
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-18T10:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "EC Midday press briefing of 18/06/2026",
+   "languages": [
+    "INT",
+    "EN",
+    "FR"
+   ],
+   "items": [
+    {
+     "ref": "I-290758",
+     "title": "EC Midday press briefing of 18/06/2026",
+     "summary": "Announcements",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-290759",
+     "title": "EC Midday press briefing of 18/06/2026",
+     "summary": "Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-290761",
+     "title": "EC Midday press briefing of 18/06/2026",
+     "summary": "Exterior views of the European Commission Berlaymont building",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-290760",
+     "title": "EC Midday press briefing of 18/06/2026",
+     "summary": "Recorded cutaways",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-06-18T10:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "EP Plenary Session Voting Session",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "EL",
+    "PT",
+    "NL",
+    "DA",
+    "FI",
+    "SV",
+    "CS",
+    "ET",
+    "LV",
+    "LT",
+    "HU",
+    "PL",
+    "SK",
+    "SL",
+    "BG",
+    "RO",
+    "HR"
+   ],
+   "items": [
+    {
+     "ref": "I-290826",
+     "title": "EP Plenary Session Voting Session",
+     "summary": "Voting Session Motions for resolutions - Implementation of the Urban Wastewater Treatment Directive (UWWTD) and risks to the security of supply of medicines Motions for resolutions - Political repression and humanitarian situation in Cuba Motions for resolutions - Recruitment of children by organised crime Motions for resolutions – Russia’s unacceptable provocative actions and drone incursions into Romania, the Baltic states and Finland Objection pursuant to Rule 115(2) and (3): financing of the annual action plan in favour of the United Republic of Tanzania for 2026",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290826-V_v"
+    }
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-06-18T11:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "EP News Roberta METSOLA, EP President, meets with Antonio COSTA, President of the Council",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291076",
+     "title": "EP News Roberta METSOLA, EP President, meets with Antonio COSTA, President of the Council",
+     "summary": "Roberta METSOLA, EP President meets with Antonio COSTA, President of the European Council: extracts from the meeting",
+     "inst": "EP"
+    }
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-18T12:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "European Commission President Ursula von der LEYEN receives the Prime Minister of Croatia Andrej PLENKOVIĆ",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291197",
+     "title": "European Commission President Ursula von der LEYEN receives the Prime Minister of Croatia Andrej PLENKOVIĆ",
+     "summary": "Welcome",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-291198",
+     "title": "European Commission President Ursula von der LEYEN receives the Prime Minister of Croatia Andrej PLENKOVIĆ",
+     "summary": "Exterior views of the European Commission Berlaymont building with the flag of Croatia",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-06-18T12:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "EP News Roberta METSOLA, EP President, meets with Peter MAGYAR, Hungarian Prime Minister",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291077",
+     "title": "EP News Roberta METSOLA, EP President, meets with Peter MAGYAR, Hungarian Prime Minister",
+     "summary": "Roberta METSOLA, EP President meets with Peter MAGYAR, Hungarian Prime Minister: extracts from the meeting",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291077-V_v"
+    }
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-06-18T13:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "EP Plenary Session International Day of Play: promoting children’s right to play",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "EL",
+    "PT",
+    "NL",
+    "DA",
+    "FI",
+    "SV",
+    "CS",
+    "ET",
+    "LV",
+    "LT",
+    "HU",
+    "PL",
+    "SK",
+    "SL",
+    "BG",
+    "RO",
+    "HR"
+   ],
+   "items": [
+    {
+     "ref": "I-291058",
+     "title": "EP Plenary Session International Day of Play: promoting children’s right to play",
+     "summary": "Opening statement",
+     "inst": "EP"
+    },
+    {
+     "ref": "I-291059",
+     "title": "EP Plenary Session International Day of Play: promoting children’s right to play",
+     "summary": "MEPs debate",
+     "inst": "EP"
+    },
+    {
+     "ref": "I-291060",
+     "title": "EP Plenary Session International Day of Play: promoting children’s right to play",
+     "summary": "Closing statement",
+     "inst": "EP"
+    }
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-06-18T14:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "EP News Leaders meet ahead of the European Council meeting",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-290821",
+     "title": "EP News Leaders meet ahead of the European Council meeting",
+     "summary": "EPP leaders meet ahead of the European Council meeting: arrivals and doorsteps",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290821-V_v"
+    },
+    {
+     "ref": "I-290822",
+     "title": "EP News Leaders meet ahead of the European Council meeting",
+     "summary": "PES leaders meet ahead of the European Council meeting: arrivals and doorsteps",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290822-V_v"
+    },
+    {
+     "ref": "I-290823",
+     "title": "EP News Leaders meet ahead of the European Council meeting",
+     "summary": "Renew Europe leaders meet ahead of the European Council meeting: arrivals and doorsteps",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290823-V_v"
+    },
+    {
+     "ref": "I-290824",
+     "title": "EP News Leaders meet ahead of the European Council meeting",
+     "summary": "PfE leaders meet ahead of the European Council meeting: arrivals and doorsteps",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290824-V_v"
+    }
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-18T14:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "European Council (Main feed)",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-290785",
+     "title": "European Council (Main feed)",
+     "summary": "Arrivals and doorsteps",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-18T14:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "European Council (Second feed)",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-290951",
+     "title": "European Council (Second feed)",
+     "summary": "Arrivals and doorsteps",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-18T16:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "European Council (Main feed)",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-290950",
+     "title": "European Council (Main feed)",
+     "summary": "Roundtable",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-18T17:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "RECORDED",
+   "title": "European Economic and Social Committee (EESC) 606th Plenary Session",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "EL",
+    "PT",
+    "NL",
+    "DA",
+    "FI",
+    "SV",
+    "CS",
+    "ET",
+    "LV",
+    "LT",
+    "HU",
+    "MT",
+    "PL",
+    "SK",
+    "SL",
+    "BG",
+    "RO",
+    "HR"
+   ],
+   "items": [
+    {
+     "ref": "I-291147",
+     "title": "European Economic and Social Committee (EESC) 606th Plenary Session",
+     "summary": "EESC Resolution on the Committee’s contribution to the European Commission’s 2027 Work Programme Rapporteurs: Marcin Nowacki (PL-I), Carlos Manuel Trindade (PT-II), Corina Andrea Murafa Benga (RO-III)",
+     "inst": "European Economic "
+    },
+    {
+     "ref": "I-291148",
+     "title": "European Economic and Social Committee (EESC) 606th Plenary Session",
+     "summary": "From the EU Blue Deal and Water Resilience to Global Water Action with Jessika ROSWALL, European Commissioner for Environment, Water Resilience and a Competitive Circular Economy; Hildegard BENTELE, Member of the European Parliament, Vice-Chair of the Committee on Development (DEVE) and Chair of the MEP Water Group (remotely); and Pedro ARROJO AGUDO, UN Special Rapporteur on the human rights to safe drinking water and sanitation (remotely) linked to CCMI/254 - EESC Contribution to the UN Water Conference 2026: from the EU Blue Deal and Water Resilience Strategy to global water action and CCMI/261 - Blue Deal Accelerator Future",
+     "inst": "European Economic "
+    }
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-06-18T18:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "EP News Roberta METSOLA, EP President participates at the European Council meeting",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-290825",
+     "title": "EP News Roberta METSOLA, EP President participates at the European Council meeting",
+     "summary": "Roberta METSOLA, EP President participates at the European Council meeting arrival doorstep roundtable",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290825-V_v"
+    }
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-19T06:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "European Council (Second feed)",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-290788",
+     "title": "European Council (Second feed)",
+     "summary": "Arrivals and doorsteps",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-19T06:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "European Council (Main feed)",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-290787",
+     "title": "European Council (Main feed)",
+     "summary": "Arrivals and doorsteps",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-19T08:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "European Council (Main feed)",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-290955",
+     "title": "European Council (Main feed)",
+     "summary": "Roundtable",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-19T13:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "European Council (Main feed)",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "EL",
+    "NL"
+   ],
+   "items": [
+    {
+     "ref": "I-290956",
+     "title": "European Council (Main feed)",
+     "summary": "Press conference",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-19T13:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "European Council (Second feed)",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-290957",
+     "title": "European Council (Second feed)",
+     "summary": "National briefings and exit doorsteps",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-06-19T14:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "EP News",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291288",
+     "title": "EP News",
+     "summary": "Official visit by Roberta METSOLA, EP President to Munich (Germany) - Townhall Discussion with Students: extracts",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291288-V_v"
+    },
+    {
+     "ref": "I-291289",
+     "title": "EP News",
+     "summary": "Official visit by Roberta METSOLA, EP President to Munich (Germany) - Meeting with Ilse AIGNER, President of the Parliament of the State of Bavaria (Landtag): extracts",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291289-V_v"
+    },
+    {
+     "ref": "I-291290",
+     "title": "EP News",
+     "summary": "Official visit by Roberta METSOLA, EP President to Munich (Germany) - Meeting with Markus SÖDER, Minister President of the Land of Bavaria: extracts",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291290-V_v"
+    }
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-21T07:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "EDIT",
+   "title": "EC archives of the week",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-284734",
+     "title": "EC archives of the week (07-13/06): World Food Safety Day (07/06) First European elections (07-10/06/1979, 47 years ago) World Ocean Day (08/06) Portugal National Day (10/06) Visit of Nelson Mandela, President of the African National Congress (ANC), to the CEC (10/06/1991, 35 years ago) Signature of an EU/Slovenia Association Agreement (10/06/1996, 30 years ago) Spain and Portugal join the EU (12/06/1985, 41 years ago) Signature of the Stabilisation and Association Agreement between the EU and Albania (12/06/2006, 20 years ago) Cast-off of the \"Treaty of Rome\" yacht (13/06/1981, 45 years ago)",
+     "summary": "Details to follow",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-22T06:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "Agriculture and Fisheries Council",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291242",
+     "title": "Agriculture and Fisheries Council",
+     "summary": "Arrivals and doorsteps",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-22T09:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "Agriculture and Fisheries Council",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291416",
+     "title": "Agriculture and Fisheries Council",
+     "summary": "Exterior views of the European Convention Center Luxembourg",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291417",
+     "title": "Agriculture and Fisheries Council",
+     "summary": "Compilation of all arrivals",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291418",
+     "title": "Agriculture and Fisheries Council",
+     "summary": "Roundtable",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-22T10:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "EC Midday press briefing of 22/06/2026",
+   "languages": [
+    "INT",
+    "EN",
+    "FR"
+   ],
+   "items": [
+    {
+     "ref": "I-291226",
+     "title": "EC Midday press briefing of 22/06/2026",
+     "summary": "Announcements",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-291227",
+     "title": "EC Midday press briefing of 22/06/2026",
+     "summary": "Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-291228",
+     "title": "EC Midday press briefing of 22/06/2026",
+     "summary": "Exterior views of the European Commission Berlaymont building",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-291229",
+     "title": "EC Midday press briefing of 22/06/2026",
+     "summary": "Recorded cutaways",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-22T15:35:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "Agriculture and Fisheries Council",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "EL"
+   ],
+   "items": [
+    {
+     "ref": "I-291410",
+     "title": "Agriculture and Fisheries Council",
+     "summary": "Press conference by the Cypriot Presidency and the European Commission",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-23T07:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "Agriculture and Fisheries Council",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291411",
+     "title": "Agriculture and Fisheries Council",
+     "summary": "Arrivals and doorsteps",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-23T09:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "Agriculture and Fisheries Council",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291413",
+     "title": "Agriculture and Fisheries Council",
+     "summary": "Exterior views of the European Convention Center Luxembourg",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291414",
+     "title": "Agriculture and Fisheries Council",
+     "summary": "Compilation of all arrivals",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291415",
+     "title": "Agriculture and Fisheries Council",
+     "summary": "Roundtable",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-23T10:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "EC Midday press briefing of 23/06/2026",
+   "languages": [
+    "INT",
+    "EN",
+    "FR"
+   ],
+   "items": [
+    {
+     "ref": "I-291230",
+     "title": "EC Midday press briefing of 23/06/2026",
+     "summary": "Announcements",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-291231",
+     "title": "EC Midday press briefing of 23/06/2026",
+     "summary": "Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-291232",
+     "title": "EC Midday press briefing of 23/06/2026",
+     "summary": "Exterior views of the European Commission Berlaymont building",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-291233",
+     "title": "EC Midday press briefing of 23/06/2026",
+     "summary": "Recorded cutaways",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-23T15:35:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "Agriculture and Fisheries Council",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "EL"
+   ],
+   "items": [
+    {
+     "ref": "I-291412",
+     "title": "Agriculture and Fisheries Council",
+     "summary": "Press conference by the Cypriot Presidency and the European Commission",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
+  }
+ ]
+}
