@@ -1,0 +1,23 @@
+{
+  "name": "EBS Rundown Dashboard",
+  "short_name": "EBS Rundown",
+  "description": "Independent high-density scheduling dashboard for EbS and EbS+ transmissions.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0A0F24",
+  "theme_color": "#0A0F24",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
