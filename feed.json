@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-06-18T14:26:02+00:00",
+ "generatedAt": "2026-06-18T14:36:08+00:00",
  "events": [
   {
    "ep": true,
@@ -555,7 +555,7 @@
   },
   {
    "ep": false,
-   "start": "2026-06-18T14:02:10.400Z",
+   "start": "2026-06-18T14:21:34.400Z",
    "durationSec": 0,
    "channel": "EBS",
    "status": "LIVE",
@@ -567,15 +567,21 @@
     {
      "ref": "I-290785",
      "title": "European Council (Main feed)",
+     "summary": "Doorstep Donald TUSK, Polish Prime Minister",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291534",
+     "title": "European Council (Main feed)",
      "summary": "Arrivals and doorsteps",
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-06-18T14:26:02+00:00"
+   "firstSeen": "2026-06-18T14:36:08+00:00"
   },
   {
    "ep": false,
-   "start": "2026-06-18T14:02:25.760Z",
+   "start": "2026-06-18T14:29:45.040Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
@@ -587,11 +593,17 @@
     {
      "ref": "I-290951",
      "title": "European Council (Second feed)",
+     "summary": "Doorstep of Nikos CHRISTODOULIDES, President of Cyprus",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291526",
+     "title": "European Council (Second feed)",
      "summary": "Arrivals and doorsteps",
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-06-18T14:26:02+00:00"
+   "firstSeen": "2026-06-18T14:36:08+00:00"
   },
   {
    "ep": false,
@@ -690,7 +702,7 @@
   {
    "ep": false,
    "start": "2026-06-18T18:00:00.000Z",
-   "durationSec": 0,
+   "durationSec": 5323,
    "channel": "EBS",
    "status": "RECORDED",
    "title": "European Commission Executive Vice-President Teresa RIBERA in London, UK at the London School of Economics",
