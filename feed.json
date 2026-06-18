@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-06-18T14:36:08+00:00",
+ "generatedAt": "2026-06-18T22:28:31+00:00",
  "events": [
   {
    "ep": true,
@@ -134,7 +134,7 @@
     {
      "ref": "I-291147",
      "title": "European Economic and Social Committee (EESC) 606th Plenary Session",
-     "summary": "EESC Resolution on the Committee’s contribution to the European Commission’s 2027 Work Programme Rapporteurs: Marcin Nowacki (PL-I), Carlos Manuel Trindade (PT-II), Corina Andrea Murafa Benga (RO-III)",
+     "summary": "EESC Resolution on the Committee’s contribution to the European Commission’s 2027 Work Programme Rapporteurs: Marcin NOWACKI (PL-I), Carlos Manuel TRINDADE (PT-II), Corina Andrea MURAFA BENGA (RO-III)",
      "inst": "European Economic "
     },
     {
@@ -556,7 +556,7 @@
   {
    "ep": false,
    "start": "2026-06-18T14:21:34.400Z",
-   "durationSec": 0,
+   "durationSec": 6280,
    "channel": "EBS",
    "status": "LIVE",
    "title": "European Council (Main feed)",
@@ -573,7 +573,67 @@
     {
      "ref": "I-291534",
      "title": "European Council (Main feed)",
-     "summary": "Arrivals and doorsteps",
+     "summary": "Doorstep Andris KULBERGS, Prime Minister of Latvia",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291535",
+     "title": "European Council (Main feed)",
+     "summary": "Doorstep Gitanas NAUSĖDA, President of Lithuania",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291536",
+     "title": "European Council (Main feed)",
+     "summary": "Doorstep Friedrich MERZ, German Federal Chancellor",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291537",
+     "title": "European Council (Main feed)",
+     "summary": "Arrival and joint doorsteps by António COSTA, President of the European Council, Ursula von der LEYEN, President of the European Commission and Volodymyr ZELENSKYY, President of Ukraine",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291541",
+     "title": "European Council (Main feed)",
+     "summary": "Doorstep Kyriakos MITSOTAKIS, Greek Prime Minister",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291546",
+     "title": "European Council (Main feed)",
+     "summary": "Doorstep Kristen MICHAL, Prime Minister of Estonia",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291547",
+     "title": "European Council (Main feed)",
+     "summary": "Doorstep Petteri ORPO, Finnish Prime Minister",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291548",
+     "title": "European Council (Main feed)",
+     "summary": "Doorstep Kaja KALLAS, High Representative of the Union for Foreign Affairs and Security Policy and Vice-President of the European Commission",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291551",
+     "title": "European Council (Main feed)",
+     "summary": "Doorstep Christian STOCKER, Austrian Federal Chancellor",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291552",
+     "title": "European Council (Main feed)",
+     "summary": "Doorstep Luc FRIEDEN, Prime Minister of Luxembourg",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291553",
+     "title": "European Council (Main feed)",
+     "summary": "Doorstep Roberta METSOLA, President of the European Parliament",
      "inst": "Council"
     }
    ],
@@ -593,13 +653,79 @@
     {
      "ref": "I-290951",
      "title": "European Council (Second feed)",
-     "summary": "Doorstep of Nikos CHRISTODOULIDES, President of Cyprus",
+     "summary": "Doorstep by Nikos CHRISTODOULIDES, President of Cyprus",
      "inst": "Council"
     },
     {
      "ref": "I-291526",
      "title": "European Council (Second feed)",
-     "summary": "Arrivals and doorsteps",
+     "summary": "Arrival doorstep by Nicușor DAN, President of Romania",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291529",
+     "title": "European Council (Second feed)",
+     "summary": "Arrival doorstep by Rumen RADEV, Bulgarian Prime Minister",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291530",
+     "title": "European Council (Second feed)",
+     "summary": "Arrival doorstep by Mette FREDERIKSEN, Danish Prime Minister",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291531",
+     "title": "European Council (Second feed)",
+     "summary": "Arrival doorstep by Pedro SÁNCHEZ, Spanish Prime Minister (video as received, interrupted 20 seconds)",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291532",
+     "title": "European Council (Second feed)",
+     "summary": "Arrival doorstep by Andrej PLENKOVIĆ, Croatian Prime Minister",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291533",
+     "title": "European Council (Second feed)",
+     "summary": "Arrival doorstep by Luís MONTENEGRO, Portuguese Prime Minister",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291562",
+     "title": "European Council (Second feed)",
+     "summary": "Arrival doorstep by Rob JETTEN, Dutch Prime Minister",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291563",
+     "title": "European Council (Second feed)",
+     "summary": "Second arrival doorstep by Andris KULBERGS, Latvian Prime Minister",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291564",
+     "title": "European Council (Second feed)",
+     "summary": "Second arrival doorstep by Gitanas NAUSĖDA, President of Lithuania",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291565",
+     "title": "European Council (Second feed)",
+     "summary": "Second arrival doorstep by Rumen RADEV, Bulgarian Prime Minister",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291568",
+     "title": "European Council (Second feed)",
+     "summary": "Arrival doorstep by Micheál MARTIN, Irish Prime Minister (Taoiseach)",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291569",
+     "title": "European Council (Second feed)",
+     "summary": "Arrival doorstep by Ulf KRISTERSSON, Swedish Prime Minister",
      "inst": "Council"
     }
    ],
@@ -607,8 +733,8 @@
   },
   {
    "ep": false,
-   "start": "2026-06-18T16:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-06-18T16:22:15.800Z",
+   "durationSec": 789,
    "channel": "EBS",
    "status": "LIVE",
    "title": "European Council (Main feed)",
@@ -623,12 +749,76 @@
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-01-01T00:00:00+00:00"
+   "firstSeen": "2026-06-18T22:28:31+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-18T16:36:44.960Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "European Council (Main feed)",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291566",
+     "title": "European Council (Main feed)",
+     "summary": "Doorstep by Péter MAGYAR, Hungarian Prime Minister",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291567",
+     "title": "European Council (Main feed)",
+     "summary": "Second doorstep by Luc FRIEDEN, Luxembourgish Prime Minister",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291570",
+     "title": "European Council (Main feed)",
+     "summary": "Doorstep by Janez JANŠA, Slovenian Prime Minister",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-06-18T22:28:31+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-18T17:13:10.000Z",
+   "durationSec": 312,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "European Council",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291560",
+     "title": "European Council (Main feed)",
+     "summary": "Trilateral meeting António COSTA, President of the European Council, Ursula von der LEYEN, President of the European Commission and Volodymyr ZELENSKYY, President of Ukraine",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291538",
+     "title": "European Council",
+     "summary": "Exterior shots of the Europa and Justus Lipsius buildings on the afternoon of 18 June 2026 in Brussels",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291549",
+     "title": "European Council",
+     "summary": "Tower cam beauty shots of the Forum, in Europa building",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-06-18T22:28:31+00:00"
   },
   {
    "ep": true,
-   "start": "2026-06-18T16:30:00.000Z",
-   "durationSec": 0,
+   "start": "2026-06-18T17:20:10.000Z",
+   "durationSec": 803,
    "channel": "EBS",
    "status": "EDIT",
    "title": "EP News Leaders meet ahead of the European Council meeting",
@@ -665,45 +855,13 @@
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290824-V_v"
     }
    ],
-   "firstSeen": "2026-06-18T14:26:02+00:00"
+   "firstSeen": "2026-06-18T22:28:31+00:00"
   },
   {
    "ep": false,
-   "start": "2026-06-18T17:30:00.000Z",
-   "durationSec": 79,
-   "channel": "EBS",
-   "status": "EDIT",
-   "title": "European Council",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291538",
-     "title": "European Council",
-     "summary": "Exterior shots of the Europa and Justus Lipsius buildings on the afternoon of 18 June 2026 in Brussels",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-291539",
-     "title": "European Council",
-     "summary": "Compilation of all arrivals",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-291540",
-     "title": "European Council",
-     "summary": "Roundtable with Volodymyr ZELENSKYY, President of Ukraine",
-     "inst": "Council"
-    }
-   ],
-   "firstSeen": "2026-06-18T14:26:02+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-06-18T18:00:00.000Z",
+   "start": "2026-06-18T17:30:10.000Z",
    "durationSec": 5323,
-   "channel": "EBS",
+   "channel": "EBS+",
    "status": "RECORDED",
    "title": "European Commission Executive Vice-President Teresa RIBERA in London, UK at the London School of Economics",
    "languages": [
@@ -717,12 +875,86 @@
      "inst": "Other Organisation"
     }
    ],
-   "firstSeen": "2026-06-18T14:26:02+00:00"
+   "firstSeen": "2026-06-18T22:28:31+00:00"
   },
   {
    "ep": true,
-   "start": "2026-06-18T18:45:00.000Z",
-   "durationSec": 0,
+   "start": "2026-06-18T18:10:48.280Z",
+   "durationSec": 1577,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "European Council Press Conference by Roberta METSOLA, EP President",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "IT",
+    "MT"
+   ],
+   "items": [
+    {
+     "ref": "I-291437",
+     "title": "European Council Press Conference by Roberta METSOLA, EP President",
+     "summary": "Press Conference by Roberta METSOLA, EP President, following her participation at the European Council meeting: opening remarks",
+     "inst": "EP"
+    },
+    {
+     "ref": "I-291438",
+     "title": "European Council Press Conference by Roberta METSOLA, EP President",
+     "summary": "Press Conference by Roberta METSOLA, EP President, following her participation at the European Council meeting: Q&A",
+     "inst": "EP"
+    },
+    {
+     "ref": "I-291575",
+     "title": "European Council Press Conference by Roberta METSOLA, EP President",
+     "summary": "Press Conference by Roberta METSOLA, EP President, following her participation at the European Council meeting: Recorded cutaways",
+     "inst": "EP"
+    }
+   ],
+   "firstSeen": "2026-06-18T22:28:31+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-18T18:40:10.000Z",
+   "durationSec": 686,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "European Council",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291539",
+     "title": "European Council",
+     "summary": "Compilation of all arrivals",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291540",
+     "title": "European Council",
+     "summary": "Roundtable with Volodymyr ZELENSKYY, President of Ukraine",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291573",
+     "title": "European Council",
+     "summary": "Joint declaration of the EU Council Presidency, the European Commission and the European Parliament on the \"Europe for Culture - Culture for Europe\" interinstitutional agreement",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291574",
+     "title": "European Council",
+     "summary": "Political monitoring of the joint declaration of the EU Council Presidency, the European Commission and the European Parliament on legislative priorities for 2026 and on the \"One Europe, One Market\" roadmap",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-06-18T22:28:31+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-06-18T18:55:10.000Z",
+   "durationSec": 243,
    "channel": "EBS",
    "status": "EDIT",
    "title": "EP News Roberta METSOLA, EP President participates at the European Council meeting",
@@ -733,12 +965,32 @@
     {
      "ref": "I-290825",
      "title": "EP News Roberta METSOLA, EP President participates at the European Council meeting",
-     "summary": "Roberta METSOLA, EP President participates at the European Council meeting arrival doorstep roundtable",
+     "summary": "Roberta METSOLA, EP President participates at the European Council meeting arrival doorstep roundtable extracts from the press conference",
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290825-V_v"
     }
    ],
-   "firstSeen": "2026-06-17T18:03:49+00:00"
+   "firstSeen": "2026-06-18T22:28:31+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-18T18:59:59.240Z",
+   "durationSec": 22,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "European Council (Main feed)",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291522",
+     "title": "European Council (Main feed)",
+     "summary": "Late arrival of Emmanuel MACRON, President of the French Republic",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-06-18T22:28:31+00:00"
   },
   {
    "ep": false,
@@ -752,7 +1004,7 @@
    ],
    "items": [
     {
-     "ref": "I-291522",
+     "ref": "I-291576",
      "title": "European Council (Main feed)",
      "summary": "Details to follow",
      "inst": "Council"
@@ -841,10 +1093,30 @@
    "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
-   "ep": true,
+   "ep": false,
    "start": "2026-06-19T13:00:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
+   "status": "EDIT_RECORDED",
+   "title": "European Commissioner Christophe HANSEN in Poland",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-290790",
+     "title": "European Commissioner Christophe HANSEN in Poland",
+     "summary": "The 7th National Field Days Szepietowo 2026 and Young Farmer's Day",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-06-18T22:28:31+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-06-19T13:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
    "status": "LIVE_RECORDED",
    "title": "EP Press conference",
    "languages": [
@@ -859,7 +1131,7 @@
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291441-V_v"
     }
    ],
-   "firstSeen": "2026-06-17T18:03:49+00:00"
+   "firstSeen": "2026-06-18T22:28:31+00:00"
   },
   {
    "ep": false,
@@ -1032,6 +1304,26 @@
   },
   {
    "ep": false,
+   "start": "2026-06-21T23:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "",
+   "title": "European Commissioner Jozef SÍKELA in Brazil",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291248",
+     "title": "European Commissioner Jozef SÍKELA in Brazil",
+     "summary": "Opening of the Future Affairs Forum Press point",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-06-18T22:28:31+00:00"
+  },
+  {
+   "ep": false,
    "start": "2026-06-22T06:30:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
@@ -1123,6 +1415,53 @@
    "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
+   "ep": true,
+   "start": "2026-06-22T13:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "EP Monetary Dialogue with Christine LAGARDE, President of the European Central Bank ECON Committee",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "EL",
+    "PT",
+    "NL",
+    "FI",
+    "CS",
+    "HU",
+    "PL"
+   ],
+   "items": [
+    {
+     "ref": "I-291397",
+     "title": "EP Monetary Dialogue with Christine LAGARDE, President of the European Central Bank ECON Committee",
+     "summary": "Opening statement Committee on Economic and Monetary Affairs (ECON)",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291397-V_v"
+    },
+    {
+     "ref": "I-291398",
+     "title": "EP Monetary Dialogue with Christine LAGARDE, President of the European Central Bank ECON Committee",
+     "summary": "Q&A Committee on Economic and Monetary Affairs (ECON)",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291398-V_v"
+    },
+    {
+     "ref": "I-291399",
+     "title": "EP Monetary Dialogue with Christine LAGARDE, President of the European Central Bank ECON Committee",
+     "summary": "Closing statement Committee on Economic and Monetary Affairs (ECON)",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291399-V_v"
+    }
+   ],
+   "firstSeen": "2026-06-18T22:28:31+00:00"
+  },
+  {
    "ep": false,
    "start": "2026-06-22T15:35:00.000Z",
    "durationSec": 0,
@@ -1147,6 +1486,78 @@
     }
    ],
    "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-06-22T16:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "EP News ECON Committee: Monetary Dialogue with Christine Lagarde",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291405",
+     "title": "EP News ECON Committee: Monetary Dialogue with Christine Lagarde",
+     "summary": "ECON Committee: Monetary Dialogue with Christine Lagarde extracts from the debate",
+     "inst": "EP"
+    }
+   ],
+   "firstSeen": "2026-06-18T22:28:31+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-06-23T07:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "EP Economic dialogue on European semester 2026 ECON / EMPL Committees",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "EL",
+    "PT",
+    "NL",
+    "DA",
+    "FI",
+    "SV",
+    "CS",
+    "LT",
+    "HU",
+    "PL",
+    "SK",
+    "SL",
+    "BG",
+    "RO",
+    "HR"
+   ],
+   "items": [
+    {
+     "ref": "I-291401",
+     "title": "EP Economic dialogue on European semester 2026 ECON / EMPL Committees",
+     "summary": "Opening statement Committee on Economic and Monetary Affairs (ECON) and Committee on Employment and Social Affairs (EMPL)",
+     "inst": "EP"
+    },
+    {
+     "ref": "I-291402",
+     "title": "EP Economic dialogue on European semester 2026 ECON / EMPL Committees",
+     "summary": "Q&A Committee on Economic and Monetary Affairs (ECON) and Committee on Employment and Social Affairs (EMPL)",
+     "inst": "EP"
+    },
+    {
+     "ref": "I-291403",
+     "title": "EP Economic dialogue on European semester 2026 ECON / EMPL Committees",
+     "summary": "Closing statement Committee on Economic and Monetary Affairs (ECON) and Committee on Employment and Social Affairs (EMPL)",
+     "inst": "EP"
+    }
+   ],
+   "firstSeen": "2026-06-18T22:28:31+00:00"
   },
   {
    "ep": false,
