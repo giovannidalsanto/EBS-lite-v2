@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-06-19T14:22:55+00:00",
+ "generatedAt": "2026-06-19T14:31:19+00:00",
  "events": [
   {
    "ep": false,
@@ -262,7 +262,7 @@
   {
    "ep": false,
    "start": "2026-06-19T13:52:56.440Z",
-   "durationSec": 0,
+   "durationSec": 1639,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "European Council",
@@ -383,7 +383,7 @@
   },
   {
    "ep": true,
-   "start": "2026-06-19T15:30:00.000Z",
+   "start": "2026-06-19T17:00:00.000Z",
    "durationSec": 269,
    "channel": "EBS",
    "status": "EDIT",
@@ -421,7 +421,7 @@
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291442-V_v"
     }
    ],
-   "firstSeen": "2026-06-17T18:03:49+00:00"
+   "firstSeen": "2026-06-19T14:31:19+00:00"
   },
   {
    "ep": false,
