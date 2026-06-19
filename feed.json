@@ -1,562 +1,10 @@
 {
- "generatedAt": "2026-06-18T22:28:31+00:00",
+ "generatedAt": "2026-06-19T14:22:55+00:00",
  "events": [
   {
-   "ep": true,
-   "start": "2026-06-18T06:30:10.000Z",
-   "durationSec": 850,
-   "channel": "EBS+",
-   "status": "EDIT",
-   "title": "EP Stockshots",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-276199",
-     "title": "Circularity of the design and end-of-life of vehicles",
-     "summary": "This Infoclip shows views of trafic and cars, a car factory, tests of a car prototype, a vehicle ricycling center, a collecting center and supplying of recycled car parts. The European Parliament discusses new rules covering the entire vehicle lifecycle, from design to end-of-life. This Infoclip show various steps of the car lifecycle, from manufactoring to recycling. In 2023, the Commission proposed a new regulation on circularity requirements for vehicle design and improved management of end-of-life vehicles, in line with the European Green Deal. According to the new regulation, new cars’ components should be easily replaced, reused, recycled, remanufactured, or refurbished. Besides, 20% of new vehicles’ plastic parts should consist in recycled material, in order to reduce waste. There are 285.6 million motor vehicles on EU roads and every year around 6.5 million vehicles come to the end of their lives.",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I276199-V_v"
-    },
-    {
-     "ref": "I-268131",
-     "title": "European Automotive Industry's competitiveness (extended version)",
-     "summary": "This infoclip illustrates the automotive industry from different angles, such as car shipping; manufacturing, car dealers, electric vehicles charging, and a car repair garage. The clip shows the automotive port of Antwerp-Bruges, the Audi factory in Brussels and a car dealer in Brussels city center. In spring 2024, the German manufacturer announced the restructuring of its Brussels plant, provoking protest among employees and trade unions. The European automotive sector is experiencing a crisis sparked by the transition to low carbon technologies, the degradation of supply chains, increased competition from Asia, and decreased demand for electric models.",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I268131-V_v"
-    },
-    {
-     "ref": "I-157003",
-     "title": "Wastewater treatment",
-     "summary": "This infoclip illustrates the water way, from waste water coming from dishes, getting into sewers and water treatment by the Brussels North Aquiris water treatment plant. And its return to the cycle of rivers and streams.",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/video/infoclip-wastewater-treatment_I157003"
-    }
-   ],
-   "firstSeen": "2026-06-17T18:03:49+00:00"
-  },
-  {
-   "ep": true,
-   "start": "2026-06-18T07:00:13.520Z",
-   "durationSec": 4065,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "EP Plenary Circularity requirements for vehicle design and management of end-of-life vehicles",
-   "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "DE",
-    "IT",
-    "ES",
-    "EL",
-    "PT",
-    "NL",
-    "DA",
-    "FI",
-    "SV",
-    "CS",
-    "ET",
-    "LV",
-    "LT",
-    "HU",
-    "MT",
-    "PL",
-    "SK",
-    "SL",
-    "BG",
-    "RO",
-    "HR"
-   ],
-   "items": [
-    {
-     "ref": "I-290952",
-     "title": "EP Plenary Circularity requirements for vehicle design and management of end-of-life vehicles",
-     "summary": "Opening statements by Jens GIESEKE (EPP, DE) Rapporteur, Paulius SAUDARGAS (EPP, DE) Rapporteur, Valdis DOMBROVSKIS, European Commissioner for Economy and Productivity, and European Commissioner for Implementation and Simplification, and Alexandra MEHNERT (EPP, DE), Committee on Transport and Tourism",
-     "inst": "EP"
-    },
-    {
-     "ref": "I-290953",
-     "title": "EP Plenary Circularity requirements for vehicle design and management of end-of-life vehicles",
-     "summary": "One round of political group speakers",
-     "inst": "EP"
-    },
-    {
-     "ref": "I-290954",
-     "title": "EP Plenary Circularity requirements for vehicle design and management of end-of-life vehicles",
-     "summary": "MEPs debate",
-     "inst": "EP"
-    },
-    {
-     "ref": "I-291496",
-     "title": "EP Plenary Circularity requirements for vehicle design and management of end-of-life vehicles",
-     "summary": "Closing statements by Valdis DOMBROVSKIS, European Commissioner for Economy and Productivity, and European Commissioner for Implementation and Simplification, Jens GIESEKE (EPP, DE) Rapporteur, and Paulius SAUDARGAS (EPP, DE) Rapporteur",
-     "inst": "EP"
-    }
-   ],
-   "firstSeen": "2026-06-18T14:26:02+00:00"
-  },
-  {
    "ep": false,
-   "start": "2026-06-18T07:02:36.680Z",
-   "durationSec": 5598,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "European Economic and Social Committee (EESC) 606th Plenary Session",
-   "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "DE",
-    "IT",
-    "ES",
-    "EL",
-    "PT",
-    "NL",
-    "DA",
-    "FI",
-    "SV",
-    "CS",
-    "ET",
-    "LV",
-    "LT",
-    "HU",
-    "MT",
-    "PL",
-    "SK",
-    "SL",
-    "BG",
-    "RO",
-    "HR"
-   ],
-   "items": [
-    {
-     "ref": "I-291147",
-     "title": "European Economic and Social Committee (EESC) 606th Plenary Session",
-     "summary": "EESC Resolution on the Committee’s contribution to the European Commission’s 2027 Work Programme Rapporteurs: Marcin NOWACKI (PL-I), Carlos Manuel TRINDADE (PT-II), Corina Andrea MURAFA BENGA (RO-III)",
-     "inst": "European Economic "
-    },
-    {
-     "ref": "I-291148",
-     "title": "European Economic and Social Committee (EESC) 606th Plenary Session",
-     "summary": "From the EU Blue Deal and Water Resilience to Global Water Action with Jessika ROSWALL, European Commissioner for Environment, Water Resilience and a Competitive Circular Economy; Hildegard BENTELE, Member of the European Parliament, Vice-Chair of the Committee on Development (DEVE) and Chair of the MEP Water Group (remotely); and Pedro ARROJO AGUDO, UN Special Rapporteur on the human rights to safe drinking water and sanitation (remotely) linked to CCMI/254 - EESC Contribution to the UN Water Conference 2026: from the EU Blue Deal and Water Resilience Strategy to global water action and CCMI/261 - Blue Deal Accelerator Future",
-     "inst": "European Economic "
-    }
-   ],
-   "firstSeen": "2026-06-18T14:26:02+00:00"
-  },
-  {
-   "ep": true,
-   "start": "2026-06-18T08:36:26.800Z",
-   "durationSec": 5217,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "EP Plenary Session Joint Declaration on ‘Culture for Europe - Europe for Culture’",
-   "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "DE",
-    "IT",
-    "ES",
-    "EL",
-    "PT",
-    "NL",
-    "DA",
-    "FI",
-    "SV",
-    "CS",
-    "ET",
-    "LV",
-    "LT",
-    "HU",
-    "MT",
-    "PL",
-    "SK",
-    "SL",
-    "BG",
-    "RO",
-    "HR"
-   ],
-   "items": [
-    {
-     "ref": "I-291051",
-     "title": "EP Plenary Session Joint Declaration on ‘Culture for Europe - Europe for Culture’",
-     "summary": "Opening statement by Glenn MICALLEF, European Commissioner for Intergenerational Fairness, Youth, Culture and Sport",
-     "inst": "EP"
-    },
-    {
-     "ref": "I-291057",
-     "title": "EP Plenary Session Joint Declaration on ‘Culture for Europe - Europe for Culture’",
-     "summary": "One round of political group speakers",
-     "inst": "EP"
-    },
-    {
-     "ref": "I-291052",
-     "title": "EP Plenary Session Joint Declaration on ‘Culture for Europe - Europe for Culture’",
-     "summary": "MEPs debate and reply by Glenn MICALLEF, European Commissioner for Intergenerational Fairness, Youth, Culture and Sport",
-     "inst": "EP"
-    }
-   ],
-   "firstSeen": "2026-06-18T14:26:02+00:00"
-  },
-  {
-   "ep": true,
-   "start": "2026-06-18T08:50:10.000Z",
-   "durationSec": 42,
-   "channel": "EBS",
-   "status": "EDIT",
-   "title": "EP News Roberta METSOLA, EP President, meets with Antonio COSTA, President of the Council",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291076",
-     "title": "EP News Roberta METSOLA, EP President, meets with Antonio COSTA, President of the Council",
-     "summary": "Roberta METSOLA, EP President meets with Antonio COSTA, President of the European Council: extracts from the meeting",
-     "inst": "EP"
-    }
-   ],
-   "firstSeen": "2026-06-18T14:26:02+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-06-18T09:59:26.040Z",
-   "durationSec": 19,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "European Commission President Ursula von der LEYEN receives the Prime Minister of Latvia Andris KULBERGS",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291501",
-     "title": "European Commission President Ursula von der LEYEN receives the Prime Minister of Latvia Andris KULBERGS",
-     "summary": "Welcome",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-06-18T14:26:02+00:00"
-  },
-  {
-   "ep": true,
-   "start": "2026-06-18T10:03:56.800Z",
-   "durationSec": 1882,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "EP Plenary Session Voting Session",
-   "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "DE",
-    "IT",
-    "ES",
-    "EL",
-    "PT",
-    "NL",
-    "DA",
-    "FI",
-    "SV",
-    "CS",
-    "ET",
-    "LV",
-    "LT",
-    "HU",
-    "MT",
-    "PL",
-    "SK",
-    "SL",
-    "BG",
-    "RO",
-    "HR"
-   ],
-   "items": [
-    {
-     "ref": "I-290826",
-     "title": "EP Plenary Session Voting Session",
-     "summary": "Voting Session MRs - Political prisoners in Nicaragua – the cases of Carlos Brenes, Salvadora del Socorro Martínez Aburto and Brooklyn Rivera MRs - Deteriorating situation of political prisoners in Belarus, in particular the case of Aliaksandra Pulinovich MRs - Continued crackdown on civic space and fundamental freedoms in Burkina Faso Shipments of waste: export of mixed municipal waste for recovery to Switzerland (A10-0158/2025) GIESEKE, SAUDARGASENVI/IMCO MRs - Implementation of the Urban Wastewater Treatment Directive (UWWTD) and risks to the security of supply of medicines MRs - Political repression and humanitarian situation in Cuba MRs - Recruitment of children by organised crime MRs - Russia’s unacceptable provocative actions an drone incursions into Romania, the Baltic states and Finland",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290826-V_v"
-    }
-   ],
-   "firstSeen": "2026-06-18T14:26:02+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-06-18T10:14:54.760Z",
-   "durationSec": 2062,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "EC Midday press briefing of 18/06/2026",
-   "languages": [
-    "INT",
-    "EN",
-    "FR"
-   ],
-   "items": [
-    {
-     "ref": "I-291525",
-     "title": "EC Midday press briefing of 18/06/2026",
-     "summary": "ANNOUNCEMENTS - President's agenda update / EUCO / Group of visitors FOREIGN AFFAIRS - Israel: Q&A FOREIGN AFFAIRS - MoU Iran/USA: Q&A TECH SOVEREIGNTY / CYBERSECURITY / ARTIFICIAL INTELLIGENCE - Anthropic / Mythos / G7 statement: Q&A CYBERSECURITY / TRADE - The Netherlands/USA/ Social Media Platforms: Q&A ENLARGEMENT - Moldova / Ukraine / Fast track accession: Q&A MEMBER STATES - Romania: Question ENLARGEMENT - Transition period / Safeguards / Accession treaties: Q&A Exterior views of the European Commission Berlaymont building Recorded cutaways",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-290758",
-     "title": "EC Midday press briefing of 18/06/2026",
-     "summary": "ANNOUNCEMENTS - President's agenda update / EUCO / Group of visitors",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-290759",
-     "title": "EC Midday press briefing of 18/06/2026",
-     "summary": "FOREIGN AFFAIRS - Israel: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-291502",
-     "title": "EC Midday press briefing of 18/06/2026",
-     "summary": "FOREIGN AFFAIRS - MoU Iran/USA: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-291503",
-     "title": "EC Midday press briefing of 18/06/2026",
-     "summary": "TECH SOVEREIGNTY / CYBERSECURITY / ARTIFICIAL INTELLIGENCE - Anthropic / Mythos / G7 statement: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-291504",
-     "title": "EC Midday press briefing of 18/06/2026",
-     "summary": "CYBERSECURITY / TRADE - The Netherlands/USA/ Social Media Platforms: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-291505",
-     "title": "EC Midday press briefing of 18/06/2026",
-     "summary": "ENLARGEMENT - Moldova / Ukraine / Fast track accession: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-291524",
-     "title": "EC Midday press briefing of 18/06/2026",
-     "summary": "MEMBER STATES - Romania: Question",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-291506",
-     "title": "EC Midday press briefing of 18/06/2026",
-     "summary": "ENLARGEMENT - Transition period / Safeguards / Accession treaties: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-290761",
-     "title": "EC Midday press briefing of 18/06/2026",
-     "summary": "Exterior views of the European Commission Berlaymont building",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-290760",
-     "title": "EC Midday press briefing of 18/06/2026",
-     "summary": "Recorded cutaways",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-06-18T14:26:02+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-06-18T11:00:10.000Z",
-   "durationSec": 550,
-   "channel": "EBS",
-   "status": "EDIT_RECORDED",
-   "title": "Court of Justice of the European Union",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291155",
-     "title": "Court of Justice of the European Union",
-     "summary": "ECJ ruling in case C-232/25 Idziski regarding an alleging infringement of a natural and legal person of their personality rights resulting from their broadcasting of a series on television and its dissemination on the internet read by Koen LENAERTS, President of the Court of Justice of the European Union",
-     "inst": "Court of Justice o"
-    },
-    {
-     "ref": "I-291156",
-     "title": "Court of Justice of the European Union",
-     "summary": "ECJ ruling in case C-658/24 Penny Market regarding a national regulation requiring certain food distributors to reduce prices for certain foods, for a specified period and to maintain a certain quantity in stock read by Koen LENAERTS, President of the Court of Justice of the European Union",
-     "inst": "Court of Justice o"
-    },
-    {
-     "ref": "I-291158",
-     "title": "Court of Justice of the European Union",
-     "summary": "ECJ ruling in case C-522/24 Ministero della Difesa (Obligation vaccinale des militaires) regarding vaccination requirements imposed on military personal because of COVID-19 pandemic read by Koen LENAERTS, President of the Court of Justice of the European Union",
-     "inst": "Court of Justice o"
-    }
-   ],
-   "firstSeen": "2026-06-18T14:26:02+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-06-18T11:15:10.000Z",
-   "durationSec": 648,
-   "channel": "EBS",
-   "status": "RECORDED",
-   "title": "European Commissioner Costas KADIS in Mombasa, Kenya for the Our Ocean Kenya Conference 2026",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291489",
-     "title": "European Commissioner Costas KADIS in Mombasa, Kenya for the Our Ocean Kenya Conference 2026",
-     "summary": "Side event “Strategic Announcement of Sustainable Western Indian Ocean Programme (SWIOP)” Opening speech by Costas KADIS, European Commissioner for Fisheries and Oceans",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-291513",
-     "title": "European Commissioner Costas KADIS in Mombasa, Kenya for the Our Ocean Kenya Conference 2026",
-     "summary": "S ﻿ igning ceremony of Strategic Announcement of Sustainable Western Indian Ocean Programme (SWIOP - Global Gateway)",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-06-18T14:26:02+00:00"
-  },
-  {
-   "ep": true,
-   "start": "2026-06-18T11:45:10.000Z",
-   "durationSec": 100,
-   "channel": "EBS",
-   "status": "EDIT",
-   "title": "EP News Roberta METSOLA, EP President, meets with Peter MAGYAR, Hungarian Prime Minister",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291077",
-     "title": "EP News Roberta METSOLA, EP President, meets with Peter MAGYAR, Hungarian Prime Minister",
-     "summary": "Roberta METSOLA, EP President meets with Peter MAGYAR, Hungarian Prime Minister: extracts from the meeting",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291077-V_v"
-    }
-   ],
-   "firstSeen": "2026-06-18T14:26:02+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-06-18T11:58:17.520Z",
-   "durationSec": 36,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "European Commission President Ursula von der LEYEN receives the Prime Minister of Croatia Andrej PLENKOVIĆ",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291197",
-     "title": "European Commission President Ursula von der LEYEN receives the Prime Minister of Croatia Andrej PLENKOVIĆ",
-     "summary": "Welcome",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-291198",
-     "title": "European Commission President Ursula von der LEYEN receives the Prime Minister of Croatia Andrej PLENKOVIĆ",
-     "summary": "Exterior views of the European Commission Berlaymont building with the flag of Croatia",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-06-18T14:26:02+00:00"
-  },
-  {
-   "ep": true,
-   "start": "2026-06-18T13:01:11.240Z",
-   "durationSec": 2638,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "EP Plenary Session International Day of Play: promoting children’s right to play",
-   "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "DE",
-    "IT",
-    "ES",
-    "EL",
-    "PT",
-    "NL",
-    "DA",
-    "FI",
-    "SV",
-    "CS",
-    "ET",
-    "LV",
-    "LT",
-    "HU",
-    "MT",
-    "PL",
-    "SK",
-    "SL",
-    "BG",
-    "RO",
-    "HR"
-   ],
-   "items": [
-    {
-     "ref": "I-291058",
-     "title": "EP Plenary Session International Day of Play: promoting children’s right to play",
-     "summary": "Opening statement by Valdis DOMBROVSKIS, European Commissioner for Economy and Productivity, and European Commissioner for Implementation and Simplification",
-     "inst": "EP"
-    },
-    {
-     "ref": "I-291060",
-     "title": "EP Plenary Session International Day of Play: promoting children’s right to play",
-     "summary": "One round of political group speakers",
-     "inst": "EP"
-    },
-    {
-     "ref": "I-291059",
-     "title": "EP Plenary Session International Day of Play: promoting children’s right to play",
-     "summary": "MEPs debate and reply by Valdis DOMBROVSKIS, European Commissioner for Economy and Productivity, and European Commissioner for Implementation and Simplification",
-     "inst": "EP"
-    }
-   ],
-   "firstSeen": "2026-06-18T14:26:02+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-06-18T13:10:10.000Z",
-   "durationSec": 130,
-   "channel": "EBS",
-   "status": "EDIT",
-   "title": "European Council President António COSTA meetings ahead of the European Council",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291471",
-     "title": "European Council President António COSTA meetings ahead of the European Council",
-     "summary": "Meeting with Nikos CHRISTODOULIDES, President of Cyprus",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-291472",
-     "title": "European Council President António COSTA meetings ahead of the European Council",
-     "summary": "Meeting with Andris KULBERGS, Prime Minister of Latvia",
-     "inst": "Council"
-    }
-   ],
-   "firstSeen": "2026-06-18T14:26:02+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-06-18T14:21:34.400Z",
-   "durationSec": 6280,
+   "start": "2026-06-18T23:56:49.640Z",
+   "durationSec": 281,
    "channel": "EBS",
    "status": "LIVE",
    "title": "European Council (Main feed)",
@@ -565,477 +13,38 @@
    ],
    "items": [
     {
-     "ref": "I-290785",
+     "ref": "I-291578",
      "title": "European Council (Main feed)",
-     "summary": "Doorstep Donald TUSK, Polish Prime Minister",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-291534",
-     "title": "European Council (Main feed)",
-     "summary": "Doorstep Andris KULBERGS, Prime Minister of Latvia",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-291535",
-     "title": "European Council (Main feed)",
-     "summary": "Doorstep Gitanas NAUSĖDA, President of Lithuania",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-291536",
-     "title": "European Council (Main feed)",
-     "summary": "Doorstep Friedrich MERZ, German Federal Chancellor",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-291537",
-     "title": "European Council (Main feed)",
-     "summary": "Arrival and joint doorsteps by António COSTA, President of the European Council, Ursula von der LEYEN, President of the European Commission and Volodymyr ZELENSKYY, President of Ukraine",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-291541",
-     "title": "European Council (Main feed)",
-     "summary": "Doorstep Kyriakos MITSOTAKIS, Greek Prime Minister",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-291546",
-     "title": "European Council (Main feed)",
-     "summary": "Doorstep Kristen MICHAL, Prime Minister of Estonia",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-291547",
-     "title": "European Council (Main feed)",
-     "summary": "Doorstep Petteri ORPO, Finnish Prime Minister",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-291548",
-     "title": "European Council (Main feed)",
-     "summary": "Doorstep Kaja KALLAS, High Representative of the Union for Foreign Affairs and Security Policy and Vice-President of the European Commission",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-291551",
-     "title": "European Council (Main feed)",
-     "summary": "Doorstep Christian STOCKER, Austrian Federal Chancellor",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-291552",
-     "title": "European Council (Main feed)",
-     "summary": "Doorstep Luc FRIEDEN, Prime Minister of Luxembourg",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-291553",
-     "title": "European Council (Main feed)",
-     "summary": "Doorstep Roberta METSOLA, President of the European Parliament",
+     "summary": "Departure and doorstep by Bart DE WEVER, Belgian Prime Minister",
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-06-18T14:36:08+00:00"
+   "firstSeen": "2026-06-19T14:22:55+00:00"
   },
   {
    "ep": false,
-   "start": "2026-06-18T14:29:45.040Z",
-   "durationSec": 0,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "European Council (Second feed)",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-290951",
-     "title": "European Council (Second feed)",
-     "summary": "Doorstep by Nikos CHRISTODOULIDES, President of Cyprus",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-291526",
-     "title": "European Council (Second feed)",
-     "summary": "Arrival doorstep by Nicușor DAN, President of Romania",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-291529",
-     "title": "European Council (Second feed)",
-     "summary": "Arrival doorstep by Rumen RADEV, Bulgarian Prime Minister",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-291530",
-     "title": "European Council (Second feed)",
-     "summary": "Arrival doorstep by Mette FREDERIKSEN, Danish Prime Minister",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-291531",
-     "title": "European Council (Second feed)",
-     "summary": "Arrival doorstep by Pedro SÁNCHEZ, Spanish Prime Minister (video as received, interrupted 20 seconds)",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-291532",
-     "title": "European Council (Second feed)",
-     "summary": "Arrival doorstep by Andrej PLENKOVIĆ, Croatian Prime Minister",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-291533",
-     "title": "European Council (Second feed)",
-     "summary": "Arrival doorstep by Luís MONTENEGRO, Portuguese Prime Minister",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-291562",
-     "title": "European Council (Second feed)",
-     "summary": "Arrival doorstep by Rob JETTEN, Dutch Prime Minister",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-291563",
-     "title": "European Council (Second feed)",
-     "summary": "Second arrival doorstep by Andris KULBERGS, Latvian Prime Minister",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-291564",
-     "title": "European Council (Second feed)",
-     "summary": "Second arrival doorstep by Gitanas NAUSĖDA, President of Lithuania",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-291565",
-     "title": "European Council (Second feed)",
-     "summary": "Second arrival doorstep by Rumen RADEV, Bulgarian Prime Minister",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-291568",
-     "title": "European Council (Second feed)",
-     "summary": "Arrival doorstep by Micheál MARTIN, Irish Prime Minister (Taoiseach)",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-291569",
-     "title": "European Council (Second feed)",
-     "summary": "Arrival doorstep by Ulf KRISTERSSON, Swedish Prime Minister",
-     "inst": "Council"
-    }
-   ],
-   "firstSeen": "2026-06-18T14:36:08+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-06-18T16:22:15.800Z",
-   "durationSec": 789,
+   "start": "2026-06-19T00:15:10.000Z",
+   "durationSec": 216,
    "channel": "EBS",
-   "status": "LIVE",
+   "status": "EDIT",
    "title": "European Council (Main feed)",
    "languages": [
     "INT"
    ],
    "items": [
     {
-     "ref": "I-290950",
+     "ref": "I-291579",
      "title": "European Council (Main feed)",
-     "summary": "Roundtable",
+     "summary": "Compilation of all departures",
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-06-18T22:28:31+00:00"
+   "firstSeen": "2026-06-19T14:22:55+00:00"
   },
   {
    "ep": false,
-   "start": "2026-06-18T16:36:44.960Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "European Council (Main feed)",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291566",
-     "title": "European Council (Main feed)",
-     "summary": "Doorstep by Péter MAGYAR, Hungarian Prime Minister",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-291567",
-     "title": "European Council (Main feed)",
-     "summary": "Second doorstep by Luc FRIEDEN, Luxembourgish Prime Minister",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-291570",
-     "title": "European Council (Main feed)",
-     "summary": "Doorstep by Janez JANŠA, Slovenian Prime Minister",
-     "inst": "Council"
-    }
-   ],
-   "firstSeen": "2026-06-18T22:28:31+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-06-18T17:13:10.000Z",
-   "durationSec": 312,
-   "channel": "EBS",
-   "status": "EDIT",
-   "title": "European Council",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291560",
-     "title": "European Council (Main feed)",
-     "summary": "Trilateral meeting António COSTA, President of the European Council, Ursula von der LEYEN, President of the European Commission and Volodymyr ZELENSKYY, President of Ukraine",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-291538",
-     "title": "European Council",
-     "summary": "Exterior shots of the Europa and Justus Lipsius buildings on the afternoon of 18 June 2026 in Brussels",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-291549",
-     "title": "European Council",
-     "summary": "Tower cam beauty shots of the Forum, in Europa building",
-     "inst": "Council"
-    }
-   ],
-   "firstSeen": "2026-06-18T22:28:31+00:00"
-  },
-  {
-   "ep": true,
-   "start": "2026-06-18T17:20:10.000Z",
-   "durationSec": 803,
-   "channel": "EBS",
-   "status": "EDIT",
-   "title": "EP News Leaders meet ahead of the European Council meeting",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-290821",
-     "title": "EP News Leaders meet ahead of the European Council meeting",
-     "summary": "EPP leaders meet ahead of the European Council meeting: arrivals and doorsteps",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290821-V_v"
-    },
-    {
-     "ref": "I-290822",
-     "title": "EP News Leaders meet ahead of the European Council meeting",
-     "summary": "PES leaders meet ahead of the European Council meeting: arrivals and doorsteps",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290822-V_v"
-    },
-    {
-     "ref": "I-290823",
-     "title": "EP News Leaders meet ahead of the European Council meeting",
-     "summary": "Renew Europe leaders meet ahead of the European Council meeting: arrivals and doorsteps",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290823-V_v"
-    },
-    {
-     "ref": "I-290824",
-     "title": "EP News Leaders meet ahead of the European Council meeting",
-     "summary": "PfE leaders meet ahead of the European Council meeting: arrivals and doorsteps",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290824-V_v"
-    }
-   ],
-   "firstSeen": "2026-06-18T22:28:31+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-06-18T17:30:10.000Z",
-   "durationSec": 5323,
-   "channel": "EBS+",
-   "status": "RECORDED",
-   "title": "European Commission Executive Vice-President Teresa RIBERA in London, UK at the London School of Economics",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291312",
-     "title": "European Commission Executive Vice-President Teresa RIBERA in London, UK at the London School of Economics",
-     "summary": "Opening panel “Key challenges to sustainability: global, regional and national perspectives” at the Sustainability Conference hosted by the London School of Economics Teresa RIBERA, Executive Vice-President of the European Commission for a Clean, Just and Competitive Transition Tharman SHANMUGARATMAN, President of the Republic of Singapore Amina MOHAMMED, Deputy Secretary-General of the United Nations Sri Mulyani INDRAWATI, former Minister of Finance of the Republic of Indonesia",
-     "inst": "Other Organisation"
-    }
-   ],
-   "firstSeen": "2026-06-18T22:28:31+00:00"
-  },
-  {
-   "ep": true,
-   "start": "2026-06-18T18:10:48.280Z",
-   "durationSec": 1577,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "European Council Press Conference by Roberta METSOLA, EP President",
-   "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "IT",
-    "MT"
-   ],
-   "items": [
-    {
-     "ref": "I-291437",
-     "title": "European Council Press Conference by Roberta METSOLA, EP President",
-     "summary": "Press Conference by Roberta METSOLA, EP President, following her participation at the European Council meeting: opening remarks",
-     "inst": "EP"
-    },
-    {
-     "ref": "I-291438",
-     "title": "European Council Press Conference by Roberta METSOLA, EP President",
-     "summary": "Press Conference by Roberta METSOLA, EP President, following her participation at the European Council meeting: Q&A",
-     "inst": "EP"
-    },
-    {
-     "ref": "I-291575",
-     "title": "European Council Press Conference by Roberta METSOLA, EP President",
-     "summary": "Press Conference by Roberta METSOLA, EP President, following her participation at the European Council meeting: Recorded cutaways",
-     "inst": "EP"
-    }
-   ],
-   "firstSeen": "2026-06-18T22:28:31+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-06-18T18:40:10.000Z",
-   "durationSec": 686,
-   "channel": "EBS",
-   "status": "EDIT",
-   "title": "European Council",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291539",
-     "title": "European Council",
-     "summary": "Compilation of all arrivals",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-291540",
-     "title": "European Council",
-     "summary": "Roundtable with Volodymyr ZELENSKYY, President of Ukraine",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-291573",
-     "title": "European Council",
-     "summary": "Joint declaration of the EU Council Presidency, the European Commission and the European Parliament on the \"Europe for Culture - Culture for Europe\" interinstitutional agreement",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-291574",
-     "title": "European Council",
-     "summary": "Political monitoring of the joint declaration of the EU Council Presidency, the European Commission and the European Parliament on legislative priorities for 2026 and on the \"One Europe, One Market\" roadmap",
-     "inst": "Council"
-    }
-   ],
-   "firstSeen": "2026-06-18T22:28:31+00:00"
-  },
-  {
-   "ep": true,
-   "start": "2026-06-18T18:55:10.000Z",
-   "durationSec": 243,
-   "channel": "EBS",
-   "status": "EDIT",
-   "title": "EP News Roberta METSOLA, EP President participates at the European Council meeting",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-290825",
-     "title": "EP News Roberta METSOLA, EP President participates at the European Council meeting",
-     "summary": "Roberta METSOLA, EP President participates at the European Council meeting arrival doorstep roundtable extracts from the press conference",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290825-V_v"
-    }
-   ],
-   "firstSeen": "2026-06-18T22:28:31+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-06-18T18:59:59.240Z",
-   "durationSec": 22,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "European Council (Main feed)",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291522",
-     "title": "European Council (Main feed)",
-     "summary": "Late arrival of Emmanuel MACRON, President of the French Republic",
-     "inst": "Council"
-    }
-   ],
-   "firstSeen": "2026-06-18T22:28:31+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-06-18T21:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "LIVE_RECORDED",
-   "title": "European Council (Main feed)",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291576",
-     "title": "European Council (Main feed)",
-     "summary": "Details to follow",
-     "inst": "Council"
-    }
-   ],
-   "firstSeen": "2026-06-18T14:26:02+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-06-18T21:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS+",
-   "status": "LIVE_RECORDED",
-   "title": "European Council (Second feed)",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291523",
-     "title": "European Council (Second feed)",
-     "summary": "Details to follow",
-     "inst": "Council"
-    }
-   ],
-   "firstSeen": "2026-06-18T14:26:02+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-06-19T06:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-06-19T06:35:50.320Z",
+   "durationSec": 5382,
    "channel": "EBS",
    "status": "LIVE",
    "title": "European Council (Main feed)",
@@ -1046,16 +55,34 @@
     {
      "ref": "I-290787",
      "title": "European Council (Main feed)",
-     "summary": "Arrivals and doorsteps",
+     "summary": "Doorstep by Andrej BABIŠ, Czech Prime Minister",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291582",
+     "title": "European Council (Main feed)",
+     "summary": "Doorstep Andris KULBERGS, Prime Minister of Latvia",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291583",
+     "title": "European Council (Main feed)",
+     "summary": "Doorstep by Rob JETTEN, Dutch Prime Minister",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291585",
+     "title": "European Council (Main feed)",
+     "summary": "Doorstep by Micheál MARTIN, Irish Taoiseach",
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-06-18T14:26:02+00:00"
+   "firstSeen": "2026-06-19T14:22:55+00:00"
   },
   {
    "ep": false,
-   "start": "2026-06-19T06:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-06-19T07:56:33.680Z",
+   "durationSec": 1034,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "European Council (Second feed)",
@@ -1066,16 +93,28 @@
     {
      "ref": "I-290788",
      "title": "European Council (Second feed)",
-     "summary": "Arrivals and doorsteps",
+     "summary": "Doorstep Friedrich MERZ, German Federal Chancellor",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291580",
+     "title": "European Council (Second feed)",
+     "summary": "Second doorstep Rob JETTEN, Prime Minister of The Netherlands",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291581",
+     "title": "European Council (Second feed)",
+     "summary": "Doorstep Christian STOCKER, Austrian Federal Chancellor",
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-01-01T00:00:00+00:00"
+   "firstSeen": "2026-06-19T14:22:55+00:00"
   },
   {
    "ep": false,
-   "start": "2026-06-19T08:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-06-19T08:19:31.080Z",
+   "durationSec": 685,
    "channel": "EBS",
    "status": "LIVE",
    "title": "European Council (Main feed)",
@@ -1090,12 +129,93 @@
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-01-01T00:00:00+00:00"
+   "firstSeen": "2026-06-19T14:22:55+00:00"
   },
   {
    "ep": false,
-   "start": "2026-06-19T13:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-06-19T09:00:10.000Z",
+   "durationSec": 362,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "European Council",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291603",
+     "title": "European Council",
+     "summary": "Compilation of all arrivals",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-06-19T14:22:55+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-19T11:10:14.200Z",
+   "durationSec": 1460,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "European Council",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291615",
+     "title": "European Council",
+     "summary": "Slovakia national briefing by Robert FICO, Slovak Prime Minister",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-06-19T14:22:55+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-19T12:45:00.000Z",
+   "durationSec": 1167,
+   "channel": "EBS+",
+   "status": "RECORDED",
+   "title": "European Council",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291616",
+     "title": "European Council",
+     "summary": "Finland national briefing by Petteri ORPO, Finnish Prime Minister",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-06-19T14:22:55+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-06-19T13:11:10.000Z",
+   "durationSec": 421,
+   "channel": "EBS+",
+   "status": "RECORDED",
+   "title": "EP Press conference",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291441",
+     "title": "EP Press conference",
+     "summary": "Doorstep statement by Roberta METSOLA and Markus SÖDER, Minister President of the Land of Bavaria",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291441-V_v"
+    }
+   ],
+   "firstSeen": "2026-06-19T14:22:55+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-19T13:20:10.000Z",
+   "durationSec": 655,
    "channel": "EBS",
    "status": "EDIT_RECORDED",
    "title": "European Commissioner Christophe HANSEN in Poland",
@@ -1110,32 +230,11 @@
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-06-18T22:28:31+00:00"
-  },
-  {
-   "ep": true,
-   "start": "2026-06-19T13:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS+",
-   "status": "LIVE_RECORDED",
-   "title": "EP Press conference",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291441",
-     "title": "EP Press conference",
-     "summary": "Doorstep statement by Roberta METSOLA and Markus SÖDER, Minister President of the Land of Bavaria",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291441-V_v"
-    }
-   ],
-   "firstSeen": "2026-06-18T22:28:31+00:00"
+   "firstSeen": "2026-06-19T14:22:55+00:00"
   },
   {
    "ep": false,
-   "start": "2026-06-19T13:30:00.000Z",
+   "start": "2026-06-19T13:45:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
    "status": "LIVE",
@@ -1154,36 +253,138 @@
     {
      "ref": "I-290956",
      "title": "European Council (Main feed)",
-     "summary": "Press conference",
+     "summary": "Press conference by Antonio COSTA, President of the European Council, Ursula von der LEYEN, President of the European Commission, and Nikos CHRISTODOULIDES, President of Cyprus",
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-01-01T00:00:00+00:00"
+   "firstSeen": "2026-06-19T14:22:55+00:00"
   },
   {
    "ep": false,
-   "start": "2026-06-19T13:30:00.000Z",
+   "start": "2026-06-19T13:52:56.440Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
+   "title": "European Council",
+   "languages": [
+    "INT",
+    "EN",
+    "FR"
+   ],
+   "items": [
+    {
+     "ref": "I-291622",
+     "title": "European Council",
+     "summary": "Germany national briefing by FRIEDRICH MERZ, German Federal Chancellor",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-06-19T14:22:55+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-19T14:30:00.000Z",
+   "durationSec": 3603,
+   "channel": "EBS",
+   "status": "RECORDED",
    "title": "European Council (Second feed)",
    "languages": [
     "INT"
    ],
    "items": [
     {
-     "ref": "I-290957",
+     "ref": "I-291602",
      "title": "European Council (Second feed)",
-     "summary": "National briefings and exit doorsteps",
+     "summary": "Exit doorstep Ruman RADEV, President of Bulgaria",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291611",
+     "title": "European Council",
+     "summary": "Spanish national briefing by Pedro SÁNCHEZ, Prime Minister of Spain",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291636",
+     "title": "European Council",
+     "summary": "Exit doorstep Christian STOCKER, Austrian Federal Chancellor",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291610",
+     "title": "European Council",
+     "summary": "Luxembourg national briefing by Luc FRIEDEN, Prime Minister of Luxembourg",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291637",
+     "title": "European Council",
+     "summary": "Exit doorstep Janez JANŠA, Prime Minister of Slovenia",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291639",
+     "title": "European Council",
+     "summary": "Exit doorstep Robert ABELA, Maltese Prime Minister",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291640",
+     "title": "European Council",
+     "summary": "Details to follow",
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-01-01T00:00:00+00:00"
+   "firstSeen": "2026-06-19T14:22:55+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-19T14:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "RECORDED",
+   "title": "European Council",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291623",
+     "title": "European Council",
+     "summary": "France national briefing by Emmanuel MACRON, French President",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291606",
+     "title": "European Council",
+     "summary": "Belgium national briefing by Bart DE WEVER, Belgian Prime Minister",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291641",
+     "title": "European Council",
+     "summary": "Exit doorstep Rob JETTEN, Dutch Prime Minister",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-290957",
+     "title": "European Council",
+     "summary": "Swedish national briefing by Ulf KRISTERSSON, Swedish Prime Minister",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291642",
+     "title": "European Council",
+     "summary": "Details to follow",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-06-19T14:22:55+00:00"
   },
   {
    "ep": true,
    "start": "2026-06-19T15:30:00.000Z",
-   "durationSec": 0,
+   "durationSec": 269,
    "channel": "EBS",
    "status": "EDIT",
    "title": "EP News",
@@ -1304,29 +505,9 @@
   },
   {
    "ep": false,
-   "start": "2026-06-21T23:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "",
-   "title": "European Commissioner Jozef SÍKELA in Brazil",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291248",
-     "title": "European Commissioner Jozef SÍKELA in Brazil",
-     "summary": "Opening of the Future Affairs Forum Press point",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-06-18T22:28:31+00:00"
-  },
-  {
-   "ep": false,
    "start": "2026-06-22T06:30:00.000Z",
    "durationSec": 0,
-   "channel": "EBS+",
+   "channel": "EBS",
    "status": "LIVE",
    "title": "Agriculture and Fisheries Council",
    "languages": [
@@ -1340,13 +521,53 @@
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-01-01T00:00:00+00:00"
+   "firstSeen": "2026-06-19T14:22:55+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-22T08:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "10th Ministerial on Climate Action",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-290916",
+     "title": "10th Ministerial on Climate Action",
+     "summary": "Opening remarks delivered by the co-conveners Wopke HOEKSTRA, European Commissioner for Climate, Net Zero and Clean Growth Julie DABRUSIN, Canadian Minister for Environment and Climate Change HUANG Runqiu, Chinese Minister for Ecology and Environment",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-06-19T14:22:55+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-22T09:05:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "European Commissioner Dan JØRGENSEN in London, UK",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291252",
+     "title": "European Commissioner Dan JØRGENSEN in London, UK",
+     "summary": "Octopus Energy Tech Summit 2026 Keynote: Geopolitics and energy security: Powering a safer world",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-06-19T14:22:55+00:00"
   },
   {
    "ep": false,
    "start": "2026-06-22T09:30:00.000Z",
    "durationSec": 0,
-   "channel": "EBS+",
+   "channel": "EBS",
    "status": "EDIT",
    "title": "Agriculture and Fisheries Council",
    "languages": [
@@ -1372,7 +593,7 @@
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-01-01T00:00:00+00:00"
+   "firstSeen": "2026-06-19T14:22:55+00:00"
   },
   {
    "ep": false,
@@ -1415,10 +636,30 @@
    "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
+   "ep": false,
+   "start": "2026-06-22T10:55:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "European Commissioner Dan JØRGENSEN in London, UK",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291628",
+     "title": "European Commissioner Dan JØRGENSEN in London, UK",
+     "summary": "Fireside chat with Electrify Britain at Climate Innovation Forum",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-06-19T14:22:55+00:00"
+  },
+  {
    "ep": true,
    "start": "2026-06-22T13:00:00.000Z",
    "durationSec": 0,
-   "channel": "EBS",
+   "channel": "EBS+",
    "status": "LIVE",
    "title": "EP Monetary Dialogue with Christine LAGARDE, President of the European Central Bank ECON Committee",
    "languages": [
@@ -1459,13 +700,33 @@
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291399-V_v"
     }
    ],
-   "firstSeen": "2026-06-18T22:28:31+00:00"
+   "firstSeen": "2026-06-19T14:22:55+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-22T15:15:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "ECB High-Level Panel The International Role of the Euro",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291617",
+     "title": "ECB High-Level Panel The International Role of the Euro",
+     "summary": "With the participation of Christine LAGARDE, President of the European Central Bank (ECB) and Valdis DOMBROVSKIS, European Commissioner for Economy and Productivity, and European Commissioner for Implementation and Simplification",
+     "inst": "European Central B"
+    }
+   ],
+   "firstSeen": "2026-06-19T14:22:55+00:00"
   },
   {
    "ep": false,
    "start": "2026-06-22T15:35:00.000Z",
    "durationSec": 0,
-   "channel": "EBS+",
+   "channel": "EBS",
    "status": "LIVE",
    "title": "Agriculture and Fisheries Council",
    "languages": [
@@ -1485,7 +746,7 @@
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-01-01T00:00:00+00:00"
+   "firstSeen": "2026-06-19T14:22:55+00:00"
   },
   {
    "ep": true,
@@ -1493,25 +754,85 @@
    "durationSec": 0,
    "channel": "EBS",
    "status": "EDIT",
-   "title": "EP News ECON Committee: Monetary Dialogue with Christine Lagarde",
+   "title": "EP News Monetary Dialogue with Christine LAGARDE, President of the ECB",
    "languages": [
     "INT"
    ],
    "items": [
     {
      "ref": "I-291405",
-     "title": "EP News ECON Committee: Monetary Dialogue with Christine Lagarde",
-     "summary": "ECON Committee: Monetary Dialogue with Christine Lagarde extracts from the debate",
+     "title": "EP News Monetary Dialogue with Christine LAGARDE, President of the ECB",
+     "summary": "Monetary Dialogue with Christine LAGARDE, President of the European Central Bank (ECB) extracts from the debate ECON Committee",
      "inst": "EP"
     }
    ],
-   "firstSeen": "2026-06-18T22:28:31+00:00"
+   "firstSeen": "2026-06-19T14:22:55+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-22T16:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "RECORDED",
+   "title": "European Commissioner Jozef SÍKELA in Brazil",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291248",
+     "title": "European Commissioner Jozef SÍKELA in Brazil",
+     "summary": "Opening of the Future Affairs Forum Press point",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-06-19T14:22:55+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-22T17:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "European Commissioner Dan JØRGENSEN in London, UK",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291629",
+     "title": "European Commissioner Dan JØRGENSEN in London, UK",
+     "summary": "Keynote and discussion leader at “Next Steps for Electrification”, a conversation with philanthropic organizations organized by KR Foundation with the Children’s Investment Fund Foundation (CIFF)",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-06-19T14:22:55+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-23T07:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "Agriculture and Fisheries Council",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291411",
+     "title": "Agriculture and Fisheries Council",
+     "summary": "Arrivals and doorsteps",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-06-19T14:22:55+00:00"
   },
   {
    "ep": true,
    "start": "2026-06-23T07:00:00.000Z",
    "durationSec": 0,
-   "channel": "EBS",
+   "channel": "EBS+",
    "status": "LIVE",
    "title": "EP Economic dialogue on European semester 2026 ECON / EMPL Committees",
    "languages": [
@@ -1557,33 +878,13 @@
      "inst": "EP"
     }
    ],
-   "firstSeen": "2026-06-18T22:28:31+00:00"
+   "firstSeen": "2026-06-19T14:22:55+00:00"
   },
   {
    "ep": false,
-   "start": "2026-06-23T07:00:00.000Z",
+   "start": "2026-06-23T09:45:00.000Z",
    "durationSec": 0,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "Agriculture and Fisheries Council",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291411",
-     "title": "Agriculture and Fisheries Council",
-     "summary": "Arrivals and doorsteps",
-     "inst": "Council"
-    }
-   ],
-   "firstSeen": "2026-01-01T00:00:00+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-06-23T09:30:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS+",
+   "channel": "EBS",
    "status": "LIVE",
    "title": "Agriculture and Fisheries Council",
    "languages": [
@@ -1609,7 +910,7 @@
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-01-01T00:00:00+00:00"
+   "firstSeen": "2026-06-19T14:22:55+00:00"
   },
   {
    "ep": false,
@@ -1653,9 +954,29 @@
   },
   {
    "ep": false,
-   "start": "2026-06-23T15:35:00.000Z",
+   "start": "2026-06-23T11:15:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
+   "status": "LIVE",
+   "title": "European Commission Executive Vice-President Teresa RIBERA in London, UK for the State of Climate Politics Forum",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291422",
+     "title": "European Commission Executive Vice-President Teresa RIBERA in London, UK for the State of Climate Politics Forum",
+     "summary": "Closing Keynote “A new path forward “ Speakers : Nick Mabey OBE, Founder and CEO, E3E Teresa RIBERA, Executive Vice-President of the European Commission for a Clean, Just and Competitive Transition",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-06-19T14:22:55+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-23T15:35:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
    "status": "LIVE",
    "title": "Agriculture and Fisheries Council",
    "languages": [
@@ -1675,7 +996,7 @@
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-01-01T00:00:00+00:00"
+   "firstSeen": "2026-06-19T14:22:55+00:00"
   },
   {
    "ep": false,
@@ -1702,6 +1023,26 @@
     }
    ],
    "firstSeen": "2026-06-18T14:26:02+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-24T09:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "EDIT_RECORDED",
+   "title": "Court of Justice of the European Union",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291587",
+     "title": "Court of Justice of the European Union",
+     "summary": "General Court ruling in case T-77/24 Dassault Aviation v Commission regarding the taxonomy and the technical criteria for determining which economic activities qualify as contributing substantially to climate change mitigation",
+     "inst": "Court of Justice o"
+    }
+   ],
+   "firstSeen": "2026-06-19T14:22:55+00:00"
   },
   {
    "ep": false,
@@ -1788,6 +1129,176 @@
     }
    ],
    "firstSeen": "2026-06-18T14:26:02+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-25T07:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "Environment Council",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291243",
+     "title": "Environment Council",
+     "summary": "Arrivals and doorsteps",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-06-19T14:22:55+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-25T09:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "EDIT",
+   "title": "Environment Council",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291473",
+     "title": "Environment Council",
+     "summary": "Exterior views of the European Convention Center Luxembourg",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291474",
+     "title": "Environment Council",
+     "summary": "Compilation of all arrivals",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291475",
+     "title": "Environment Council",
+     "summary": "Roundtable",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-06-19T14:22:55+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-06-25T09:15:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "EP Exchange of views with Volker TÜRK, United Nations High Commissioner for Human Rights AFET DROI",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291619",
+     "title": "EP Exchange of views with Volker TÜRK, United Nations High Commissioner for Human Rights AFET DROI",
+     "summary": "Opening statements Committee on Foreign Affairs (AFET) and Subcommittee on Human Rights",
+     "inst": "EP"
+    },
+    {
+     "ref": "I-291620",
+     "title": "EP Exchange of views with Volker TÜRK, United Nations High Commissioner for Human Rights AFET DROI",
+     "summary": "Q&A Committee on Foreign Affairs (AFET) and Subcommittee on Human Rights",
+     "inst": "EP"
+    },
+    {
+     "ref": "I-291621",
+     "title": "EP Exchange of views with Volker TÜRK, United Nations High Commissioner for Human Rights AFET DROI",
+     "summary": "Closing statements Committee on Foreign Affairs (AFET) and Subcommittee on Human Rights",
+     "inst": "EP"
+    }
+   ],
+   "firstSeen": "2026-06-19T14:22:55+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-25T09:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "EDIT_RECORDED",
+   "title": "Court of Justice of the European Union",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291588",
+     "title": "Court of Justice of the European Union",
+     "summary": "ECJ ruling in case C-277/25 Helpfind Funding and Others regarding insurance against civil liability in respect of the use of motor vehicles and the compensation for loss of injury",
+     "inst": "Court of Justice o"
+    }
+   ],
+   "firstSeen": "2026-06-19T14:22:55+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-25T10:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "EC Midday press briefing of 25/06/2026",
+   "languages": [
+    "INT",
+    "EN",
+    "FR"
+   ],
+   "items": [
+    {
+     "ref": "I-291234",
+     "title": "EC Midday press briefing of 25/06/2026",
+     "summary": "Announcements",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-291235",
+     "title": "EC Midday press briefing of 25/06/2026",
+     "summary": "Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-291236",
+     "title": "EC Midday press briefing of 25/06/2026",
+     "summary": "Exterior views of the European Commission Berlaymont building",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-291237",
+     "title": "EC Midday press briefing of 25/06/2026",
+     "summary": "Recorded cutaways",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-06-19T14:22:55+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-25T17:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "Environment Council",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "EL"
+   ],
+   "items": [
+    {
+     "ref": "I-291476",
+     "title": "Environment Council",
+     "summary": "Press conference by the Cypriot Presidency and the European Commission",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-06-19T14:22:55+00:00"
   }
  ]
 }
