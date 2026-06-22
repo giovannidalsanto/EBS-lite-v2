@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-06-22T18:18:27+00:00",
+ "generatedAt": "2026-06-22T18:38:15+00:00",
  "events": [
   {
    "ep": false,
@@ -711,6 +711,32 @@
     }
    ],
    "firstSeen": "2026-06-22T18:18:27+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-22T18:30:10.000Z",
+   "durationSec": 60,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "High Representative / Vice-President Kaja KALLAS in Amman, Jordan for the meeting of Ministers of the League of Arab States",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291783",
+     "title": "High Representative / Vice-President Kaja KALLAS in Amman, Jordan for the meeting of Ministers of the League of Arab States",
+     "summary": "Bilateral meeting with Ayman SAFADI, Deputy Prime Minister and Minister of Foreign Affairs and Expatriates of Jordan",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-291792",
+     "title": "High Representative / Vice-President Kaja KALLAS in Amman, Jordan for the meeting of Ministers of the League of Arab States",
+     "summary": "Bilateral meeting with H.E. Abdoulkader HOUSSEIN OMAR, Minister of Foreign Affairs and International Cooperation of Djibouti",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-06-22T18:38:15+00:00"
   },
   {
    "ep": false,
