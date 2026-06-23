@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-06-23T12:26:35+00:00",
+ "generatedAt": "2026-06-23T13:47:21+00:00",
  "events": [
   {
    "ep": false,
@@ -562,27 +562,7 @@
   },
   {
    "ep": false,
-   "start": "2026-06-23T13:25:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "RECORDED",
-   "title": "European Commissioner Jozef SÍKELA in Brazil",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291249",
-     "title": "European Commissioner Jozef SÍKELA in Brazil",
-     "summary": "Opening Session 2nd EU–Brazil Investment Forum: The Mercosur–EU Agreement, a Strategic Step for Competitive Integration",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-06-23T12:26:35+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-06-23T13:40:00.000Z",
+   "start": "2026-06-23T13:38:41.200Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
@@ -598,7 +578,27 @@
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-06-22T18:18:27+00:00"
+   "firstSeen": "2026-06-23T13:47:21+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-23T13:50:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "RECORDED",
+   "title": "European Commissioner Jozef SÍKELA in Brazil",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291249",
+     "title": "European Commissioner Jozef SÍKELA in Brazil",
+     "summary": "Opening Session 2nd EU–Brazil Investment Forum: The Mercosur–EU Agreement, a Strategic Step for Competitive Integration",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-06-23T13:47:21+00:00"
   },
   {
    "ep": false,
@@ -805,7 +805,7 @@
   },
   {
    "ep": false,
-   "start": "2026-06-24T10:00:00.000Z",
+   "start": "2026-06-24T09:30:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
    "status": "LIVE",
@@ -844,11 +844,11 @@
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-06-23T12:26:35+00:00"
+   "firstSeen": "2026-06-23T13:47:21+00:00"
   },
   {
    "ep": false,
-   "start": "2026-06-24T10:00:00.000Z",
+   "start": "2026-06-24T09:30:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
@@ -887,7 +887,7 @@
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-06-23T12:26:35+00:00"
+   "firstSeen": "2026-06-23T13:47:21+00:00"
   },
   {
    "ep": false,
@@ -1041,20 +1041,26 @@
    "start": "2026-06-25T01:00:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
-   "status": "",
-   "title": "European Commissioner Christophe HANSEN in Taranto, Italy",
+   "status": "EDIT_RECORDED",
+   "title": "European Commissioner Christophe HANSEN in Italy",
    "languages": [
     "INT"
    ],
    "items": [
     {
      "ref": "I-291267",
-     "title": "European Commissioner Christophe HANSEN in Taranto, Italy",
-     "summary": "Details to follow",
+     "title": "European Commissioner Christophe HANSEN in Italy",
+     "summary": "Closing remarks at the European Wine Summit",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-291831",
+     "title": "European Commissioner Christophe HANSEN in Italy",
+     "summary": "Visit of Varvaglione domain",
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-06-22T18:18:27+00:00"
+   "firstSeen": "2026-06-23T13:47:21+00:00"
   },
   {
    "ep": false,
