@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-06-23T13:47:21+00:00",
+ "generatedAt": "2026-06-23T21:06:51+00:00",
  "events": [
   {
    "ep": false,
@@ -563,7 +563,7 @@
   {
    "ep": false,
    "start": "2026-06-23T13:38:41.200Z",
-   "durationSec": 0,
+   "durationSec": 1797,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "European Commissioner Dan JØRGENSEN in London, UK",
@@ -574,7 +574,7 @@
     {
      "ref": "I-291253",
      "title": "European Commissioner Dan JØRGENSEN in London, UK",
-     "summary": "Global Transition and Electrification Summit Press Conference",
+     "summary": "Global Transition and Electrification Summit Press Conference by Dan JØRGENSEN, European Commissioner for Energy and Housing André CORRÊA DO LAGO, President of COP30 José Luis Samaniego LEYVA, the Deputy Minister for Sustainable Development and Circular Economy of Mexico Mohammad Jumhur HIDAYAT, Minister of Environment of Indonesia Bruce DOUGLAS, CEO of the Global Renewables Alliance María MENDILUCE, CEO of We Mean Business Coalition",
      "inst": "EC"
     }
    ],
@@ -582,8 +582,8 @@
   },
   {
    "ep": false,
-   "start": "2026-06-23T13:50:00.000Z",
-   "durationSec": 0,
+   "start": "2026-06-23T13:50:10.000Z",
+   "durationSec": 947,
    "channel": "EBS",
    "status": "RECORDED",
    "title": "European Commissioner Jozef SÍKELA in Brazil",
@@ -594,36 +594,44 @@
     {
      "ref": "I-291249",
      "title": "European Commissioner Jozef SÍKELA in Brazil",
-     "summary": "Opening Session 2nd EU–Brazil Investment Forum: The Mercosur–EU Agreement, a Strategic Step for Competitive Integration",
+     "summary": "Opening Session 2nd EU–Brazil Investment Forum: The Mercosur–EU Agreement, a Strategic Step for Competitive Integration Keynote on EU–Brazil strategic investment partnership",
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-06-23T13:47:21+00:00"
+   "firstSeen": "2026-06-23T21:06:51+00:00"
   },
   {
-   "ep": false,
-   "start": "2026-06-23T14:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "LIVE_RECORDED",
-   "title": "European Commissioner Jozef SÍKELA in Brazil",
+   "ep": true,
+   "start": "2026-06-23T14:15:10.000Z",
+   "durationSec": 250,
+   "channel": "EBS+",
+   "status": "EDIT",
+   "title": "EP News EP Conference of Presidents meets with the incoming Irish Presidency of the Council",
    "languages": [
     "INT"
    ],
    "items": [
     {
-     "ref": "I-291813",
-     "title": "European Commissioner Jozef SÍKELA in Brazil",
-     "summary": "Press point",
-     "inst": "EC"
+     "ref": "I-289958",
+     "title": "EP News EP Conference of Presidents meets with the incoming Irish Presidency of the Council",
+     "summary": "EP Conference of Presidents meets with the incoming Irish Presidency of the Council - Roberta METSOLA, EP President meets with Catherine CONNOLLY, President of Ireland extracts",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I289958-V_v"
+    },
+    {
+     "ref": "I-291492",
+     "title": "EP News EP Conference of Presidents meets with the incoming Irish Presidency of the Council",
+     "summary": "EP Conference of Presidents meets with the incoming Irish Presidency of the Council - meeting with Helen MCENTEE, Irish Minister for Foreign Affairs and Trade, and Verona MURPHY, Ceann Comhairle (Speaker) extracts",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291492-V_v"
     }
    ],
-   "firstSeen": "2026-06-23T12:26:35+00:00"
+   "firstSeen": "2026-06-23T21:06:51+00:00"
   },
   {
    "ep": false,
-   "start": "2026-06-23T14:10:00.000Z",
-   "durationSec": 0,
+   "start": "2026-06-23T14:18:55.800Z",
+   "durationSec": 1106,
    "channel": "EBS",
    "status": "LIVE",
    "title": "Agriculture and Fisheries Council",
@@ -638,39 +646,125 @@
    ],
    "items": [
     {
+     "ref": "I-291839",
+     "title": "Agriculture and Fisheries Council",
+     "summary": "Press conference opening remarks by Maria PANAYIOTOU, Minister of Agriculture, Rural Development and Environment of Cyprus Press conference opening remarks by Christophe HANSEN, European Commissioner for Agriculture and Food Q&A",
+     "inst": "Council"
+    },
+    {
      "ref": "I-291412",
      "title": "Agriculture and Fisheries Council",
-     "summary": "Press conference by Maria PANAYIOTOU, Minister of Agriculture, Rural Development and Environment of Cyprus, and Christophe HANSEN, European Commissioner for Agriculture and Food",
+     "summary": "Press conference opening remarks by Maria PANAYIOTOU, Minister of Agriculture, Rural Development and Environment of Cyprus",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291837",
+     "title": "Agriculture and Fisheries Council",
+     "summary": "Press conference opening remarks by Christophe HANSEN, European Commissioner for Agriculture and Food",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291838",
+     "title": "Agriculture and Fisheries Council",
+     "summary": "Q&A",
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-06-22T18:18:27+00:00"
+   "firstSeen": "2026-06-23T21:06:51+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-23T14:45:10.000Z",
+   "durationSec": 359,
+   "channel": "EBS",
+   "status": "RECORDED",
+   "title": "Agriculture and Fisheries Council",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291833",
+     "title": "Agriculture and Fisheries Council",
+     "summary": "Exit doorstep Vladimír VNUK, State Secretary of the Ministry of Agriculture and Rural Development of Slovakia",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-06-23T21:06:51+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-23T14:55:10.000Z",
+   "durationSec": 1405,
+   "channel": "EBS",
+   "status": "RECORDED",
+   "title": "European Commissioner Jozef SÍKELA in Brazil",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291813",
+     "title": "European Commissioner Jozef SÍKELA in Brazil",
+     "summary": "Press point by Jozef SÍKELA, European Commissioner for International Partnerships and Laudemir André MÜLLER, President of Apex Brasil",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-06-23T21:06:51+00:00"
   },
   {
    "ep": true,
-   "start": "2026-06-23T16:00:00.000Z",
+   "start": "2026-06-23T16:00:10.000Z",
    "durationSec": 361,
    "channel": "EBS+",
    "status": "EDIT",
-   "title": "EP Stockshot",
+   "title": "EP Stockshots",
    "languages": [
     "INT"
    ],
    "items": [
     {
      "ref": "I-291723",
-     "title": "EP News Monetary Dialogue with Christine LAGARDE, President of the ECB",
+     "title": "EP Stockshots",
      "summary": "Infoclip: general views of Dublin (Ireland)",
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291723-V_v"
     }
    ],
-   "firstSeen": "2026-06-22T18:18:27+00:00"
+   "firstSeen": "2026-06-23T21:06:51+00:00"
   },
   {
    "ep": true,
-   "start": "2026-06-23T17:10:00.000Z",
-   "durationSec": 0,
+   "start": "2026-06-23T16:45:00.000Z",
+   "durationSec": 492,
+   "channel": "EBS+",
+   "status": "EDIT",
+   "title": "EP News EP Conference of Presidents meets with the incoming Irish Presidency of the Council",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-289957",
+     "title": "EP News EP Conference of Presidents meets with the incoming Irish Presidency of the Council",
+     "summary": "EP Conference of Presidents meets with the incoming Irish Presidency of the Council - meeting with the Oireachtas (Irish Parliament) Roberta METSOLA, EP President meets with Verona MURPHY, Ceann Comhairle (Speaker) family photo COP meets with the Oireachtas",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I289957-V_v"
+    },
+    {
+     "ref": "I-291495",
+     "title": "EP News EP Conference of Presidents meets with the incoming Irish Presidency of the Council",
+     "summary": "EP Conference of Presidents meets with the incoming Irish Presidency of the Council - Visit to Croke Park Stadium extracts",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291495-V_v"
+    }
+   ],
+   "firstSeen": "2026-06-23T21:06:51+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-06-23T17:19:02.040Z",
+   "durationSec": 1566,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "EP Press conference Incoming Irish Presidency of the Council",
@@ -681,66 +775,24 @@
     {
      "ref": "I-289963",
      "title": "EP Press conference Incoming Irish Presidency of the Council",
-     "summary": "Press Conference by Roberta METSOLA, EP President and Micheál MARTIN, Irish Prime Minister (Taoiseach)",
+     "summary": "Press Conference by Roberta METSOLA, EP President and Micheál MARTIN, Irish Prime Minister (Taoiseach) - Opening statements",
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I289963-V_v"
+    },
+    {
+     "ref": "I-291852",
+     "title": "EP Press conference Incoming Irish Presidency of the Council",
+     "summary": "Press Conference by Roberta METSOLA, EP President and Micheál MARTIN, Irish Prime Minister (Taoiseach) - Q&A",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291852-V_v"
     }
    ],
-   "firstSeen": "2026-06-22T18:18:27+00:00"
-  },
-  {
-   "ep": true,
-   "start": "2026-06-23T18:00:00.000Z",
-   "durationSec": 164,
-   "channel": "EBS",
-   "status": "",
-   "title": "EP News EP Conference of Presidents meets with the incoming Irish Presidency of the Council",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-289958",
-     "title": "EP News EP Conference of Presidents meets with the incoming Irish Presidency of the Council",
-     "summary": "EP Conference of Presidents meets with the incoming Irish Presidency of the Council - Roberta METSOLA, EP President meets with Catherine CONNOLLY, President of Ireland extracts",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I289958-V_v"
-    },
-    {
-     "ref": "I-289957",
-     "title": "EP News EP Conference of Presidents meets with the incoming Irish Presidency of the Council",
-     "summary": "EP Conference of Presidents meets with the incoming Irish Presidency of the Council - meeting with the Oireachtas (Irish Parliament) Roberta METSOLA, EP President meets with Verona MURPHY, Ceann Comhairle (Speaker) family photo COP meets with the Oireachtas",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I289957-V_v"
-    },
-    {
-     "ref": "I-291492",
-     "title": "EP News EP Conference of Presidents meets with the incoming Irish Presidency of the Council",
-     "summary": "EP Conference of Presidents meets with the incoming Irish Presidency of the Council - meeting with Helen MCENTEE, Irish Minister for Foreign Affairs and Trade, and Verona MURPHY, Ceann Comhairle (Speaker) extracts",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291492-V_v"
-    },
-    {
-     "ref": "I-291495",
-     "title": "EP News EP Conference of Presidents meets with the incoming Irish Presidency of the Council",
-     "summary": "EP Conference of Presidents meets with the incoming Irish Presidency of the Council - Visit to Croke Park Stadium extracts",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291495-V_v"
-    },
-    {
-     "ref": "I-289960",
-     "title": "EP News EP Conference of Presidents meets with the incoming Irish Presidency of the Council",
-     "summary": "EP Conference of Presidents meets with the incoming Irish Presidency of the Council - meeting with the Irish Government family photo meeting extracts from the press conference with Roberta METSOLA, EP President and Micheál MARTIN, Irish Prime Minister (Taoiseach)",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I289960-V_v"
-    }
-   ],
-   "firstSeen": "2026-06-22T18:18:27+00:00"
+   "firstSeen": "2026-06-23T21:06:51+00:00"
   },
   {
    "ep": false,
-   "start": "2026-06-23T18:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-06-23T17:50:10.000Z",
+   "durationSec": 1670,
    "channel": "EBS+",
    "status": "RECORDED",
    "title": "European Commissioner Dan JØRGENSEN in London, UK (22/06/2026)",
@@ -751,11 +803,32 @@
     {
      "ref": "I-291786",
      "title": "European Commissioner Dan JØRGENSEN in London, UK (22/06/2026)",
-     "summary": "Octopus Energy Tech Summit 2026 Keynote: Geopolitics and energy security: Powering a safer world",
+     "summary": "Octopus Energy Tech Summit 2026 Keynote: Geopolitics and energy security: Powering a safer world Panelists: General Sir Richard SHIRREFF, former Deputy Supreme Allied Commander Europe of NATO, Matteo RENZI, Strategic Counsellor of the Tony Blair Institute for Global Change and Former Italian Prime Minister, Dan JØRGENSEN, European Commissioner for Energy and Housing, and John KERRY, former US Secretary of State, Moderator: Ann METTLER, President of Catalyse Europe",
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-06-23T12:26:35+00:00"
+   "firstSeen": "2026-06-23T21:06:51+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-06-23T18:45:10.000Z",
+   "durationSec": 294,
+   "channel": "EBS+",
+   "status": "EDIT",
+   "title": "EP News EP Conference of Presidents meets with the incoming Irish Presidency of the Council",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-289960",
+     "title": "EP News EP Conference of Presidents meets with the incoming Irish Presidency of the Council",
+     "summary": "EP Conference of Presidents meets with the incoming Irish Presidency of the Council - meeting with the Irish Government family photo meeting extracts from the press conference with Roberta METSOLA, EP President and Micheál MARTIN, Irish Prime Minister (Taoiseach)",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I289960-V_v"
+    }
+   ],
+   "firstSeen": "2026-06-23T21:06:51+00:00"
   },
   {
    "ep": false,
@@ -977,6 +1050,26 @@
   },
   {
    "ep": false,
+   "start": "2026-06-24T11:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "EDIT",
+   "title": "European Council President António COSTA receives the President of Benin Romuald WADAGNI",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291817",
+     "title": "European Council President António COSTA receives the President of Benin Romuald WADAGNI",
+     "summary": "Welcome and roundtable",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-06-23T21:06:51+00:00"
+  },
+  {
+   "ep": false,
    "start": "2026-06-24T12:00:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
@@ -994,6 +1087,26 @@
     }
    ],
    "firstSeen": "2026-06-23T12:26:35+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-24T14:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "Signing ceremony for North Macedonia’s association to the EU4Health programme",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291192",
+     "title": "Signing ceremony for North Macedonia’s association to the EU4Health programme",
+     "summary": "Signing ceremony with Olivér VÁRHELYI, European Commissioner for Health and Animal Welfare and Azir ALIU, Minister of Health of North Macedonia",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-06-23T21:06:51+00:00"
   },
   {
    "ep": true,
@@ -1018,27 +1131,7 @@
   },
   {
    "ep": false,
-   "start": "2026-06-25T00:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "",
-   "title": "Ukraine Recovery Conference & Eastern Flank Summit in Gdańsk, Poland",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291255",
-     "title": "Ukraine Recovery Conference & Eastern Flank Summit in Gdańsk, Poland",
-     "summary": "Details to follow",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-06-22T18:18:27+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-06-25T01:00:00.000Z",
+   "start": "2026-06-25T02:00:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
    "status": "EDIT_RECORDED",
@@ -1060,7 +1153,7 @@
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-06-23T13:47:21+00:00"
+   "firstSeen": "2026-06-23T21:06:51+00:00"
   },
   {
    "ep": false,
@@ -1081,6 +1174,46 @@
     }
    ],
    "firstSeen": "2026-06-22T18:18:27+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-25T08:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "Ukraine Recovery Conference 2026 in Gdańsk, Poland",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291849",
+     "title": "Ukraine Recovery Conference 2026 in Gdańsk, Poland",
+     "summary": "High Level Opening Session Speech by Donald TUSK, Polish Prime Minister Speech by Yulia SVYRYDENKO, Prime Minister of Ukraine Speech by Ursula von der LEYEN, President of the European Commission",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-06-23T21:06:51+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-25T09:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "Ukraine Recovery Conference 2026 in Gdańsk, Poland",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291848",
+     "title": "Ukraine Recovery Conference 2026 in Gdańsk, Poland",
+     "summary": "Arrival at Amber EXPO Family photo",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-06-23T21:06:51+00:00"
   },
   {
    "ep": false,
@@ -1208,6 +1341,26 @@
   },
   {
    "ep": false,
+   "start": "2026-06-25T12:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "Ukraine Recovery Conference 2026 in Gdańsk, Poland",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291851",
+     "title": "Ukraine Recovery Conference 2026 in Gdańsk, Poland",
+     "summary": "Eastern Flank Summit Joint press statements",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-06-23T21:06:51+00:00"
+  },
+  {
+   "ep": false,
    "start": "2026-06-25T16:40:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
@@ -1272,6 +1425,26 @@
     }
    ],
    "firstSeen": "2026-06-22T18:18:27+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-26T06:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "High-level conference \"Strengthening islands and coastal communities of the European Union\" in Pafos, Cyprus (25/06/2026)",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291854",
+     "title": "High-level conference \"Strengthening islands and coastal communities of the European Union\" in Pafos, Cyprus",
+     "summary": "Guided journey tour through Pafos' heritage",
+     "inst": "Host"
+    }
+   ],
+   "firstSeen": "2026-06-23T21:06:51+00:00"
   },
   {
    "ep": false,
