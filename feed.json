@@ -1,827 +1,30 @@
 {
- "generatedAt": "2026-06-22T18:38:15+00:00",
+ "generatedAt": "2026-06-23T12:26:35+00:00",
  "events": [
   {
    "ep": false,
-   "start": "2026-06-22T06:45:46.400Z",
-   "durationSec": 4566,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "Agriculture and Fisheries Council",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291242",
-     "title": "Agriculture and Fisheries Council",
-     "summary": "Doorstep Costas KADIS, European Commissioner for Fisheries and Oceans",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-291667",
-     "title": "Agriculture and Fisheries Council",
-     "summary": "Doorstep Sari ESSAYAH, Minister of Agriculture and Forestry of Finland",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-291668",
-     "title": "Agriculture and Fisheries Council",
-     "summary": "Doorstep Martin HEYDON, Minister of Agriculture, Food and the Marine of Ireland",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-291669",
-     "title": "Agriculture and Fisheries Council",
-     "summary": "Arrival doorstep by Luis PLANAS, Spanish Minister for Agriculture, Fisheries and Food",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-291670",
-     "title": "Agriculture and Fisheries Council",
-     "summary": "Arrival doorstep by Margaritis SCHINAS, Greek Minister for Rural Development and Food",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-291671",
-     "title": "Agriculture and Fisheries Council",
-     "summary": "Arrival doorstep by Alois RAINER, German Federal Minister for Agriculture, Food and Regional Identity",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-291672",
-     "title": "Agriculture and Fisheries Council",
-     "summary": "Arrival doorstep by Maria PANAYIOTOU, Cypriot Minister for Agriculture, Rural Development and Environment",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-291677",
-     "title": "Agriculture and Fisheries Council",
-     "summary": "Arrival doorstep by Hilde CREVITS, Deputy Minister-President of the Government of Flanders and Flemish Minister for Home affairs, Urban and Rural Policy, Living Together, Integration and Civic Integration, Public Governance, Social Economy and Fisheries of Belgium",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-291678",
-     "title": "Agriculture and Fisheries Council",
-     "summary": "Arrival doorstep by Janez CIGLER KRALJ, Slovenian Minister for Agriculture",
-     "inst": "Council"
-    }
-   ],
-   "firstSeen": "2026-06-22T18:18:27+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-06-22T08:07:26.240Z",
-   "durationSec": 1381,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "10th Ministerial on Climate Action",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-290916",
-     "title": "10th Ministerial on Climate Action",
-     "summary": "Opening remarks delivered by the co-conveners Wopke HOEKSTRA, European Commissioner for Climate, Net Zero and Clean Growth Julie DABRUSIN, Canadian Minister for Environment and Climate Change HUANG Runqiu, Chinese Minister for Ecology and Environment",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-06-22T18:18:27+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-06-22T09:04:53.800Z",
-   "durationSec": 272,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "EU-Moldova Summit",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291652",
-     "title": "EU-Moldova Summit",
-     "summary": "António COSTA, President of the European Council, Ursula von der LEYEN, President of the European Commission welcomes Maia SANDU, President of Moldova",
-     "inst": "Council"
-    }
-   ],
-   "firstSeen": "2026-06-22T18:18:27+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-06-22T09:43:10.000Z",
-   "durationSec": 15,
-   "channel": "EBS",
-   "status": "EDIT",
-   "title": "EU-Moldova Summit",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291654",
-     "title": "EU-Moldova Summit",
-     "summary": "Trilateral meeting António COSTA, President of the European Council, Ursula von der LEYEN, President of the European Commission with Maia SANDU, President of Moldova",
-     "inst": "Council"
-    }
-   ],
-   "firstSeen": "2026-06-22T18:18:27+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-06-22T09:50:10.000Z",
-   "durationSec": 893,
-   "channel": "EBS+",
-   "status": "EDIT_RECORDED",
-   "title": "EUROPOL Management Board Meeting in Lefkosia, Cyprus",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291673",
-     "title": "EUROPOL Management Board Meeting in Lefkosia, Cyprus",
-     "summary": "Cutaways roundtable Opening statements by Costas FITIRIS, Minister of Justice and Public Order of Cyprus and Themistos ARNAOUTIS, Cypriot Chief of Police Family photo",
-     "inst": "Host"
-    }
-   ],
-   "firstSeen": "2026-06-22T18:18:27+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-06-22T10:12:15.680Z",
-   "durationSec": 226,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "EU-Moldova Summit",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291655",
-     "title": "EU-Moldova Summit",
-     "summary": "Plenary opening remarks by António COSTA, President of the European Council, Ursula von der LEYEN, President of the European Commission welcomes Maia SANDU, President of Moldova",
-     "inst": "Council"
-    }
-   ],
-   "firstSeen": "2026-06-22T18:18:27+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-06-22T10:22:39.640Z",
-   "durationSec": 2975,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "EC Midday press briefing of 22/06/2026",
-   "languages": [
-    "INT",
-    "EN",
-    "FR"
-   ],
-   "items": [
-    {
-     "ref": "I-291761",
-     "title": "EC Midday press briefing of 22/06/2026",
-     "summary": "ANNOUNCEMENT - President’s agenda ANNOUNCEMENT - Commission makes €1.1 billion available to improve Europe’s transport infrastructure ANNOUNCEMENT - Today’s Council ANNOUNCEMENT - Groups of visitors COLLEGE AGENDA - Ongoing visit of Commissioner Šuica to Israel and Palestine: Q&A MIGRATION - Return hubs: Q&A MIGRATION - Afghanistan: Q&A MEDIA FREEDOM ACT - Czechia: Q&A MIGRATION - Return hubs: follow up Q&A EU-UK RELATIONS - United Kingdom / Resignation of British PM Starmer / Upcoming EU-UK Summit: Q&A WAR IN UKRAINE - Belarus: Q&A TRADE - Trade diversification tool: Q&A FOREIGN AFFAIRS - Israel / Lebanon: question PRESIDENT AGENDA - EC-Ukraine relations: Q&A TRADE - China: Q&A TRADE - Outcome of the European Council of 18-19 June on illegal settlements: Q&A TRADE - Chinese hybrid plug-in cars: Q&A TRADE - Trade instrument that will provide solidarity within Member States to counter imbalances and unfair trade practices: Q&A INFRINGEMENT / ENVIRONMENT - Delta del Llobregat case: Q&A PRESIDENT AGENDA - Upcoming meeting between EC President von der Leyen and European Tech and Industry CEOs and outcome of the G7 Summit working lunch with partners countries on AI: Q&A DIGITAL POLICY - Anthropic: Q&A ENERGY - Electricity network codes: Q&A CLIMATE - Ongoing 10th Ministerial on Climate Action (MoCA10): Q&A FOREIGN AFFAIRS - Israel / Lebanon: Q&A Exterior views of the European Commission Berlaymont building Recorded cutaways",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-291226",
-     "title": "EC Midday press briefing of 22/06/2026",
-     "summary": "ANNOUNCEMENT - President’s agenda",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-291227",
-     "title": "EC Midday press briefing of 22/06/2026",
-     "summary": "ANNOUNCEMENT - Commission makes €1.1 billion available to improve Europe’s transport infrastructure",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-291724",
-     "title": "EC Midday press briefing of 22/06/2026",
-     "summary": "ANNOUNCEMENT - Today’s Council",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-291725",
-     "title": "EC Midday press briefing of 22/06/2026",
-     "summary": "ANNOUNCEMENT - Groups of visitors",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-291726",
-     "title": "EC Midday press briefing of 22/06/2026",
-     "summary": "COLLEGE AGENDA - Ongoing visit of Commissioner Šuica to Israel and Palestine: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-291728",
-     "title": "EC Midday press briefing of 22/06/2026",
-     "summary": "MIGRATION - Return hubs: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-291730",
-     "title": "EC Midday press briefing of 22/06/2026",
-     "summary": "MIGRATION - Afghanistan: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-291732",
-     "title": "EC Midday press briefing of 22/06/2026",
-     "summary": "MEDIA FREEDOM ACT - Czechia: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-291733",
-     "title": "EC Midday press briefing of 22/06/2026",
-     "summary": "MIGRATION - Return hubs: follow up Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-291734",
-     "title": "EC Midday press briefing of 22/06/2026",
-     "summary": "EU-UK RELATIONS - United Kingdom / Resignation of British PM Starmer / Upcoming EU-UK Summit: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-291735",
-     "title": "EC Midday press briefing of 22/06/2026",
-     "summary": "WAR IN UKRAINE - Belarus: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-291736",
-     "title": "EC Midday press briefing of 22/06/2026",
-     "summary": "TRADE - Trade diversification tool: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-291737",
-     "title": "EC Midday press briefing of 22/06/2026",
-     "summary": "FOREIGN AFFAIRS - Israel / Lebanon: question",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-291738",
-     "title": "EC Midday press briefing of 22/06/2026",
-     "summary": "PRESIDENT AGENDA - EC-Ukraine relations: Q&A",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-06-22T18:18:27+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-06-22T11:11:02.800Z",
-   "durationSec": 686,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "European Commissioner Dan JØRGENSEN in London, UK",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291628",
-     "title": "European Commissioner Dan JØRGENSEN in London, UK",
-     "summary": "Fireside chat with Electrify Britain at Climate Innovation Forum",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-06-22T18:18:27+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-06-22T11:15:10.000Z",
-   "durationSec": 86,
-   "channel": "EBS",
-   "status": "EDIT",
-   "title": "EU-Moldova Summit",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291739",
-     "title": "EU-Moldova Summit",
-     "summary": "Exterior views of the Europa and Justus Lipsius European Council buildings",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-291740",
-     "title": "EU-Moldova Summit",
-     "summary": "Arrivals of Ursula von der LEYEN, President of the European Commission, and Maia SANDU, President of Moldova",
-     "inst": "Council"
-    }
-   ],
-   "firstSeen": "2026-06-22T18:18:27+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-06-22T11:25:10.000Z",
-   "durationSec": 114,
-   "channel": "EBS",
-   "status": "EDIT",
-   "title": "EU-Moldova Summit",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291758",
-     "title": "EU-Moldova Summit",
-     "summary": "Roundtable of the plenary session",
-     "inst": "Council"
-    }
-   ],
-   "firstSeen": "2026-06-22T18:18:27+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-06-22T11:30:10.000Z",
-   "durationSec": 626,
-   "channel": "EBS",
-   "status": "EDIT",
-   "title": "Agriculture and Fisheries Council",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291416",
-     "title": "Agriculture and Fisheries Council",
-     "summary": "Exterior views of the European Convention Center Luxembourg",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-291417",
-     "title": "Agriculture and Fisheries Council",
-     "summary": "Compilation of all arrivals",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-291418",
-     "title": "Agriculture and Fisheries Council",
-     "summary": "Roundtable",
-     "inst": "Council"
-    }
-   ],
-   "firstSeen": "2026-06-22T18:18:27+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-06-22T12:41:43.120Z",
-   "durationSec": 1952,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "EU-Moldova Summit",
-   "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "RO"
-   ],
-   "items": [
-    {
-     "ref": "I-291771",
-     "title": "EU-Moldova Summit",
-     "summary": "Press conference opening remarks by António COSTA, President of the European Council Press conference opening remarks by Ursula von der LEYEN Press conference opening remarks by Maia SANDU, President of Moldova Q&A",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-291653",
-     "title": "EU-Moldova Summit",
-     "summary": "Press conference opening remarks by António COSTA, President of the European Council",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-291763",
-     "title": "EU-Moldova Summit",
-     "summary": "Press conference opening remarks by Ursula von der LEYEN",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-291765",
-     "title": "EU-Moldova Summit",
-     "summary": "Press conference opening remarks by Maia SANDU, President of Moldova",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-291766",
-     "title": "EU-Moldova Summit",
-     "summary": "Q&A",
-     "inst": "Council"
-    }
-   ],
-   "firstSeen": "2026-06-22T18:18:27+00:00"
-  },
-  {
-   "ep": true,
-   "start": "2026-06-22T13:07:47.800Z",
-   "durationSec": 5953,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "EP Monetary Dialogue with Christine LAGARDE, President of the European Central Bank ECON Committee",
-   "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "DE",
-    "IT",
-    "ES",
-    "EL",
-    "PT",
-    "NL",
-    "FI",
-    "CS",
-    "HU",
-    "PL"
-   ],
-   "items": [
-    {
-     "ref": "I-291397",
-     "title": "EP Monetary Dialogue with Christine LAGARDE, President of the European Central Bank ECON Committee",
-     "summary": "Opening statements by Aurore LALUCQ (S&D, FR), ECON Committee Chair and Christine LAGARDE, President of the European Central Bank Committee on Economic and Monetary Affairs (ECON)",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291397-V_v"
-    },
-    {
-     "ref": "I-291398",
-     "title": "EP Monetary Dialogue with Christine LAGARDE, President of the European Central Bank ECON Committee",
-     "summary": "Q&A Committee on Economic and Monetary Affairs (ECON)",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291398-V_v"
-    }
-   ],
-   "firstSeen": "2026-06-22T18:18:27+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-06-22T13:30:10.000Z",
-   "durationSec": 82,
-   "channel": "EBS",
-   "status": "RECORDED",
-   "title": "EU-Moldova Summit",
-   "languages": [
-    "INT",
-    "EN",
-    "RO"
-   ],
-   "items": [
-    {
-     "ref": "I-291741",
-     "title": "EU-Moldova Summit",
-     "summary": "Signing ceremony of Research Framework Arrangement between the Joint Research Centre of the European Commission and the Ministry of Education and Research of the Republic of Moldova. Witnessed by Antonio COSTA, President of the European Council, Ursula VON DER LEYEN, President of the European Commission, and Maia SANDU, President of Moldova Signatories: Mihai POPSOI, Deputy Prime Minister, Minister of Foreign Affairs (MD), Bernard MAGENHANN, Director-General of the Joint Research Centre (EU) Letters of intent: 1. Moldova’s automotive sector Receiving: Dr. Holger FASTABEND, Managing Director, CEO, CTO of Gebauer & Griller Kabelwerke Gesellschaft m.b.H (Automotive Sector) By: Gert Jan KOOPMAN, Director General ENEST (EU) 2. MedTech and the development of an innovative ecosystem around Moldova HiTech Park Receiving: Doina NISTOR, Board President of the Moldova HiTech Park (MedTech Sector) By: Gert Jan KOOPMAN, Director General ENEST (EU)",
-     "inst": "Council"
-    }
-   ],
-   "firstSeen": "2026-06-22T18:18:27+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-06-22T13:35:10.000Z",
-   "durationSec": 156,
-   "channel": "EBS",
-   "status": "RECORDED",
-   "title": "Agriculture and Fisheries Council",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291772",
-     "title": "Agriculture and Fisheries Council",
-     "summary": "Doorstep Jacek CZERNIAK, Secretary of State, Ministry of Agriculture and Rural Development of Poland",
-     "inst": "Council"
-    }
-   ],
-   "firstSeen": "2026-06-22T18:18:27+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-06-22T13:50:10.000Z",
-   "durationSec": 593,
-   "channel": "EBS",
-   "status": "RECORDED",
-   "title": "European Commissioner Jozef SÍKELA in Brazil",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291248",
-     "title": "European Commissioner Jozef SÍKELA in Brazil",
-     "summary": "Opening of the Future Affairs Forum",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-06-22T18:18:27+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-06-22T15:00:00.000Z",
-   "durationSec": 461,
-   "channel": "EBS",
-   "status": "RECORDED",
-   "title": "European Commissioner Jozef SÍKELA in Brazil",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291773",
-     "title": "European Commissioner Jozef SÍKELA in Brazil",
-     "summary": "Press point",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-06-22T18:18:27+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-06-22T15:10:10.000Z",
-   "durationSec": 161,
+   "start": "2026-06-23T06:30:10.000Z",
+   "durationSec": 251,
    "channel": "EBS",
    "status": "EDIT_RECORDED",
-   "title": "European Commissioner Dubravka ŠUICA in Israel",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291419",
-     "title": "European Commissioner Dubravka ŠUICA in Israel",
-     "summary": "Meeting with Gideon SA'AR, Israeli Minister of Foreign Affairs with opening statements",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-06-22T18:18:27+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-06-22T15:22:19.520Z",
-   "durationSec": 4484,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "ECB High-Level Panel The International Role of the Euro",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291617",
-     "title": "ECB High-Level Panel The International Role of the Euro",
-     "summary": "With the participation of Christine LAGARDE, President of the European Central Bank (ECB) and Valdis DOMBROVSKIS, European Commissioner for Economy and Productivity, and European Commissioner for Implementation and Simplification",
-     "inst": "European Central B"
-    }
-   ],
-   "firstSeen": "2026-06-22T18:18:27+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-06-22T15:25:10.000Z",
-   "durationSec": 311,
-   "channel": "EBS",
-   "status": "RECORDED",
-   "title": "Agriculture and Fisheries Council",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291679",
-     "title": "Agriculture and Fisheries Council",
-     "summary": "Doorstep by Annie GENEVARD, Ministre de l'Agriculture et de la Souveraineté alimentaire de la France",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-291777",
-     "title": "Agriculture and Fisheries Council",
-     "summary": "Doorstep by David CLARINVAL, Deputy Prime Minister and Minister of Employment, Economy and Agriculture of Belgium",
-     "inst": "Council"
-    }
-   ],
-   "firstSeen": "2026-06-22T18:18:27+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-06-22T15:35:10.000Z",
-   "durationSec": 30,
-   "channel": "EBS",
-   "status": "EDIT",
-   "title": "High Representative / Vice-President Kaja KALLAS in Amman, Jordan for the meeting of Ministers of the League of Arab States",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291250",
-     "title": "High Representative / Vice-President Kaja KALLAS in Amman, Jordan for the meeting of Ministers of the League of Arab States",
-     "summary": "Bilateral meeting with Asaad Hassan Al-SHALBANI, Minister of Foreign Affairs of Syria",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-06-22T18:18:27+00:00"
-  },
-  {
-   "ep": true,
-   "start": "2026-06-22T17:00:10.000Z",
-   "durationSec": 290,
-   "channel": "EBS",
-   "status": "EDIT",
-   "title": "EP News Monetary Dialogue with Christine LAGARDE, President of the ECB",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291405",
-     "title": "EP News Monetary Dialogue with Christine LAGARDE, President of the ECB",
-     "summary": "Monetary Dialogue with Christine LAGARDE, President of the European Central Bank (ECB) extracts from the debate ECON Committee",
-     "inst": "EP"
-    }
-   ],
-   "firstSeen": "2026-06-22T18:18:27+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-06-22T17:18:36.680Z",
-   "durationSec": 1075,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "Agriculture and Fisheries Council",
-   "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "DE",
-    "IT",
-    "ES",
-    "EL"
-   ],
-   "items": [
-    {
-     "ref": "I-291791",
-     "title": "Agriculture and Fisheries Council",
-     "summary": "Press conference opening remarks by Maria PANAYIOTOU, Minister of Agriculture, Rural Development Press conference opening remarks by Costas KADIS, European Commissioner for Fisheries and Oceans Press conference Q&A with Maria PANAYIOTOU, Minister of Agriculture, Rural Development and Environment of Cyprus, and Costas KADIS, European Commissioner for Fisheries and Oceans",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-291410",
-     "title": "Agriculture and Fisheries Council",
-     "summary": "Press conference opening remarks by Maria PANAYIOTOU, Minister of Agriculture, Rural Development",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-291787",
-     "title": "Agriculture and Fisheries Council",
-     "summary": "Press conference opening remarks by Costas KADIS, European Commissioner for Fisheries and Oceans",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-291788",
-     "title": "Agriculture and Fisheries Council",
-     "summary": "Press conference Q&A with Maria PANAYIOTOU, Minister of Agriculture, Rural Development and Environment of Cyprus, and Costas KADIS, European Commissioner for Fisheries and Oceans",
-     "inst": "Council"
-    }
-   ],
-   "firstSeen": "2026-06-22T18:18:27+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-06-22T18:00:10.000Z",
-   "durationSec": 38,
-   "channel": "EBS",
-   "status": "EDIT",
-   "title": "European Council President António COSTA receives the President of Kazakhstan Kassym-Jomart TOKAYEV",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291708",
-     "title": "European Council President António COSTA receives the President of Kazakhstan Kassym-Jomart TOKAYEV",
-     "summary": "Welcome and roundtable",
-     "inst": "Council"
-    }
-   ],
-   "firstSeen": "2026-06-22T18:18:27+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-06-22T18:30:10.000Z",
-   "durationSec": 60,
-   "channel": "EBS",
-   "status": "EDIT",
-   "title": "High Representative / Vice-President Kaja KALLAS in Amman, Jordan for the meeting of Ministers of the League of Arab States",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291783",
-     "title": "High Representative / Vice-President Kaja KALLAS in Amman, Jordan for the meeting of Ministers of the League of Arab States",
-     "summary": "Bilateral meeting with Ayman SAFADI, Deputy Prime Minister and Minister of Foreign Affairs and Expatriates of Jordan",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-291792",
-     "title": "High Representative / Vice-President Kaja KALLAS in Amman, Jordan for the meeting of Ministers of the League of Arab States",
-     "summary": "Bilateral meeting with H.E. Abdoulkader HOUSSEIN OMAR, Minister of Foreign Affairs and International Cooperation of Djibouti",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-06-22T18:38:15+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-06-23T00:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "",
-   "title": "High Representative / Vice-President Kaja KALLAS in Amman, Jordan for the meeting of Ministers of the League of Arab States",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291251",
-     "title": "High Representative / Vice-President Kaja KALLAS in Amman, Jordan for the meeting of Ministers of the League of Arab States",
-     "summary": "Details to follow",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-06-22T18:18:27+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-06-23T01:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "",
-   "title": "European Commissioner Dubravka ŠUICA in Israel",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291420",
-     "title": "European Commissioner Dubravka ŠUICA in Israel",
-     "summary": "Details to follow",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-06-22T18:18:27+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-06-23T01:30:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "",
-   "title": "European Commissioner Dubravka ŠUICA in Palestine",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291752",
-     "title": "European Commissioner Dubravka ŠUICA in Palestine",
-     "summary": "Details to follow",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-06-22T18:18:27+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-06-23T06:30:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "EDIT_RECORDED",
-   "title": "European Commissioner Dubravka ŠUICA in Israel (22/06/2026)",
+   "title": "European Commissioner Dubravka ŠUICA in West Jerusalem (22/06/2026)",
    "languages": [
     "INT"
    ],
    "items": [
     {
      "ref": "I-291658",
-     "title": "European Commissioner Dubravka ŠUICA in Israel (22/06/2026)",
+     "title": "European Commissioner Dubravka ŠUICA in West Jerusalem (22/06/2026)",
      "summary": "Visit to Yad Vashem: the World Holocaust Remembrance Center",
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-06-22T18:18:27+00:00"
+   "firstSeen": "2026-06-23T12:26:35+00:00"
   },
   {
    "ep": false,
-   "start": "2026-06-23T07:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-06-23T07:01:03.400Z",
+   "durationSec": 2674,
    "channel": "EBS",
    "status": "LIVE",
    "title": "Agriculture and Fisheries Council",
@@ -832,16 +35,28 @@
     {
      "ref": "I-291411",
      "title": "Agriculture and Fisheries Council",
-     "summary": "Arrivals and doorsteps",
+     "summary": "Doorstep by Rolandas TARAŠKEVIČIUS, Vice-Minister for Agriculture of Lithuania",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291798",
+     "title": "Agriculture and Fisheries Council",
+     "summary": "Doorstep Norbert TOTSCHNIG, Federal Minister for Agriculture and Forestry, Climate and Environmental Protection, Regions and Water of Austria",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291799",
+     "title": "Agriculture and Fisheries Council",
+     "summary": "Doorstep Margaritis SCHINAS, Minister of Rural Development and Food of Greece",
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-06-19T14:22:55+00:00"
+   "firstSeen": "2026-06-23T12:26:35+00:00"
   },
   {
    "ep": true,
-   "start": "2026-06-23T07:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-06-23T07:12:15.760Z",
+   "durationSec": 4967,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "EP Economic dialogue on European semester 2026 ECON / EMPL Committees",
@@ -880,20 +95,80 @@
      "title": "EP Economic dialogue on European semester 2026 ECON / EMPL Committees",
      "summary": "Q&A Committee on Economic and Monetary Affairs (ECON) and Committee on Employment and Social Affairs (EMPL)",
      "inst": "EP"
-    },
-    {
-     "ref": "I-291403",
-     "title": "EP Economic dialogue on European semester 2026 ECON / EMPL Committees",
-     "summary": "Closing statements by Aurore LALUCQ (S&D, FR), ECON Committee Chair, Li ANDERSSON (The Left, FL), EMPL Committee Chair Committee on Economic and Monetary Affairs (ECON) and Committee on Employment and Social Affairs (EMPL)",
-     "inst": "EP"
     }
    ],
-   "firstSeen": "2026-06-19T14:22:55+00:00"
+   "firstSeen": "2026-06-23T12:26:35+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-23T08:00:10.000Z",
+   "durationSec": 58,
+   "channel": "EBS",
+   "status": "RECORDED",
+   "title": "European Commissioner Dubravka ŠUICA in East Jerusalem",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291420",
+     "title": "European Commissioner Dubravka ŠUICA in East Jerusalem",
+     "summary": "Press statement at Augusta Victoria Hospital",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-06-23T12:26:35+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-23T08:15:10.000Z",
+   "durationSec": 50,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "High Representative / Vice-President Kaja KALLAS in Amman, Jordan for the meeting of Ministers of the League of Arab States",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291794",
+     "title": "High Representative / Vice-President Kaja KALLAS in Amman, Jordan for the meeting of Ministers of the League of Arab States",
+     "summary": "Bilateral meeting with Ahmed ATTAF, Algerian Minister for Foreign Affairs, National Community Abroad and African Affairs",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-291795",
+     "title": "High Representative / Vice-President Kaja KALLAS in Amman, Jordan for the meeting of Ministers of the League of Arab States",
+     "summary": "Bilateral meeting with Youssef RAJJI, Lebanese Minister for Foreign Affairs and Emigrants",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-06-23T12:26:35+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-23T08:30:10.000Z",
+   "durationSec": 103,
+   "channel": "EBS",
+   "status": "RECORDED",
+   "title": "Agriculture and Fisheries Council",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291801",
+     "title": "Agriculture and Fisheries Council",
+     "summary": "Doorstep Janez CIGLER KRALJ, Slovenian Minister for Agriculture",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-06-23T12:26:35+00:00"
   },
   {
    "ep": true,
-   "start": "2026-06-23T08:30:00.000Z",
-   "durationSec": 0,
+   "start": "2026-06-23T08:40:10.000Z",
+   "durationSec": 4304,
    "channel": "EBS+",
    "status": "RECORDED",
    "title": "Brussels dialogue conference with Russian pro-democratic forces",
@@ -932,17 +207,17 @@
     {
      "ref": "I-291675",
      "title": "Brussels dialogue conference with Russian pro-democratic forces",
-     "summary": "Keynote addresses by Roberta METSOLA, EP President (video message), Pina PICIERNO (Renew, IT), Andrius KUBILIUS, European Commissioner for Defence and Space and Marta KOS, European Commissioner for Enlargement and Mariana KATZAROVA, UN Special Rapporteur on the situation of human rights in the Russian Federation",
+     "summary": "Keynote addresses by Roberta METSOLA, EP President (video message), Pina PICIERNO (Renew, IT), Mariana KATZAROVA, UN Special Rapporteur on the situation of human rights in the Russian Federation, Svetlana GANNUSHKINA, Human Rights activist and founder and Chairperson of the Civic Assistance Committee, Marta KOS, European Commissioner for Enlargement and Andrius KUBILIUS, European Commissioner for Defence and Space",
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291675-V_v"
     }
    ],
-   "firstSeen": "2026-06-22T18:18:27+00:00"
+   "firstSeen": "2026-06-23T12:26:35+00:00"
   },
   {
    "ep": true,
-   "start": "2026-06-23T09:15:00.000Z",
-   "durationSec": 0,
+   "start": "2026-06-23T09:16:03.360Z",
+   "durationSec": 1436,
    "channel": "EBS",
    "status": "LIVE",
    "title": "EP Press Conference Democracy Shield",
@@ -960,32 +235,12 @@
      "inst": "EP"
     }
    ],
-   "firstSeen": "2026-06-22T18:18:27+00:00"
+   "firstSeen": "2026-06-23T12:26:35+00:00"
   },
   {
    "ep": false,
-   "start": "2026-06-23T09:35:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "EU-Kazakhstan Signing Ceremony",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291770",
-     "title": "EU-Kazakhstan Signing Ceremony",
-     "summary": "Signing ceremony",
-     "inst": "Council"
-    }
-   ],
-   "firstSeen": "2026-06-22T18:18:27+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-06-23T09:45:00.000Z",
-   "durationSec": 0,
+   "start": "2026-06-23T09:45:10.000Z",
+   "durationSec": 543,
    "channel": "EBS",
    "status": "EDIT",
    "title": "Agriculture and Fisheries Council",
@@ -1012,72 +267,12 @@
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-06-19T14:22:55+00:00"
+   "firstSeen": "2026-06-23T12:26:35+00:00"
   },
   {
    "ep": false,
-   "start": "2026-06-23T09:55:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS+",
-   "status": "EDIT",
-   "title": "European Council President António COSTA and European Commission President Ursula von der LEYEN receives the President of Kazakhstan Kassym-Jomart TOKAYEV",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291782",
-     "title": "European Council President António COSTA and European Commission President Ursula von der LEYEN receives the President of Kazakhstan Kassym-Jomart TOKAYEV",
-     "summary": "Welcome and roundtable",
-     "inst": "Council"
-    }
-   ],
-   "firstSeen": "2026-06-22T18:18:27+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-06-23T10:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "EC Midday press briefing of 23/06/2026",
-   "languages": [
-    "INT",
-    "EN",
-    "FR"
-   ],
-   "items": [
-    {
-     "ref": "I-291230",
-     "title": "EC Midday press briefing of 23/06/2026",
-     "summary": "Announcements",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-291231",
-     "title": "EC Midday press briefing of 23/06/2026",
-     "summary": "Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-291232",
-     "title": "EC Midday press briefing of 23/06/2026",
-     "summary": "Exterior views of the European Commission Berlaymont building",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-291233",
-     "title": "EC Midday press briefing of 23/06/2026",
-     "summary": "Recorded cutaways",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-01-01T00:00:00+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-06-23T10:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-06-23T10:00:10.000Z",
+   "durationSec": 1511,
    "channel": "EBS+",
    "status": "RECORDED",
    "title": "High-Level Launch of the Connectivity Agenda Platform",
@@ -1096,14 +291,186 @@
      "title": "High-Level Launch of the Connectivity Agenda Platform",
      "summary": "Opening remarks by Marta KOS, European Commissioner for Enlargement",
      "inst": "EC"
+    },
+    {
+     "ref": "I-291810",
+     "title": "High-Level Launch of the Connectivity Agenda Platform",
+     "summary": "Family photo",
+     "inst": "EC"
     }
    ],
-   "firstSeen": "2026-06-22T18:18:27+00:00"
+   "firstSeen": "2026-06-23T12:26:35+00:00"
   },
   {
    "ep": false,
-   "start": "2026-06-23T11:15:00.000Z",
-   "durationSec": 0,
+   "start": "2026-06-23T10:16:40.640Z",
+   "durationSec": 3465,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "EC Midday press briefing of 23/06/2026",
+   "languages": [
+    "INT",
+    "EN",
+    "FR"
+   ],
+   "items": [
+    {
+     "ref": "I-291830",
+     "title": "EC Midday press briefing of 23/06/2026",
+     "summary": "ANNOUNCEMENT - College agenda and press arrangements ANNOUNCEMENT - Today’s Council ANNOUNCEMENT - Groups of visitors MIGRATION - Afghanistan: Q&A RULE OF LAW - Hungary / Age limit for judges: Q&A CODE OF CONDUCT - Qatargate / Former Commissioner Avramopoulos: Q&A BREXIT - 10 years: Q&A PRESIDENT AGENDA / ARTIFICIAL INTELLIGENCE (AI) - Outcome of the meeting between EC President von der Leyen and European Tech and Industry CEOs / Anthropic DEFENCE - Security Action for Europe (SAFE) instrument / United Kingdom: Q&A PRESIDENT AGENDA / ARTIFICIAL INTELLIGENCE (AI) - Outcome of the meeting between EC President von der Leyen and European Tech and Industry CEOs / European preference / Made in Europe PRESIDENT AGENDA / FOREIGN AFFAIRS - Ukraine Recovery Conference, in Gdansk, Poland / Peace negotiations: Q&A COLLEGE AGENDA - Ongoing visit of Commissioner Šuica to Israel and Palestine: question PRESIDENT AGENDA / FOREIGN AFFAIRS - Ukraine Recovery Conference, in Gdansk, Poland / Peace negotiations: follow up Q&A COLLEGE AGENDA - Ongoing visit of Commissioner Šuica to Israel and Palestine: answer TRADE - Outcome of the European Council of 18-19 June on illegal settlements: Q&A FOREIGN AFFAIRS - Visit of HVRP Kallas to Jordan: Q&A EU-UK RELATIONS - Upcoming EU-UK Summit: Q&A Exterior views of the European Commission Berlaymont building Recorded cutaways",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-291230",
+     "title": "EC Midday press briefing of 23/06/2026",
+     "summary": "ANNOUNCEMENT - College agenda and press arrangements",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-291231",
+     "title": "EC Midday press briefing of 23/06/2026",
+     "summary": "ANNOUNCEMENT - Today’s Council",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-291804",
+     "title": "EC Midday press briefing of 23/06/2026",
+     "summary": "ANNOUNCEMENT - Groups of visitors",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-291805",
+     "title": "EC Midday press briefing of 23/06/2026",
+     "summary": "MIGRATION - Afghanistan: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-291806",
+     "title": "EC Midday press briefing of 23/06/2026",
+     "summary": "RULE OF LAW - Hungary / Age limit for judges: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-291807",
+     "title": "EC Midday press briefing of 23/06/2026",
+     "summary": "CODE OF CONDUCT - Qatargate / Former Commissioner Avramopoulos: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-291808",
+     "title": "EC Midday press briefing of 23/06/2026",
+     "summary": "BREXIT - 10 years: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-291809",
+     "title": "EC Midday press briefing of 23/06/2026",
+     "summary": "PRESIDENT AGENDA / ARTIFICIAL INTELLIGENCE (AI) - Outcome of the meeting between EC President von der Leyen and European Tech and Industry CEOs / Anthropic",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-291818",
+     "title": "EC Midday press briefing of 23/06/2026",
+     "summary": "DEFENCE - Security Action for Europe (SAFE) instrument / United Kingdom: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-291819",
+     "title": "EC Midday press briefing of 23/06/2026",
+     "summary": "PRESIDENT AGENDA / ARTIFICIAL INTELLIGENCE (AI) - Outcome of the meeting between EC President von der Leyen and European Tech and Industry CEOs / European preference / Made in Europe",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-291820",
+     "title": "EC Midday press briefing of 23/06/2026",
+     "summary": "PRESIDENT AGENDA / FOREIGN AFFAIRS - Ukraine Recovery Conference, in Gdansk, Poland / Peace negotiations: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-291821",
+     "title": "EC Midday press briefing of 23/06/2026",
+     "summary": "COLLEGE AGENDA - Ongoing visit of Commissioner Šuica to Israel and Palestine: question",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-291822",
+     "title": "EC Midday press briefing of 23/06/2026",
+     "summary": "PRESIDENT AGENDA / FOREIGN AFFAIRS - Ukraine Recovery Conference, in Gdansk, Poland / Peace negotiations: follow up Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-291824",
+     "title": "EC Midday press briefing of 23/06/2026",
+     "summary": "COLLEGE AGENDA - Ongoing visit of Commissioner Šuica to Israel and Palestine: answer",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-06-23T12:26:35+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-23T10:32:10.000Z",
+   "durationSec": 82,
+   "channel": "EBS+",
+   "status": "EDIT",
+   "title": "European Council President António COSTA and European Commission President Ursula von der LEYEN receives the President of Kazakhstan Kassym-Jomart TOKAYEV",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291782",
+     "title": "European Council President António COSTA and European Commission President Ursula von der LEYEN receives the President of Kazakhstan Kassym-Jomart TOKAYEV",
+     "summary": "Welcome and roundtable",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-06-23T12:26:35+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-23T10:35:10.000Z",
+   "durationSec": 336,
+   "channel": "EBS+",
+   "status": "RECORDED",
+   "title": "EU-Kazakhstan Signing Ceremony",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291770",
+     "title": "EU-Kazakhstan Signing Ceremony",
+     "summary": "Signing ceremony Witnessing by António COSTA, President of the European Council, Ursula von der LEYEN, President of the European Commission, and Kassym-Jomart TOKAYEV, President of Kazakhstan European Commission signatory: Apostolos TZITZIKOSTAS, European Commissioner for Sustainable Transport and Tourism Kazakhstan signatory: Nurlan SAURANBAYEV, Minister for Transport of the Republic of Kazakhstan • Agreement between the European Union and the Government of the Republic of Kazakhstan on certain aspects of air services EIB signatory: Vice President Marek MORA Kazakhstan signatory: Darkhan IMANASHEV, Chairman of the Kazakh National Road Company (“KazAvtoZhol”) • Framework loan agreement for the rehabilitation of Kazakh roads contributing to the Trans-Caspian Transport Corridor between the European Investment Bank (EIB) and the Kazakh National Road Company (2). EBRD signatory: Huseyin OZHAN, Managing Director for Central Asia and Mongolia of the EBRD Kazakhstan signatory: Yerasyl NAGASPAYEV, Minister of Industry and Construction of Kazakhstan • Memorandum of Understanding on the internationally accredited national chemical-analytical laboratory between the European Bank for Reconstruction and Development (EBRD) and the Ministry of Industry and Construction of Kazakhstan EBRD signatory: Huseyin OZHAN, Managing Director for Central Asia and Mongolia of the EBRD Kazakhstan signatory: Nurlan SAURANBAYEV, Minister of Transport of the Republic of Kazakhstan • Memorandum of Understanding between the EBRD and the Ministry of Transport of Kazakhstan on the implementation of intelligent transport systems and the provision of a grant for the deployment of the E-Joldary digital platform Europe Region Airbus, Joan PELISSIER, President for the Europe Region Airbus Kazakhstan signatory: Nurlan ZHAKUPOV, Chairman of the Board of Directors, Air Astana • Signing of the purchase agreement between Air Astana and Airbus",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-06-23T12:26:35+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-23T11:20:10.000Z",
+   "durationSec": 182,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "European Commissioner Dubravka ŠUICA in East Jerusalem",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291803",
+     "title": "European Commissioner Dubravka ŠUICA in East Jerusalem",
+     "summary": "Visit to Augusta Victoria Hospital",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-06-23T12:26:35+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-23T11:20:51.960Z",
+   "durationSec": 1471,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "European Commission Executive Vice-President Teresa RIBERA in London, UK for the State of Climate Politics Forum",
@@ -1118,12 +485,59 @@
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-06-19T14:22:55+00:00"
+   "firstSeen": "2026-06-23T12:26:35+00:00"
   },
   {
    "ep": false,
-   "start": "2026-06-23T11:30:00.000Z",
-   "durationSec": 0,
+   "start": "2026-06-23T11:30:10.240Z",
+   "durationSec": 660,
+   "channel": "EBS",
+   "status": "RECORDED",
+   "title": "European Commissioner Dubravka ŠUICA in Ramallah",
+   "languages": [
+    "INT",
+    "EN"
+   ],
+   "items": [
+    {
+     "ref": "I-291752",
+     "title": "European Commissioner Dubravka ŠUICA in Ramallah",
+     "summary": "Joint press conference with Mohammad MUSTAFA, Palestinian Prime Minister",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-06-23T12:26:35+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-23T11:45:10.000Z",
+   "durationSec": 71,
+   "channel": "EBS",
+   "status": "RECORDED",
+   "title": "European Commissioner Dubravka ŠUICA in Ramallah",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291828",
+     "title": "European Commissioner Dubravka ŠUICA in Ramallah",
+     "summary": "Bilateral with Hussein AL SHEIKH, Vice-President of the State of Palestine",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-291829",
+     "title": "European Commissioner Dubravka ŠUICA in Ramallah",
+     "summary": "Bilateral with Mohammad MUSTAFA, Prime Minister of the State of Palestine",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-06-23T12:26:35+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-23T12:20:10.000Z",
+   "durationSec": 3211,
    "channel": "EBS",
    "status": "RECORDED",
    "title": "European Defence & Security Summit",
@@ -1144,14 +558,14 @@
      "inst": "Other Organisation"
     }
    ],
-   "firstSeen": "2026-06-22T18:18:27+00:00"
+   "firstSeen": "2026-06-23T12:26:35+00:00"
   },
   {
    "ep": false,
-   "start": "2026-06-23T12:30:00.000Z",
+   "start": "2026-06-23T13:25:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
-   "status": "LIVE_RECORDED",
+   "status": "RECORDED",
    "title": "European Commissioner Jozef SÍKELA in Brazil",
    "languages": [
     "INT"
@@ -1160,11 +574,11 @@
     {
      "ref": "I-291249",
      "title": "European Commissioner Jozef SÍKELA in Brazil",
-     "summary": "Opening of the 2nd EU–Brazil Investment Forum Press point",
+     "summary": "Opening Session 2nd EU–Brazil Investment Forum: The Mercosur–EU Agreement, a Strategic Step for Competitive Integration",
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-06-22T18:18:27+00:00"
+   "firstSeen": "2026-06-23T12:26:35+00:00"
   },
   {
    "ep": false,
@@ -1185,6 +599,26 @@
     }
    ],
    "firstSeen": "2026-06-22T18:18:27+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-23T14:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE_RECORDED",
+   "title": "European Commissioner Jozef SÍKELA in Brazil",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291813",
+     "title": "European Commissioner Jozef SÍKELA in Brazil",
+     "summary": "Press point",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-06-23T12:26:35+00:00"
   },
   {
    "ep": false,
@@ -1215,7 +649,7 @@
   {
    "ep": true,
    "start": "2026-06-23T16:00:00.000Z",
-   "durationSec": 0,
+   "durationSec": 361,
    "channel": "EBS+",
    "status": "EDIT",
    "title": "EP Stockshot",
@@ -1227,7 +661,8 @@
      "ref": "I-291723",
      "title": "EP News Monetary Dialogue with Christine LAGARDE, President of the ECB",
      "summary": "Infoclip: general views of Dublin (Ireland)",
-     "inst": "EP"
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291723-V_v"
     }
    ],
    "firstSeen": "2026-06-22T18:18:27+00:00"
@@ -1256,7 +691,7 @@
   {
    "ep": true,
    "start": "2026-06-23T18:00:00.000Z",
-   "durationSec": 0,
+   "durationSec": 164,
    "channel": "EBS",
    "status": "",
    "title": "EP News EP Conference of Presidents meets with the incoming Irish Presidency of the Council",
@@ -1301,6 +736,26 @@
     }
    ],
    "firstSeen": "2026-06-22T18:18:27+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-23T18:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "RECORDED",
+   "title": "European Commissioner Dan JØRGENSEN in London, UK (22/06/2026)",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291786",
+     "title": "European Commissioner Dan JØRGENSEN in London, UK (22/06/2026)",
+     "summary": "Octopus Energy Tech Summit 2026 Keynote: Geopolitics and energy security: Powering a safer world",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-06-23T12:26:35+00:00"
   },
   {
    "ep": false,
@@ -1354,7 +809,7 @@
    "durationSec": 0,
    "channel": "EBS",
    "status": "LIVE",
-   "title": "Read-out of the College meeting / press conference (details to follow)",
+   "title": "Read-out of the College meeting / press conference by European Commission Executive Vice-President Henna VIRKKUNEN and Commissioners Magnus BRUNNER and Micheal McGRATH on the European law enforcement package",
    "languages": [
     "INT",
     "EN",
@@ -1384,12 +839,12 @@
    "items": [
     {
      "ref": "I-291259",
-     "title": "Read-out of the College meeting / press conference (details to follow)",
-     "summary": "Read-out of the College meeting / press conference",
+     "title": "Read-out of the College meeting / press conference by European Commission Executive Vice-President Henna VIRKKUNEN and Commissioners Magnus BRUNNER and Micheal McGRATH on the European law enforcement package",
+     "summary": "Read-out of the College meeting / press conference by Henna VIRKKUNEN, Executive Vice-President of the European Commission for Tech Sovereignty, Security and Democracy, Magnus BRUNNER, European Commissioner for Internal Affairs and Migration and Michael MCGRATH, European Commissioner for Democracy, Justice, the Rule of Law, and Consumer Protection",
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-06-18T14:26:02+00:00"
+   "firstSeen": "2026-06-23T12:26:35+00:00"
   },
   {
    "ep": false,
@@ -1397,7 +852,7 @@
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
-   "title": "Read-out of the College meeting / press conference with international sign language (details to follow)",
+   "title": "Read-out of the College meeting / press conference (with international sign language) by European Commission Executive Vice-President Henna VIRKKUNEN and Commissioners Magnus BRUNNER and Micheal McGRATH on the European law enforcement package",
    "languages": [
     "INT",
     "EN",
@@ -1427,12 +882,118 @@
    "items": [
     {
      "ref": "I-291261",
-     "title": "Read-out of the College meeting / press conference with international sign language (details to follow)",
+     "title": "Read-out of the College meeting / press conference (with international sign language) by European Commission Executive Vice-President Henna VIRKKUNEN and Commissioners Magnus BRUNNER and Micheal McGRATH on the European law enforcement package",
+     "summary": "Read-out of the College meeting / press conference (with international sign language) by Henna VIRKKUNEN, Executive Vice-President of the European Commission for Tech Sovereignty, Security and Democracy, Magnus BRUNNER, European Commissioner for Internal Affairs and Migration and Michael MCGRATH, European Commissioner for Democracy, Justice, the Rule of Law, and Consumer Protection",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-06-23T12:26:35+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-24T11:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "EC press conference by European Commissioners Valdis DOMBROVSKIS and Wopke HOEKSTRA on the Omnibus on taxation, and the Omnibus on energy product legislation",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "EL",
+    "PT",
+    "NL",
+    "DA",
+    "FI",
+    "SV",
+    "CS",
+    "ET",
+    "LV",
+    "LT",
+    "HU",
+    "MT",
+    "PL",
+    "SK",
+    "SL",
+    "BG",
+    "RO",
+    "HR"
+   ],
+   "items": [
+    {
+     "ref": "I-291483",
+     "title": "EC press conference by European Commissioners Valdis DOMBROVSKIS and Wopke HOEKSTRA on the Omnibus on taxation, and the Omnibus on energy product legislation",
+     "summary": "Press conference by Valdis DOMBROVSKIS, European Commissioner for Economy and Productivity, and European Commissioner for Implementation and Simplification and Wopke HOEKSTRA, European Commissioner for Climate, Net Zero and Clean Growth",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-06-23T12:26:35+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-24T11:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "Read-out of the College meeting / press conference (with international sign language) by European Commissioners Valdis DOMBROVSKIS and Wopke HOEKSTRA on the Omnibus on taxation, and the Omnibus on energy product legislation",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "EL",
+    "PT",
+    "NL",
+    "DA",
+    "FI",
+    "SV",
+    "CS",
+    "ET",
+    "LV",
+    "LT",
+    "HU",
+    "MT",
+    "PL",
+    "SK",
+    "SL",
+    "BG",
+    "RO",
+    "HR"
+   ],
+   "items": [
+    {
+     "ref": "I-291776",
+     "title": "Read-out of the College meeting / press conference (with international sign language) by European Commissioners Valdis DOMBROVSKIS and Wopke HOEKSTRA on the Omnibus on taxation, and the Omnibus on energy product legislation",
      "summary": "Read-out of the College meeting / press conference (with international sign language)",
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-06-18T14:26:02+00:00"
+   "firstSeen": "2026-06-23T12:26:35+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-24T12:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "European Commission President Ursula von der LEYEN receives the President of Benin Romuald WADAGNI",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291815",
+     "title": "European Commission President Ursula von der LEYEN receives the President of Benin Romuald WADAGNI",
+     "summary": "Welcome",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-06-23T12:26:35+00:00"
   },
   {
    "ep": true,
@@ -1581,26 +1142,6 @@
   },
   {
    "ep": false,
-   "start": "2026-06-25T09:30:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS+",
-   "status": "EDIT_RECORDED",
-   "title": "Court of Justice of the European Union",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291588",
-     "title": "Court of Justice of the European Union",
-     "summary": "ECJ ruling in case C-277/25 Helpfind Funding and Others regarding insurance against civil liability in respect of the use of motor vehicles and the compensation for loss of injury",
-     "inst": "Court of Justice o"
-    }
-   ],
-   "firstSeen": "2026-06-19T14:22:55+00:00"
-  },
-  {
-   "ep": false,
    "start": "2026-06-25T10:00:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
@@ -1641,7 +1182,27 @@
   },
   {
    "ep": false,
-   "start": "2026-06-25T16:15:00.000Z",
+   "start": "2026-06-25T10:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "EDIT_RECORDED",
+   "title": "Court of Justice of the European Union",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291588",
+     "title": "Court of Justice of the European Union",
+     "summary": "ECJ ruling in case C-277/25 Helpfind Funding and Others regarding insurance against civil liability in respect of the use of motor vehicles and the compensation for loss of injury",
+     "inst": "Court of Justice o"
+    }
+   ],
+   "firstSeen": "2026-06-23T12:26:35+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-25T16:40:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
@@ -1663,7 +1224,7 @@
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-06-22T18:18:27+00:00"
+   "firstSeen": "2026-06-23T12:26:35+00:00"
   },
   {
    "ep": true,
@@ -1844,7 +1405,7 @@
     {
      "ref": "I-291521",
      "title": "High-level conference \"Strengthening islands and coastal communities of the European Union\" in Pafos, Cyprus",
-     "summary": "Concluding session closing by Marilena RAOUNA, Deputy Minister for European Affairs of Cyprus",
+     "summary": "Concluding session Key takeaways from the sessions and recommendations by the European Commission Statement by the Incoming Ireland Presidency of the Council of the EU, Jack CHAMBERS, Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation Closing by the Cyprus Presidency of the Council of the EU, Marilena RAOUNA, Deputy Minister for European Affairs of Cyprus",
      "inst": "Host"
     }
    ],
@@ -1892,7 +1453,7 @@
   },
   {
    "ep": false,
-   "start": "2026-06-26T15:45:00.000Z",
+   "start": "2026-06-26T14:55:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
@@ -1914,7 +1475,7 @@
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-06-22T18:18:27+00:00"
+   "firstSeen": "2026-06-23T12:26:35+00:00"
   },
   {
    "ep": true,
@@ -2060,6 +1621,273 @@
     }
    ],
    "firstSeen": "2026-06-22T18:18:27+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-29T06:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "Employment, Social Policy, Health and Consumer Affairs Council (Social Policy)",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291709",
+     "title": "Employment, Social Policy, Health and Consumer Affairs Council (Social Policy)",
+     "summary": "Arrivals and doorsteps",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-06-23T12:26:35+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-29T09:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "EDIT",
+   "title": "Employment, Social Policy, Health and Consumer Affairs Council (Social Policy)",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291710",
+     "title": "Employment, Social Policy, Health and Consumer Affairs Council (Social Policy)",
+     "summary": "Exterior views of the Europa and Justus Lipsius buildings",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291711",
+     "title": "Employment, Social Policy, Health and Consumer Affairs Council (Social Policy)",
+     "summary": "Compilation of all arrivals",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291712",
+     "title": "Employment, Social Policy, Health and Consumer Affairs Council (Social Policy)",
+     "summary": "Roundtable",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-06-23T12:26:35+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-29T10:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "EC Midday press briefing of 29/06/2026",
+   "languages": [
+    "INT",
+    "EN",
+    "FR"
+   ],
+   "items": [
+    {
+     "ref": "I-291680",
+     "title": "EC Midday press briefing of 29/06/2026",
+     "summary": "Announcements",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-291681",
+     "title": "EC Midday press briefing of 29/06/2026",
+     "summary": "Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-291682",
+     "title": "EC Midday press briefing of 29/06/2026",
+     "summary": "Exterior views of the European Commission Berlaymont building",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-291683",
+     "title": "EC Midday press briefing of 29/06/2026",
+     "summary": "Recorded cutaways",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-06-23T12:26:35+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-29T12:00:00.000Z",
+   "durationSec": 274,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "European Inventor Award 2026 finalists Industry",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291598",
+     "title": "Giuseppe Crippa †, Roberto Crippa, Stefano Felici, Riccardo Vettori, Raffaele Vallauri, Flavio Maggioni and team (Italy), finalists in the Industry category of the European Inventor Award 2026",
+     "summary": "Giuseppe Crippa †, Roberto Crippa, Stefano Felici, Riccardo Vettori, Raffaele Vallauri, Flavio Maggioni and team, nominated for the European Inventor Award 2026 in the category Industry. Semiconductor chips are the essential building blocks of digital and digitised products across sectors, from healthcare devices to smart phones. As part of the chip manufacturing process, probe cards are used to test the chips before they are individually packaged into other devices. Each probe card must be adapted for the chip family to be tested. In Italy, the family business, Technoprobe, has developed a method for the rapid, local production of these probe cards, eliminating dependence on foreign supply chains and enabling faster chip prototyping. Copyright: European Patent Office.",
+     "inst": "European Patent Of"
+    },
+    {
+     "ref": "I-291604",
+     "title": "Evangelos Eleftheriou (GR/CH), finalist in the Industry category of the European Inventor Award 2026",
+     "summary": "Evangelos Eleftheriou and team (GR, CH), are nominated for the European Inventor Award 2026 in the category Industry The invention of noise-predictive maximum likelihood (NPML) detection from E. Eleftherious and team (GR, CH), is nominated for the European Inventor Award 2026 in the category Industry. NPML models and predicts noise generated by the tight packing of tiny data signals in magnetic storage, allowing the system to separate genuine data signals from distortion with far greater accuracy. Copyright: European Patent Office",
+     "inst": "European Patent Of"
+    },
+    {
+     "ref": "I-291557",
+     "title": "Angie Triantafyllou (SWE/GR), finalist in the Industry category of the European Inventor Award 2026",
+     "summary": "Angeliki Triantafyllou and team (GR, SE), nominated for the European Inventor Award 2026 in the category Industry Successful patented enzymatic method, which produces a smoother, whiter product that foams well in coffee, while improving the protein content over previous methods. Lactose-free, easily digestible drink and the company went on to become an established company. Copyright: European Patent Office.",
+     "inst": "European Patent Of"
+    }
+   ],
+   "firstSeen": "2026-06-23T12:26:35+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-29T12:10:00.000Z",
+   "durationSec": 275,
+   "channel": "EBS",
+   "status": "",
+   "title": "European Inventor Award 2026 finalists Non-EPO Countries",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291751",
+     "title": "Yu Haijun and Xie Yinghao (China), finalists in the Non EPO category of the European Inventor Award 2026",
+     "summary": "Xie Yinghao and Yu Haijun and their team at Brunp have developed a lithium-ion battery recycling method, which involves fewer steps and requires fewer resources than previous processes. Their method uses the battery’s own materials, with a self-propagating reaction supplying internal heat, which results in a more efficient and effective recycling of materials including lithium itself. Brunp’s method has since been extended into major international initiatives, most notably a large-scale project in Indonesia. Copyright: European Patent Office",
+     "inst": "European Patent Of"
+    },
+    {
+     "ref": "I-291612",
+     "title": "Emily Morris and Thorsten Stoesser (United States/Germany), finalists in the Non EPO category of the European Inventor Award 2026",
+     "summary": "Currently, many hydropower systems are passive, meaning they can only use the water that naturally flows through them. To that end, Emily Morris established a company, Emrgy, to develop a technology that actively funnels water toward the turbines to generate hydropower, rather than allowing it to flow around. This modular and scalable system can be distributed all along waterways to increase the flow rate and subsequently the power generation. Copyright: European Patent Office",
+     "inst": "European Patent Of"
+    },
+    {
+     "ref": "I-291607",
+     "title": "Anibal Montalva Rodríguez and Miguel Ángel Fernández Donoso (Chile), finalists in the Non EPO category of the European Inventor Award 2026",
+     "summary": "Anibal Montalva Rodríguez and Miguel Ángel Fernández Donoso decided to use their experience designing vertical green walls for public spaces to tackle the issue of particulate matter pollution. They developed the Filtrovivo system – smoke is extracted and cooled before being filtered through vertical gardens where the plants can absorb the particulate matter as nutrients. The device, which is not restricted to any particular plants, is adaptable to each space and requires minimal maintenance beyond basic gardening. This process can reduce particulate matter emissions from wood smoke or other fuels (diesel, biomass, coal, etc.) by more than 90%. Copyright: European Patent Office",
+     "inst": "European Patent Of"
+    }
+   ],
+   "firstSeen": "2026-06-23T12:26:35+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-29T12:20:00.000Z",
+   "durationSec": 271,
+   "channel": "EBS",
+   "status": "",
+   "title": "European Inventor Award 2026 finalists Research",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291605",
+     "title": "Sir Adrian Hill (IE/UK), finalist in the Research category of the European Inventor Award 2026",
+     "summary": "Traditional malaria vaccines are not very effective, especially for children, because of the parasite's genetic diversity. Sir Adrian Hill and his team developed a vaccine with more of the malaria-specific protein regions that the immune system needs to recognise to respond effectively, while omitting unnecessary components that could divert the immune response. After decades of research, their work has advanced from a laboratory innovation to a scalable public-health intervention in a growing number of African countries, with the WHO formally recommended it for widespread use in October 2023. Copyright: European Patent Office",
+     "inst": "European Patent Of"
+    },
+    {
+     "ref": "I-291774",
+     "title": "Mikko Möttönen (FIN), finalist in the Research category of the European Inventor Award 2026",
+     "summary": "Quantum technologies harness the unique behaviour of particles at atomic scales to sense, process and transmit information, with applications across health care, finance and industry. At the heart of many quantum systems are quantum bits (qubits), which store and process information using quantum states, which are extremely sensitive to heat and disturbance. To better monitor and record the qubit states, Mikko Möttönen and his research team have developed an ultrasensitive detector, known as a cryogenic bolometer. Copyright: European Patent Office",
+     "inst": "European Patent Of"
+    },
+    {
+     "ref": "I-291731",
+     "title": "Paula Videira (POR), finalist in the Research category of the European Inventor Award 2026",
+     "summary": "Early cancer detection is crucial to increasing survival rates, however many cancers lack the biomarkers that can reliably distinguish them from healthy tissues with current detection technologies. As part of a multi-institutional research collaboration, Paula Videira and her team focussed on a specific antibody (a type of highly specific immune protein), designed to target a unique glycans (chains of molecules) found on the surface of cancer cells. Videira and her team’s antibody, L2A5, can distinguish cancerous cells with unprecedented precision for glycan-based cancer detection. This research could help usher in the next generation of cancer detection and therapies. Copyright: European Patent Office",
+     "inst": "European Patent Of"
+    }
+   ],
+   "firstSeen": "2026-06-23T12:26:35+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-29T12:30:00.000Z",
+   "durationSec": 272,
+   "channel": "EBS",
+   "status": "",
+   "title": "European Inventor Award 2026 finalists SMEs",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291584",
+     "title": "Jan Čmelík and team (CZ), finalist in the SMEs category of the European Inventor Award 2026",
+     "summary": "Jan Čmelík, Ladislav Mares, Miroslav Maly and their team at Elmarco have developed a needle-free electrospinning technology that allows for the high-volume, uniform production of nanofibres. Copyright: European Patent Office",
+     "inst": "European Patent Of"
+    },
+    {
+     "ref": "I-291775",
+     "title": "Przemek Ben Paczek and team (Poland), finalists in the SMEs category of the European Inventor Award 2026",
+     "summary": "Przemek Ben Paczek and team (PL), nominated for the European Inventor Award 2026 in the category SMEs. Nevomo, the company of Przemek Ben Paczek and team (PL) has developed a magnetic levitation railway retrofit system, which can be used to update existing infrastructure, nominated for the European Inventor Award 2026 in the category SMEs. World's first retrofit solution that uses electromagnetic propulsion with a linear motor to allow existing rail cars to move independently without a locomotive. Copyright: European Patent Office.",
+     "inst": "European Patent Of"
+    },
+    {
+     "ref": "I-291727",
+     "title": "Franck Zal (FRA), finalist in the SMEs category of the European Inventor Award 2026",
+     "summary": "One of the longstanding challenges in transplantation is preserving organs and tissues outside the body, particularly due to the lack of oxygen during transport and storage. Drawing inspiration from nature – more specifically the lugworm – a marine species that has survived for 450 million years, Franck Zal and his team have developed the first universal oxygen-carrying solution for organ preservation. The solution is based on the worm’s extracellular haemoglobin, which safely delivers oxygen during the preservation and transport period, extending the viable storage time for kidney, lung and other transplants. Beyond organ preservation, this invention is being adapted for use in wound care, skin grafting and regenerative medicine. Copyright: European Patent Office.",
+     "inst": "European Patent Of"
+    }
+   ],
+   "firstSeen": "2026-06-23T12:26:35+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-29T14:15:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "Employment, Social Policy, Health and Consumer Affairs Council (Social Policy)",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "EL",
+    "NL"
+   ],
+   "items": [
+    {
+     "ref": "I-291713",
+     "title": "Employment, Social Policy, Health and Consumer Affairs Council (Social Policy)",
+     "summary": "Press conference by the Cypriot Presidency and the European Commission",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-06-23T12:26:35+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-29T19:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "ECB Forum on Central Banking in Sintra, Portugal",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291704",
+     "title": "ECB Forum on Central Banking in Sintra, Portugal",
+     "summary": "Introductory speech by Christine LAGARDE, President of the European Central Bank (ECB)",
+     "inst": "European Central B"
+    }
+   ],
+   "firstSeen": "2026-06-23T12:26:35+00:00"
   }
  ]
 }
