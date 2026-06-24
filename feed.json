@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-06-24T12:30:30+00:00",
+ "generatedAt": "2026-06-24T18:24:16+00:00",
  "events": [
   {
    "ep": false,
@@ -235,8 +235,8 @@
   },
   {
    "ep": false,
-   "start": "2026-06-24T12:30:00.000Z",
-   "durationSec": 0,
+   "start": "2026-06-24T12:36:52.480Z",
+   "durationSec": 92,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "European Commission President Ursula von der LEYEN receives the President of Benin Romuald WADAGNI",
@@ -251,12 +251,12 @@
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-06-24T12:08:16+00:00"
+   "firstSeen": "2026-06-24T18:24:16+00:00"
   },
   {
    "ep": false,
-   "start": "2026-06-24T14:30:00.000Z",
-   "durationSec": 0,
+   "start": "2026-06-24T14:50:38.320Z",
+   "durationSec": 500,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "Signing ceremony for North Macedonia’s association to the EU4Health programme",
@@ -267,16 +267,36 @@
     {
      "ref": "I-291192",
      "title": "Signing ceremony for North Macedonia’s association to the EU4Health programme",
-     "summary": "Signing ceremony with Olivér VÁRHELYI, European Commissioner for Health and Animal Welfare and Azir ALIU, Minister of Health of North Macedonia",
+     "summary": "Statement by Olivér VÁRHELYI, European Commissioner for Health and Animal Welfare and Azir ALIU, Minister of Health of North Macedonia Signing ceremony",
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-06-23T21:06:51+00:00"
+   "firstSeen": "2026-06-24T18:24:16+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-24T15:05:10.000Z",
+   "durationSec": 200,
+   "channel": "EBS",
+   "status": "RECORDED",
+   "title": "Video message by European Commission President Ursula von der LEYEN at the Decarbon Days in Cottbus, Germany",
+   "languages": [
+    "DE"
+   ],
+   "items": [
+    {
+     "ref": "I-291247",
+     "title": "Video message by President von der Leyen at the Decarbon Days in Cottbus",
+     "summary": "",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-06-24T18:24:16+00:00"
   },
   {
    "ep": true,
-   "start": "2026-06-24T17:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-06-24T18:00:10.000Z",
+   "durationSec": 226,
    "channel": "EBS",
    "status": "EDIT",
    "title": "EP News Roberta METSOLA, EP President participates in a talk with Carlo CALENDA",
@@ -292,7 +312,7 @@
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291618-V_v"
     }
    ],
-   "firstSeen": "2026-06-22T18:18:27+00:00"
+   "firstSeen": "2026-06-24T18:24:16+00:00"
   },
   {
    "ep": false,
@@ -456,12 +476,6 @@
      "title": "EP Exchange of views with Volker TÜRK, United Nations High Commissioner for Human Rights AFET DROI",
      "summary": "Q&A Committee on Foreign Affairs (AFET) and Subcommittee on Human Rights",
      "inst": "EP"
-    },
-    {
-     "ref": "I-291621",
-     "title": "EP Exchange of views with Volker TÜRK, United Nations High Commissioner for Human Rights AFET DROI",
-     "summary": "Closing statements Committee on Foreign Affairs (AFET) and Subcommittee on Human Rights",
-     "inst": "EP"
     }
    ],
    "firstSeen": "2026-06-19T14:22:55+00:00"
@@ -580,7 +594,7 @@
     {
      "ref": "I-291870",
      "title": "Executive Vice-President Raffaele FITTO visit to Paphos, Cyprus",
-     "summary": "Visit to a ERDF / THALIA project (European Regional Development Fund)",
+     "summary": "Visit to Troodos Observatory - EU funded project",
      "inst": "EC"
     }
    ],
@@ -1023,7 +1037,7 @@
   },
   {
    "ep": false,
-   "start": "2026-06-29T09:00:00.000Z",
+   "start": "2026-06-29T09:30:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "EDIT",
@@ -1051,7 +1065,7 @@
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-06-23T12:26:35+00:00"
+   "firstSeen": "2026-06-24T18:24:16+00:00"
   },
   {
    "ep": false,
