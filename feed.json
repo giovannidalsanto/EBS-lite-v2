@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-06-25T12:34:24+00:00",
+ "generatedAt": "2026-06-25T19:29:49+00:00",
  "events": [
   {
    "ep": false,
@@ -416,8 +416,8 @@
   },
   {
    "ep": false,
-   "start": "2026-06-25T12:31:26.960Z",
-   "durationSec": 0,
+   "start": "2026-06-25T12:31:51.080Z",
+   "durationSec": 1409,
    "channel": "EBS",
    "status": "LIVE",
    "title": "Ukraine Recovery Conference 2026 in Gdańsk, Poland",
@@ -428,18 +428,72 @@
    ],
    "items": [
     {
+     "ref": "I-291960",
+     "title": "Ukraine Recovery Conference 2026 in Gdańsk, Poland",
+     "summary": "Eastern Flank Summit Joint press statements by Donald TUSK, Polish Prime Minister Joint press statements by Gitanas NAUSĖDA, President of Lithuania Joint press statements by Petteri ORPO, Finnish Prime Minister Joint press statements by Nicușor DAN, President of Romania Joint press statements by Kristen MICHAL, Estonian Prime Minister Joint press statements by Andris KULBERGS, Latvian Prime Minister Joint press statements by Ulf KRISTERSSON, Swedish Prime Minister Joint press statements by Andrius KUBILIUS, European Commissioner for Defence and Space Additional remarks by Nicușor DAN, President of Romania",
+     "inst": "Other Organisation"
+    },
+    {
      "ref": "I-291851",
      "title": "Ukraine Recovery Conference 2026 in Gdańsk, Poland",
-     "summary": "Eastern Flank Summit Joint press statements",
-     "inst": "EC"
+     "summary": "Eastern Flank Summit Joint press statements by Donald TUSK, Polish Prime Minister",
+     "inst": "Other Organisation"
+    },
+    {
+     "ref": "I-291952",
+     "title": "Ukraine Recovery Conference 2026 in Gdańsk, Poland",
+     "summary": "Eastern Flank Summit Joint press statements by Gitanas NAUSĖDA, President of Lithuania",
+     "inst": "Other Organisation"
+    },
+    {
+     "ref": "I-291953",
+     "title": "Ukraine Recovery Conference 2026 in Gdańsk, Poland",
+     "summary": "Eastern Flank Summit Joint press statements by Petteri ORPO, Finnish Prime Minister",
+     "inst": "Other Organisation"
+    },
+    {
+     "ref": "I-291954",
+     "title": "Ukraine Recovery Conference 2026 in Gdańsk, Poland",
+     "summary": "Eastern Flank Summit Joint press statements by Nicușor DAN, President of Romania",
+     "inst": "Other Organisation"
+    },
+    {
+     "ref": "I-291955",
+     "title": "Ukraine Recovery Conference 2026 in Gdańsk, Poland",
+     "summary": "Eastern Flank Summit Joint press statements by Kristen MICHAL, Estonian Prime Minister",
+     "inst": "Other Organisation"
+    },
+    {
+     "ref": "I-291956",
+     "title": "Ukraine Recovery Conference 2026 in Gdańsk, Poland",
+     "summary": "Eastern Flank Summit Joint press statements by Andris KULBERGS, Latvian Prime Minister",
+     "inst": "Other Organisation"
+    },
+    {
+     "ref": "I-291957",
+     "title": "Ukraine Recovery Conference 2026 in Gdańsk, Poland",
+     "summary": "Eastern Flank Summit Joint press statements by Ulf KRISTERSSON, Swedish Prime Minister",
+     "inst": "Other Organisation"
+    },
+    {
+     "ref": "I-291958",
+     "title": "Ukraine Recovery Conference 2026 in Gdańsk, Poland",
+     "summary": "Eastern Flank Summit Joint press statements by Andrius KUBILIUS, European Commissioner for Defence and Space",
+     "inst": "Other Organisation"
+    },
+    {
+     "ref": "I-291959",
+     "title": "Ukraine Recovery Conference 2026 in Gdańsk, Poland",
+     "summary": "Eastern Flank Summit Additional remarks by Nicușor DAN, President of Romania",
+     "inst": "Other Organisation"
     }
    ],
-   "firstSeen": "2026-06-25T12:34:24+00:00"
+   "firstSeen": "2026-06-25T19:29:49+00:00"
   },
   {
    "ep": false,
-   "start": "2026-06-25T12:45:00.000Z",
-   "durationSec": 0,
+   "start": "2026-06-25T12:58:31.280Z",
+   "durationSec": 351,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "Environment Council",
@@ -450,56 +504,16 @@
     {
      "ref": "I-291901",
      "title": "Environment Council",
-     "summary": "Doorstep Finland",
+     "summary": "Doorstep by Sari MULTALA, Minister of the Environment and Climate Change of Finland",
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-06-25T12:03:24+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-06-25T13:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS+",
-   "status": "RECORDED",
-   "title": "Environment Council",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291895",
-     "title": "Environment Council",
-     "summary": "Doorsteps",
-     "inst": "Council"
-    }
-   ],
-   "firstSeen": "2026-06-25T12:34:24+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-06-25T14:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "EDIT",
-   "title": "Executive Vice-President Raffaele FITTO visit to Paphos, Cyprus",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291869",
-     "title": "Executive Vice-President Raffaele FITTO visit to Paphos, Cyprus",
-     "summary": "Visit of ‘Right to Stay’",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-06-24T12:08:16+00:00"
+   "firstSeen": "2026-06-25T19:29:49+00:00"
   },
   {
    "ep": true,
-   "start": "2026-06-25T14:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-06-25T13:45:10.000Z",
+   "durationSec": 88,
    "channel": "EBS+",
    "status": "EDIT",
    "title": "EP News Lex Signing Ceremony",
@@ -515,12 +529,52 @@
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291624-V_v"
     }
    ],
-   "firstSeen": "2026-06-25T12:03:24+00:00"
+   "firstSeen": "2026-06-25T19:29:49+00:00"
   },
   {
    "ep": false,
-   "start": "2026-06-25T16:30:00.000Z",
-   "durationSec": 0,
+   "start": "2026-06-25T14:05:10.000Z",
+   "durationSec": 723,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "Participation of European Commission College Members in the Ukraine Recovery Conference 2026 in Gdańsk, Poland",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291840",
+     "title": "Participation of European Commission College Members in the Ukraine Recovery Conference 2026 in Gdańsk, Poland",
+     "summary": "Marta KOS, European Commissioner for Enlargement attending the High level dialogue: Ukraine’s EU Membership: Building Shared Security, Resilience, and a Common Future",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-06-25T19:29:49+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-25T15:00:10.000Z",
+   "durationSec": 185,
+   "channel": "EBS+",
+   "status": "RECORDED",
+   "title": "Environment Council",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291895",
+     "title": "Environment Council",
+     "summary": "Doorstep by Marija VUČKOVIĆ, Croatian Minister for Environmental Protection and Green Transition",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-06-25T19:29:49+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-25T15:45:10.000Z",
+   "durationSec": 190,
    "channel": "EBS",
    "status": "EDIT",
    "title": "Executive Vice-President Raffaele FITTO visit to Paphos, Cyprus",
@@ -529,18 +583,56 @@
    ],
    "items": [
     {
+     "ref": "I-291869",
+     "title": "Executive Vice-President Raffaele FITTO visit to Paphos, Cyprus",
+     "summary": "Visit of ‘Right to Stay’",
+     "inst": "EC"
+    },
+    {
      "ref": "I-291870",
      "title": "Executive Vice-President Raffaele FITTO visit to Paphos, Cyprus",
      "summary": "Visit to Troodos Observatory - EU funded project",
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-06-24T12:08:16+00:00"
+   "firstSeen": "2026-06-25T19:29:49+00:00"
   },
   {
    "ep": false,
-   "start": "2026-06-25T16:40:00.000Z",
-   "durationSec": 0,
+   "start": "2026-06-25T16:15:10.000Z",
+   "durationSec": 4552,
+   "channel": "EBS",
+   "status": "RECORDED",
+   "title": "Participation of European Commission College Members in the Ukraine Recovery Conference 2026 in Gdańsk, Poland",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291841",
+     "title": "Participation of European Commission College Members in the Ukraine Recovery Conference 2026 in Gdańsk, Poland",
+     "summary": "Valdis DOMBROVSKIS, European Commissioner for Economy and Productivity, and European Commissioner for Implementation and Simplification attending the High level dialogue Energy Platform",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-291843",
+     "title": "Participation of European Commission College Members in the Ukraine Recovery Conference 2026 in Gdańsk, Poland",
+     "summary": "Valdis DOMBROVSKIS, European Commissioner for Economy and Productivity, and European Commissioner for Implementation and Simplification attending the Panel Discussion “Ukraine and the Future of the European Union: Integration, Reform, Strategic Reneval” (Video as received: start missing)",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-291842",
+     "title": "Participation of European Commission College Members in the Ukraine Recovery Conference 2026 in Gdańsk, Poland",
+     "summary": "Marta KOS, European Commissioner for Enlargement attending the Panel 4.2: “From Reform to Results: Rule of Law and Anti-Corruption in Ukraine’s Accession”",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-06-25T19:29:49+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-25T18:04:25.680Z",
+   "durationSec": 1680,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "Environment Council",
@@ -555,18 +647,56 @@
    ],
    "items": [
     {
+     "ref": "I-291968",
+     "title": "Environment Council",
+     "summary": "Press conference opening remarks by Maria PANAYIOTOU, Cypriot Minister for Agriculture, Rural Development and Environment Press conference opening remarks by Wopke HOEKSTRA, European Commissioner for Climate, Net Zero and Clean Growth Q&A",
+     "inst": "Council"
+    },
+    {
      "ref": "I-291476",
      "title": "Environment Council",
-     "summary": "Press conference by the Cypriot Presidency and the European Commission",
+     "summary": "Press conference opening remarks by Maria PANAYIOTOU, Cypriot Minister for Agriculture, Rural Development and Environment",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291966",
+     "title": "Environment Council",
+     "summary": "Press conference opening remarks by Wopke HOEKSTRA, European Commissioner for Climate, Net Zero and Clean Growth",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291967",
+     "title": "Environment Council",
+     "summary": "Q&A",
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-06-23T12:26:35+00:00"
+   "firstSeen": "2026-06-25T19:29:49+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-25T21:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT_RECORDED",
+   "title": "Participation of European Commission College Members in the Ukraine Recovery Conference 2026 in Gdańsk, Poland",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291845",
+     "title": "Participation of European Commission College Members in the Ukraine Recovery Conference 2026 in Gdańsk, Poland",
+     "summary": "Details to follow",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-06-25T19:29:49+00:00"
   },
   {
    "ep": false,
    "start": "2026-06-26T06:00:00.000Z",
-   "durationSec": 496,
+   "durationSec": 0,
    "channel": "EBS",
    "status": "EDIT",
    "title": "High-level conference \"Strengthening islands and coastal communities of the European Union\" in Pafos, Cyprus (25/06/2026)",
@@ -637,30 +767,31 @@
   },
   {
    "ep": false,
-   "start": "2026-06-26T08:00:00.000Z",
+   "start": "2026-06-26T07:30:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
    "status": "LIVE",
-   "title": "EC press point by European Commissioner Magnus BRUNNER with Europol on a new analysis on the EU’s most threatening criminal networks",
+   "title": "EC Press point by European Commissioner Magnus BRUNNER on the proposal to extend the temporary protection for people fleeing Ukraine",
    "languages": [
     "INT",
     "EN",
-    "FR"
+    "FR",
+    "DE"
    ],
    "items": [
     {
-     "ref": "I-291482",
-     "title": "EC press point by European Commissioner Magnus BRUNNER with Europol on a new analysis on the EU’s most threatening criminal networks",
-     "summary": "Press point by Magnus BRUNNER, European Commissioner for Internal Affairs and Migration and Europol",
+     "ref": "I-291961",
+     "title": "EC Press point by European Commissioner Magnus BRUNNER on the proposal to extend the temporary protection for people fleeing Ukraine",
+     "summary": "Press point by Magnus BRUNNER, European Commissioner for Internal Affairs and Migration",
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-06-25T12:03:24+00:00"
+   "firstSeen": "2026-06-25T19:29:49+00:00"
   },
   {
    "ep": false,
    "start": "2026-06-26T08:45:00.000Z",
-   "durationSec": 0,
+   "durationSec": 1492,
    "channel": "EBS",
    "status": "EDIT_RECORDED",
    "title": "European Commissioner Christophe HANSEN in Taranto, Italy (25/06/2026)",
@@ -682,6 +813,30 @@
     }
    ],
    "firstSeen": "2026-06-25T12:03:24+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-26T09:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "EC press point by European Commissioner Magnus BRUNNER with Jürgen EBNER, Acting Executive Director of Europol, and Themistos ARNAOUTIS, Chief of Cyprus Police, on a new analysis on the EU’s most threatening criminal networks",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "EL"
+   ],
+   "items": [
+    {
+     "ref": "I-291482",
+     "title": "EC press point by European Commissioner Magnus BRUNNER with Jürgen EBNER, Acting Executive Director of Europol, and Themistos ARNAOUTIS, Chief of Cyprus Police, on a new analysis on the EU’s most threatening criminal networks",
+     "summary": "Press point by Magnus BRUNNER, European Commissioner for Internal Affairs and Migration, Jürgen EBNER, Acting Executive Director of Europol, and Themistos ARNAOUTIS, Chief of Cyprus Police",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-06-25T19:29:49+00:00"
   },
   {
    "ep": false,
@@ -777,51 +932,11 @@
   },
   {
    "ep": false,
-   "start": "2026-06-26T11:30:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "European Commissioner Apostolos TZITZIKOSTAS in Berlin, Germany",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291759",
-     "title": "European Commissioner Apostolos TZITZIKOSTAS in Berlin, Germany",
-     "summary": "Opening of the Prague-Berlin-Copenhagen rail connection Speech by Apostolos TZITZIKOSTAS, European Commissioner for Sustainable Transport and Tourism",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-06-22T18:18:27+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-06-26T13:35:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS+",
-   "status": "",
-   "title": "European Commissioner Apostolos TZITZIKOSTAS in Berlin, Germany",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291516",
-     "title": "European Commissioner Apostolos TZITZIKOSTAS in Berlin, Germany",
-     "summary": "Details to follow",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-06-22T18:18:27+00:00"
-  },
-  {
-   "ep": false,
    "start": "2026-06-26T14:55:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
-   "title": "Environment Council",
+   "title": "Transport, Telecommunications and Energy Council (Energy)",
    "languages": [
     "INT",
     "EN",
@@ -834,12 +949,38 @@
    "items": [
     {
      "ref": "I-291477",
-     "title": "Environment Council",
+     "title": "Transport, Telecommunications and Energy Council (Energy)",
      "summary": "Press conference by the Cypriot Presidency and the European Commission",
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-06-23T12:26:35+00:00"
+   "firstSeen": "2026-06-25T19:29:49+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-26T16:15:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "EDIT_RECORDED",
+   "title": "European Commissioner Apostolos TZITZIKOSTAS in Berlin, Germany",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291759",
+     "title": "European Commissioner Apostolos TZITZIKOSTAS in Berlin, Germany",
+     "summary": "Opening of the Prague-Berlin-Copenhagen rail connection Speech by Apostolos TZITZIKOSTAS, European Commissioner for Sustainable Transport and Tourism",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-291516",
+     "title": "European Commissioner Apostolos TZITZIKOSTAS in Berlin, Germany",
+     "summary": "Platform 6: Arrival of of RJ 382 from Prague / Departure of RJ 384 to Copenhagen Walk back to event area – single press statements",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-06-25T19:29:49+00:00"
   },
   {
    "ep": true,
@@ -892,6 +1033,26 @@
   },
   {
    "ep": false,
+   "start": "2026-06-27T07:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT_RECORDED",
+   "title": "European Commissioner Hadja LAHBIB in Budapest, Hungary (recorded 26/06/2026)",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291937",
+     "title": "European Commissioner Hadja LAHBIB in Budapest, Hungary (recorded 26/06/2026)",
+     "summary": "Speech at the Diplomatic Reception hosted by Gergely Karácsony, Mayor of Budapest",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-06-25T19:29:49+00:00"
+  },
+  {
+   "ep": false,
    "start": "2026-06-27T08:15:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
@@ -909,6 +1070,26 @@
     }
    ],
    "firstSeen": "2026-06-22T18:18:27+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-27T08:45:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE_RECORDED",
+   "title": "European Commissioner Hadja LAHBIB in Budapest, Hungary",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291518",
+     "title": "European Commissioner Hadja LAHBIB in Budapest, Hungary",
+     "summary": "Joint doorstep by Hadja LAHBIB, European Commissioner for Equality, and European Commissioner for Preparedness and Crisis Management and Gergely KARÁCSONY, Mayor of Budapest",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-06-25T19:29:49+00:00"
   },
   {
    "ep": true,
