@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-06-25T12:03:24+00:00",
+ "generatedAt": "2026-06-25T12:34:24+00:00",
  "events": [
   {
    "ep": false,
@@ -416,13 +416,15 @@
   },
   {
    "ep": false,
-   "start": "2026-06-25T12:00:00.000Z",
+   "start": "2026-06-25T12:31:26.960Z",
    "durationSec": 0,
    "channel": "EBS",
    "status": "LIVE",
    "title": "Ukraine Recovery Conference 2026 in Gdańsk, Poland",
    "languages": [
-    "INT"
+    "INT",
+    "EN",
+    "PL"
    ],
    "items": [
     {
@@ -432,7 +434,7 @@
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-06-23T21:06:51+00:00"
+   "firstSeen": "2026-06-25T12:34:24+00:00"
   },
   {
    "ep": false,
@@ -453,6 +455,26 @@
     }
    ],
    "firstSeen": "2026-06-25T12:03:24+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-25T13:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "RECORDED",
+   "title": "Environment Council",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291895",
+     "title": "Environment Council",
+     "summary": "Doorsteps",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-06-25T12:34:24+00:00"
   },
   {
    "ep": false,
