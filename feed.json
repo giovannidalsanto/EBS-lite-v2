@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-06-26T11:59:01+00:00",
+ "generatedAt": "2026-06-26T12:27:14+00:00",
  "events": [
   {
    "ep": false,
@@ -284,6 +284,12 @@
    ],
    "items": [
     {
+     "ref": "I-292012",
+     "title": "EC press point by European Commissioner Magnus BRUNNER with Jürgen EBNER, Acting Executive Director of Europol, and Themistos ARNAOUTIS, Chief of Cyprus Police, on a new analysis on the EU’s most threatening criminal networks",
+     "summary": "Press point opening remarks by Magnus BRUNNER, European Commissioner for Internal Affairs and Migration Press point opening remarks by Jürgen EBNER, Acting Executive Director of Europol Press point opening remarks by Themistos ARNAOUTIS, Chief of Cyprus Police Q&A",
+     "inst": "EC"
+    },
+    {
      "ref": "I-291482",
      "title": "EC press point by European Commissioner Magnus BRUNNER with Jürgen EBNER, Acting Executive Director of Europol, and Themistos ARNAOUTIS, Chief of Cyprus Police, on a new analysis on the EU’s most threatening criminal networks",
      "summary": "Press point opening remarks by Magnus BRUNNER, European Commissioner for Internal Affairs and Migration",
@@ -333,7 +339,7 @@
   {
    "ep": false,
    "start": "2026-06-26T10:11:28.240Z",
-   "durationSec": 0,
+   "durationSec": 1672,
    "channel": "EBS",
    "status": "LIVE",
    "title": "EC Midday press briefing of 26/06/2026",
@@ -343,6 +349,12 @@
     "FR"
    ],
    "items": [
+    {
+     "ref": "I-292013",
+     "title": "EC Midday press briefing of 26/06/2026",
+     "summary": "ANNOUNCEMENT - President’s agenda for next week ANNOUNCEMENT - EU deploys emergency assistance to Venezuela following earthquakes ANNOUNCEMENT - Today’s Council ANNOUNCEMENT - Group of visitors FOREIGN AFFAIRS - Venezuela: Q&A ENLARGEMENT - Gradual integration of candidate countries / Pre-enlargement policy reviews / Montenegro: Q&A DETAILS TO FOLLOW - Hungary/Romania: Q&A ENLARGEMENT - Albania: Q&A COLLEGE AGENDA - Upcoming videocall between EVP Virkkunen and Apple CEO Tim Cook: Q&A PRESIDENT AGENDA - Upcoming meeting between EC President von der Leyen and BNP Paribas CEO Anseeuw: Q&A TRADE / COLLEGE AGENDA - Upcoming meeting between Commissioner Šefčovič and Chinese Commerce Minister Wang Wentao: Q&A Exterior views of the European Commission Berlaymont building Recorded cutaways",
+     "inst": "EC"
+    },
     {
      "ref": "I-291238",
      "title": "EC Midday press briefing of 26/06/2026",
@@ -442,8 +454,8 @@
   },
   {
    "ep": false,
-   "start": "2026-06-26T11:07:02.240Z",
-   "durationSec": 500,
+   "start": "2026-06-26T11:09:38.160Z",
+   "durationSec": 335,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "Transport, Telecommunications and Energy Council (Energy)",
@@ -458,7 +470,7 @@
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-06-26T11:59:01+00:00"
+   "firstSeen": "2026-06-26T12:27:14+00:00"
   },
   {
    "ep": false,
