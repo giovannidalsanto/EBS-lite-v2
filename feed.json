@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-06-26T12:27:14+00:00",
+ "generatedAt": "2026-06-26T18:17:01+00:00",
  "events": [
   {
    "ep": false,
@@ -493,9 +493,71 @@
    "firstSeen": "2026-06-26T11:59:01+00:00"
   },
   {
+   "ep": true,
+   "start": "2026-06-26T13:00:10.000Z",
+   "durationSec": 261,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "EP News Official visit by Roberta METSOLA, EP President to Lisbon (Portugal)",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291644",
+     "title": "EP News Official visit by Roberta METSOLA, EP President to Lisbon (Portugal)",
+     "summary": "Official visit by Roberta METSOLA, EP President to Lisbon (Portugal) - Unveiling of the Plaque in Commemoration of the 40th Anniversary of Portugal’s EU Accession with Paulo RANGEL, Portuguese Minister for Foreign Affairs: extracts from the ceremony",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291644-V_v"
+    }
+   ],
+   "firstSeen": "2026-06-26T18:17:01+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-06-26T13:30:10.000Z",
+   "durationSec": 90,
+   "channel": "EBS",
+   "status": "RECORDED",
+   "title": "Press Point Doorstep by Roberta METSOLA, EP President",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292011",
+     "title": "Press Point Doorstep by Roberta METSOLA, EP President",
+     "summary": "Press statement by Roberta METSOLA, EP President, on the 40th Anniversary of Portugal’s EU Accession and European solidarity with Venezuela after earthquake",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292011-V_v"
+    }
+   ],
+   "firstSeen": "2026-06-26T18:17:01+00:00"
+  },
+  {
    "ep": false,
-   "start": "2026-06-26T14:55:00.000Z",
-   "durationSec": 0,
+   "start": "2026-06-26T14:30:10.000Z",
+   "durationSec": 583,
+   "channel": "EBS",
+   "status": "EDIT_RECORDED",
+   "title": "European Commissioner Magnus BRUNNER visit to the MIDI Police in Brussels (25/06/2026)",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291469",
+     "title": "European Commissioner Magnus BRUNNER visit to the MIDI Police in Brussels (25/06/2026)",
+     "summary": "Visit of the MIDI Police together with Assita KANKO, Member of the EP",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-06-26T18:17:01+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-26T14:55:01.800Z",
+   "durationSec": 1168,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "Transport, Telecommunications and Energy Council (Energy)",
@@ -512,16 +574,56 @@
     {
      "ref": "I-291477",
      "title": "Transport, Telecommunications and Energy Council (Energy)",
-     "summary": "Press conference by Michael DAMIANOS, Minister of Energy, Commerce and Industry of Cyprus, and Dan JØRGENSEN, European Commissioner for Energy and Housing",
+     "summary": "Press conference opening remarks by Michael DAMIANOS, Minister of Energy, Commerce and Industry of Cyprus",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291990",
+     "title": "Transport, Telecommunications and Energy Council (Energy)",
+     "summary": "Press conference opening remarks by Dan JØRGENSEN, European Commissioner for Energy and Housing",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291991",
+     "title": "Transport, Telecommunications and Energy Council (Energy)",
+     "summary": "Press conference Q&A with Michael DAMIANOS, Minister of Energy, Commerce and Industry of Cyprus, and Dan JØRGENSEN, European Commissioner for Energy and Housing",
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-06-25T19:29:49+00:00"
+   "firstSeen": "2026-06-26T18:17:01+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-06-26T15:00:10.000Z",
+   "durationSec": 118,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "EP News Official visit by Roberta METSOLA, EP President to Lisbon (Portugal)",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291645",
+     "title": "EP News Official visit by Roberta METSOLA, EP President to Lisbon (Portugal)",
+     "summary": "Official visit by Roberta METSOLA, EP President to Lisbon (Portugal) - Meeting with Miguel ALBUQUERQUE, President of the Regional Government of the Autonomous Region of Madeira and José Manuel BOLIEIRO, President of the Autonomous Regional Government of the Azores: extracts",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291645-V_v"
+    },
+    {
+     "ref": "I-291659",
+     "title": "EP News Official visit by Roberta METSOLA, EP President to Lisbon (Portugal)",
+     "summary": "Official visit by Roberta METSOLA, EP President to Lisbon (Portugal) - Meeting with José Pedro AGUIAR-BRANCO, President of the Assembly of the Portuguese Republic: extracts",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291659-V_v"
+    }
+   ],
+   "firstSeen": "2026-06-26T18:17:01+00:00"
   },
   {
    "ep": false,
-   "start": "2026-06-26T16:15:00.000Z",
-   "durationSec": 0,
+   "start": "2026-06-26T15:30:10.000Z",
+   "durationSec": 1071,
    "channel": "EBS+",
    "status": "EDIT_RECORDED",
    "title": "European Commissioner Apostolos TZITZIKOSTAS in Berlin, Germany",
@@ -542,7 +644,75 @@
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-06-25T19:29:49+00:00"
+   "firstSeen": "2026-06-26T18:17:01+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-06-26T17:45:10.000Z",
+   "durationSec": 74,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "EP News Official visit by Roberta METSOLA, EP President to Lisbon (Portugal)",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291660",
+     "title": "EP News Official visit by Roberta METSOLA, EP President to Lisbon (Portugal)",
+     "summary": "Official visit by Roberta METSOLA, EP President to Lisbon (Portugal) - Meeting with the Business Roundtable Portugal (BRP): extracts",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291660-V_v"
+    }
+   ],
+   "firstSeen": "2026-06-26T18:17:01+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-26T18:00:10.000Z",
+   "durationSec": 301,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "European Commissioner Hadja LAHBIB in Budapest, Hungary",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292015",
+     "title": "European Commissioner Hadja LAHBIB in Budapest, Hungary",
+     "summary": "Field visit to Diószegi Street - meeting Roma families saved from social housing eviction",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292016",
+     "title": "European Commissioner Hadja LAHBIB in Budapest, Hungary",
+     "summary": "Field visit to the FiDo Youth Centre, providing low-threshold support services for at-risk young people",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-06-26T18:17:01+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-06-26T18:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "RECORDED",
+   "title": "EP Press Point Doorstep by Roberta Metsola EP President and Luis NEVES Minister for Home affairs on civil protection in Portugal and the situation in Venezuela following the Earthquake",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292023",
+     "title": "EP Press Point Doorstep by Roberta Metsola EP President and Luis NEVES Minister for Home affairs on civil protection in Portugal and the situation in Venezuela following the Earthquake",
+     "summary": "Press statement by Roberta METSOLA, EP President, and Luís NEVES, Minister for Home Affairs on civil protection in Portugal and the situation in Venezuela following the Earthquake",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292023-V_v"
+    }
+   ],
+   "firstSeen": "2026-06-26T18:17:01+00:00"
   },
   {
    "ep": true,
@@ -555,34 +725,6 @@
     "INT"
    ],
    "items": [
-    {
-     "ref": "I-291644",
-     "title": "EP News Official visit by Roberta METSOLA, EP President to Lisbon (Portugal)",
-     "summary": "Official visit by Roberta METSOLA, EP President to Lisbon (Portugal) - Unveiling of the Plaque in Commemoration of the 40th Anniversary of Portugal’s EU Accession with Paulo RANGEL, Portuguese Minister for Foreign Affairs: extracts from the ceremony and the doorstep",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291644-V_v"
-    },
-    {
-     "ref": "I-291645",
-     "title": "EP News Official visit by Roberta METSOLA, EP President to Lisbon (Portugal)",
-     "summary": "Official visit by Roberta METSOLA, EP President to Lisbon (Portugal) - Meeting with Miguel ALBUQUERQUE, President of the Regional Government of the Autonomous Region of Madeira and José José Manuel BOLIEIRO, President of the Autonomous Regional Government of the Azores: extracts",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291645-V_v"
-    },
-    {
-     "ref": "I-291659",
-     "title": "EP News Official visit by Roberta METSOLA, EP President to Lisbon (Portugal)",
-     "summary": "Official visit by Roberta METSOLA, EP President to Lisbon (Portugal) - Meeting with José Pedro AGUIAR-BRANCO, President of the Assembly of the Portuguese Republic: extracts",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291659-V_v"
-    },
-    {
-     "ref": "I-291660",
-     "title": "EP News Official visit by Roberta METSOLA, EP President to Lisbon (Portugal)",
-     "summary": "Official visit by Roberta METSOLA, EP President to Lisbon (Portugal) - Meeting with the Business Roundtable Portugal (BRP): extracts",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291660-V_v"
-    },
     {
      "ref": "I-291661",
      "title": "EP News Official visit by Roberta METSOLA, EP President to Lisbon (Portugal)",
@@ -737,24 +879,108 @@
    "firstSeen": "2026-06-26T11:59:01+00:00"
   },
   {
-   "ep": false,
+   "ep": true,
    "start": "2026-06-28T07:00:00.000Z",
-   "durationSec": 0,
+   "durationSec": 12709,
    "channel": "EBS+",
    "status": "EDIT",
-   "title": "EC archives of the week",
+   "title": "EC archives of the week (28/06-04/07): Luxembourg European Council (28-29/06/1991, 35 years ago) Danube Day (29/06) Birth Robert Schuman (29/06/1886, 140 years ago) Luxembourg European Council (29-30/06/1981, 45 years ago) Presentation of Sweden's request for membership of the EC (01/07/1991, 35 years ago) Ireland holds the rotating presidency of the Council of the EU (01/07) Application of the EU-South Korea Free Trade Agreement (01/07/2011, 15 years ago) Enlargement to Croatia (01/07/2013, 13 years ago) Awarding of the Robert Schuman medal to Konrad Adenauer, former German Federal Chancellor (02/07/1966, 60 years ago) End of single use plastics (03/07/2021, 5 years ago) End of single use plastics (03/07)",
    "languages": [
     "INT"
    ],
    "items": [
     {
-     "ref": "I-283215",
-     "title": "EC archives of the week (14-20/06): World Blood Donor Day (14/06) Signature of the Schengen Agreements (14/06/1985, 41 years ago) Göteborg EU/US Summit (14/06/2001, 25 years ago) European Council of Göteborg (15-16/06/2001, 25 years ago) World Day to Combat Desertification and Drought 2026 Theme “Rangelands: Recognize. Respect. Restore.” (17/06) International Day for Countering Hate Speech (18/06) World Refugee Day (20/06)",
-     "summary": "Details to follow",
+     "ref": "I-001761",
+     "title": "Luxembourg European Council, 28-29/06/1991",
+     "summary": "Les chefs d'Etat ou de gouvernement des CE se sont réunis sous la présidence de Jacques Santer, Premier ministre luxembourgeois, à l'occasion du Conseil européen du Luxembourg. Le Conseil a confirmé les larges zones d'accord déjà acquises sur les éléments les plus fondamentaux de l'Union économique et monétaire. Le marché intérieur, la mise en oeuvre de la charte sociale, la politique étrangère et la sécurité commune ont également fait l'objet de discussions. Sur le plan des relations extérieures, cette réunion a été marquée par la situation en Yougoslavie et l'envoi immédiat sur place de la Troïka des ministres italiens, luxembourgeois et néerlandais des Affaires étrangères. Le Conseil européen a également évoqué la situation en Union soviétique et a noté les progrès réalisés dans la mise en oeuvre de l'aide alimentaire communautaire. De même, il a souhaité l'achèvement des négociations de l'accord avec les pays de l'AELE en vue d'une entrée en vigueur de l'Espace Economique Européen."
+    },
+    {
+     "ref": "I-290455",
+     "title": "General views of Bratislava (Slovakia)",
+     "summary": "This infoclip features images of Bratislava (Slovakia), with a particular focus on the city's historic Old Town. It includes views of Bratislava Castle, St. Martin’s Cathedral, the Danube River, the UFO Bridge, and various streets throughout the city as well as from the National Council of the Slovak Republic, Government Office of the Slovak Republic and the Presidential Palace.",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290455-V_v"
+    },
+    {
+     "ref": "I-072669",
+     "title": "Founding fathers of the EU: Robert Schuman",
+     "summary": "The statesman Robert Schuman, a qualified lawyer and French foreign minister between 1948 and 1952, is regarded as one of the founding fathers of European unity. Schuman was born in Luxembourg and was influenced by his background in the French-German border region. Despite, or maybe as a result of his experiences in Nazi Germany, he recognised that only a lasting reconciliation with Germany could form the basis for a united Europe. Deported to Germany in 1940, he joined the French Resistance upon fleeing two years later. In spite of this, he showed no resentment when, following the war, he became foreign minister. In cooperation with Jean Monnet he drew up the internationally renowned Schuman Plan, which he published on 9 May 1950, the date now regarded as the birth of the European Union. He proposed joint control of coal and steel production, the most important materials for the armaments industry. The basic idea was that whoever did not have control over coal and steel production would not be able to fight a war. Schuman informed the German chancellor Adenauer of the plan, who immediately recognised the opportunity for a peaceful Europe and agreed. Shortly afterwards, the governments of Italy, Belgium, Luxembourg and the Netherlands also reacted. The six states signed the agreement for the European Coal and Steel Community in Paris in April 1951. In this way, Europe began as a peace initiative. Schuman also supported the formation of a common European defence policy, and held the post of President of the European Parliament from 1958 to 1960.",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-001654",
+     "title": "Retrospective on Robert Schuman from 1947 to 1963",
+     "summary": "This stockshot presents a portrait of Robert Schuman. From the Lorraine region, Schuman was the former President of the French Council, the former French Minister for Foreign Affairs, the President of the European Parliament and its President of honour. The three European Communities owe him their existence. The famous declaration of 9 May 1950 materialized an idea of Jean Monnet, the project known as the Schuman Plan, which then became the European Coal and Steel Community (ECSC). It presents a new conception of the relations between European nations, establishing independent institutions with powers of their own. This fervent French patriot dedicated his life to two tasks: European construction and Franco-German reconciliation, its precondition.",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-001892",
+     "title": "Luxembourg European Council, 29-30/06/1981",
+     "summary": "The Heads of State or Government met in Luxembourg for a meeting of the European Council. They addressed the EEC's economic and social situation and the general direction of its external relations. The Council also prepared for the next meeting of the Western Economic Summit in Ottawa. Furthermore, the European Trade Union Confederation presented its manifesto concerning employment and economic recovery to Andries van Agt, Dutch Prime Minister and President in office of the Council. A demonstration was also organised. European Council participants: - Andries van Agt, Dutch Prime Minister and President in office of the Council - Christoph van der Klaauw, Dutch Minister for Foreign Affairs - Mark Eyskens, Belgian Prime Minister - Charles-Ferdinand Nothomb, Belgian Minister for Foreign Affairs - Anker Jørgensen, Danish Prime Minister - Kjed Olesen, Danish Minister for Foreign Affairs - Helmut Schmidt, German Federal Chancellor - Hans-Dietrich Genscher, German Federal Minister for Foreign Affairs - George Rallis, Greek Prime Minister - Constantine Mitsotakis, Greek Minister for Foreign Affairs - François Mitterand, President of the French Republic - Claude Cheysson, French Minister for Foreign Affairs - Brian Lenihan, Irish Minister for Foreign Affairs - Giovanni Spadolini, Italian Prime Minister - Emilio Colombo, Italian Minister for Foreign Affairs - Pierre Werner, Luxembourgish Prime Minister - Colette Flesch, Luxembourgish Minister for Foreign Affairs - Margaret Thatcher, British Prime Minister - Lord Carrington, British Secretary of State for Foreign Affairs - Gaston Thorn, President of the CEC - François-Xavier Ortoli, Vice-President of the CEC in charge of Economic and Financial Affairs, Credit and Investments",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-001901",
+     "title": "Presentation of Sweden's request for membership of the EC",
+     "summary": "Ingvar Carlsson, Swedish Prime Minister, presented his country's formal request for membership of the European Communities. This request does not involve any explicit reserve on the neutrality of Sweden."
+    },
+    {
+     "ref": "I-286153",
+     "title": "General views of Dublin (Ireland)",
+     "summary": "This infoclip presents general views of Dublin (Ireland), including drone views of the city, Leinster House (Irish Parliament), the Four Courts, the Convention Centre Dublin, the River Liffey and various views of Dublin city streets.",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I286153-V_v"
+    },
+    {
+     "ref": "I-198973",
+     "title": "European Union Capitals: Dublin, Ireland",
+     "summary": "This stockshot provides illustrative images of Dublin, capital of Ireland, filmed in November 2020. It presents general views of the city, official buildings and sights, general atmosphere in the streets and historic places and buildings in the heart of the city during the coronavirus pandemic.",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-036105",
+     "title": "Meeting EC/Irish Presidency: arrivals, meetings and group picture",
+     "summary": "On 1 July 1996, Jacques Santer, President of the EC, and the Members of the Santer Commission met officially in Dublin (Ireland) to discuss the programme for the next six months of the EU Presidency with the Irish Government. Over the two days, marking the beginning of the Irish Presidency of the EU, meetings were expected to focus on employment, the Intergovernmental Conference (IGC), future EU enlargement and the fight against organised crime and drug trafficking. This video shows views of the arrival of Jacques Santer and Members of the EC at the Dublin airport; meeting with Mary Robinson, President of Ireland, and his husband Nicholas, at the presidential palace; and with Members of the Irish Government at the Dublin castle; views of the group picture; and extracts from the speeches of Jacques Santer and John Bruton, Irish Prime Minister and President in office of the Council.",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-036106",
+     "title": "Meeting EC/ Irish Presidency: arrivals, round table and group picture",
+     "summary": "On 2 July 1996, Members of the Santer Commission and Jacques Santer, President of the EC, met with the Members of the Irish Government, in Dublin (Ireland). The Irish Presidency of the Council started on 1 July 1996. This video shows views of the arrivals at Dublin castle, bilateral meetings, the group photo and the round table.",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-036107",
+     "title": "Meeting EC/Irish Presidency: extracts from the joint press briefing",
+     "summary": "On 2 July 1996, John Bruton, Irish Prime Minister and President in office of the Council; Proinsiàs De Rossa, Irish Minister for Social Affairs; Dick Spring, Irish Minister for Foreign Affairs; Jacques Santer, President of the EC, Sir Leon Brittan, Vice-President of the EC in charge of External Relations with North America, Australia, New-Zealand, Japan, China, Korea, Hong Kong, Macao and Taiwan, Common Commercial Policy and Relations with OECD and WTO; Manuel Marín, Vice-President of the EC in charge of Cooperation and Development (Economic Cooperation Relations with the countries of the Southern Mediterranean, the Middle East, the Near East, Latin America and Asia and the Lomé Convention) and of the European Office for Emergency Humanitarian Aid; met in Dublin. They talked about the preservation and creation of secure employment to avoid exclusion, the security and the work out of a programme against drug production. They talked also about the preparation for the enlargement and the preparatory work of the Economic and Monetary Union (EMU).",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-063309",
+     "title": "EU/South Korea Free Trade Agreement initialed by Catherine Ashton",
+     "summary": "On 15 October 2009, in Brussels, Catherine Ashton, Member of the EC in charge of Trade, and Kim Jong-Hoon, South Korean Minister for Trade, initialed a free trade agreement (FTA), capping two years of intense negotiations. The agreement is expected to be the EU's most important FTA since 2001, since South Korea is the EU's fourth-largest trade partner outside Europe. The deal, estimated to be worth up to 19 billion euro in new trade for EU exporters, will remove virtually all tariffs between the two economies, as well as many non-tariff barriers. The 27 Member States will have to formally endorse the agreement before the signature, which is likely to take place early in 2010, once the text will have been translated into all EU languages.",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-067527",
+     "title": "EU/South Korea Summit: signature of the Free Trade Agreement",
+     "summary": "The European Union is committed to pursuing its collaboration with the Republic of Korea and to strengthening their partnership, as demonstrated by the fifth EU/South Korea Summit which took place in Brussels on 6 October 2010. During the Summit, Karel De Gucht, Member of the EC in charge of Trade, Steven Vanackere, acting Belgian Minister for Foreign Affairs and Institutional Reforms and President in office of the Council, and Lee Myung-bak, President of Republic of Korea, signed the Free Trade Agreement between the EU and South Korea, in presence of Herman Van Rompuy, President of the European Council, José Manuel Barroso, President of the European Commission. The signing of the Free Trade Agreement marked an important step in the bilateral relations between the EU and South Korea. The agreement, initialled on 15 October 2009, provides for the progressive liberalisation by both parties of trade in goods and services, as well as rules on trade-related issues such as competition and State aid, intellectual property and public procurement. It was approved by the Council of the EU on 16 September 2010.",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-080439",
+     "title": "EU: South Korea Trade Agreement, 2013",
+     "summary": "The EU/South Korea Free Trade Agreement, in force since July 2011, is the EU's first trade deal with an Asian country. The Agreement went further than ever before at lifting trade barriers and making it easier for European and South Korean companies to do business together. It eliminates tariffs for industrial and agricultural goods in a progressive, step-by-step approach. The agreement also addresses non-tariff barriers to trade and includes provisions on issues ranging from services and investments, competition, government procurement, intellectual property rights, transparency in regulation to sustainable development. On the occasion of the EU/South Korea Summit on 8 November 2013, the Audiovisual Services of the European Commission have produced a video stockshot which contains pictures of: - European Train Imports; - European Car Imports; - European Food and Drink Imports; - European Luxury Imports.",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-080246",
+     "title": "Accession of Croatia to the EU, Zagreb, 30/06-01/07/2013",
+     "summary": "On 1 July 2013, Croatia has become the 28th Member State of the European Union. To celebrate this event, festivities took place on 30 June and 1 July in Zagreb. José Manuel Barroso, President of the European Commission, Martin Schulz, President of the European Parliament, and Herman van Rompuy, President of the European Council, took part in the celebrations alongside Ivo Josipović, President of Croatia, and Zoran Milanović, Croatian Prime Minister. José Manuel Barroso, Martin Schulz and Herman van Rompuy delivered speeches. In addition, on 1 July, the Europe House was inaugurated in Zagreb with the participation of Viviane Reding, Vice-President of the EC in charge of Justice, Fundamental Rights and Citizenship, and Štefan Füle, Member of the EC in charge of Enlargement and European Neighbourhood Policy.",
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-06-22T18:18:27+00:00"
+   "firstSeen": "2026-06-26T18:17:01+00:00"
   },
   {
    "ep": true,
@@ -775,6 +1001,26 @@
     }
    ],
    "firstSeen": "2026-06-26T11:59:01+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-28T23:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT_RECORDED",
+   "title": "EIB commits €3 billion to Airbus to boost Europe’s industrial base and technological edge in aerospace innovation",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292021",
+     "title": "EIB commits €3 billion to Airbus to boost Europe’s industrial base and technological edge in aerospace innovation",
+     "summary": "Details to follow",
+     "inst": "European Investmen"
+    }
+   ],
+   "firstSeen": "2026-06-26T18:17:01+00:00"
   },
   {
    "ep": false,
@@ -867,6 +1113,26 @@
     }
    ],
    "firstSeen": "2026-06-23T12:26:35+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-29T11:40:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "European Commissioner Dan JØRGENSEN in Montreal, Canada for the 11th Annual Global Conference on Energy Efficiency",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292020",
+     "title": "European Commissioner Dan JØRGENSEN in Montreal, Canada for the 11th Annual Global Conference on Energy Efficiency",
+     "summary": "Speech at the Grand Opening",
+     "inst": "Other Organisation"
+    }
+   ],
+   "firstSeen": "2026-06-26T18:17:01+00:00"
   },
   {
    "ep": false,
@@ -1082,6 +1348,26 @@
     }
    ],
    "firstSeen": "2026-06-24T12:08:16+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-30T23:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "",
+   "title": "European Commission President Ursula von der LEYEN in Azerbaijan",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291881",
+     "title": "European Commission President Ursula von der LEYEN in Azerbaijan",
+     "summary": "Details to follow",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-06-26T18:17:01+00:00"
   },
   {
    "ep": false,
@@ -1412,6 +1698,46 @@
   },
   {
    "ep": false,
+   "start": "2026-07-01T23:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "",
+   "title": "European Commission President Ursula von der LEYEN in Armenia",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291882",
+     "title": "European Commission President Ursula von der LEYEN in Armenia",
+     "summary": "Details to follow",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-06-26T18:17:01+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-02T01:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "",
+   "title": "Visit of the College of Commissioners to the Irish Presidency, in Cork, Ireland",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291742",
+     "title": "Visit of the College of Commissioners to the Irish Presidency, in Cork, Ireland",
+     "summary": "Details to follow",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-06-26T18:17:01+00:00"
+  },
+  {
+   "ep": false,
    "start": "2026-07-02T07:15:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
@@ -1455,7 +1781,7 @@
   },
   {
    "ep": false,
-   "start": "2026-07-02T09:00:00.000Z",
+   "start": "2026-07-02T09:30:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
    "status": "EDIT_RECORDED",
@@ -1477,7 +1803,7 @@
      "inst": "Court of Justice o"
     }
    ],
-   "firstSeen": "2026-06-26T11:59:01+00:00"
+   "firstSeen": "2026-06-26T18:17:01+00:00"
   },
   {
    "ep": false,
