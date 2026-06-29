@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-06-29T16:30:02+00:00",
+ "generatedAt": "2026-06-29T16:45:32+00:00",
  "events": [
   {
    "ep": false,
@@ -478,7 +478,7 @@
   {
    "ep": false,
    "start": "2026-06-29T15:47:23.960Z",
-   "durationSec": 0,
+   "durationSec": 2517,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "Employment, Social Policy, Health and Consumer Affairs Council (Social Policy)",
@@ -492,6 +492,12 @@
     "EL"
    ],
    "items": [
+    {
+     "ref": "I-292100",
+     "title": "Employment, Social Policy, Health and Consumer Affairs Council (Social Policy)",
+     "summary": "Press conference opening remarks by Marinos MOUSHOUTTAS, Cypriot Minister for Labour and Social Insurance Press conference opening remarks by Clea PAPAELLINA, Deputy Minister of Social Welfare of Cyprus Press conference opening remarks by Constantinos IOANNOU, Cypriot Minister for the Interior Press conference opening remarks by Roxana MÎNZATU, Executive Vice-President of the European Commission for Social Rights and Skills, Quality Jobs and Preparedness Press conference Q&A with Marinos MOUSHOUTTAS, Cypriot Minister for Labour and Social Insurance, Constantinos IOANNOU, Cypriot Minister for the Interior, Clea PAPAELLINA, Deputy Minister of Social Welfare of Cyprus, and Roxana MÎNZATU, Executive Vice-President of the European Commission for Social Rights and Skills, Quality Jobs and Preparedness",
+     "inst": "Council"
+    },
     {
      "ref": "I-291713",
      "title": "Employment, Social Policy, Health and Consumer Affairs Council (Social Policy)",
@@ -527,7 +533,7 @@
   },
   {
    "ep": false,
-   "start": "2026-06-29T16:30:00.000Z",
+   "start": "2026-06-29T16:34:54.000Z",
    "durationSec": 0,
    "channel": "EBS",
    "status": "LIVE",
@@ -543,7 +549,7 @@
      "inst": "Other Organisation"
     }
    ],
-   "firstSeen": "2026-06-29T16:30:02+00:00"
+   "firstSeen": "2026-06-29T16:45:32+00:00"
   },
   {
    "ep": false,
