@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-06-30T12:23:43+00:00",
+ "generatedAt": "2026-06-30T18:25:48+00:00",
  "events": [
   {
    "ep": false,
@@ -149,8 +149,8 @@
   },
   {
    "ep": false,
-   "start": "2026-06-30T15:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-06-30T13:30:10.000Z",
+   "durationSec": 35,
    "channel": "EBS+",
    "status": "EDIT",
    "title": "High Representative / Vice-President Kaja KALLAS and Commissioners Marta KOS and Magnus BRUNNER in Ankara, Türkiye",
@@ -161,31 +161,31 @@
     {
      "ref": "I-291715",
      "title": "High Representative / Vice-President Kaja KALLAS and Commissioners Marta KOS and Magnus BRUNNER in Ankara, Türkiye",
-     "summary": "Meeting with Hakan FIDAN, Turkish Minister for Foreign Affairs",
+     "summary": "Meeting with Recep Tayyip ERDOĞAN, President of Türkiye",
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-06-30T11:58:34+00:00"
+   "firstSeen": "2026-06-30T18:25:48+00:00"
   },
   {
    "ep": false,
-   "start": "2026-06-30T23:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "",
-   "title": "European Commission President Ursula von der LEYEN in Azerbaijan",
+   "start": "2026-06-30T17:35:10.000Z",
+   "durationSec": 10,
+   "channel": "EBS+",
+   "status": "EDIT",
+   "title": "High Representative / Vice-President Kaja KALLAS and Commissioners Marta KOS and Magnus BRUNNER in Ankara, Türkiye",
    "languages": [
     "INT"
    ],
    "items": [
     {
-     "ref": "I-291881",
-     "title": "European Commission President Ursula von der LEYEN in Azerbaijan",
-     "summary": "Details to follow",
+     "ref": "I-292150",
+     "title": "High Representative / Vice-President Kaja KALLAS and Commissioners Marta KOS and Magnus BRUNNER in Ankara, Türkiye",
+     "summary": "Meeting with Hakan FIDAN, Turkish Minister for Foreign Affairs",
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-06-26T18:17:01+00:00"
+   "firstSeen": "2026-06-30T18:25:48+00:00"
   },
   {
    "ep": false,
@@ -224,7 +224,7 @@
    "start": "2026-07-01T07:10:00.000Z",
    "durationSec": 275,
    "channel": "EBS",
-   "status": "",
+   "status": "EDIT",
    "title": "European Inventor Award 2026 finalists Non-EPO Countries",
    "languages": [
     "INT"
@@ -256,7 +256,7 @@
    "start": "2026-07-01T07:20:00.000Z",
    "durationSec": 271,
    "channel": "EBS",
-   "status": "",
+   "status": "EDIT",
    "title": "European Inventor Award 2026 finalists Research",
    "languages": [
     "INT"
@@ -288,7 +288,7 @@
    "start": "2026-07-01T07:30:00.000Z",
    "durationSec": 272,
    "channel": "EBS",
-   "status": "",
+   "status": "EDIT",
    "title": "European Inventor Award 2026 finalists SMEs",
    "languages": [
     "INT"
@@ -357,10 +357,30 @@
   },
   {
    "ep": false,
-   "start": "2026-07-01T13:00:00.000Z",
+   "start": "2026-07-01T11:10:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "European Council President António COSTA visits the Irish Taoiseach Micheál MARTIN in Dublin, Ireland",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292155",
+     "title": "European Council President António COSTA visits the Irish Taoiseach Micheál MARTIN in Dublin, Ireland",
+     "summary": "Press point by Micheál MARTIN, Irish Taoiseach and António COSTA, President of the European Council",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-06-30T18:25:48+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-01T12:15:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
-   "status": "",
+   "status": "LIVE",
    "title": "Opening ceremony of the Irish Presidency of the Council of the European Union",
    "languages": [
     "INT"
@@ -369,11 +389,17 @@
     {
      "ref": "I-292148",
      "title": "Opening ceremony of the Irish Presidency of the Council of the European Union",
-     "summary": "Details to follow",
+     "summary": "Arrivals",
+     "inst": "Host"
+    },
+    {
+     "ref": "I-292154",
+     "title": "Opening ceremony of the Irish Presidency of the Council of the European Union",
+     "summary": "Opening ceremony",
      "inst": "Host"
     }
    ],
-   "firstSeen": "2026-06-30T12:23:43+00:00"
+   "firstSeen": "2026-06-30T18:25:48+00:00"
   },
   {
    "ep": false,
@@ -393,15 +419,15 @@
      "inst": "European Central B"
     },
     {
-     "ref": "I-291706",
-     "title": "ECB Forum on Central Banking in Sintra, Portugal",
-     "summary": "Award ceremony for the Young Economist Prize Closing remarks Christine LAGARDE, President of the European Central Bank (ECB)",
-     "inst": "European Central B"
-    },
-    {
      "ref": "I-291707",
      "title": "ECB Forum on Central Banking in Sintra, Portugal",
      "summary": "Group photo",
+     "inst": "European Central B"
+    },
+    {
+     "ref": "I-291706",
+     "title": "ECB Forum on Central Banking in Sintra, Portugal",
+     "summary": "Award ceremony for the Young Economist Prize Closing remarks Christine LAGARDE, President of the European Central Bank (ECB)",
      "inst": "European Central B"
     }
    ],
@@ -421,7 +447,7 @@
     {
      "ref": "I-292017",
      "title": "European Commission President Ursula von der LEYEN in Baku, Azerbaijan",
-     "summary": "Press conference by Ursula von der LEYEN, President of the European Commission and Ilham ALIYEV, President of Azerbaijan",
+     "summary": "Press statements by Ursula von der LEYEN, President of the European Commission and Ilham ALIYEV, President of Azerbaijan",
      "inst": "EC"
     }
    ],
@@ -429,10 +455,36 @@
   },
   {
    "ep": false,
-   "start": "2026-07-01T16:00:00.000Z",
+   "start": "2026-07-01T16:45:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
-   "status": "LIVE",
+   "status": "EDIT",
+   "title": "European Commission President Ursula von der LEYEN in Azerbaijan",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291881",
+     "title": "European Commission President Ursula von der LEYEN in Azerbaijan",
+     "summary": "Arrival and welcome by Ilham ALIYEV, President of Azerbaijan",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292151",
+     "title": "European Commission President Ursula von der LEYEN in Azerbaijan",
+     "summary": "Bilateral meeting with Ilham ALIYEV, President of Azerbaijan",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-06-30T18:25:48+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-01T17:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "RECORDED",
    "title": "172nd European Committee of the Regions Plenary Session",
    "languages": [
     "INT",
@@ -480,7 +532,27 @@
      "inst": "European Committee"
     }
    ],
-   "firstSeen": "2026-06-30T12:23:43+00:00"
+   "firstSeen": "2026-06-30T18:25:48+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-01T17:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT_RECORDED",
+   "title": "High Representative / Vice-President Kaja KALLAS in Bosnia and Herzegovina",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291716",
+     "title": "High Representative / Vice-President Kaja KALLAS in Bosnia and Herzegovina",
+     "summary": "Details to follow",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-06-30T18:25:48+00:00"
   },
   {
    "ep": false,
@@ -696,6 +768,46 @@
   },
   {
    "ep": false,
+   "start": "2026-07-02T13:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "European Commissioner Valdis DOMBROVSKIS in Istanbul, Türkiye",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292153",
+     "title": "European Commissioner Valdis DOMBROVSKIS in Istanbul, Türkiye",
+     "summary": "EU-Türkiye-EU High-Level Economic Dialogue press point with Commissioner Valdis Dombrovskis and Minister Mehmet ŞIMŞEK, Minister of Finance of Turkey",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-06-30T18:25:48+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-02T13:45:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT_RECORDED",
+   "title": "High Representative / Vice-President Kaja KALLAS in Bosnia and Herzegovina",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291717",
+     "title": "High Representative / Vice-President Kaja KALLAS in Bosnia and Herzegovina",
+     "summary": "Visit to EUFOR",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-06-30T18:25:48+00:00"
+  },
+  {
+   "ep": false,
    "start": "2026-07-02T14:00:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
@@ -735,6 +847,26 @@
    "firstSeen": "2026-06-29T16:30:02+00:00"
   },
   {
+   "ep": false,
+   "start": "2026-07-03T06:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "European Commissioner Valdis DOMBROVSKIS in Istanbul, Türkiye",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291722",
+     "title": "European Commissioner Valdis DOMBROVSKIS in Istanbul, Türkiye",
+     "summary": "Firesite chat Valdis DOMBROVSKIS, European Commissioner for Economy and Productivity, and European Commissioner for Implementation and Simplification with Sinan ÜLGEN, Chairman of the Center for Economics and Foreign Policy Studies (EDAM)",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-06-30T18:25:48+00:00"
+  },
+  {
    "ep": true,
    "start": "2026-07-03T09:00:00.000Z",
    "durationSec": 0,
@@ -758,6 +890,26 @@
   },
   {
    "ep": false,
+   "start": "2026-07-03T12:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "Visit of the College of Commissioners to the Irish Presidency, in Cork, Ireland",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292077",
+     "title": "Visit of the College of Commissioners to the Irish Presidency, in Cork, Ireland",
+     "summary": "Press conference by Ursula von der LEYEN, President of the European Commission and Micheál MARTIN, Irish Prime Minister (Taoiseach)",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-06-30T18:25:48+00:00"
+  },
+  {
+   "ep": false,
    "start": "2026-07-05T07:00:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
@@ -775,6 +927,46 @@
     }
    ],
    "firstSeen": "2026-06-29T16:30:02+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-06T07:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "Informal meeting of Employment and Social Affairs Ministers (EPSCO Employment and Social) in Mayo, Ireland",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292146",
+     "title": "Informal meeting of Employment and Social Affairs Ministers (EPSCO Employment and Social) in Mayo, Ireland",
+     "summary": "Arrivals and doorsteps",
+     "inst": "Host"
+    }
+   ],
+   "firstSeen": "2026-06-30T18:25:48+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-06T08:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "Informal meeting of Employment and Social Affairs Ministers (EPSCO Employment and Social) in Mayo, Ireland",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292160",
+     "title": "Informal meeting of Employment and Social Affairs Ministers (EPSCO Employment and Social) in Mayo, Ireland",
+     "summary": "Roundtable",
+     "inst": "Host"
+    }
+   ],
+   "firstSeen": "2026-06-30T18:25:48+00:00"
   },
   {
    "ep": false,
@@ -815,6 +1007,26 @@
     }
    ],
    "firstSeen": "2026-06-30T11:58:34+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-06T12:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "Informal meeting of Employment and Social Affairs Ministers (EPSCO Employment and Social) in Mayo, Ireland",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292161",
+     "title": "Informal meeting of Employment and Social Affairs Ministers (EPSCO Employment and Social) in Mayo, Ireland",
+     "summary": "Family photo",
+     "inst": "Host"
+    }
+   ],
+   "firstSeen": "2026-06-30T18:25:48+00:00"
   },
   {
    "ep": true,
@@ -937,6 +1149,28 @@
     }
    ],
    "firstSeen": "2026-06-30T11:58:34+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-06T15:45:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "Informal meeting of Employment and Social Affairs Ministers (EPSCO Employment and Social) in Mayo, Ireland",
+   "languages": [
+    "INT",
+    "EN",
+    "GA"
+   ],
+   "items": [
+    {
+     "ref": "I-292162",
+     "title": "Informal meeting of Employment and Social Affairs Ministers (EPSCO Employment and Social) in Mayo, Ireland",
+     "summary": "Press conference by the Irish Presidency and the European Commission",
+     "inst": "Host"
+    }
+   ],
+   "firstSeen": "2026-06-30T18:25:48+00:00"
   }
  ]
 }
