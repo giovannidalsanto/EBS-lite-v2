@@ -1,195 +1,9 @@
 {
- "generatedAt": "2026-06-30T18:25:48+00:00",
+ "generatedAt": "2026-07-01T12:25:16+00:00",
  "events": [
   {
    "ep": false,
-   "start": "2026-06-30T07:31:41.600Z",
-   "durationSec": 1274,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "European Commission Executive Vice-President Teresa RIBERA in Paris, France for the 50th Anniversary OECD Global Forum on Responsible Conduct",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291876",
-     "title": "European Commission Executive Vice-President Teresa RIBERA in Paris, France for the 50th Anniversary OECD Global Forum on Responsible Conduct",
-     "summary": "Opening Plenary: Responsible business conduct for a world in transition Keynote speech by Teresa RIBERA, Executive Vice-President of the European Commission for a Clean, Just and Competitive Transition",
-     "inst": "Other Organisation"
-    }
-   ],
-   "firstSeen": "2026-06-30T11:58:34+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-06-30T10:06:55.480Z",
-   "durationSec": 3720,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "EC Midday press briefing of 30/06/2026",
-   "languages": [
-    "INT",
-    "EN",
-    "FR"
-   ],
-   "items": [
-    {
-     "ref": "I-292140",
-     "title": "EC Midday press briefing of 30/06/2026",
-     "summary": "ANNOUNCEMENT - Commission greenlights Denmark’s final payment request of €359 million under NextGenerationEU ANNOUNCEMENT - Group of visitors COLLEGE AGENDA - Ongoing visit of HRVP Kallas and Commissioners Kos and Brunner to Türkiye: Q&A ENLARGEMENT - Commission presents financial package for Montenegro's EU accession: Q&A RULE OF LAW / EU-US RELATIONS - Supreme Court of the US \"Trump et al. v. Slaughter\" ruling (no 25–332) on the independence of the Federal Trade Commission (FTC): Q&A WAR IN UKRAINE - Visa issue for Russian citizens: Q&A MIGRATION - Spain / Regularization of migrants: Q&A PRESS FREEDOM - Celebrations for the US 250th anniversary and US embassy remarks on journalists: Q&A FOOD SAFETY - Import of fruit through Bulgarian borders: Q&A CUSTOMS - Customs duty for small packages entering the EU / France: Q&A TRADE - EU-US statement / Tariffs: Q&A TRADE - EU-China relations / Cooperation with Africa / Rare earth elements: Q&A ENERGY - Russian Gas import / Germany / REPowerEU / Russian oil: Q&A ENVIRONMENT - Commission clarifies rules on plastic bottles recycling: Q&A AGRICULTURE - Lifestock strategy / End of cage age: Q&A BUDGET - Commission disburses €3.9 billion for drones under the €90 billion Ukraine Support Loan: Q&A Exterior views of the European Commission Berlaymont building Recorded cutaways",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-291684",
-     "title": "EC Midday press briefing of 30/06/2026",
-     "summary": "ANNOUNCEMENT - Commission greenlights Denmark’s final payment request of €359 million under NextGenerationEU",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-291685",
-     "title": "EC Midday press briefing of 30/06/2026",
-     "summary": "ANNOUNCEMENT - Group of visitors",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292118",
-     "title": "EC Midday press briefing of 30/06/2026",
-     "summary": "COLLEGE AGENDA - Ongoing visit of HRVP Kallas and Commissioners Kos and Brunner to Türkiye: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292119",
-     "title": "EC Midday press briefing of 30/06/2026",
-     "summary": "ENLARGEMENT - Commission presents financial package for Montenegro's EU accession: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292120",
-     "title": "EC Midday press briefing of 30/06/2026",
-     "summary": "RULE OF LAW / EU-US RELATIONS - Supreme Court of the US \"Trump et al. v. Slaughter\" ruling (no 25–332) on the independence of the Federal Trade Commission (FTC): Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292121",
-     "title": "EC Midday press briefing of 30/06/2026",
-     "summary": "WAR IN UKRAINE - Visa issue for Russian citizens: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292122",
-     "title": "EC Midday press briefing of 30/06/2026",
-     "summary": "MIGRATION - Spain / Regularization of migrants: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292123",
-     "title": "EC Midday press briefing of 30/06/2026",
-     "summary": "PRESS FREEDOM - Celebrations for the US 250th anniversary and US embassy remarks on journalists: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292124",
-     "title": "EC Midday press briefing of 30/06/2026",
-     "summary": "FOOD SAFETY - Import of fruit through Bulgarian borders: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292125",
-     "title": "EC Midday press briefing of 30/06/2026",
-     "summary": "CUSTOMS - Customs duty for small packages entering the EU / France: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292126",
-     "title": "EC Midday press briefing of 30/06/2026",
-     "summary": "TRADE - EU-US statement / Tariffs: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292127",
-     "title": "EC Midday press briefing of 30/06/2026",
-     "summary": "TRADE - EU-China relations / Cooperation with Africa / Rare earth elements: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292135",
-     "title": "EC Midday press briefing of 30/06/2026",
-     "summary": "ENERGY - Russian Gas import / Germany / REPowerEU / Russian oil: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292136",
-     "title": "EC Midday press briefing of 30/06/2026",
-     "summary": "ENVIRONMENT - Commission clarifies rules on plastic bottles recycling: Q&A",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-06-30T11:58:34+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-06-30T10:10:10.000Z",
-   "durationSec": 468,
-   "channel": "EBS+",
-   "status": "RECORDED",
-   "title": "European Commissioner Marta KOS in Ankara, Türkiye",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292019",
-     "title": "European Commissioner Marta KOS in Ankara, Türkiye",
-     "summary": "EU–Türkiye connectivity / Global Gateway partnership Closure event of the project ‘Strengthening Intermodal Transport Services in Türkiye Speech by Marta KOS, European Commissioner for Enlargement",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-06-30T11:58:34+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-06-30T13:30:10.000Z",
-   "durationSec": 35,
-   "channel": "EBS+",
-   "status": "EDIT",
-   "title": "High Representative / Vice-President Kaja KALLAS and Commissioners Marta KOS and Magnus BRUNNER in Ankara, Türkiye",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291715",
-     "title": "High Representative / Vice-President Kaja KALLAS and Commissioners Marta KOS and Magnus BRUNNER in Ankara, Türkiye",
-     "summary": "Meeting with Recep Tayyip ERDOĞAN, President of Türkiye",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-06-30T18:25:48+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-06-30T17:35:10.000Z",
-   "durationSec": 10,
-   "channel": "EBS+",
-   "status": "EDIT",
-   "title": "High Representative / Vice-President Kaja KALLAS and Commissioners Marta KOS and Magnus BRUNNER in Ankara, Türkiye",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292150",
-     "title": "High Representative / Vice-President Kaja KALLAS and Commissioners Marta KOS and Magnus BRUNNER in Ankara, Türkiye",
-     "summary": "Meeting with Hakan FIDAN, Turkish Minister for Foreign Affairs",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-06-30T18:25:48+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-01T07:00:00.000Z",
+   "start": "2026-07-01T07:00:10.000Z",
    "durationSec": 274,
    "channel": "EBS",
    "status": "EDIT",
@@ -217,11 +31,11 @@
      "inst": "European Patent Of"
     }
    ],
-   "firstSeen": "2026-06-29T16:30:02+00:00"
+   "firstSeen": "2026-07-01T12:25:16+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-01T07:10:00.000Z",
+   "start": "2026-07-01T07:10:10.000Z",
    "durationSec": 275,
    "channel": "EBS",
    "status": "EDIT",
@@ -249,11 +63,11 @@
      "inst": "European Patent Of"
     }
    ],
-   "firstSeen": "2026-06-29T16:30:02+00:00"
+   "firstSeen": "2026-07-01T12:25:16+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-01T07:20:00.000Z",
+   "start": "2026-07-01T07:20:10.000Z",
    "durationSec": 271,
    "channel": "EBS",
    "status": "EDIT",
@@ -281,11 +95,11 @@
      "inst": "European Patent Of"
     }
    ],
-   "firstSeen": "2026-06-29T16:30:02+00:00"
+   "firstSeen": "2026-07-01T12:25:16+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-01T07:30:00.000Z",
+   "start": "2026-07-01T07:30:10.000Z",
    "durationSec": 272,
    "channel": "EBS",
    "status": "EDIT",
@@ -313,12 +127,12 @@
      "inst": "European Patent Of"
     }
    ],
-   "firstSeen": "2026-06-29T16:30:02+00:00"
+   "firstSeen": "2026-07-01T12:25:16+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-01T10:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-01T10:03:57.600Z",
+   "durationSec": 1787,
    "channel": "EBS",
    "status": "LIVE",
    "title": "EC Midday press briefing of 01/07/2026",
@@ -329,36 +143,102 @@
    ],
    "items": [
     {
+     "ref": "I-292222",
+     "title": "EC Midday press briefing of 01/07/2026",
+     "summary": "ANNOUNCEMENT - Start of the Irish Presidency of the Council ANNOUNCEMENT - Transposition, entry into force or application of EU legislation: key milestones, 1 July – 15 August 2026 ANNOUNCEMENT - Press arrangement: Q&A CUSTOMS - New E-commerce duty for small packages set to increase fairness for EU businesses and safety for consumers: Q&A DIGITAL POLICY / ARTIFICIAL INTELLIGENCE (AI) - Ongoing visit of a EU delegation to the United States: Q&A DIGITAL AFFAIRS - Child Safety on line / France: Q&A SPACE / TECH SOVEREIGNTY - Iris² / Spectrum: Q&A MIGRATION - Subsidiary protection: Q&A HUMANITARIAN AID - Venezuela: Q&A PRESIDENT AGENDA - Upcoming visit of EC President von der Leyen to Armenia: Q&A ENERGY - Methane regulation / Oil and gas supply: Q&A SCHENGEN - Entry/Exit System (EES): Q&A PRESIDENT AGENDA - Ongoing visit of EC President von der Leyen to Azerbaijan: Q&A HUMANITARIAN AID - Venezuela: additional answer Exterior views of the European Commission Berlaymont building Recorded cutaways",
+     "inst": "EC"
+    },
+    {
      "ref": "I-292081",
      "title": "EC Midday press briefing of 01/07/2026",
-     "summary": "Announcements",
+     "summary": "ANNOUNCEMENT - Start of the Irish Presidency of the Council",
      "inst": "EC"
     },
     {
      "ref": "I-292082",
      "title": "EC Midday press briefing of 01/07/2026",
-     "summary": "Q&A",
+     "summary": "ANNOUNCEMENT - Transposition, entry into force or application of EU legislation: key milestones, 1 July – 15 August 2026",
      "inst": "EC"
     },
     {
-     "ref": "I-292083",
+     "ref": "I-292208",
      "title": "EC Midday press briefing of 01/07/2026",
-     "summary": "Exterior views of the European Commission Berlaymont building",
+     "summary": "ANNOUNCEMENT - Press arrangement: Q&A",
      "inst": "EC"
     },
     {
-     "ref": "I-292084",
+     "ref": "I-292209",
      "title": "EC Midday press briefing of 01/07/2026",
-     "summary": "Recorded cutaways",
+     "summary": "CUSTOMS - New E-commerce duty for small packages set to increase fairness for EU businesses and safety for consumers: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292210",
+     "title": "EC Midday press briefing of 01/07/2026",
+     "summary": "DIGITAL POLICY / ARTIFICIAL INTELLIGENCE (AI) - Ongoing visit of a EU delegation to the United States: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292211",
+     "title": "EC Midday press briefing of 01/07/2026",
+     "summary": "DIGITAL AFFAIRS - Child Safety on line / France: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292212",
+     "title": "EC Midday press briefing of 01/07/2026",
+     "summary": "SPACE / TECH SOVEREIGNTY - Iris² / Spectrum: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292213",
+     "title": "EC Midday press briefing of 01/07/2026",
+     "summary": "MIGRATION - Subsidiary protection: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292214",
+     "title": "EC Midday press briefing of 01/07/2026",
+     "summary": "HUMANITARIAN AID - Venezuela: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292215",
+     "title": "EC Midday press briefing of 01/07/2026",
+     "summary": "PRESIDENT AGENDA - Upcoming visit of EC President von der Leyen to Armenia: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292216",
+     "title": "EC Midday press briefing of 01/07/2026",
+     "summary": "ENERGY - Methane regulation / Oil and gas supply: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292217",
+     "title": "EC Midday press briefing of 01/07/2026",
+     "summary": "SCHENGEN - Entry/Exit System (EES): Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292218",
+     "title": "EC Midday press briefing of 01/07/2026",
+     "summary": "PRESIDENT AGENDA - Ongoing visit of EC President von der Leyen to Azerbaijan: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292219",
+     "title": "EC Midday press briefing of 01/07/2026",
+     "summary": "HUMANITARIAN AID - Venezuela: additional answer",
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-06-29T16:30:02+00:00"
+   "firstSeen": "2026-07-01T12:25:16+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-01T11:10:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-01T11:50:34.000Z",
+   "durationSec": 1660,
    "channel": "EBS",
    "status": "LIVE",
    "title": "European Council President António COSTA visits the Irish Taoiseach Micheál MARTIN in Dublin, Ireland",
@@ -373,7 +253,7 @@
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-06-30T18:25:48+00:00"
+   "firstSeen": "2026-07-01T12:25:16+00:00"
   },
   {
    "ep": false,
@@ -403,7 +283,7 @@
   },
   {
    "ep": false,
-   "start": "2026-07-01T13:30:00.000Z",
+   "start": "2026-07-01T13:00:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
    "status": "LIVE",
@@ -431,11 +311,11 @@
      "inst": "European Central B"
     }
    ],
-   "firstSeen": "2026-06-25T12:03:24+00:00"
+   "firstSeen": "2026-07-01T12:25:16+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-01T14:40:00.000Z",
+   "start": "2026-07-01T15:05:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
    "status": "LIVE",
@@ -451,7 +331,30 @@
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-06-30T11:58:34+00:00"
+   "firstSeen": "2026-07-01T12:25:16+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-01T16:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "Press conference by the Irish Taoiseach Micheál MARTIN and the President of Ukraine Volodymyr ZELENSKYY",
+   "languages": [
+    "INT",
+    "EN",
+    "GA",
+    "UK"
+   ],
+   "items": [
+    {
+     "ref": "I-292149",
+     "title": "Press conference by the Irish Taoiseach Micheál MARTIN and the President of Ukraine Volodymyr ZELENSKYY",
+     "summary": "Press conference by Micheál MARTIN, Irish Taoiseach and Volodymyr ZELENSKYY, President of Ukraine",
+     "inst": "Host"
+    }
+   ],
+   "firstSeen": "2026-07-01T12:25:16+00:00"
   },
   {
    "ep": false,
@@ -474,6 +377,12 @@
      "ref": "I-292151",
      "title": "European Commission President Ursula von der LEYEN in Azerbaijan",
      "summary": "Bilateral meeting with Ilham ALIYEV, President of Azerbaijan",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292183",
+     "title": "European Commission President Ursula von der LEYEN in Azerbaijan",
+     "summary": "Enlarged meeting roundtable",
      "inst": "EC"
     }
    ],
@@ -1091,14 +1000,37 @@
      "ref": "I-291939",
      "title": "EP Plenary Session Resumption of Session and Order of Business",
      "summary": "Resumption of Session and Order of Business",
-     "inst": "EP"
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291939-V_v"
     }
    ],
    "firstSeen": "2026-06-30T11:58:34+00:00"
   },
   {
+   "ep": false,
+   "start": "2026-07-06T15:45:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "Informal meeting of Employment and Social Affairs Ministers (EPSCO Employment and Social) in Mayo, Ireland",
+   "languages": [
+    "INT",
+    "EN",
+    "GA"
+   ],
+   "items": [
+    {
+     "ref": "I-292162",
+     "title": "Informal meeting of Employment and Social Affairs Ministers (EPSCO Employment and Social) in Mayo, Ireland",
+     "summary": "Press conference by the Irish Presidency and the European Commission",
+     "inst": "Host"
+    }
+   ],
+   "firstSeen": "2026-06-30T18:25:48+00:00"
+  },
+  {
    "ep": true,
-   "start": "2026-07-06T15:30:00.000Z",
+   "start": "2026-07-06T21:00:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
@@ -1148,29 +1080,149 @@
      "inst": "EP"
     }
    ],
-   "firstSeen": "2026-06-30T11:58:34+00:00"
+   "firstSeen": "2026-07-01T12:25:16+00:00"
   },
   {
-   "ep": false,
-   "start": "2026-07-06T15:45:00.000Z",
+   "ep": true,
+   "start": "2026-07-07T10:00:00.000Z",
    "durationSec": 0,
-   "channel": "EBS",
+   "channel": "EBS+",
    "status": "LIVE",
-   "title": "Informal meeting of Employment and Social Affairs Ministers (EPSCO Employment and Social) in Mayo, Ireland",
+   "title": "EP Plenary Session Voting session",
    "languages": [
     "INT",
     "EN",
-    "GA"
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "EL",
+    "PT",
+    "NL",
+    "DA",
+    "FI",
+    "SV",
+    "CS",
+    "ET",
+    "LV",
+    "LT",
+    "HU",
+    "PL",
+    "SK",
+    "SL",
+    "BG",
+    "RO",
+    "HR"
    ],
    "items": [
     {
-     "ref": "I-292162",
-     "title": "Informal meeting of Employment and Social Affairs Ministers (EPSCO Employment and Social) in Mayo, Ireland",
-     "summary": "Press conference by the Irish Presidency and the European Commission",
-     "inst": "Host"
+     "ref": "I-292172",
+     "title": "EP Plenary Session Voting session",
+     "summary": "details to follow",
+     "inst": "EP"
     }
    ],
-   "firstSeen": "2026-06-30T18:25:48+00:00"
+   "firstSeen": "2026-07-01T12:25:16+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-07T12:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "Weekly European Commission College meeting",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292103",
+     "title": "Weekly European Commission College meeting",
+     "summary": "",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-01T12:25:16+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-07T13:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "Read-out of the College meeting / press conference (details to follow)",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "PL"
+   ],
+   "items": [
+    {
+     "ref": "I-292104",
+     "title": "Read-out of the College meeting / press conference (details to follow)",
+     "summary": "Read-out of the College meeting / press conference",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-01T12:25:16+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-07-07T21:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "EP Plenary Session Debate",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "EL",
+    "PT",
+    "NL",
+    "DA",
+    "FI",
+    "SV",
+    "CS",
+    "ET",
+    "LV",
+    "LT",
+    "HU",
+    "PL",
+    "SK",
+    "SL",
+    "BG",
+    "RO",
+    "HR"
+   ],
+   "items": [
+    {
+     "ref": "I-291943",
+     "title": "EP Plenary Session Debate",
+     "summary": "Opening statements",
+     "inst": "EP"
+    },
+    {
+     "ref": "I-291944",
+     "title": "EP Plenary Session Debate",
+     "summary": "MEPs debate",
+     "inst": "EP"
+    },
+    {
+     "ref": "I-291945",
+     "title": "EP Plenary Session Debate",
+     "summary": "Closing statements",
+     "inst": "EP"
+    }
+   ],
+   "firstSeen": "2026-07-01T12:25:16+00:00"
   }
  ]
 }
