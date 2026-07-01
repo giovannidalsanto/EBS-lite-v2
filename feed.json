@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-01T12:25:16+00:00",
+ "generatedAt": "2026-07-01T13:40:12+00:00",
  "events": [
   {
    "ep": false,
@@ -257,7 +257,7 @@
   },
   {
    "ep": false,
-   "start": "2026-07-01T12:15:00.000Z",
+   "start": "2026-07-01T12:26:07.480Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
@@ -269,21 +269,45 @@
     {
      "ref": "I-292148",
      "title": "Opening ceremony of the Irish Presidency of the Council of the European Union",
-     "summary": "Arrivals",
+     "summary": "Arrivals and general views",
      "inst": "Host"
     },
     {
      "ref": "I-292154",
      "title": "Opening ceremony of the Irish Presidency of the Council of the European Union",
-     "summary": "Opening ceremony",
+     "summary": "Raising of the Irish and European Union flags and anthems",
+     "inst": "Host"
+    },
+    {
+     "ref": "I-292247",
+     "title": "Opening ceremony of the Irish Presidency of the Council of the European Union",
+     "summary": "Speech by Micheál MARTIN, Irish Taoiseach",
+     "inst": "Host"
+    },
+    {
+     "ref": "I-292248",
+     "title": "Opening ceremony of the Irish Presidency of the Council of the European Union",
+     "summary": "Speech by António COSTA, President of the European Council",
+     "inst": "Host"
+    },
+    {
+     "ref": "I-292249",
+     "title": "Opening ceremony of the Irish Presidency of the Council of the European Union",
+     "summary": "Raising of the Ukrainian flag and speech by Volodymyr ZELENSKYY, President of Ukraine",
+     "inst": "Host"
+    },
+    {
+     "ref": "I-292251",
+     "title": "Opening ceremony of the Irish Presidency of the Council of the European Union",
+     "summary": "Musical performances",
      "inst": "Host"
     }
    ],
-   "firstSeen": "2026-06-30T18:25:48+00:00"
+   "firstSeen": "2026-07-01T13:40:12+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-01T13:00:00.000Z",
+   "start": "2026-07-01T13:02:49.320Z",
    "durationSec": 0,
    "channel": "EBS",
    "status": "LIVE",
@@ -311,7 +335,7 @@
      "inst": "European Central B"
     }
    ],
-   "firstSeen": "2026-07-01T12:25:16+00:00"
+   "firstSeen": "2026-07-01T13:40:12+00:00"
   },
   {
    "ep": false,
@@ -876,6 +900,27 @@
     }
    ],
    "firstSeen": "2026-06-30T18:25:48+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-06T08:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "Concluding press conference of the Cypriot Presidency of the European Union",
+   "languages": [
+    "INT",
+    "EN"
+   ],
+   "items": [
+    {
+     "ref": "I-292244",
+     "title": "Concluding press conference of the Cypriot Presidency of the European Union",
+     "summary": "Press conference by Nikos CHRISTODOULIDES, President of Cyprus and Marilena RAOUNA, Cypriot Deputy Minister for European Affairs",
+     "inst": "Host"
+    }
+   ],
+   "firstSeen": "2026-07-01T13:40:12+00:00"
   },
   {
    "ep": false,
