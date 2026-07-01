@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-01T13:40:12+00:00",
+ "generatedAt": "2026-07-01T20:30:42+00:00",
  "events": [
   {
    "ep": false,
@@ -258,7 +258,7 @@
   {
    "ep": false,
    "start": "2026-07-01T12:26:07.480Z",
-   "durationSec": 0,
+   "durationSec": 6848,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "Opening ceremony of the Irish Presidency of the Council of the European Union",
@@ -266,6 +266,12 @@
     "INT"
    ],
    "items": [
+    {
+     "ref": "I-292287",
+     "title": "Opening ceremony of the Irish Presidency of the Council of the European Union",
+     "summary": "Arrivals and general views Raising of the Irish and European Union flags and anthems Speech by Micheál MARTIN, Irish Taoiseach Speech by António COSTA, President of the European Council Raising of the Ukrainian flag and speech by Volodymyr ZELENSKYY, President of Ukraine Speech by Simon HARRIS, Tánaiste and Minister for Finance Musical performances Speech by HelenMcENTEE, Minister for Foreign Affairs and Trade; and Minister for Defence Speech Sean CANNEY, Minister of State at the Department of Transport with responsibility for International and Road Transport, Logistics, Rail and Ports Poem by Ruth NEGGA, Irish actress and Oscar nominee Musical performance Speech Thomas BYRNE, Minister of State at the Department of the Taoiseach and the Department of Foreign Affairs with special responsibility for European Affairs; and the Department of Defence Closing words and departure",
+     "inst": "Host"
+    },
     {
      "ref": "I-292148",
      "title": "Opening ceremony of the Irish Presidency of the Council of the European Union",
@@ -299,7 +305,49 @@
     {
      "ref": "I-292251",
      "title": "Opening ceremony of the Irish Presidency of the Council of the European Union",
+     "summary": "Speech by Simon HARRIS, Tánaiste and Minister for Finance",
+     "inst": "Host"
+    },
+    {
+     "ref": "I-292269",
+     "title": "Opening ceremony of the Irish Presidency of the Council of the European Union",
      "summary": "Musical performances",
+     "inst": "Host"
+    },
+    {
+     "ref": "I-292275",
+     "title": "Opening ceremony of the Irish Presidency of the Council of the European Union",
+     "summary": "Speech by HelenMcENTEE, Minister for Foreign Affairs and Trade; and Minister for Defence",
+     "inst": "Host"
+    },
+    {
+     "ref": "I-292276",
+     "title": "Opening ceremony of the Irish Presidency of the Council of the European Union",
+     "summary": "Speech Sean CANNEY, Minister of State at the Department of Transport with responsibility for International and Road Transport, Logistics, Rail and Ports",
+     "inst": "Host"
+    },
+    {
+     "ref": "I-292280",
+     "title": "Opening ceremony of the Irish Presidency of the Council of the European Union",
+     "summary": "Poem by Ruth NEGGA, Irish actress and Oscar nominee",
+     "inst": "Host"
+    },
+    {
+     "ref": "I-292281",
+     "title": "Opening ceremony of the Irish Presidency of the Council of the European Union",
+     "summary": "Musical performance",
+     "inst": "Host"
+    },
+    {
+     "ref": "I-292283",
+     "title": "Opening ceremony of the Irish Presidency of the Council of the European Union",
+     "summary": "Speech Thomas BYRNE, Minister of State at the Department of the Taoiseach and the Department of Foreign Affairs with special responsibility for European Affairs; and the Department of Defence",
+     "inst": "Host"
+    },
+    {
+     "ref": "I-292284",
+     "title": "Opening ceremony of the Irish Presidency of the Council of the European Union",
+     "summary": "Closing words and departure",
      "inst": "Host"
     }
    ],
@@ -308,7 +356,7 @@
   {
    "ep": false,
    "start": "2026-07-01T13:02:49.320Z",
-   "durationSec": 0,
+   "durationSec": 4518,
    "channel": "EBS",
    "status": "LIVE",
    "title": "ECB Forum on Central Banking in Sintra, Portugal",
@@ -325,7 +373,7 @@
     {
      "ref": "I-291707",
      "title": "ECB Forum on Central Banking in Sintra, Portugal",
-     "summary": "Group photo",
+     "summary": "Award ceremony for the Young Economist Prize and group photo",
      "inst": "European Central B"
     },
     {
@@ -339,8 +387,34 @@
   },
   {
    "ep": false,
-   "start": "2026-07-01T15:05:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-01T14:50:10.000Z",
+   "durationSec": 1840,
+   "channel": "EBS+",
+   "status": "RECORDED",
+   "title": "Opening ceremony of the Irish Presidency of the Council of the European Union",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292285",
+     "title": "Opening ceremony of the Irish Presidency of the Council of the European Union",
+     "summary": "Retransmission of the first satellite uplink loss (arrivals and general views)",
+     "inst": "Host"
+    },
+    {
+     "ref": "I-292286",
+     "title": "Opening ceremony of the Irish Presidency of the Council of the European Union",
+     "summary": "Retransmission of the second satellite uplink loss (speeches Micheál MARTIN, Irish Taoiseach; António COSTA, President of the European Council and Volodymyr ZELENSKYY, President of Ukraine)",
+     "inst": "Host"
+    }
+   ],
+   "firstSeen": "2026-07-01T20:30:42+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-01T15:21:17.160Z",
+   "durationSec": 886,
    "channel": "EBS",
    "status": "LIVE",
    "title": "European Commission President Ursula von der LEYEN in Baku, Azerbaijan",
@@ -349,25 +423,76 @@
    ],
    "items": [
     {
+     "ref": "I-292298",
+     "title": "European Commission President Ursula von der LEYEN in Baku, Azerbaijan",
+     "summary": "Press statement by Ilham ALIYEV, President of Azerbaijan Press statement by Ursula von der LEYEN, President of the European Commission",
+     "inst": "EC"
+    },
+    {
      "ref": "I-292017",
      "title": "European Commission President Ursula von der LEYEN in Baku, Azerbaijan",
-     "summary": "Press statements by Ursula von der LEYEN, President of the European Commission and Ilham ALIYEV, President of Azerbaijan",
+     "summary": "Press statement by Ilham ALIYEV, President of Azerbaijan",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292291",
+     "title": "European Commission President Ursula von der LEYEN in Baku, Azerbaijan",
+     "summary": "Press statement by Ursula von der LEYEN, President of the European Commission",
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-01T12:25:16+00:00"
+   "firstSeen": "2026-07-01T20:30:42+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-01T16:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-01T15:30:10.000Z",
+   "durationSec": 64,
+   "channel": "EBS+",
+   "status": "EDIT",
+   "title": "Opening ceremony of the Irish Presidency of the Council of the European Union",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292289",
+     "title": "Opening ceremony of the Irish Presidency of the Council of the European Union",
+     "summary": "Trilateral meeting Micheál MARTIN, Irish Taoiseach; António COSTA, President of the European Council and Volodymyr ZELENSKYY, President of Ukraine",
+     "inst": "Host"
+    }
+   ],
+   "firstSeen": "2026-07-01T20:30:42+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-01T15:50:00.000Z",
+   "durationSec": 41,
+   "channel": "EBS+",
+   "status": "EDIT",
+   "title": "Opening ceremony of the Irish Presidency of the Council of the European Union",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292297",
+     "title": "Opening ceremony of the Irish Presidency of the Council of the European Union",
+     "summary": "Departure of António COSTA, President of the European Council Bilateral meeting Micheál MARTIN, Irish Taoiseach and Volodymyr ZELENSKYY, President of Ukraine",
+     "inst": "Host"
+    }
+   ],
+   "firstSeen": "2026-07-01T20:30:42+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-01T16:10:02.920Z",
+   "durationSec": 1820,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "Press conference by the Irish Taoiseach Micheál MARTIN and the President of Ukraine Volodymyr ZELENSKYY",
    "languages": [
     "INT",
     "EN",
-    "GA",
     "UK"
    ],
    "items": [
@@ -376,14 +501,20 @@
      "title": "Press conference by the Irish Taoiseach Micheál MARTIN and the President of Ukraine Volodymyr ZELENSKYY",
      "summary": "Press conference by Micheál MARTIN, Irish Taoiseach and Volodymyr ZELENSKYY, President of Ukraine",
      "inst": "Host"
+    },
+    {
+     "ref": "I-292304",
+     "title": "Press conference by the Irish Taoiseach Micheál MARTIN and the President of Ukraine Volodymyr ZELENSKYY",
+     "summary": "Recorded cutaways",
+     "inst": "Host"
     }
    ],
-   "firstSeen": "2026-07-01T12:25:16+00:00"
+   "firstSeen": "2026-07-01T20:30:42+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-01T16:45:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-01T16:10:10.000Z",
+   "durationSec": 61,
    "channel": "EBS",
    "status": "EDIT",
    "title": "European Commission President Ursula von der LEYEN in Azerbaijan",
@@ -410,12 +541,12 @@
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-06-30T18:25:48+00:00"
+   "firstSeen": "2026-07-01T20:30:42+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-01T17:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-01T16:45:10.000Z",
+   "durationSec": 6915,
    "channel": "EBS+",
    "status": "RECORDED",
    "title": "172nd European Committee of the Regions Plenary Session",
@@ -459,40 +590,20 @@
      "inst": "European Committee"
     },
     {
-     "ref": "I-291462",
+     "ref": "I-292282",
      "title": "172nd European Committee of the Regions Plenary Session",
      "summary": "Debate Fisheries and Coastal Communities Statement by: Costas KADIS, European Commissioner for Fisheries and Oceans Debate with members",
      "inst": "European Committee"
     }
    ],
-   "firstSeen": "2026-06-30T18:25:48+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-01T17:30:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "EDIT_RECORDED",
-   "title": "High Representative / Vice-President Kaja KALLAS in Bosnia and Herzegovina",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291716",
-     "title": "High Representative / Vice-President Kaja KALLAS in Bosnia and Herzegovina",
-     "summary": "Details to follow",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-06-30T18:25:48+00:00"
+   "firstSeen": "2026-07-01T20:30:42+00:00"
   },
   {
    "ep": false,
    "start": "2026-07-01T23:00:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
-   "status": "",
+   "status": "EDIT",
    "title": "European Commission President Ursula von der LEYEN in Armenia",
    "languages": [
     "INT"
@@ -509,23 +620,43 @@
   },
   {
    "ep": false,
-   "start": "2026-07-02T01:00:00.000Z",
+   "start": "2026-07-02T00:00:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
-   "status": "",
-   "title": "Visit of the College of Commissioners to the Irish Presidency, in Cork, Ireland",
+   "status": "EDIT",
+   "title": "European Commission President Ursula von der LEYEN in Cork, Dublin",
    "languages": [
     "INT"
    ],
    "items": [
     {
-     "ref": "I-291742",
-     "title": "Visit of the College of Commissioners to the Irish Presidency, in Cork, Ireland",
+     "ref": "I-292299",
+     "title": "European Commission President Ursula von der LEYEN in Cork, Dublin",
      "summary": "Details to follow",
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-06-26T18:17:01+00:00"
+   "firstSeen": "2026-07-01T20:30:42+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-02T01:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "",
+   "title": "High Representative / Vice-President Kaja KALLAS in Bosnia and Herzegovina",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291717",
+     "title": "High Representative / Vice-President Kaja KALLAS in Bosnia and Herzegovina",
+     "summary": "Details to follow",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-01T20:30:42+00:00"
   },
   {
    "ep": false,
@@ -701,6 +832,49 @@
   },
   {
    "ep": false,
+   "start": "2026-07-02T12:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "Annual EU Budget Conference 2026 – Boost Europe: Leveraging the EU Budget for strategic priorities",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "EL",
+    "PT",
+    "NL",
+    "DA",
+    "FI",
+    "SV",
+    "CS",
+    "ET",
+    "LV",
+    "LT",
+    "HU",
+    "MT",
+    "PL",
+    "SK",
+    "SL",
+    "BG",
+    "RO",
+    "HR"
+   ],
+   "items": [
+    {
+     "ref": "I-292290",
+     "title": "Annual EU Budget Conference 2026 – Boost Europe: Leveraging the EU Budget for strategic priorities",
+     "summary": "Fireside chat “3 Questions to ...” Nadia CALVIÑO, President of the European Investment Bank (EIB)",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-01T20:30:42+00:00"
+  },
+  {
+   "ep": false,
    "start": "2026-07-02T13:00:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
@@ -714,26 +888,6 @@
      "ref": "I-292153",
      "title": "European Commissioner Valdis DOMBROVSKIS in Istanbul, Türkiye",
      "summary": "EU-Türkiye-EU High-Level Economic Dialogue press point with Commissioner Valdis Dombrovskis and Minister Mehmet ŞIMŞEK, Minister of Finance of Turkey",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-06-30T18:25:48+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-02T13:45:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "EDIT_RECORDED",
-   "title": "High Representative / Vice-President Kaja KALLAS in Bosnia and Herzegovina",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291717",
-     "title": "High Representative / Vice-President Kaja KALLAS in Bosnia and Herzegovina",
-     "summary": "Visit to EUFOR",
      "inst": "EC"
     }
    ],
@@ -758,6 +912,26 @@
     }
    ],
    "firstSeen": "2026-06-26T11:59:01+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-02T18:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "Visit of the College of Commissioners to the Irish Presidency, in Cork, Ireland",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291742",
+     "title": "Visit of the College of Commissioners to the Irish Presidency, in Cork, Ireland",
+     "summary": "Arrival at University College Cork (UCC) for the welcome Dinner",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-01T20:30:42+00:00"
   },
   {
    "ep": false,
