@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-02T11:44:25+00:00",
+ "generatedAt": "2026-07-02T12:20:38+00:00",
  "events": [
   {
    "ep": false,
@@ -200,7 +200,7 @@
   {
    "ep": false,
    "start": "2026-07-02T10:11:51.800Z",
-   "durationSec": 0,
+   "durationSec": 2807,
    "channel": "EBS",
    "status": "LIVE",
    "title": "EC Midday press briefing of 02/07/2026",
@@ -210,6 +210,12 @@
     "FR"
    ],
    "items": [
+    {
+     "ref": "I-292336",
+     "title": "EC Midday press briefing of 02/07/2026",
+     "summary": "ANNOUNCEMENT - Press arrangements ANNOUNCEMENT - President’s agenda for next week ANNOUNCEMENT - €2.5 billion of EU ETS revenues invested in cleaner energy systems in 11 EU countries COMPETITION - ECJ ruling in case C-738/22 P Google Alphabet: Q&A WAR IN UKRAINE / PRESIDENT AGENDA - Latest Russian attacks on Ukraine / Upcoming NATO Summit / Restrictive measures in view of Russia’s destabilising activities / Jacques Baud case / Shadow fleet: Q&A HUMANITARIAN AID - Sudan: Q&A MEMBER STATES / CODE OF CONDUCT - Allegations of Hungarian espionage in the European institutions: Q&A CUSTOMS - New E-commerce duty for small packages set to increase fairness for EU businesses and safety for consumers: Q&A TRADE - Armenia: Q&A DEFENCE - Security Action for Europe (SAFE) / Italy: Q&A ENLARGEMENT - Western Balkans Growth Plan: Q&A COLLEGE AGENDA - Upcoming meeting on 17 July / ETS Review: Q&A Exterior views of the European Commission Berlaymont building Recorded cutaways",
+     "inst": "EC"
+    },
     {
      "ref": "I-291688",
      "title": "EC Midday press briefing of 02/07/2026",
@@ -321,8 +327,8 @@
   },
   {
    "ep": false,
-   "start": "2026-07-02T12:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-02T12:02:59.160Z",
+   "durationSec": 942,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "Annual EU Budget Conference 2026 – Boost Europe: Leveraging the EU Budget for strategic priorities",
@@ -359,31 +365,11 @@
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-01T20:30:42+00:00"
+   "firstSeen": "2026-07-02T12:20:38+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-02T13:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "European Commissioner Valdis DOMBROVSKIS in Istanbul, Türkiye",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292153",
-     "title": "European Commissioner Valdis DOMBROVSKIS in Istanbul, Türkiye",
-     "summary": "EU-Türkiye-EU High-Level Economic Dialogue press point with Valdis DOMBROVSKIS, European Commissioner for Economy and Productivity, and European Commissioner for Implementation and Simplification and Mehmet ŞIMŞEK, Minister of Finance of Turkey",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-06-30T18:25:48+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-02T13:00:00.000Z",
+   "start": "2026-07-02T12:30:00.000Z",
    "durationSec": 4046,
    "channel": "EBS+",
    "status": "RECORDED",
@@ -422,7 +408,27 @@
      "inst": "European Committee"
     }
    ],
-   "firstSeen": "2026-07-02T11:44:25+00:00"
+   "firstSeen": "2026-07-02T12:20:38+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-02T13:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "European Commissioner Valdis DOMBROVSKIS in Istanbul, Türkiye",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292153",
+     "title": "European Commissioner Valdis DOMBROVSKIS in Istanbul, Türkiye",
+     "summary": "EU-Türkiye-EU High-Level Economic Dialogue press point with Valdis DOMBROVSKIS, European Commissioner for Economy and Productivity, and European Commissioner for Implementation and Simplification and Mehmet ŞIMŞEK, Minister of Finance of Turkey",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-06-30T18:25:48+00:00"
   },
   {
    "ep": false,
@@ -459,7 +465,7 @@
      "ref": "I-291742",
      "title": "Visit of the College of Commissioners to the Irish Presidency, in Cork, Ireland",
      "summary": "Arrival at University College Cork (UCC) for the welcome Dinner hosted by Micheál MARTIN, Irish Taoiseach",
-     "inst": "EC"
+     "inst": "Host"
     }
    ],
    "firstSeen": "2026-07-01T20:30:42+00:00"
@@ -486,26 +492,6 @@
   },
   {
    "ep": false,
-   "start": "2026-07-03T00:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "",
-   "title": "Visit of the College of Commissioners to the Irish Presidency, in Cork, Ireland",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291743",
-     "title": "Visit of the College of Commissioners to the Irish Presidency, in Cork, Ireland",
-     "summary": "Details to follow",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-06-29T16:30:02+00:00"
-  },
-  {
-   "ep": false,
    "start": "2026-07-03T06:30:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
@@ -523,6 +509,26 @@
     }
    ],
    "firstSeen": "2026-06-30T18:25:48+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-03T08:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "Visit of the College of Commissioners to the Irish Presidency in Cork, Ireland",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292335",
+     "title": "Visit of the College of Commissioners to the Irish Presidency in Cork, Ireland",
+     "summary": "Arrival of Ursula von der LEYEN, President of the European Commission and welcome by Micheál MARTIN, Irish Taoiseach",
+     "inst": "Host"
+    }
+   ],
+   "firstSeen": "2026-07-02T12:20:38+00:00"
   },
   {
    "ep": true,
@@ -548,23 +554,83 @@
   },
   {
    "ep": false,
+   "start": "2026-07-03T09:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "Visit of the College of Commissioners to the Irish Presidency in Cork, Ireland",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291743",
+     "title": "Visit of the College of Commissioners to the Irish Presidency in Cork, Ireland",
+     "summary": "Bilateral meeting Ursula von der LEYEN, President of the European Commission with Micheál MARTIN, Irish Taoiseach",
+     "inst": "Host"
+    }
+   ],
+   "firstSeen": "2026-07-02T12:20:38+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-03T10:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "Visit of the College of Commissioners to the Irish Presidency in Cork, Ireland",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292337",
+     "title": "Visit of the College of Commissioners to the Irish Presidency in Cork, Ireland",
+     "summary": "Family photo",
+     "inst": "Host"
+    }
+   ],
+   "firstSeen": "2026-07-02T12:20:38+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-03T10:45:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "Visit of the College of Commissioners to the Irish Presidency in Cork, Ireland",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292338",
+     "title": "Visit of the College of Commissioners to the Irish Presidency in Cork, Ireland",
+     "summary": "Roundtable plenary",
+     "inst": "Host"
+    }
+   ],
+   "firstSeen": "2026-07-02T12:20:38+00:00"
+  },
+  {
+   "ep": false,
    "start": "2026-07-03T12:30:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
    "status": "LIVE",
-   "title": "Visit of the College of Commissioners to the Irish Presidency, in Cork, Ireland",
+   "title": "Visit of the College of Commissioners to the Irish Presidency in Cork, Ireland",
    "languages": [
     "INT"
    ],
    "items": [
     {
      "ref": "I-292077",
-     "title": "Visit of the College of Commissioners to the Irish Presidency, in Cork, Ireland",
+     "title": "Visit of the College of Commissioners to the Irish Presidency in Cork, Ireland",
      "summary": "Press conference by Ursula von der LEYEN, President of the European Commission and Micheál MARTIN, Irish Prime Minister (Taoiseach)",
-     "inst": "EC"
+     "inst": "Host"
     }
    ],
-   "firstSeen": "2026-06-30T18:25:48+00:00"
+   "firstSeen": "2026-07-02T12:20:38+00:00"
   },
   {
    "ep": false,
