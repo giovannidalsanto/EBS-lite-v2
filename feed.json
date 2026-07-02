@@ -1,30 +1,10 @@
 {
- "generatedAt": "2026-07-02T12:20:38+00:00",
+ "generatedAt": "2026-07-02T18:20:43+00:00",
  "events": [
   {
    "ep": false,
-   "start": "2026-07-01T23:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "EDIT",
-   "title": "European Commission President Ursula von der LEYEN in Armenia",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291882",
-     "title": "European Commission President Ursula von der LEYEN in Armenia",
-     "summary": "Details to follow",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-06-26T18:17:01+00:00"
-  },
-  {
-   "ep": false,
    "start": "2026-07-02T00:00:00.000Z",
-   "durationSec": 0,
+   "durationSec": 332,
    "channel": "EBS",
    "status": "EDIT",
    "title": "European Commission President Ursula von der LEYEN in Cork, Ireland",
@@ -319,7 +299,7 @@
     {
      "ref": "I-292331",
      "title": "High Representative / Vice-President Kaja KALLAS in Bosnia and Herzegovina",
-     "summary": "Visit to UFOR Address to the troops by Kaja KALLAS, High Representative of the Union for Foreign Affairs and Security Policy and Vice-President of the European Commission",
+     "summary": "Visit to EUFOR Address to the troops by Kaja KALLAS, High Representative of the Union for Foreign Affairs and Security Policy and Vice-President of the European Commission",
      "inst": "EC"
     }
    ],
@@ -369,7 +349,7 @@
   },
   {
    "ep": false,
-   "start": "2026-07-02T12:30:00.000Z",
+   "start": "2026-07-02T12:30:10.000Z",
    "durationSec": 4046,
    "channel": "EBS+",
    "status": "RECORDED",
@@ -408,32 +388,32 @@
      "inst": "European Committee"
     }
    ],
-   "firstSeen": "2026-07-02T12:20:38+00:00"
+   "firstSeen": "2026-07-02T18:20:43+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-02T13:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "European Commissioner Valdis DOMBROVSKIS in Istanbul, Türkiye",
+   "start": "2026-07-02T13:45:10.000Z",
+   "durationSec": 158,
+   "channel": "EBS+",
+   "status": "EDIT",
+   "title": "High Representative / Vice-President Kaja KALLAS in Bosnia and Herzegovina",
    "languages": [
     "INT"
    ],
    "items": [
     {
-     "ref": "I-292153",
-     "title": "European Commissioner Valdis DOMBROVSKIS in Istanbul, Türkiye",
-     "summary": "EU-Türkiye-EU High-Level Economic Dialogue press point with Valdis DOMBROVSKIS, European Commissioner for Economy and Productivity, and European Commissioner for Implementation and Simplification and Mehmet ŞIMŞEK, Minister of Finance of Turkey",
+     "ref": "I-292349",
+     "title": "High Representative / Vice-President Kaja KALLAS in Bosnia and Herzegovina",
+     "summary": "Demining presentation in EUFOR base",
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-06-30T18:25:48+00:00"
+   "firstSeen": "2026-07-02T18:20:43+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-02T14:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-02T14:00:07.800Z",
+   "durationSec": 4942,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "European Inventor Award 2026 ceremony",
@@ -448,11 +428,171 @@
      "inst": "Other Organisation"
     }
    ],
-   "firstSeen": "2026-06-26T11:59:01+00:00"
+   "firstSeen": "2026-07-02T18:20:43+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-02T18:00:00.000Z",
+   "start": "2026-07-02T14:20:10.000Z",
+   "durationSec": 1247,
+   "channel": "EBS",
+   "status": "RECORDED",
+   "title": "European Commissioner Valdis DOMBROVSKIS in Istanbul, Türkiye",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292153",
+     "title": "European Commissioner Valdis DOMBROVSKIS in Istanbul, Türkiye",
+     "summary": "EU-Türkiye-EU High-Level Economic Dialogue press point with Valdis DOMBROVSKIS, European Commissioner for Economy and Productivity, and European Commissioner for Implementation and Simplification and Mehmet ŞIMŞEK, Minister of Finance of Turkey",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-02T18:20:43+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-02T15:30:10.000Z",
+   "durationSec": 92,
+   "channel": "EBS+",
+   "status": "EDIT",
+   "title": "European Inventor Award 2026 winner Industry",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291557",
+     "title": "Angie Triantafyllou (SWE/GR), finalist in the Industry category of the European Inventor Award 2026",
+     "summary": "Angeliki Triantafyllou and team (GR, SE), nominated for the European Inventor Award 2026 in the category Industry Successful patented enzymatic method, which produces a smoother, whiter product that foams well in coffee, while improving the protein content over previous methods. Lactose-free, easily digestible drink and the company went on to become an established company. Copyright: European Patent Office.",
+     "inst": "European Patent Of"
+    }
+   ],
+   "firstSeen": "2026-07-02T18:20:43+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-02T15:35:10.000Z",
+   "durationSec": 92,
+   "channel": "EBS+",
+   "status": "EDIT",
+   "title": "European Inventor Award 2026 winner SMEs",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291727",
+     "title": "Franck Zal (FRA), finalist in the SMEs category of the European Inventor Award 2026",
+     "summary": "One of the longstanding challenges in transplantation is preserving organs and tissues outside the body, particularly due to the lack of oxygen during transport and storage. Drawing inspiration from nature – more specifically the lugworm – a marine species that has survived for 450 million years, Franck Zal and his team have developed the first universal oxygen-carrying solution for organ preservation. The solution is based on the worm’s extracellular haemoglobin, which safely delivers oxygen during the preservation and transport period, extending the viable storage time for kidney, lung and other transplants. Beyond organ preservation, this invention is being adapted for use in wound care, skin grafting and regenerative medicine. Copyright: European Patent Office.",
+     "inst": "European Patent Of"
+    }
+   ],
+   "firstSeen": "2026-07-02T18:20:43+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-02T15:40:10.000Z",
+   "durationSec": 88,
+   "channel": "EBS+",
+   "status": "EDIT",
+   "title": "European Inventor Award 2026 winner Research",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291605",
+     "title": "Sir Adrian Hill (IE/UK), finalist in the Research category of the European Inventor Award 2026",
+     "summary": "Traditional malaria vaccines are not very effective, especially for children, because of the parasite's genetic diversity. Sir Adrian Hill and his team developed a vaccine with more of the malaria-specific protein regions that the immune system needs to recognise to respond effectively, while omitting unnecessary components that could divert the immune response. After decades of research, their work has advanced from a laboratory innovation to a scalable public-health intervention in a growing number of African countries, with the WHO formally recommended it for widespread use in October 2023. Copyright: European Patent Office",
+     "inst": "European Patent Of"
+    }
+   ],
+   "firstSeen": "2026-07-02T18:20:43+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-02T15:45:10.000Z",
+   "durationSec": 88,
+   "channel": "EBS+",
+   "status": "EDIT",
+   "title": "European Inventor Award 2026 winner Non-EPO Countries",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291751",
+     "title": "Yu Haijun and Xie Yinghao (China), finalists in the Non EPO category of the European Inventor Award 2026",
+     "summary": "Xie Yinghao and Yu Haijun and their team at Brunp have developed a lithium-ion battery recycling method, which involves fewer steps and requires fewer resources than previous processes. Their method uses the battery’s own materials, with a self-propagating reaction supplying internal heat, which results in a more efficient and effective recycling of materials including lithium itself. Brunp’s method has since been extended into major international initiatives, most notably a large-scale project in Indonesia. Copyright: European Patent Office",
+     "inst": "European Patent Of"
+    }
+   ],
+   "firstSeen": "2026-07-02T18:20:43+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-02T15:50:10.000Z",
+   "durationSec": 106,
+   "channel": "EBS+",
+   "status": "EDIT",
+   "title": "European Inventor Award 2026 winner Lifetime Achievement",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291729",
+     "title": "Professor Rainer Marquardt (Germany), is the winner of the Lifetime Achievement Award of the European Inventor Award 2026",
+     "summary": "Modern energy systems require flexible conversion, with new renewable energy sources entering the system. However, grid infrastructure has struggled to keep pace, which has led to delays in project deployment and increased financial uncertainty: in 2024 alone, the International Energy Agency tracked 1 650 GW of solar and wind projects awaiting grid connections. Electricity is generated, transmitted and consumed at different voltages and sometimes in different forms. Converters bridge this gap to maintain reliable and efficient energy flow. Over his career, Professor Rainer Marquardt has developed a scalable, modular design that improves efficiency, redundancy, and waveform quality. Known as the modular multilevel converter (MMC), Marquardt’s concept marks a milestone in power electronics. As the most common type of voltage-source-controlled HVDC, it has since become the foundation for modern electricity grids, offshore wind integration, and meshed DC networks. Copyright: European Patent Office.",
+     "inst": "European Patent Of"
+    }
+   ],
+   "firstSeen": "2026-07-02T18:20:43+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-02T15:55:10.000Z",
+   "durationSec": 88,
+   "channel": "EBS+",
+   "status": "EDIT",
+   "title": "European Inventor Award 2026 winner Popular Prize",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291751",
+     "title": "Yu Haijun and Xie Yinghao (China), finalists in the Non EPO category of the European Inventor Award 2026",
+     "summary": "Xie Yinghao and Yu Haijun and their team at Brunp have developed a lithium-ion battery recycling method, which involves fewer steps and requires fewer resources than previous processes. Their method uses the battery’s own materials, with a self-propagating reaction supplying internal heat, which results in a more efficient and effective recycling of materials including lithium itself. Brunp’s method has since been extended into major international initiatives, most notably a large-scale project in Indonesia. Copyright: European Patent Office",
+     "inst": "European Patent Of"
+    }
+   ],
+   "firstSeen": "2026-07-02T18:20:43+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-02T17:55:49.440Z",
+   "durationSec": 332,
+   "channel": "EBS",
+   "status": "EDIT_RECORDED",
+   "title": "European Commission President Ursula von der LEYEN in Cork, Ireland",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292300",
+     "title": "European Commission President Ursula von der LEYEN in Cork, Ireland",
+     "summary": "Arrival at Cork City Hall, welcome by the Taoiseach, Chief Executive and Lord Mayor of Cork",
+     "inst": "Host"
+    }
+   ],
+   "firstSeen": "2026-07-02T18:20:43+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-02T18:11:09.920Z",
    "durationSec": 0,
    "channel": "EBS",
    "status": "LIVE",
@@ -464,31 +604,11 @@
     {
      "ref": "I-291742",
      "title": "Visit of the College of Commissioners to the Irish Presidency, in Cork, Ireland",
-     "summary": "Arrival at University College Cork (UCC) for the welcome Dinner hosted by Micheál MARTIN, Irish Taoiseach",
+     "summary": "Arrivals at University College Cork (UCC) for the welcome Dinner hosted by Micheál MARTIN, Irish Taoiseach",
      "inst": "Host"
     }
    ],
-   "firstSeen": "2026-07-01T20:30:42+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-02T23:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS+",
-   "status": "",
-   "title": "European Council President António COSTA in Avignon, France",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292225",
-     "title": "European Council President António COSTA in Avignon, France",
-     "summary": "Stage-talk with António COSTA, President of the European Council and Christine LAGARDE, President of the European Central Bank (ECB)",
-     "inst": "Council"
-    }
-   ],
-   "firstSeen": "2026-07-02T11:44:25+00:00"
+   "firstSeen": "2026-07-02T18:20:43+00:00"
   },
   {
    "ep": false,
@@ -529,6 +649,26 @@
     }
    ],
    "firstSeen": "2026-07-02T12:20:38+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-03T08:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "European Council President António COSTA in Avignon, France",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292225",
+     "title": "European Council President António COSTA in Avignon, France",
+     "summary": "Stage-talk with António COSTA, President of the European Council and Christine LAGARDE, President of the European Central Bank (ECB)",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-07-02T18:20:43+00:00"
   },
   {
    "ep": true,
