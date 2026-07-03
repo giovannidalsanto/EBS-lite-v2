@@ -1,619 +1,10 @@
 {
- "generatedAt": "2026-07-02T18:20:43+00:00",
+ "generatedAt": "2026-07-03T11:42:38+00:00",
  "events": [
   {
    "ep": false,
-   "start": "2026-07-02T00:00:00.000Z",
-   "durationSec": 332,
-   "channel": "EBS",
-   "status": "EDIT",
-   "title": "European Commission President Ursula von der LEYEN in Cork, Ireland",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292299",
-     "title": "European Commission President Ursula von der LEYEN in Cork, Ireland",
-     "summary": "Details to follow",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-07-02T11:44:25+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-02T07:00:10.000Z",
-   "durationSec": 197,
-   "channel": "EBS",
-   "status": "EDIT",
-   "title": "European Commission President Ursula von der LEYEN in Armenia",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292292",
-     "title": "European Commission President Ursula von der LEYEN in Armenia",
-     "summary": "Arrival, welcome and bilateral meeting with Nikol PASHINYAN, Armenian Prime Minister",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292293",
-     "title": "European Commission President Ursula von der LEYEN in Armenia",
-     "summary": "Enlarged meeting with Nikol PASHINYAN, Armenian Prime Minister",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-07-02T11:44:25+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-02T07:11:30.440Z",
-   "durationSec": 974,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "172nd European Committee of the Regions Plenary Session",
-   "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "DE",
-    "IT",
-    "ES",
-    "EL",
-    "PT",
-    "NL",
-    "DA",
-    "FI",
-    "SV",
-    "CS",
-    "ET",
-    "LV",
-    "LT",
-    "HU",
-    "MT",
-    "PL",
-    "SK",
-    "SL",
-    "BG",
-    "RO",
-    "HR"
-   ],
-   "items": [
-    {
-     "ref": "I-291463",
-     "title": "172nd European Committee of the Regions Plenary Session",
-     "summary": "Signature of the Memorandum of Understanding with the Swiss Conference of Cantonal Governments Statements by: Markus DIETH, President of the Conference of Cantonal Governments and State Councillor Canton of Aargau of the Swiss Confederation Gheorghe CÂRCIU, Vice-Chair of the Delegation for Northern cooperation and for relations with Switzerland and Norway and to the EU-Iceland Joint Parliamentary Committee and the European Economic Area (EEA) Joint Parliamentary Committee and Member of the European Parliament",
-     "inst": "European Committee"
-    }
-   ],
-   "firstSeen": "2026-07-02T11:44:25+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-02T07:42:50.240Z",
-   "durationSec": 1581,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "European Commission President Ursula von der LEYEN in Armenia",
-   "languages": [
-    "INT",
-    "EN"
-   ],
-   "items": [
-    {
-     "ref": "I-292320",
-     "title": "European Commission President Ursula von der LEYEN in Armenia",
-     "summary": "Press conference opening remarks by Nikol PASHINYAN, Armenian Prime Minister Press conference opening remarks by Ursula von der LEYEN, President of the European Commission Press conference Q&A with Nikol PASHINYAN, Armenian Prime Minister, and Ursula von der LEYEN, President of the European Commission",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292317",
-     "title": "European Commission President Ursula von der LEYEN in Armenia",
-     "summary": "Press conference opening remarks by Nikol PASHINYAN, Armenian Prime Minister",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292318",
-     "title": "European Commission President Ursula von der LEYEN in Armenia",
-     "summary": "Press conference opening remarks by Ursula von der LEYEN, President of the European Commission",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292319",
-     "title": "European Commission President Ursula von der LEYEN in Armenia",
-     "summary": "Press conference Q&A with Nikol PASHINYAN, Armenian Prime Minister, and Ursula von der LEYEN, President of the European Commission",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-07-02T11:44:25+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-02T09:00:10.000Z",
-   "durationSec": 326,
-   "channel": "EBS",
-   "status": "EDIT_RECORDED",
-   "title": "Court of Justice of the European Union",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291978",
-     "title": "Court of Justice of the European Union",
-     "summary": "ECJ ruling in case C-738/22 P Google Alphabet regarding a fine imposed to Google for anticompetitive contractual restrictions on manufacturers of mobile devices and on mobile networks operators read by Thomas von DANWITZ, Vice-President of the Court of Justice of the EU",
-     "inst": "Court of Justice o"
-    },
-    {
-     "ref": "I-291979",
-     "title": "Court of Justice of the European Union",
-     "summary": "ECJ ruling in case C-67/25 Traugott Ickeroth regarding restrictive measures in view of Russia’s actions destabilizing the situation in Ukraine and the prohibition on broadcasting content originating for certain legal persons, entities or bodies read by Thomas von DANWITZ, Vice-President of the Court of Justice of the EU",
-     "inst": "Court of Justice o"
-    }
-   ],
-   "firstSeen": "2026-07-02T11:44:25+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-02T09:45:34.080Z",
-   "durationSec": 804,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "High Representative / Vice-President Kaja KALLAS in Bosnia and Herzegovina",
-   "languages": [
-    "INT",
-    "EN",
-    "BS"
-   ],
-   "items": [
-    {
-     "ref": "I-291717",
-     "title": "High Representative / Vice-President Kaja KALLAS in Bosnia and Herzegovina",
-     "summary": "Visit to EUFOR Press statement by Kaja KALLAS, High Representative of the Union for Foreign Affairs and Security Policy and Vice-President of the European Commission",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-07-02T11:44:25+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-02T10:11:51.800Z",
-   "durationSec": 2807,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "EC Midday press briefing of 02/07/2026",
-   "languages": [
-    "INT",
-    "EN",
-    "FR"
-   ],
-   "items": [
-    {
-     "ref": "I-292336",
-     "title": "EC Midday press briefing of 02/07/2026",
-     "summary": "ANNOUNCEMENT - Press arrangements ANNOUNCEMENT - President’s agenda for next week ANNOUNCEMENT - €2.5 billion of EU ETS revenues invested in cleaner energy systems in 11 EU countries COMPETITION - ECJ ruling in case C-738/22 P Google Alphabet: Q&A WAR IN UKRAINE / PRESIDENT AGENDA - Latest Russian attacks on Ukraine / Upcoming NATO Summit / Restrictive measures in view of Russia’s destabilising activities / Jacques Baud case / Shadow fleet: Q&A HUMANITARIAN AID - Sudan: Q&A MEMBER STATES / CODE OF CONDUCT - Allegations of Hungarian espionage in the European institutions: Q&A CUSTOMS - New E-commerce duty for small packages set to increase fairness for EU businesses and safety for consumers: Q&A TRADE - Armenia: Q&A DEFENCE - Security Action for Europe (SAFE) / Italy: Q&A ENLARGEMENT - Western Balkans Growth Plan: Q&A COLLEGE AGENDA - Upcoming meeting on 17 July / ETS Review: Q&A Exterior views of the European Commission Berlaymont building Recorded cutaways",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-291688",
-     "title": "EC Midday press briefing of 02/07/2026",
-     "summary": "ANNOUNCEMENT - Press arrangements",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-291689",
-     "title": "EC Midday press briefing of 02/07/2026",
-     "summary": "ANNOUNCEMENT - President’s agenda for next week",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292321",
-     "title": "EC Midday press briefing of 02/07/2026",
-     "summary": "ANNOUNCEMENT - €2.5 billion of EU ETS revenues invested in cleaner energy systems in 11 EU countries",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292322",
-     "title": "EC Midday press briefing of 02/07/2026",
-     "summary": "COMPETITION - ECJ ruling in case C-738/22 P Google Alphabet: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292323",
-     "title": "EC Midday press briefing of 02/07/2026",
-     "summary": "WAR IN UKRAINE / PRESIDENT AGENDA - Latest Russian attacks on Ukraine / Upcoming NATO Summit / Restrictive measures in view of Russia’s destabilising activities / Jacques Baud case / Shadow fleet: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292324",
-     "title": "EC Midday press briefing of 02/07/2026",
-     "summary": "HUMANITARIAN AID - Sudan: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292325",
-     "title": "EC Midday press briefing of 02/07/2026",
-     "summary": "MEMBER STATES / CODE OF CONDUCT - Allegations of Hungarian espionage in the European institutions: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292326",
-     "title": "EC Midday press briefing of 02/07/2026",
-     "summary": "CUSTOMS - New E-commerce duty for small packages set to increase fairness for EU businesses and safety for consumers: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292327",
-     "title": "EC Midday press briefing of 02/07/2026",
-     "summary": "TRADE - Armenia: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292328",
-     "title": "EC Midday press briefing of 02/07/2026",
-     "summary": "DEFENCE - Security Action for Europe (SAFE) / Italy: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292329",
-     "title": "EC Midday press briefing of 02/07/2026",
-     "summary": "ENLARGEMENT - Western Balkans Growth Plan: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292330",
-     "title": "EC Midday press briefing of 02/07/2026",
-     "summary": "COLLEGE AGENDA - Upcoming meeting on 17 July / ETS Review: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-291690",
-     "title": "EC Midday press briefing of 02/07/2026",
-     "summary": "Exterior views of the European Commission Berlaymont building",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-291691",
-     "title": "EC Midday press briefing of 02/07/2026",
-     "summary": "Recorded cutaways",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-07-02T11:44:25+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-02T10:26:44.400Z",
-   "durationSec": 711,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "High Representative / Vice-President Kaja KALLAS in Bosnia and Herzegovina",
-   "languages": [
-    "INT",
-    "EN",
-    "BS"
-   ],
-   "items": [
-    {
-     "ref": "I-292331",
-     "title": "High Representative / Vice-President Kaja KALLAS in Bosnia and Herzegovina",
-     "summary": "Visit to EUFOR Address to the troops by Kaja KALLAS, High Representative of the Union for Foreign Affairs and Security Policy and Vice-President of the European Commission",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-07-02T11:44:25+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-02T12:02:59.160Z",
-   "durationSec": 942,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "Annual EU Budget Conference 2026 – Boost Europe: Leveraging the EU Budget for strategic priorities",
-   "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "DE",
-    "IT",
-    "ES",
-    "EL",
-    "PT",
-    "NL",
-    "DA",
-    "FI",
-    "SV",
-    "CS",
-    "ET",
-    "LV",
-    "LT",
-    "HU",
-    "PL",
-    "SK",
-    "SL",
-    "BG",
-    "RO",
-    "HR"
-   ],
-   "items": [
-    {
-     "ref": "I-292290",
-     "title": "Annual EU Budget Conference 2026 – Boost Europe: Leveraging the EU Budget for strategic priorities",
-     "summary": "Fireside chat “3 Questions to ...” Nadia CALVIÑO, President of the European Investment Bank (EIB)",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-07-02T12:20:38+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-02T12:30:10.000Z",
-   "durationSec": 4046,
-   "channel": "EBS+",
-   "status": "RECORDED",
-   "title": "172nd European Committee of the Regions Plenary Session",
-   "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "DE",
-    "IT",
-    "ES",
-    "EL",
-    "PT",
-    "NL",
-    "DA",
-    "FI",
-    "SV",
-    "CS",
-    "ET",
-    "LV",
-    "LT",
-    "HU",
-    "MT",
-    "PL",
-    "SK",
-    "SL",
-    "BG",
-    "RO",
-    "HR"
-   ],
-   "items": [
-    {
-     "ref": "I-291464",
-     "title": "172nd European Committee of the Regions Plenary Session",
-     "summary": "Debate Housing Statements by: Irene TINAGLI (S&D/IT), Chair of the Special Committee on the Housing Crisis in the European Union and Member of the European Parliament Nadia CALVIÑO, President of the European Investment Bank (EIB) Borja GIMÉNEZ LARRAZ (EPP/ES), Member of the European Parliament and rapporteur on The housing crisis in the European Union with the aim of proposing solutions for decent, sustainable and affordable housing Marco CORRADI, President of Housing Europe Debate with members Signature of the MoU between the CoR and EIB",
-     "inst": "European Committee"
-    }
-   ],
-   "firstSeen": "2026-07-02T18:20:43+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-02T13:45:10.000Z",
-   "durationSec": 158,
-   "channel": "EBS+",
-   "status": "EDIT",
-   "title": "High Representative / Vice-President Kaja KALLAS in Bosnia and Herzegovina",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292349",
-     "title": "High Representative / Vice-President Kaja KALLAS in Bosnia and Herzegovina",
-     "summary": "Demining presentation in EUFOR base",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-07-02T18:20:43+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-02T14:00:07.800Z",
-   "durationSec": 4942,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "European Inventor Award 2026 ceremony",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291814",
-     "title": "European Inventor Award 2026 ceremony",
-     "summary": "Category Industry category SMEs Category Research Category Non-EPO Lifetime Achievement Popular Prize",
-     "inst": "Other Organisation"
-    }
-   ],
-   "firstSeen": "2026-07-02T18:20:43+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-02T14:20:10.000Z",
-   "durationSec": 1247,
-   "channel": "EBS",
-   "status": "RECORDED",
-   "title": "European Commissioner Valdis DOMBROVSKIS in Istanbul, Türkiye",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292153",
-     "title": "European Commissioner Valdis DOMBROVSKIS in Istanbul, Türkiye",
-     "summary": "EU-Türkiye-EU High-Level Economic Dialogue press point with Valdis DOMBROVSKIS, European Commissioner for Economy and Productivity, and European Commissioner for Implementation and Simplification and Mehmet ŞIMŞEK, Minister of Finance of Turkey",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-07-02T18:20:43+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-02T15:30:10.000Z",
-   "durationSec": 92,
-   "channel": "EBS+",
-   "status": "EDIT",
-   "title": "European Inventor Award 2026 winner Industry",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291557",
-     "title": "Angie Triantafyllou (SWE/GR), finalist in the Industry category of the European Inventor Award 2026",
-     "summary": "Angeliki Triantafyllou and team (GR, SE), nominated for the European Inventor Award 2026 in the category Industry Successful patented enzymatic method, which produces a smoother, whiter product that foams well in coffee, while improving the protein content over previous methods. Lactose-free, easily digestible drink and the company went on to become an established company. Copyright: European Patent Office.",
-     "inst": "European Patent Of"
-    }
-   ],
-   "firstSeen": "2026-07-02T18:20:43+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-02T15:35:10.000Z",
-   "durationSec": 92,
-   "channel": "EBS+",
-   "status": "EDIT",
-   "title": "European Inventor Award 2026 winner SMEs",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291727",
-     "title": "Franck Zal (FRA), finalist in the SMEs category of the European Inventor Award 2026",
-     "summary": "One of the longstanding challenges in transplantation is preserving organs and tissues outside the body, particularly due to the lack of oxygen during transport and storage. Drawing inspiration from nature – more specifically the lugworm – a marine species that has survived for 450 million years, Franck Zal and his team have developed the first universal oxygen-carrying solution for organ preservation. The solution is based on the worm’s extracellular haemoglobin, which safely delivers oxygen during the preservation and transport period, extending the viable storage time for kidney, lung and other transplants. Beyond organ preservation, this invention is being adapted for use in wound care, skin grafting and regenerative medicine. Copyright: European Patent Office.",
-     "inst": "European Patent Of"
-    }
-   ],
-   "firstSeen": "2026-07-02T18:20:43+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-02T15:40:10.000Z",
-   "durationSec": 88,
-   "channel": "EBS+",
-   "status": "EDIT",
-   "title": "European Inventor Award 2026 winner Research",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291605",
-     "title": "Sir Adrian Hill (IE/UK), finalist in the Research category of the European Inventor Award 2026",
-     "summary": "Traditional malaria vaccines are not very effective, especially for children, because of the parasite's genetic diversity. Sir Adrian Hill and his team developed a vaccine with more of the malaria-specific protein regions that the immune system needs to recognise to respond effectively, while omitting unnecessary components that could divert the immune response. After decades of research, their work has advanced from a laboratory innovation to a scalable public-health intervention in a growing number of African countries, with the WHO formally recommended it for widespread use in October 2023. Copyright: European Patent Office",
-     "inst": "European Patent Of"
-    }
-   ],
-   "firstSeen": "2026-07-02T18:20:43+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-02T15:45:10.000Z",
-   "durationSec": 88,
-   "channel": "EBS+",
-   "status": "EDIT",
-   "title": "European Inventor Award 2026 winner Non-EPO Countries",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291751",
-     "title": "Yu Haijun and Xie Yinghao (China), finalists in the Non EPO category of the European Inventor Award 2026",
-     "summary": "Xie Yinghao and Yu Haijun and their team at Brunp have developed a lithium-ion battery recycling method, which involves fewer steps and requires fewer resources than previous processes. Their method uses the battery’s own materials, with a self-propagating reaction supplying internal heat, which results in a more efficient and effective recycling of materials including lithium itself. Brunp’s method has since been extended into major international initiatives, most notably a large-scale project in Indonesia. Copyright: European Patent Office",
-     "inst": "European Patent Of"
-    }
-   ],
-   "firstSeen": "2026-07-02T18:20:43+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-02T15:50:10.000Z",
-   "durationSec": 106,
-   "channel": "EBS+",
-   "status": "EDIT",
-   "title": "European Inventor Award 2026 winner Lifetime Achievement",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291729",
-     "title": "Professor Rainer Marquardt (Germany), is the winner of the Lifetime Achievement Award of the European Inventor Award 2026",
-     "summary": "Modern energy systems require flexible conversion, with new renewable energy sources entering the system. However, grid infrastructure has struggled to keep pace, which has led to delays in project deployment and increased financial uncertainty: in 2024 alone, the International Energy Agency tracked 1 650 GW of solar and wind projects awaiting grid connections. Electricity is generated, transmitted and consumed at different voltages and sometimes in different forms. Converters bridge this gap to maintain reliable and efficient energy flow. Over his career, Professor Rainer Marquardt has developed a scalable, modular design that improves efficiency, redundancy, and waveform quality. Known as the modular multilevel converter (MMC), Marquardt’s concept marks a milestone in power electronics. As the most common type of voltage-source-controlled HVDC, it has since become the foundation for modern electricity grids, offshore wind integration, and meshed DC networks. Copyright: European Patent Office.",
-     "inst": "European Patent Of"
-    }
-   ],
-   "firstSeen": "2026-07-02T18:20:43+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-02T15:55:10.000Z",
-   "durationSec": 88,
-   "channel": "EBS+",
-   "status": "EDIT",
-   "title": "European Inventor Award 2026 winner Popular Prize",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291751",
-     "title": "Yu Haijun and Xie Yinghao (China), finalists in the Non EPO category of the European Inventor Award 2026",
-     "summary": "Xie Yinghao and Yu Haijun and their team at Brunp have developed a lithium-ion battery recycling method, which involves fewer steps and requires fewer resources than previous processes. Their method uses the battery’s own materials, with a self-propagating reaction supplying internal heat, which results in a more efficient and effective recycling of materials including lithium itself. Brunp’s method has since been extended into major international initiatives, most notably a large-scale project in Indonesia. Copyright: European Patent Office",
-     "inst": "European Patent Of"
-    }
-   ],
-   "firstSeen": "2026-07-02T18:20:43+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-02T17:55:49.440Z",
-   "durationSec": 332,
-   "channel": "EBS",
-   "status": "EDIT_RECORDED",
-   "title": "European Commission President Ursula von der LEYEN in Cork, Ireland",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292300",
-     "title": "European Commission President Ursula von der LEYEN in Cork, Ireland",
-     "summary": "Arrival at Cork City Hall, welcome by the Taoiseach, Chief Executive and Lord Mayor of Cork",
-     "inst": "Host"
-    }
-   ],
-   "firstSeen": "2026-07-02T18:20:43+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-02T18:11:09.920Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "Visit of the College of Commissioners to the Irish Presidency, in Cork, Ireland",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291742",
-     "title": "Visit of the College of Commissioners to the Irish Presidency, in Cork, Ireland",
-     "summary": "Arrivals at University College Cork (UCC) for the welcome Dinner hosted by Micheál MARTIN, Irish Taoiseach",
-     "inst": "Host"
-    }
-   ],
-   "firstSeen": "2026-07-02T18:20:43+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-03T06:30:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-03T06:41:03.840Z",
+   "durationSec": 3192,
    "channel": "EBS",
    "status": "LIVE",
    "title": "European Commissioner Valdis DOMBROVSKIS in Istanbul, Türkiye",
@@ -628,12 +19,32 @@
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-06-30T18:25:48+00:00"
+   "firstSeen": "2026-07-03T11:42:38+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-03T08:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-03T08:04:51.160Z",
+   "durationSec": 1575,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "European Council President António COSTA in Aix-en-Provence, France",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292225",
+     "title": "European Council President António COSTA in Aix-en-Provence, France",
+     "summary": "Les Rencontres Économiques d'Aix-en-Provence 2026 \"S’orienter dans un monde incertain\": Stage-talk with António COSTA, President of the European Council and Christine LAGARDE, President of the European Central Bank (ECB) Coordinator: Benoît CŒURÉ, President of the French Competition Authority",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-07-03T11:42:38+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-03T08:17:43.320Z",
+   "durationSec": 177,
    "channel": "EBS",
    "status": "LIVE",
    "title": "Visit of the College of Commissioners to the Irish Presidency in Cork, Ireland",
@@ -648,32 +59,32 @@
      "inst": "Host"
     }
    ],
-   "firstSeen": "2026-07-02T12:20:38+00:00"
+   "firstSeen": "2026-07-03T11:42:38+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-03T08:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "European Council President António COSTA in Avignon, France",
+   "start": "2026-07-03T08:50:10.000Z",
+   "durationSec": 60,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "Visit of the College of Commissioners to the Irish Presidency in Cork, Ireland",
    "languages": [
     "INT"
    ],
    "items": [
     {
-     "ref": "I-292225",
-     "title": "European Council President António COSTA in Avignon, France",
-     "summary": "Stage-talk with António COSTA, President of the European Council and Christine LAGARDE, President of the European Central Bank (ECB)",
-     "inst": "Council"
+     "ref": "I-291743",
+     "title": "Visit of the College of Commissioners to the Irish Presidency in Cork, Ireland",
+     "summary": "Bilateral meeting Ursula von der LEYEN, President of the European Commission with Micheál MARTIN, Irish Taoiseach",
+     "inst": "Host"
     }
    ],
-   "firstSeen": "2026-07-02T18:20:43+00:00"
+   "firstSeen": "2026-07-03T11:42:38+00:00"
   },
   {
    "ep": true,
-   "start": "2026-07-03T09:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-03T09:01:17.280Z",
+   "durationSec": 2863,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "EP Pre-session briefing",
@@ -690,32 +101,12 @@
      "inst": "EP"
     }
    ],
-   "firstSeen": "2026-06-29T16:30:02+00:00"
+   "firstSeen": "2026-07-03T11:42:38+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-03T09:30:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "EDIT",
-   "title": "Visit of the College of Commissioners to the Irish Presidency in Cork, Ireland",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291743",
-     "title": "Visit of the College of Commissioners to the Irish Presidency in Cork, Ireland",
-     "summary": "Bilateral meeting Ursula von der LEYEN, President of the European Commission with Micheál MARTIN, Irish Taoiseach",
-     "inst": "Host"
-    }
-   ],
-   "firstSeen": "2026-07-02T12:20:38+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-03T10:30:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-03T10:28:32.360Z",
+   "durationSec": 364,
    "channel": "EBS",
    "status": "LIVE",
    "title": "Visit of the College of Commissioners to the Irish Presidency in Cork, Ireland",
@@ -730,12 +121,12 @@
      "inst": "Host"
     }
    ],
-   "firstSeen": "2026-07-02T12:20:38+00:00"
+   "firstSeen": "2026-07-03T11:42:38+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-03T10:45:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-03T10:43:42.000Z",
+   "durationSec": 99,
    "channel": "EBS",
    "status": "LIVE",
    "title": "Visit of the College of Commissioners to the Irish Presidency in Cork, Ireland",
@@ -750,7 +141,27 @@
      "inst": "Host"
     }
    ],
-   "firstSeen": "2026-07-02T12:20:38+00:00"
+   "firstSeen": "2026-07-03T11:42:38+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-03T11:33:07.160Z",
+   "durationSec": 353,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "Visit of the College of Commissioners to the Irish Presidency in Cork, Ireland",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292363",
+     "title": "Visit of the College of Commissioners to the Irish Presidency in Cork, Ireland",
+     "summary": "Campus walk by Micheál MARTIN, Irish Taoiseach and Ursula von der LEYEN, President of the European Commission",
+     "inst": "Host"
+    }
+   ],
+   "firstSeen": "2026-07-03T11:42:38+00:00"
   },
   {
    "ep": false,
@@ -760,13 +171,15 @@
    "status": "LIVE",
    "title": "Visit of the College of Commissioners to the Irish Presidency in Cork, Ireland",
    "languages": [
-    "INT"
+    "INT",
+    "EN",
+    "GA"
    ],
    "items": [
     {
      "ref": "I-292077",
      "title": "Visit of the College of Commissioners to the Irish Presidency in Cork, Ireland",
-     "summary": "Press conference by Ursula von der LEYEN, President of the European Commission and Micheál MARTIN, Irish Prime Minister (Taoiseach)",
+     "summary": "Press conference by Ursula von der LEYEN, President of the European Commission and Micheál MARTIN, Irish Taoiseach",
      "inst": "Host"
     }
    ],
@@ -775,22 +188,58 @@
   {
    "ep": false,
    "start": "2026-07-05T07:00:00.000Z",
-   "durationSec": 0,
+   "durationSec": 6363,
    "channel": "EBS+",
    "status": "EDIT",
-   "title": "EC archives of the week",
+   "title": "EC archives of the week (05-11/07): Meeting between Muhammad Yunus, 2006 Nobel Peace Prize ® laureate, and José Manuel Barroso, President of the EC (06/07/2011, 15 years ago) Debate and vote on the draft revision of the Treaties of the EC, plenary session of the EP (07-08/07/1981, 45 years ago) EU-US leaders meeting and NATO Summit in Warsaw (08-09/07/2016, 10 years ago) Ministers for Finance gave Slovenia the final go-ahead to become the 13th Member of the Eurozone on 1 January 2007 (11/07/2006, 20 years ago) International Day of Reflection and Commemoration of the 1995 Genocide in Srebrenica (11/07)",
    "languages": [
     "INT"
    ],
    "items": [
     {
-     "ref": "I-284734",
-     "title": "EC archives of the week (21-27/06) Telemessage: \"Enlargement of the European Community to Ten Members\" (21/06/1971, 55 years ago) Florence European Council (21-22/06/1996, 30 years ago) First World Congress against the death penalty: speech by Robert Badinter, former French Minister for Justice (21/06/2001, 25 years ago) Luxembourg National Day (23/06) United Kingdom European Union membership referendum (23/06/2016, 10 years ago) Corfu European Council, with the signature ceremony of the accession acts to the European Union of Austria, Sweden, and Finland (24-25/06/1994, 32 years ago) Slovenia Statehood Day and Croatia National Day (25/06) First meeting of the Laeken group on the future of Europe with Jean-Luc Dehaene, Jacques Delors, Giuliano Amato, Bronisław Geremek and David Miliband, and chaired by Guy Verhofstadt, Belgian Prime Minister (26/06/2001, 25 years ago) The Hague European Council (26-27/06/1986, 40 years ago) SME Day (27/06) Signature of the partnership agreement between the EC and Denmark and Greenland (27/06/2006, 20 years ago)",
-     "summary": "Details to follow",
+     "ref": "I-070443",
+     "title": "Meeting between Muhammad Yunus, 2006 Nobel Peace Prize ® laureate, and José Manuel Barroso: round table",
+     "summary": "On 6 July 2011, José Manuel Barroso, President of the EC, met Muhammad Yunus, 2006 Nobel Peace Prize ® laureate in Strasbourg.",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-124495",
+     "title": "EU-US leaders meeting and NATO Summit in Warsaw, 08-09/07/2016",
+     "summary": "Poland hosted the North Atlantic Treaty Organisation (NATO) Summit in Warsaw on 8-9 July 2016. Jean-Claude Juncker, President of the EC, Donald Tusk, President of the European Council, and Federica Mogherini, High Representative of the Union for Foreign Affairs and Security Policy and Vice-President of the EC, represented the European Union at the Summit. In the margins of the Summit, President Juncker and President Tusk met Barack Obama, President of the United States, for an EU/US Leaders Meeting. This meeting provided an opportunity to underline Transatlantic unity and to discuss common political, economic and international security challenges.",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-051798",
+     "title": "Celebration of Slovenia joining the Eurozone: general atmosphere and extracts from speeches",
+     "summary": "Ministers for Finance gave Slovenia the final go-ahead to become the 13th Member of the Eurozone on 1 January 2007. A series of events and celebrations took place in Brussels (rond-point Schuman) to mark the enlargement of the eurozone. An oversized poster, covering part of the Berlaymont building, was unveiled in the presence of the Ministers for Finance of the Eurozone. It depicts both the national side as well as the new common-side of the 1-euro coin. Other elements are planned, like live band and performance of national songs and dances, school children releasing gas balloons in the sky, huge cake carrying the map of the enlarged euro-area, photo shooting and public speeches. This will make Slovenia the first of the EU's 10 new Member States to join the euro zone.",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-051792",
+     "title": "Economic and Financial Affairs Council: extracts from the press conference on Slovenia joining the Eurozone",
+     "summary": "Ministers for Finance adopted formally two decisions on Slovenia joining the eurozone. Following the recommendations of the European Commission and the European Council, Ministers gave their agreement to Slovenia joining the euro on 1 January 2007 and set fixed, unchangeable conversion rate for the euro and Slovenia's national currency, with a euro expected to be worth 239.64 tolars. The country will become the 13th State introducing the unified EU currency. It will also be the first among the 10 new Member States that joined on 1st May 2004 that will change its national currency. According to Ljubljana’s plan the Slovenians will be able to use at one and the same time the EUR and Tolar for period of two weeks. The prices will be written in two currencies for a period of six months.",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-278432",
+     "title": "Visit of Ursula von der Leyen, President of the European Commission, to Bosnia and Herzegovina: Visit to Srebrenica",
+     "summary": "On 14 October 2025, Ursula von der Leyen, President of the European Commission, went in Bosnia and Herzegovina, in the context of a visit to Western Balkans countries to reiterated the EU's support for the region's path towards EU accession and gradual access to the Single Market. On this occasion, Ursula von der Leyen met with Bosnia and Herzegovina's Presidency: Željko Komšic, Chairman of the Presidency of Bosnia and Herzegovina, Željka Cvijanović, Chairwoman of the Presidency of Bosnia and Herzegovina, and Denis Bećirović, Chairman of the Presidency of Bosnia and Herzegovina, and with Borjana Krišto, Chairwoman of the Council of Ministers of Bosnia and Herzegovina. Ursula von der Leyen also participated in the 'Critical Voices under Pressure' conference at Europe House and visited the memorial of the victilms of the 1995 genocide in Srebrenica. This video shows extracts of the visit to Srebrenica.",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-106843",
+     "title": "General views of the Srebrenica Memorial Day",
+     "summary": "On 11 July 2015, international personalities and thousand of people took part to the Srebrenica Memorial Day in Srebrenica-Potocari. They paid tribute to the 8372 victims of the 1995 genocide.",
+     "inst": "European External "
+    },
+    {
+     "ref": "I-043163",
+     "title": "Western Balkans - 2003",
+     "summary": "The EU is by far the single largest assistance donor to the countries of the Western Balkans. Since 1991, the EU has provided more than 6 billion euro to the region through its various aid programmes. And by 2006, that figure will have risen to some 10 billion euro. The EU leads on the ground, too. In Kosovo, some 36,000 troops (80 per cent of the total force) and 800 civilian police from EU Member States serve alongside other international partners. And the EU is also actively involved in the combined international effort in South-East Europe. All of this represents a significant, long-term commitment on the part of the EU to peace, stability and prosperity in South-East Europe.",
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-06-29T16:30:02+00:00"
+   "firstSeen": "2026-07-03T11:42:38+00:00"
   },
   {
    "ep": false,
@@ -912,6 +361,27 @@
     }
    ],
    "firstSeen": "2026-06-30T18:25:48+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-07-06T14:00:00.000Z",
+   "durationSec": 393,
+   "channel": "EBS+",
+   "status": "EDIT",
+   "title": "EP Stockshots",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-283602",
+     "title": "Air passengers rights (extended version)",
+     "summary": "This infoclip presents different stages of air travel. It illustrates situations commonly experienced by travellers, including departures and arrivals, hand luggage, check-in procedures, security controls and aircraft operations. The footage intend to offer a broad, illustrative background to the topic of air passenger rights. The Video may not be used in any way to denigrate or damage the image of Aeroporti di Roma and the Mundys Group Companies.",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I283602-V_v"
+    }
+   ],
+   "firstSeen": "2026-07-03T11:42:38+00:00"
   },
   {
    "ep": true,
@@ -1245,6 +715,116 @@
    "firstSeen": "2026-07-02T11:44:25+00:00"
   },
   {
+   "ep": false,
+   "start": "2026-07-06T23:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "",
+   "title": "2026 NATO Summit in Ankara, Türkiye",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292105",
+     "title": "2026 NATO Summit in Ankara, Türkiye",
+     "summary": "Details to follow",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-03T11:42:38+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-07-07T06:00:00.000Z",
+   "durationSec": 3186,
+   "channel": "EBS+",
+   "status": "EDIT",
+   "title": "EP Stockshots",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-268131",
+     "title": "European Automotive Industry's competitiveness (extended version)",
+     "summary": "This infoclip illustrates the automotive industry from different angles, such as car shipping; manufacturing, car dealers, electric vehicles charging, and a car repair garage. The clip shows the automotive port of Antwerp-Bruges, the Audi factory in Brussels and a car dealer in Brussels city center. In spring 2024, the German manufacturer announced the restructuring of its Brussels plant, provoking protest among employees and trade unions. The European automotive sector is experiencing a crisis sparked by the transition to low carbon technologies, the degradation of supply chains, increased competition from Asia, and decreased demand for electric models.",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I268131-V_v"
+    },
+    {
+     "ref": "I-291723",
+     "title": "General views of Dublin (Ireland)",
+     "summary": "This Infoclip captures the cityscape of Dublin, Ireland, showcasing its iconic landmarks and cultural sites, such as Convention Center, Ha'penny Bridge & River Liffey, Samuel Beckett Bridge, Temple Bar District, St. Stephen’s Green, Phoenix Park, Trinity College, The Masonic Square and Compasses, Grafton Street, Áras an Uachtaráin (the official residence of the President of Ireland), Iveagh House (Headquarters of the Department of Foreign Affairs and Trade), Ely House and Houses of the Oireachtas (the seat of the Irish Parliament).",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291723-V_v"
+    },
+    {
+     "ref": "I-286153",
+     "title": "General views of Dublin (Ireland)",
+     "summary": "This infoclip presents general views of Dublin (Ireland), including drone views of the city, Leinster House (Irish Parliament), the Four Courts, the Convention Centre Dublin, the River Liffey and various views of Dublin city streets.",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I286153-V_v"
+    },
+    {
+     "ref": "I-291910",
+     "title": "EP Stockshots",
+     "summary": "Infoclip: Housing conditions in Europe",
+     "inst": "EP"
+    },
+    {
+     "ref": "I-283104",
+     "title": "Housing conditions in Vienna (Austria)",
+     "summary": "This infoclip shows what the housing sector in Vienna is like. 76% of the Viennese population is renting. Significant is that 55% of those renting in Vienna are renting a form of limited-profit or public housing. The Limited-Profit Housing Act (Wohnungsgemeinnützigkeitsgesetz, WGG) is a regulation implemented in the 1940s pertaining to cooperative housing associations in Austria. Vienna remains dedicated to affordable housing. Today, the majority of Vienna's population lives in some form of subsidised housing, helping to dampen overall housing prices. An estimated 500 000 people live in municipal housing estates, making the City of Vienna the largest provider of subsidised housing in Europe. However, over the past decade, housing affordability in Austria has decreased and the average household is spending an ever higher share of their income on housing.",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I283104-V_v"
+    },
+    {
+     "ref": "I-265819",
+     "title": "EU Cybersecurity",
+     "summary": "This news item shows various elements, including cutaways of antennas and security cameras, illustration of a cybercriminal in action and a server under cyber attack. It also features the Ubitech co-founders highlighting key innovations like a quantum computer model, an AI server, and the MAI.gov government platform for providing online services to citizens. The video further includes illustrations of devices such as smartwatches, smart lights, and security cameras, as well as shots of the European Union agency ENISA's headquarters, dedicated to strengthening cybersecurity, and scenes from the European Cyber Security Challenge competition in Turin.",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I265819-V_v"
+    },
+    {
+     "ref": "I-244232",
+     "title": "EU Cyber Resilience Act, better protection for smart devices",
+     "summary": "The infoclips illustrates the devices which fall under the requirements of the Cyber Resilience Act, like smart vacuum cleaners, smart washing machine, smart watches, security cameras, etc. The latest proposal in the EU Cyber Resilience Act Introduces mandatory cybersecurity requirements for products with digital elements and it covers a broad range of devices - it would include all products that are connected either directly or indirectly to another device or network, including hardware, software and ancillary services and would impose obligations on manufacturers, importers, and distributors of these products to provide duty of care across their whole life cycle. The proposal aims to ensure better protection for consumers through increasing the responsibility of manufacturers by obliging them to provide security support and software updates to address identified vulnerabilities, and providing them with information about cybersecurity of products they buy and use.",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/video/infoclip-eu-cyber-resilience-act-better-protection-for-smart-devices_I244232"
+    },
+    {
+     "ref": "I-274404",
+     "title": "Unwavering support to Ukraine",
+     "summary": "This Infoclip focuses on EU–Ukraine relations, presenting footage of President von der Leyen’s preparatory meeting at the Ukrainian Embassy in the United States, as well as images from Ukraine of rescue services and daily life. It features European Parliament President Roberta Metsola’s visit with Ruslan Stefanchuk to a bombed school near Kyiv, her meeting with President Zelenskyy in Brussels, and extracts from Zelenskyy’s intervention at a European Council. Additional material shows a formal sitting with Stefanchuk in Strasbourg, the European Parliament illuminated in the Ukranian colours, and the Ukranian Independence Day ceremony in Brussels. On the occasion of the State of the European Union (SOTEU) debate Commission President von der Leyen outlines her priorities for the year ahead, addressing key European themes, including the EU's unwavering support to Ukraine.",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I274404-V_v"
+    },
+    {
+     "ref": "I-275710",
+     "title": "Kyiv (Ukraine) - General views of the city and consequences of the Russian attacks",
+     "summary": "This infoclip shows general views of Kyiv, including daily street life, traffic, and key landmarks. It documents the visible consequences of Russian attacks on residential buildings and other civilian infrastructure. The footage also features monuments and memorials dedicated to the victims of the war. The shooting took place on 22/07/2025.",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I275710-V_v"
+    },
+    {
+     "ref": "I-291107",
+     "title": "Western Balkans and the EU",
+     "summary": "The European Union has close links with the Western Balkans partners, aiming to secure stable, prosperous and well-functioning democratic societies on a steady path towards the EU. The cooperation between the EU and the Western Balkans aims at effective political and economic governance, the highest standards of adherence to the rule of law, promoting media freedom and a vibrant civil society. This infoclip shows general views of the cities of Tirana (Albania), Podgorica (Montenegro), Pristina (Kosovo), Sarajevo (Bosnia and Herzegovina) and Skopje (North Macedonia).",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291107-V_v"
+    },
+    {
+     "ref": "I-277270",
+     "title": "Chisinau (Moldova), city views ahead of the upcoming Parliamentary Elections",
+     "summary": "This infoclip shows city views of Chisinau ahead of the upcoming parliamentary elections in Moldova. It includes exterior views of the Casa Guvernului, the official seat of the Government of Moldova, the Parlamentul Republicii Moldova, a polling station, and the City Council. Additional footage focuses on the electoral campaign in the capital, with political party posters displayed across the city, gazebos set up by parties to present their programmes, and campaigners actively canvassing by handing out flyers to citizens. The sequence concludes with general cutaway shots from Chisinau.",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I277270-V_v"
+    }
+   ],
+   "firstSeen": "2026-07-03T11:42:38+00:00"
+  },
+  {
    "ep": true,
    "start": "2026-07-07T07:00:00.000Z",
    "durationSec": 0,
@@ -1399,6 +979,54 @@
     }
    ],
    "firstSeen": "2026-07-01T12:25:16+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-07-07T10:50:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "EP News Presentation of the programme of the Irish Presidency of the Council of the EU",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292181",
+     "title": "EP News Presentation of the programme of the Irish Presidency of the Council of the EU",
+     "summary": "Presentation of the programme of activities of the Irish Presidency of the Council of the EU meeting between Roberta METSOLA, EP President and Micheál MARTIN, Irish Prime Minister (Taoiseach) extracts from the debate",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292181-V_v"
+    }
+   ],
+   "firstSeen": "2026-07-03T11:42:38+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-07-07T11:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "EP Press Conference Irish Presidency of the Council of the EU",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "MT",
+    "GA"
+   ],
+   "items": [
+    {
+     "ref": "I-292250",
+     "title": "EP Press Conference Irish Presidency of the Council of the EU",
+     "summary": "Press Conference by Roberta METSOLA, EP President, and Micheál MARTIN, Irish Prime Minister (Taoiseach) on the Irish Presidency of the Council of the EU",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292250-V_v"
+    }
+   ],
+   "firstSeen": "2026-07-03T11:42:38+00:00"
   },
   {
    "ep": true,
@@ -1711,6 +1339,68 @@
    "ep": true,
    "start": "2026-07-07T16:00:00.000Z",
    "durationSec": 0,
+   "channel": "EBS",
+   "status": "RECORDED",
+   "title": "EP Political Groups press briefings",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "PL"
+   ],
+   "items": [
+    {
+     "ref": "I-292091",
+     "title": "EP Political Groups press briefings",
+     "summary": "Press briefing by Valérie HAYER (Renew, FR), Renew Europe Group President",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292091-V_v"
+    },
+    {
+     "ref": "I-292088",
+     "title": "EP Political Groups press briefings",
+     "summary": "Press briefing by Terry REINTKE (Greens/EFA, DE) Greens/EFA Group Co-President",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292088-V_v"
+    },
+    {
+     "ref": "I-292087",
+     "title": "EP Political Groups press briefings",
+     "summary": "Press briefing by Manfred WEBER (EPP, DE), EPP Group President",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292087-V_v"
+    },
+    {
+     "ref": "I-292089",
+     "title": "EP Political Groups press briefings",
+     "summary": "Press briefing by Iratxe GARCÍA PÉREZ, (S&D, ES), S&D Group President",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292089-V_v"
+    },
+    {
+     "ref": "I-292090",
+     "title": "EP Political Groups press briefings)",
+     "summary": "Press briefing by Patryk JAKI (ECR, PL), ECR Group Co-President",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292090-V_v"
+    },
+    {
+     "ref": "I-292092",
+     "title": "EP Political Groups Press Briefing",
+     "summary": "Press briefing by Manon AUBRY (The Left, FR), and Martin SCHIRDEWAN (The Left, DE), The Left Group Co-Presidents",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292092-V_v"
+    }
+   ],
+   "firstSeen": "2026-07-03T11:42:38+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-07-07T16:00:00.000Z",
+   "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "EP Plenary Session 2025 Commission report on Moldova",
@@ -1806,6 +1496,58 @@
     }
    ],
    "firstSeen": "2026-07-02T11:44:25+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-07-07T17:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "RECORDED",
+   "title": "EP Political Groups press briefings Patriots for Europe",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "HU"
+   ],
+   "items": [
+    {
+     "ref": "I-292093",
+     "title": "EP Political Groups press briefings Patriots for Europe",
+     "summary": "Press briefing by Kinga GÁL, Vice-President of PfE Group",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292093-V_v"
+    }
+   ],
+   "firstSeen": "2026-07-03T11:42:38+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-07-08T06:30:00.000Z",
+   "durationSec": 378,
+   "channel": "EBS+",
+   "status": "EDIT",
+   "title": "EP Stockshots",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-276620",
+     "title": "Wildfires in Europe",
+     "summary": "This infoclip shows images of wildfires, firefighters extinguishing fires, evacuations of the population in Spain and Italy. In 2025, the wildfire season has been well above average, with a cumulative burnt area in the European Union of more than 1 million hectares, according to the European Forest Fire Information System (EFFIS). It’s the highest value ever recorded inside the European Union since 2006. Between 8 and 19 August, the estimated total burnt area in both Portugal and Spain was over 500,000 hectares, according to EFFIS, making it the countries’ highest value of burnt areas ever recorded in mid-August, comparable to almost twice the size of Luxembourg. © Images of firefighters battling fires in Spain are strictly for journalistic purposes. For any other use, please contact the press office of the Spanish Emergency Military Unit (Unidad Militar de Emergencias).",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I276620-V_v"
+    },
+    {
+     "ref": "I-274980",
+     "title": "Heatwave",
+     "summary": "This infoclip illustrates how the heatwaves impact the daily-life of Europeans. It stages people hiding in the shade in a public park, eating ice-creams, buying bottles of water, sipping cold-drinks and playing with water fountains on a public place.",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I274980-V_v"
+    }
+   ],
+   "firstSeen": "2026-07-03T11:42:38+00:00"
   },
   {
    "ep": true,
@@ -1919,6 +1661,32 @@
     }
    ],
    "firstSeen": "2026-07-02T11:44:25+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-08T09:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT_RECORDED",
+   "title": "Court of Justice of the European Union",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292355",
+     "title": "Court of Justice of the European Union",
+     "summary": "General Court rulings in cases T-268/21 RENV Ryanair v Commission and T-538/24 Ryanair v Commission regarding an Italian state aid to airlines companies to compensate for the damage suffered in the context of the COVID-19 pandemic",
+     "inst": "Court of Justice o"
+    },
+    {
+     "ref": "I-292356",
+     "title": "Court of Justice of the European Union",
+     "summary": "General Court ruling in joined cases T-1079/23 Apple v Commission, T-1080/23 Apple v Commission and T-214/24 Apple Distribution International v Commission regarding the application of the DMA regulation",
+     "inst": "Court of Justice o"
+    }
+   ],
+   "firstSeen": "2026-07-03T11:42:38+00:00"
   },
   {
    "ep": true,
@@ -2249,6 +2017,27 @@
    "ep": true,
    "start": "2026-07-08T15:00:00.000Z",
    "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "EP News LEX Signing Ceremony",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292311",
+     "title": "EP News LEX Signing Ceremony",
+     "summary": "LEX siging ceremony in the presence of Roberta METSOLA, EP President",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292311-V_v"
+    }
+   ],
+   "firstSeen": "2026-07-03T11:42:38+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-07-08T15:00:00.000Z",
+   "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "EP Plenary Session Harnessing the potential of a competitive and sustainable EU Bioeconomy Strategy for EU strategic autonomy",
@@ -2373,6 +2162,473 @@
     }
    ],
    "firstSeen": "2026-07-02T11:44:25+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-07-09T06:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "EP Plenary Session Joint communication on humanitarian",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292274",
+     "title": "EP Plenary Session Joint communication on humanitarian",
+     "summary": "Opening statements",
+     "inst": "EP"
+    },
+    {
+     "ref": "I-292277",
+     "title": "EP Plenary Session Joint communication on humanitarian",
+     "summary": "MEPs debate",
+     "inst": "EP"
+    },
+    {
+     "ref": "I-292278",
+     "title": "EP Plenary Session Joint communication on humanitarian",
+     "summary": "Closing statements",
+     "inst": "EP"
+    }
+   ],
+   "firstSeen": "2026-07-03T11:42:38+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-07-09T07:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "EP Plenary Session Evaluation of the Common Fisheries Policy",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "EL",
+    "PT",
+    "NL",
+    "DA",
+    "FI",
+    "SV",
+    "CS",
+    "ET",
+    "LV",
+    "LT",
+    "HU",
+    "PL",
+    "SK",
+    "SL",
+    "BG",
+    "RO",
+    "HR"
+   ],
+   "items": [
+    {
+     "ref": "I-292112",
+     "title": "EP Plenary Session Evaluation of the Common Fisheries Policy",
+     "summary": "Opening statements",
+     "inst": "EP"
+    },
+    {
+     "ref": "I-292113",
+     "title": "EP Plenary Session Evaluation of the Common Fisheries Policy",
+     "summary": "One round of political leaders",
+     "inst": "EP"
+    },
+    {
+     "ref": "I-292114",
+     "title": "EP Plenary Session Evaluation of the Common Fisheries Policy",
+     "summary": "MEPs debate (part 1)",
+     "inst": "EP"
+    },
+    {
+     "ref": "I-292115",
+     "title": "EP Plenary Session Evaluation of the Common Fisheries Policy",
+     "summary": "MEPs debate (part 2)",
+     "inst": "EP"
+    }
+   ],
+   "firstSeen": "2026-07-03T11:42:38+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-07-09T08:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "EP Plenary Session Feasibility of a 28th tax regime and its potential to support EU competitiveness",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "EL",
+    "PT",
+    "NL",
+    "DA",
+    "FI",
+    "SV",
+    "CS",
+    "ET",
+    "LV",
+    "LT",
+    "HU",
+    "PL",
+    "SK",
+    "SL",
+    "BG",
+    "RO",
+    "HR"
+   ],
+   "items": [
+    {
+     "ref": "I-292199",
+     "title": "EP Plenary Session Feasibility of a 28th tax regime and its potential to support EU competitiveness",
+     "summary": "Opening statements",
+     "inst": "EP"
+    },
+    {
+     "ref": "I-292200",
+     "title": "EP Plenary Session Feasibility of a 28th tax regime and its potential to support EU competitiveness",
+     "summary": "MEPs debate",
+     "inst": "EP"
+    },
+    {
+     "ref": "I-292201",
+     "title": "EP Plenary Session Feasibility of a 28th tax regime and its potential to support EU competitiveness",
+     "summary": "Closing statements",
+     "inst": "EP"
+    }
+   ],
+   "firstSeen": "2026-07-03T11:42:38+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-09T09:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT_RECORDED",
+   "title": "Court of Justice of the European Union",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292357",
+     "title": "Court of Justice of the European Union",
+     "summary": "ECJ ruling in case C-234/25 Sky Österreich Fernsehen regarding the subscription to a platform service and the right of withdrawal",
+     "inst": "Court of Justice o"
+    },
+    {
+     "ref": "I-292358",
+     "title": "Court of Justice of the European Union",
+     "summary": "ECJ ruling in case C-788/24 Anne Franck Fonds regarding copyright and related rights, the publication on a website and the territorialisation of the internet through geo-blocking measures",
+     "inst": "Court of Justice o"
+    },
+    {
+     "ref": "I-292359",
+     "title": "Court of Justice of the European Union",
+     "summary": "ECJ ruling in case C-428/23 ROGON and Others concerning national sports association’s regulations governing the activities of players’ agents",
+     "inst": "Court of Justice o"
+    },
+    {
+     "ref": "I-292360",
+     "title": "Court of Justice of the European Union",
+     "summary": "ECJ ruling in case C-199/24 Legal Newsdesk Sweden regarding the process of data relating to criminal convictions and their availability online to the public in return for payment",
+     "inst": "Court of Justice o"
+    },
+    {
+     "ref": "I-292361",
+     "title": "Court of Justice of the European Union",
+     "summary": "Opinion of the advocate general in joined cases C-535/25 Amazon Italia Logistica, C-536/25 Amazon Italia Services and C-537/25 Amazon Italia Transport regarding the application of the postal service directive",
+     "inst": "Court of Justice o"
+    }
+   ],
+   "firstSeen": "2026-07-03T11:42:38+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-09T10:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "EC Midday press briefing of 09/07/2026",
+   "languages": [
+    "INT",
+    "EN",
+    "FR"
+   ],
+   "items": [
+    {
+     "ref": "I-292064",
+     "title": "EC Midday press briefing of 09/07/2026",
+     "summary": "Announcements",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292065",
+     "title": "EC Midday press briefing of 09/07/2026",
+     "summary": "Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292066",
+     "title": "EC Midday press briefing of 09/07/2026",
+     "summary": "Exterior views of the European Commission Berlaymont building",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292067",
+     "title": "EC Midday press briefing of 09/07/2026",
+     "summary": "Recorded cutaways",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-03T11:42:38+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-07-09T10:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "EP Plenary Session Voting Session",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "EL",
+    "PT",
+    "NL",
+    "DA",
+    "FI",
+    "SV",
+    "CS",
+    "ET",
+    "LV",
+    "LT",
+    "HU",
+    "PL",
+    "SK",
+    "SL",
+    "BG",
+    "RO",
+    "HR"
+   ],
+   "items": [
+    {
+     "ref": "I-292117",
+     "title": "EP Plenary Session Voting Session",
+     "summary": "Voting Session",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292117-V_v"
+    }
+   ],
+   "firstSeen": "2026-07-03T11:42:38+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-09T12:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "Eurogroup meeting",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292129",
+     "title": "Eurogroup meeting",
+     "summary": "Arrivals and doorsteps",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-07-03T11:42:38+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-07-09T13:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "EP Plenary Session An updated regulatory framework for wool Commission",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "EL",
+    "PT",
+    "NL",
+    "DA",
+    "FI",
+    "SV",
+    "CS",
+    "ET",
+    "LV",
+    "LT",
+    "HU",
+    "PL",
+    "SK",
+    "SL",
+    "BG",
+    "RO",
+    "HR"
+   ],
+   "items": [
+    {
+     "ref": "I-292202",
+     "title": "EP Plenary Session An updated regulatory framework for wool Commission",
+     "summary": "Opening statements",
+     "inst": "EP"
+    },
+    {
+     "ref": "I-292203",
+     "title": "EP Plenary Session An updated regulatory framework for wool Commission",
+     "summary": "MEPs debate",
+     "inst": "EP"
+    },
+    {
+     "ref": "I-292204",
+     "title": "EP Plenary Session An updated regulatory framework for wool Commission",
+     "summary": "Closing statements",
+     "inst": "EP"
+    }
+   ],
+   "firstSeen": "2026-07-03T11:42:38+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-09T14:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "Eurogroup meeting",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292130",
+     "title": "Eurogroup meeting",
+     "summary": "Exterior views of the Europa and Justus Lipsius building",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292131",
+     "title": "Eurogroup meeting",
+     "summary": "Compilation of all arrivlals",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292132",
+     "title": "Eurogroup meeting",
+     "summary": "Roundtable",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-07-03T11:42:38+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-09T16:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "Eurogroup meeting",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292354",
+     "title": "Eurogroup meeting",
+     "summary": "Roundtable inclusive format",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-07-03T11:42:38+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-09T17:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "Eurogroup meeting",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "NL"
+   ],
+   "items": [
+    {
+     "ref": "I-292134",
+     "title": "Eurogroup meeting",
+     "summary": "Press conference by Kyriakos PIERRAKAKIS, President of the Eurogroup, Valdis DOMBROVSKIS, European Commissioner for Economy and Productivity, and Pierre GRAMEGNA, Managing Director of the European Stability Mechanism",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-07-03T11:42:38+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-07-09T17:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "Economist’s 30th Annual Government Roundtable",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292295",
+     "title": "Economist’s 30th Annual Government Roundtable - Progress in an age of upheaval",
+     "summary": "Debate with the participation of Roberta METSOLA, EP President and Kyriakos MITSOTAKIS, Greek Prime Minister Moderator: Daniel FRANKLIN, Executive editor and senior editor, The Economist",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292295-V_v"
+    }
+   ],
+   "firstSeen": "2026-07-03T11:42:38+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-07-09T19:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "EDIT",
+   "title": "EP News Economist’s 30th Annual Government Roundtable",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292296",
+     "title": "EP News Economist’s 30th Annual Government Roundtable",
+     "summary": "Official visit by Roberta METSOLA, EP President to Athens (Greece) - Participation to the Economist’s 30th Annual Government Roundtable with Kyriakos MITSOTAKIS, Greek Prime Minister: extracts",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292296-V_v"
+    }
+   ],
+   "firstSeen": "2026-07-03T11:42:38+00:00"
   }
  ]
 }
