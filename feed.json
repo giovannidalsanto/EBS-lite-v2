@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-03T11:57:16+00:00",
+ "generatedAt": "2026-07-03T17:03:46+00:00",
  "events": [
   {
    "ep": false,
@@ -27,19 +27,19 @@
    "durationSec": 1575,
    "channel": "EBS+",
    "status": "LIVE",
-   "title": "European Council President António COSTA in Aix-en-Provence, France",
+   "title": "European Council President António COSTA in Aix-en-Provence, France for the Les Rencontres Économiques d'Aix en Provence 2026",
    "languages": [
     "INT"
    ],
    "items": [
     {
      "ref": "I-292225",
-     "title": "European Council President António COSTA in Aix-en-Provence, France",
+     "title": "European Council President António COSTA in Aix-en-Provence, France for the Les Rencontres Économiques d'Aix en Provence 2026",
      "summary": "Les Rencontres Économiques d'Aix-en-Provence 2026 \"S’orienter dans un monde incertain\": Stage-talk with António COSTA, President of the European Council and Christine LAGARDE, President of the European Central Bank (ECB) Coordinator: Benoît CŒURÉ, President of the French Competition Authority",
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-07-03T11:42:38+00:00"
+   "firstSeen": "2026-07-03T17:03:46+00:00"
   },
   {
    "ep": false,
@@ -83,8 +83,8 @@
   },
   {
    "ep": true,
-   "start": "2026-07-03T09:01:17.280Z",
-   "durationSec": 2863,
+   "start": "2026-07-03T09:01:37.680Z",
+   "durationSec": 2842,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "EP Pre-session briefing",
@@ -101,7 +101,7 @@
      "inst": "EP"
     }
    ],
-   "firstSeen": "2026-07-03T11:42:38+00:00"
+   "firstSeen": "2026-07-03T17:03:46+00:00"
   },
   {
    "ep": false,
@@ -145,8 +145,8 @@
   },
   {
    "ep": false,
-   "start": "2026-07-03T11:33:07.160Z",
-   "durationSec": 353,
+   "start": "2026-07-03T11:52:06.960Z",
+   "durationSec": 504,
    "channel": "EBS",
    "status": "EDIT",
    "title": "Visit of the College of Commissioners to the Irish Presidency in Cork, Ireland",
@@ -157,37 +157,100 @@
     {
      "ref": "I-292368",
      "title": "Visit of the College of Commissioners to the Irish Presidency in Cork, Ireland",
-     "summary": "UCC Campus walk by Micheál MARTIN, Irish Taoiseach and Ursula von der LEYEN, President of the European Commission",
+     "summary": "UCC Campus walk by Ursula von der LEYEN, President of the European Commission and Micheál MARTIN, Irish Taoiseach",
      "inst": "Host"
     }
    ],
-   "firstSeen": "2026-07-03T11:42:38+00:00"
+   "firstSeen": "2026-07-03T17:03:46+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-03T12:30:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-03T12:40:14.120Z",
+   "durationSec": 2395,
    "channel": "EBS",
    "status": "LIVE",
    "title": "Visit of the College of Commissioners to the Irish Presidency in Cork, Ireland",
    "languages": [
     "INT",
-    "EN",
-    "GA"
+    "EN"
    ],
    "items": [
     {
+     "ref": "I-292373",
+     "title": "Visit of the College of Commissioners to the Irish Presidency in Cork, Ireland",
+     "summary": "Press conference opening remarks by Micheál MARTIN, Irish Taoiseach Press conference opening remlarks by Ursula von der LEYEN, President of the European Commission Press conference Q&A with Micheál MARTIN, Irish Taoiseach and Ursula von der LEYEN, President of the European Commission",
+     "inst": "Host"
+    },
+    {
      "ref": "I-292077",
      "title": "Visit of the College of Commissioners to the Irish Presidency in Cork, Ireland",
-     "summary": "Press conference by Ursula von der LEYEN, President of the European Commission and Micheál MARTIN, Irish Taoiseach",
+     "summary": "Press conference opening remarks by Micheál MARTIN, Irish Taoiseach",
+     "inst": "Host"
+    },
+    {
+     "ref": "I-292364",
+     "title": "Visit of the College of Commissioners to the Irish Presidency in Cork, Ireland",
+     "summary": "Press conference opening remlarks by Ursula von der LEYEN, President of the European Commission",
+     "inst": "Host"
+    },
+    {
+     "ref": "I-292365",
+     "title": "Visit of the College of Commissioners to the Irish Presidency in Cork, Ireland",
+     "summary": "Press conference Q&A with Micheál MARTIN, Irish Taoiseach and Ursula von der LEYEN, President of the European Commission",
+     "inst": "Host"
+    },
+    {
+     "ref": "I-292371",
+     "title": "Visit of the College of Commissioners to the Irish Presidency in Cork, Ireland",
+     "summary": "Recorded cutawys (mute)",
      "inst": "Host"
     }
    ],
-   "firstSeen": "2026-07-02T12:20:38+00:00"
+   "firstSeen": "2026-07-03T17:03:46+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-05T07:00:00.000Z",
+   "start": "2026-07-04T07:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "European Commissioner Dubravka ŠUICA in Cairo, Egypt",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291749",
+     "title": "European Commissioner Dubravka ŠUICA in Cairo, Egypt",
+     "summary": "Union for the Mediterranean Parliamentary Assembly Speakers’ Summit Keynote speech by Dubravka ŠUICA, European Commissioner for the Mediterranean",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-03T17:03:46+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-04T11:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "European Commissioner Dubravka ŠUICA in Cairo, Egypt",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292351",
+     "title": "European Commissioner Dubravka ŠUICA in Cairo, Egypt",
+     "summary": "Press point by Dubravka ŠUICA, European Commissioner for the Mediterranean and Badr ABDELATTY, Egyptian Minister for Foreign Affairs, Emigration and Egyptian Expatriates",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-03T17:03:46+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-05T07:00:10.000Z",
    "durationSec": 6363,
    "channel": "EBS+",
    "status": "EDIT",
@@ -239,7 +302,27 @@
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-03T11:42:38+00:00"
+   "firstSeen": "2026-07-03T17:03:46+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-05T13:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT_RECORDED",
+   "title": "European Commissioner Dubravka ŠUICA in Cairo, Egypt",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292353",
+     "title": "European Commissioner Dubravka ŠUICA in Cairo, Egypt",
+     "summary": "Youth Conference of Anna Lindh Foundation event Speech by Dubravka ŠUICA, European Commissioner for the Mediterranean",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-03T17:03:46+00:00"
   },
   {
    "ep": false,
@@ -280,27 +363,6 @@
     }
    ],
    "firstSeen": "2026-06-30T18:25:48+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-06T08:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "Concluding press conference of the Cypriot Presidency of the European Union",
-   "languages": [
-    "INT",
-    "EN"
-   ],
-   "items": [
-    {
-     "ref": "I-292244",
-     "title": "Concluding press conference of the Cypriot Presidency of the European Union",
-     "summary": "Press conference by Nikos CHRISTODOULIDES, President of Cyprus and Marilena RAOUNA, Cypriot Deputy Minister for European Affairs",
-     "inst": "Host"
-    }
-   ],
-   "firstSeen": "2026-07-01T13:40:12+00:00"
   },
   {
    "ep": false,
@@ -518,8 +580,7 @@
    "title": "Informal meeting of Employment and Social Affairs Ministers (EPSCO Employment and Social) in Mayo, Ireland",
    "languages": [
     "INT",
-    "EN",
-    "GA"
+    "EN"
    ],
    "items": [
     {
@@ -713,6 +774,32 @@
     }
    ],
    "firstSeen": "2026-07-02T11:44:25+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-06T19:15:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT_RECORDED",
+   "title": "European Commissioner Christophe HANSEN in Germany and France",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292074",
+     "title": "European Commissioner Christophe HANSEN in Germany and France",
+     "summary": "Field visit to the DSM-Firmenich animal nutrition and vitamins production site",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292372",
+     "title": "European Commissioner Christophe HANSEN in Germany and France",
+     "summary": "Field visit to the LORIAL animal feed production site",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-03T17:03:46+00:00"
   },
   {
    "ep": false,
@@ -1086,6 +1173,33 @@
    "firstSeen": "2026-07-02T11:44:25+00:00"
   },
   {
+   "ep": true,
+   "start": "2026-07-07T12:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "EP Press Conference Air passenger’s rights",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "LT",
+    "BG"
+   ],
+   "items": [
+    {
+     "ref": "I-292253",
+     "title": "EP Press Conference Air passenger’s rights",
+     "summary": "Press Conference by Andrey NOVAKOV (EPP, BG), rapporteur and Virginijus SINKEVIČIUS (Greens / EFA, LT), vice-chair of the TRAN Committee on Air passenger’s rights",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292253-V_v"
+    }
+   ],
+   "firstSeen": "2026-07-03T17:03:46+00:00"
+  },
+  {
    "ep": false,
    "start": "2026-07-07T12:30:00.000Z",
    "durationSec": 0,
@@ -1146,6 +1260,33 @@
     }
    ],
    "firstSeen": "2026-07-02T11:44:25+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-07-07T13:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "EP Press Conference Coordination of social security systems regulations",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "PL"
+   ],
+   "items": [
+    {
+     "ref": "I-292252",
+     "title": "EP Press Conference Coordination of social security systems regulations",
+     "summary": "Press Conference by Gabriele BISCHOFF (S&D, DE), rapporteur on the revision of the coordination of social security systems regulations on the coordination of social security systems",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292252-V_v"
+    }
+   ],
+   "firstSeen": "2026-07-03T17:03:46+00:00"
   },
   {
    "ep": true,
@@ -1355,7 +1496,7 @@
     {
      "ref": "I-292091",
      "title": "EP Political Groups press briefings",
-     "summary": "Press briefing by Valérie HAYER (Renew, FR), Renew Europe Group President",
+     "summary": "Press briefing by Valérie HAYER (Renew, FR), Renew Europe Group President and Billy KELLEHER (Renew, IE), Renew Europe Group Vice President",
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292091-V_v"
     },
@@ -1522,6 +1663,26 @@
    "firstSeen": "2026-07-03T11:42:38+00:00"
   },
   {
+   "ep": false,
+   "start": "2026-07-07T23:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "",
+   "title": "2026 NATO Summit in Ankara, Türkiye",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292106",
+     "title": "2026 NATO Summit in Ankara, Türkiye",
+     "summary": "Details to follow",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-03T17:03:46+00:00"
+  },
+  {
    "ep": true,
    "start": "2026-07-08T06:30:00.000Z",
    "durationSec": 378,
@@ -1664,29 +1825,24 @@
   },
   {
    "ep": false,
-   "start": "2026-07-08T09:00:00.000Z",
+   "start": "2026-07-08T08:30:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
-   "status": "EDIT_RECORDED",
-   "title": "Court of Justice of the European Union",
+   "status": "LIVE",
+   "title": "Concluding press conference of the Cypriot Presidency of the European Union",
    "languages": [
-    "INT"
+    "INT",
+    "EN"
    ],
    "items": [
     {
-     "ref": "I-292355",
-     "title": "Court of Justice of the European Union",
-     "summary": "General Court rulings in cases T-268/21 RENV Ryanair v Commission and T-538/24 Ryanair v Commission regarding an Italian state aid to airlines companies to compensate for the damage suffered in the context of the COVID-19 pandemic",
-     "inst": "Court of Justice o"
-    },
-    {
-     "ref": "I-292356",
-     "title": "Court of Justice of the European Union",
-     "summary": "General Court ruling in joined cases T-1079/23 Apple v Commission, T-1080/23 Apple v Commission and T-214/24 Apple Distribution International v Commission regarding the application of the DMA regulation",
-     "inst": "Court of Justice o"
+     "ref": "I-292244",
+     "title": "Concluding press conference of the Cypriot Presidency of the European Union",
+     "summary": "Press conference by Nikos CHRISTODOULIDES, President of Cyprus and Marilena RAOUNA, Cypriot Deputy Minister for European Affairs",
+     "inst": "Host"
     }
    ],
-   "firstSeen": "2026-07-03T11:42:38+00:00"
+   "firstSeen": "2026-07-03T17:03:46+00:00"
   },
   {
    "ep": true,
@@ -1793,25 +1949,30 @@
    "firstSeen": "2026-07-02T11:44:25+00:00"
   },
   {
-   "ep": true,
-   "start": "2026-07-08T10:30:00.000Z",
+   "ep": false,
+   "start": "2026-07-08T11:00:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
-   "status": "EDIT",
-   "title": "EP News EU’s response and preparedness to protect people against recurring heatwaves and upcoming wildfires",
+   "status": "EDIT_RECORDED",
+   "title": "Court of Justice of the European Union",
    "languages": [
     "INT"
    ],
    "items": [
     {
-     "ref": "I-292310",
-     "title": "EP News EU’s response and preparedness to protect people against recurring heatwaves and upcoming wildfires",
-     "summary": "EU’s response and preparedness to protect people against recurring heatwaves and upcoming wildfires: extracts from the debate",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292310-V_v"
+     "ref": "I-292355",
+     "title": "Court of Justice of the European Union",
+     "summary": "General Court rulings in cases T-268/21 RENV Ryanair v Commission and T-538/24 Ryanair v Commission regarding an Italian state aid to airlines companies to compensate for the damage suffered in the context of the COVID-19 pandemic",
+     "inst": "Court of Justice o"
+    },
+    {
+     "ref": "I-292356",
+     "title": "Court of Justice of the European Union",
+     "summary": "General Court ruling in joined cases T-1079/23 Apple v Commission, T-1080/23 Apple v Commission and T-214/24 Apple Distribution International v Commission regarding the application of the DMA regulation",
+     "inst": "Court of Justice o"
     }
    ],
-   "firstSeen": "2026-07-02T11:44:25+00:00"
+   "firstSeen": "2026-07-03T17:03:46+00:00"
   },
   {
    "ep": true,
@@ -1871,6 +2032,33 @@
    "ep": true,
    "start": "2026-07-08T12:00:00.000Z",
    "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "EP Press Conference EU - Mexico modernised global agreement",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "PL"
+   ],
+   "items": [
+    {
+     "ref": "I-292306",
+     "title": "EP Press Conference EU - Mexico modernised global agreement",
+     "summary": "Press Conference by Javi LÓPEZ (S&D, ES) and Borja GIMÉNEZ LARRAZ (EPP, ES), AFET and INTA rapporteurs for the EU-Mexico modernised global agreement",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292306-V_v"
+    }
+   ],
+   "firstSeen": "2026-07-03T17:03:46+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-07-08T12:00:00.000Z",
+   "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "EP Plenary Session Narco-trafficking in Europe’s waters: protecting our borders and supporting our law enforcement officers",
@@ -1920,6 +2108,48 @@
     }
    ],
    "firstSeen": "2026-07-02T11:44:25+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-07-08T12:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "EP News EU’s response and preparedness to protect people against recurring heatwaves and upcoming wildfires",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292310",
+     "title": "EP News EU’s response and preparedness to protect people against recurring heatwaves and upcoming wildfires",
+     "summary": "EU’s response and preparedness to protect people against recurring heatwaves and upcoming wildfires: extracts from the debate",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292310-V_v"
+    }
+   ],
+   "firstSeen": "2026-07-03T17:03:46+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-07-08T13:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "EP Press Conference 2025 report on Serbia",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292254",
+     "title": "EP Press Conference 2025 report on Serbia",
+     "summary": "Press Conference by Tonino PICULA (S&D, HR), rapporteur on the 2025 report on Serbia",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292254-V_v"
+    }
+   ],
+   "firstSeen": "2026-07-03T17:03:46+00:00"
   },
   {
    "ep": true,
@@ -2027,7 +2257,7 @@
     {
      "ref": "I-292311",
      "title": "EP News LEX Signing Ceremony",
-     "summary": "LEX siging ceremony in the presence of Roberta METSOLA, EP President",
+     "summary": "details to follow",
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292311-V_v"
     }
@@ -2594,20 +2824,20 @@
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
-   "title": "Economist’s 30th Annual Government Roundtable",
+   "title": "Economist’s 30th Annual Government Roundtable in Attica, Greece",
    "languages": [
     "INT"
    ],
    "items": [
     {
      "ref": "I-292295",
-     "title": "Economist’s 30th Annual Government Roundtable - Progress in an age of upheaval",
+     "title": "Economist’s 30th Annual Government Roundtable in Attica, Greece",
      "summary": "Debate with the participation of Roberta METSOLA, EP President and Kyriakos MITSOTAKIS, Greek Prime Minister Moderator: Daniel FRANKLIN, Executive editor and senior editor, The Economist",
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292295-V_v"
     }
    ],
-   "firstSeen": "2026-07-03T11:42:38+00:00"
+   "firstSeen": "2026-07-03T17:03:46+00:00"
   },
   {
    "ep": true,
