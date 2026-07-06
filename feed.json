@@ -1,332 +1,9 @@
 {
- "generatedAt": "2026-07-03T17:03:46+00:00",
+ "generatedAt": "2026-07-06T14:44:00+00:00",
  "events": [
   {
    "ep": false,
-   "start": "2026-07-03T06:41:03.840Z",
-   "durationSec": 3192,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "European Commissioner Valdis DOMBROVSKIS in Istanbul, Türkiye",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291722",
-     "title": "European Commissioner Valdis DOMBROVSKIS in Istanbul, Türkiye",
-     "summary": "Firesite chat Valdis DOMBROVSKIS, European Commissioner for Economy and Productivity, and European Commissioner for Implementation and Simplification with Sinan ÜLGEN, Chairman of the Center for Economics and Foreign Policy Studies (EDAM)",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-07-03T11:42:38+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-03T08:04:51.160Z",
-   "durationSec": 1575,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "European Council President António COSTA in Aix-en-Provence, France for the Les Rencontres Économiques d'Aix en Provence 2026",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292225",
-     "title": "European Council President António COSTA in Aix-en-Provence, France for the Les Rencontres Économiques d'Aix en Provence 2026",
-     "summary": "Les Rencontres Économiques d'Aix-en-Provence 2026 \"S’orienter dans un monde incertain\": Stage-talk with António COSTA, President of the European Council and Christine LAGARDE, President of the European Central Bank (ECB) Coordinator: Benoît CŒURÉ, President of the French Competition Authority",
-     "inst": "Council"
-    }
-   ],
-   "firstSeen": "2026-07-03T17:03:46+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-03T08:17:43.320Z",
-   "durationSec": 177,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "Visit of the College of Commissioners to the Irish Presidency in Cork, Ireland",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292335",
-     "title": "Visit of the College of Commissioners to the Irish Presidency in Cork, Ireland",
-     "summary": "Arrival of Ursula von der LEYEN, President of the European Commission and welcome by Micheál MARTIN, Irish Taoiseach",
-     "inst": "Host"
-    }
-   ],
-   "firstSeen": "2026-07-03T11:42:38+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-03T08:50:10.000Z",
-   "durationSec": 60,
-   "channel": "EBS",
-   "status": "EDIT",
-   "title": "Visit of the College of Commissioners to the Irish Presidency in Cork, Ireland",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291743",
-     "title": "Visit of the College of Commissioners to the Irish Presidency in Cork, Ireland",
-     "summary": "Bilateral meeting Ursula von der LEYEN, President of the European Commission with Micheál MARTIN, Irish Taoiseach",
-     "inst": "Host"
-    }
-   ],
-   "firstSeen": "2026-07-03T11:42:38+00:00"
-  },
-  {
-   "ep": true,
-   "start": "2026-07-03T09:01:37.680Z",
-   "durationSec": 2842,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "EP Pre-session briefing",
-   "languages": [
-    "INT",
-    "EN",
-    "FR"
-   ],
-   "items": [
-    {
-     "ref": "I-291874",
-     "title": "EP Pre-session briefing",
-     "summary": "Pre-session briefing",
-     "inst": "EP"
-    }
-   ],
-   "firstSeen": "2026-07-03T17:03:46+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-03T10:28:32.360Z",
-   "durationSec": 364,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "Visit of the College of Commissioners to the Irish Presidency in Cork, Ireland",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292337",
-     "title": "Visit of the College of Commissioners to the Irish Presidency in Cork, Ireland",
-     "summary": "Family photo",
-     "inst": "Host"
-    }
-   ],
-   "firstSeen": "2026-07-03T11:42:38+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-03T10:43:42.000Z",
-   "durationSec": 99,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "Visit of the College of Commissioners to the Irish Presidency in Cork, Ireland",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292338",
-     "title": "Visit of the College of Commissioners to the Irish Presidency in Cork, Ireland",
-     "summary": "Roundtable plenary",
-     "inst": "Host"
-    }
-   ],
-   "firstSeen": "2026-07-03T11:42:38+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-03T11:52:06.960Z",
-   "durationSec": 504,
-   "channel": "EBS",
-   "status": "EDIT",
-   "title": "Visit of the College of Commissioners to the Irish Presidency in Cork, Ireland",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292368",
-     "title": "Visit of the College of Commissioners to the Irish Presidency in Cork, Ireland",
-     "summary": "UCC Campus walk by Ursula von der LEYEN, President of the European Commission and Micheál MARTIN, Irish Taoiseach",
-     "inst": "Host"
-    }
-   ],
-   "firstSeen": "2026-07-03T17:03:46+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-03T12:40:14.120Z",
-   "durationSec": 2395,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "Visit of the College of Commissioners to the Irish Presidency in Cork, Ireland",
-   "languages": [
-    "INT",
-    "EN"
-   ],
-   "items": [
-    {
-     "ref": "I-292373",
-     "title": "Visit of the College of Commissioners to the Irish Presidency in Cork, Ireland",
-     "summary": "Press conference opening remarks by Micheál MARTIN, Irish Taoiseach Press conference opening remlarks by Ursula von der LEYEN, President of the European Commission Press conference Q&A with Micheál MARTIN, Irish Taoiseach and Ursula von der LEYEN, President of the European Commission",
-     "inst": "Host"
-    },
-    {
-     "ref": "I-292077",
-     "title": "Visit of the College of Commissioners to the Irish Presidency in Cork, Ireland",
-     "summary": "Press conference opening remarks by Micheál MARTIN, Irish Taoiseach",
-     "inst": "Host"
-    },
-    {
-     "ref": "I-292364",
-     "title": "Visit of the College of Commissioners to the Irish Presidency in Cork, Ireland",
-     "summary": "Press conference opening remlarks by Ursula von der LEYEN, President of the European Commission",
-     "inst": "Host"
-    },
-    {
-     "ref": "I-292365",
-     "title": "Visit of the College of Commissioners to the Irish Presidency in Cork, Ireland",
-     "summary": "Press conference Q&A with Micheál MARTIN, Irish Taoiseach and Ursula von der LEYEN, President of the European Commission",
-     "inst": "Host"
-    },
-    {
-     "ref": "I-292371",
-     "title": "Visit of the College of Commissioners to the Irish Presidency in Cork, Ireland",
-     "summary": "Recorded cutawys (mute)",
-     "inst": "Host"
-    }
-   ],
-   "firstSeen": "2026-07-03T17:03:46+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-04T07:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "European Commissioner Dubravka ŠUICA in Cairo, Egypt",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291749",
-     "title": "European Commissioner Dubravka ŠUICA in Cairo, Egypt",
-     "summary": "Union for the Mediterranean Parliamentary Assembly Speakers’ Summit Keynote speech by Dubravka ŠUICA, European Commissioner for the Mediterranean",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-07-03T17:03:46+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-04T11:30:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "European Commissioner Dubravka ŠUICA in Cairo, Egypt",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292351",
-     "title": "European Commissioner Dubravka ŠUICA in Cairo, Egypt",
-     "summary": "Press point by Dubravka ŠUICA, European Commissioner for the Mediterranean and Badr ABDELATTY, Egyptian Minister for Foreign Affairs, Emigration and Egyptian Expatriates",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-07-03T17:03:46+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-05T07:00:10.000Z",
-   "durationSec": 6363,
-   "channel": "EBS+",
-   "status": "EDIT",
-   "title": "EC archives of the week (05-11/07): Meeting between Muhammad Yunus, 2006 Nobel Peace Prize ® laureate, and José Manuel Barroso, President of the EC (06/07/2011, 15 years ago) Debate and vote on the draft revision of the Treaties of the EC, plenary session of the EP (07-08/07/1981, 45 years ago) EU-US leaders meeting and NATO Summit in Warsaw (08-09/07/2016, 10 years ago) Ministers for Finance gave Slovenia the final go-ahead to become the 13th Member of the Eurozone on 1 January 2007 (11/07/2006, 20 years ago) International Day of Reflection and Commemoration of the 1995 Genocide in Srebrenica (11/07)",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-070443",
-     "title": "Meeting between Muhammad Yunus, 2006 Nobel Peace Prize ® laureate, and José Manuel Barroso: round table",
-     "summary": "On 6 July 2011, José Manuel Barroso, President of the EC, met Muhammad Yunus, 2006 Nobel Peace Prize ® laureate in Strasbourg.",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-124495",
-     "title": "EU-US leaders meeting and NATO Summit in Warsaw, 08-09/07/2016",
-     "summary": "Poland hosted the North Atlantic Treaty Organisation (NATO) Summit in Warsaw on 8-9 July 2016. Jean-Claude Juncker, President of the EC, Donald Tusk, President of the European Council, and Federica Mogherini, High Representative of the Union for Foreign Affairs and Security Policy and Vice-President of the EC, represented the European Union at the Summit. In the margins of the Summit, President Juncker and President Tusk met Barack Obama, President of the United States, for an EU/US Leaders Meeting. This meeting provided an opportunity to underline Transatlantic unity and to discuss common political, economic and international security challenges.",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-051798",
-     "title": "Celebration of Slovenia joining the Eurozone: general atmosphere and extracts from speeches",
-     "summary": "Ministers for Finance gave Slovenia the final go-ahead to become the 13th Member of the Eurozone on 1 January 2007. A series of events and celebrations took place in Brussels (rond-point Schuman) to mark the enlargement of the eurozone. An oversized poster, covering part of the Berlaymont building, was unveiled in the presence of the Ministers for Finance of the Eurozone. It depicts both the national side as well as the new common-side of the 1-euro coin. Other elements are planned, like live band and performance of national songs and dances, school children releasing gas balloons in the sky, huge cake carrying the map of the enlarged euro-area, photo shooting and public speeches. This will make Slovenia the first of the EU's 10 new Member States to join the euro zone.",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-051792",
-     "title": "Economic and Financial Affairs Council: extracts from the press conference on Slovenia joining the Eurozone",
-     "summary": "Ministers for Finance adopted formally two decisions on Slovenia joining the eurozone. Following the recommendations of the European Commission and the European Council, Ministers gave their agreement to Slovenia joining the euro on 1 January 2007 and set fixed, unchangeable conversion rate for the euro and Slovenia's national currency, with a euro expected to be worth 239.64 tolars. The country will become the 13th State introducing the unified EU currency. It will also be the first among the 10 new Member States that joined on 1st May 2004 that will change its national currency. According to Ljubljana’s plan the Slovenians will be able to use at one and the same time the EUR and Tolar for period of two weeks. The prices will be written in two currencies for a period of six months.",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-278432",
-     "title": "Visit of Ursula von der Leyen, President of the European Commission, to Bosnia and Herzegovina: Visit to Srebrenica",
-     "summary": "On 14 October 2025, Ursula von der Leyen, President of the European Commission, went in Bosnia and Herzegovina, in the context of a visit to Western Balkans countries to reiterated the EU's support for the region's path towards EU accession and gradual access to the Single Market. On this occasion, Ursula von der Leyen met with Bosnia and Herzegovina's Presidency: Željko Komšic, Chairman of the Presidency of Bosnia and Herzegovina, Željka Cvijanović, Chairwoman of the Presidency of Bosnia and Herzegovina, and Denis Bećirović, Chairman of the Presidency of Bosnia and Herzegovina, and with Borjana Krišto, Chairwoman of the Council of Ministers of Bosnia and Herzegovina. Ursula von der Leyen also participated in the 'Critical Voices under Pressure' conference at Europe House and visited the memorial of the victilms of the 1995 genocide in Srebrenica. This video shows extracts of the visit to Srebrenica.",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-106843",
-     "title": "General views of the Srebrenica Memorial Day",
-     "summary": "On 11 July 2015, international personalities and thousand of people took part to the Srebrenica Memorial Day in Srebrenica-Potocari. They paid tribute to the 8372 victims of the 1995 genocide.",
-     "inst": "European External "
-    },
-    {
-     "ref": "I-043163",
-     "title": "Western Balkans - 2003",
-     "summary": "The EU is by far the single largest assistance donor to the countries of the Western Balkans. Since 1991, the EU has provided more than 6 billion euro to the region through its various aid programmes. And by 2006, that figure will have risen to some 10 billion euro. The EU leads on the ground, too. In Kosovo, some 36,000 troops (80 per cent of the total force) and 800 civilian police from EU Member States serve alongside other international partners. And the EU is also actively involved in the combined international effort in South-East Europe. All of this represents a significant, long-term commitment on the part of the EU to peace, stability and prosperity in South-East Europe.",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-07-03T17:03:46+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-05T13:30:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "EDIT_RECORDED",
-   "title": "European Commissioner Dubravka ŠUICA in Cairo, Egypt",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292353",
-     "title": "European Commissioner Dubravka ŠUICA in Cairo, Egypt",
-     "summary": "Youth Conference of Anna Lindh Foundation event Speech by Dubravka ŠUICA, European Commissioner for the Mediterranean",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-07-03T17:03:46+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-06T07:00:00.000Z",
+   "start": "2026-07-06T06:46:12.960Z",
    "durationSec": 0,
    "channel": "EBS",
    "status": "LIVE",
@@ -338,16 +15,46 @@
     {
      "ref": "I-292146",
      "title": "Informal meeting of Employment and Social Affairs Ministers (EPSCO Employment and Social) in Mayo, Ireland",
-     "summary": "Arrivals and doorsteps",
+     "summary": "Doorstep Dara CALLEARY, Minister for Social Protection and Minister for Rural and Community Development and the Gaeltacht of Ireland",
+     "inst": "Host"
+    },
+    {
+     "ref": "I-292378",
+     "title": "Informal meeting of Employment and Social Affairs Ministers (EPSCO Employment and Social) in Mayo, Ireland",
+     "summary": "Doorstep Line ELDRING, State Secretary Ministry of Labour and Social Inclusion of Norway",
+     "inst": "Host"
+    },
+    {
+     "ref": "I-292379",
+     "title": "Informal meeting of Employment and Social Affairs Ministers (EPSCO Employment and Social) in Mayo, Ireland",
+     "summary": "Doorstep Konstantinos KARAGKOUNIS, Deputy Minister for Social Security of Greece",
+     "inst": "Host"
+    },
+    {
+     "ref": "I-292380",
+     "title": "Informal meeting of Employment and Social Affairs Ministers (EPSCO Employment and Social) in Mayo, Ireland",
+     "summary": "Doorstep Natalia PLUGARU, Minister of Labour and Social Protection of Moldova",
+     "inst": "Host"
+    },
+    {
+     "ref": "I-292381",
+     "title": "Informal meeting of Employment and Social Affairs Ministers (EPSCO Employment and Social) in Mayo, Ireland",
+     "summary": "Joint doorstep by Roxana MÎNZATU, Executive Vice-President of the European Commission for Social Rights and Skills, Quality Jobs and Preparedness and Dara CALLEARY, Minister for Social Protection and Minister for Rural and Community Development and the Gaeltacht of Ireland",
+     "inst": "Host"
+    },
+    {
+     "ref": "I-292382",
+     "title": "Informal meeting of Employment and Social Affairs Ministers (EPSCO Employment and Social) in Mayo, Ireland",
+     "summary": "Doorstep Esther LYNCH, General Secretary of the European Trade Union Confederation (ETUC)",
      "inst": "Host"
     }
    ],
-   "firstSeen": "2026-06-30T18:25:48+00:00"
+   "firstSeen": "2026-07-06T14:44:00+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-06T08:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-06T07:54:08.960Z",
+   "durationSec": 426,
    "channel": "EBS",
    "status": "LIVE",
    "title": "Informal meeting of Employment and Social Affairs Ministers (EPSCO Employment and Social) in Mayo, Ireland",
@@ -358,16 +65,56 @@
     {
      "ref": "I-292160",
      "title": "Informal meeting of Employment and Social Affairs Ministers (EPSCO Employment and Social) in Mayo, Ireland",
-     "summary": "Roundtable",
+     "summary": "Roundtable Working Session 1a",
      "inst": "Host"
     }
    ],
-   "firstSeen": "2026-06-30T18:25:48+00:00"
+   "firstSeen": "2026-07-06T14:44:00+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-06T10:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-06T08:12:11.000Z",
+   "durationSec": 717,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "Informal meeting of Employment and Social Affairs Ministers (EPSCO Employment and Social) in Mayo, Ireland",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292384",
+     "title": "Informal meeting of Employment and Social Affairs Ministers (EPSCO Employment and Social) in Mayo, Ireland",
+     "summary": "Compilation of all arrivals and welcome by Dara CALLEARY, Minister for Social Protection and Minister for Rural and Community Development and the Gaeltacht of Ireland and Teresa LEONARD, Deputy Secretary General of Department of Social Protection of Ireland",
+     "inst": "Host"
+    }
+   ],
+   "firstSeen": "2026-07-06T14:44:00+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-06T09:16:49.440Z",
+   "durationSec": 740,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "Informal meeting of Employment and Social Affairs Ministers (EPSCO Employment and Social) in Mayo, Ireland",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292395",
+     "title": "Informal meeting of Employment and Social Affairs Ministers (EPSCO Employment and Social) in Mayo, Ireland",
+     "summary": "Doorstep Alan DILLON, Minister of State at the Department of Enterprise, Trade and Employment with special responsibility for Small Businesses and Retail; and the Department of the Environment, Climate and Communications with special responsibility for Circular Economy of Ireland",
+     "inst": "Host"
+    }
+   ],
+   "firstSeen": "2026-07-06T14:44:00+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-06T10:02:05.800Z",
+   "durationSec": 2506,
    "channel": "EBS",
    "status": "LIVE",
    "title": "EC Midday press briefing of 06/07/2026",
@@ -378,36 +125,122 @@
    ],
    "items": [
     {
+     "ref": "I-292424",
+     "title": "EC Midday press briefing of 06/07/2026",
+     "summary": "ANNOUNCEMENT - College agenda and press arrangements ANNOUNCEMENT - Forest fires and EU Civil Protection Mechanism, latest ANNOUNCEMENT - Today’s informal council SCHENGEN / BORDERS - Entry/Exit System (EES) / Frontex: Q&A MIGRATION - Visit of Pope Leo XIV to Lampedusa: Q&A SPORT - Integrity of FIFA and political interference / Balogun case: Q&A ARTIFICIAL INTELLIGENCE (AI) - Anthropic / Mythos: Q&A ENLARGEMENT - Moldova: Q&A PRESIDENT AGENDA - Upcoming visit of EC President von der Leyen to Türkiye: Q&A COMPETITION - Castlelake / EasyJet case: Q&A INUDSTRIAL POLICY - Aluminium: Q&A FOREIGN AFFAIRS - Mali / Côte d'Ivoire / Burkina Faso / Niger / International Criminal Court: Q&A FOREIGN AFFAIRS - Israel / Trade: Q&A EU/US RELATIONS - US President Trump social media post on Italian PM Meloni: Q&A Exterior views of the European Commission Berlaymont building Recorded cutaways",
+     "inst": "EC"
+    },
+    {
      "ref": "I-292055",
      "title": "EC Midday press briefing of 06/07/2026",
-     "summary": "Announcements",
+     "summary": "ANNOUNCEMENT - College agenda and press arrangements",
      "inst": "EC"
     },
     {
      "ref": "I-292056",
      "title": "EC Midday press briefing of 06/07/2026",
-     "summary": "Q&A",
+     "summary": "ANNOUNCEMENT - Forest fires and EU Civil Protection Mechanism, latest",
      "inst": "EC"
     },
     {
-     "ref": "I-292057",
+     "ref": "I-292385",
      "title": "EC Midday press briefing of 06/07/2026",
-     "summary": "Exterior views of the European Commission Berlaymont building",
+     "summary": "ANNOUNCEMENT - Today’s informal council",
      "inst": "EC"
     },
     {
-     "ref": "I-292058",
+     "ref": "I-292386",
      "title": "EC Midday press briefing of 06/07/2026",
-     "summary": "Recorded cutaways",
+     "summary": "SCHENGEN / BORDERS - Entry/Exit System (EES) / Frontex: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292387",
+     "title": "EC Midday press briefing of 06/07/2026",
+     "summary": "MIGRATION - Visit of Pope Leo XIV to Lampedusa: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292388",
+     "title": "EC Midday press briefing of 06/07/2026",
+     "summary": "SPORT - Integrity of FIFA and political interference / Balogun case: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292389",
+     "title": "EC Midday press briefing of 06/07/2026",
+     "summary": "ARTIFICIAL INTELLIGENCE (AI) - Anthropic / Mythos: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292390",
+     "title": "EC Midday press briefing of 06/07/2026",
+     "summary": "ENLARGEMENT - Moldova: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292391",
+     "title": "EC Midday press briefing of 06/07/2026",
+     "summary": "PRESIDENT AGENDA - Upcoming visit of EC President von der Leyen to Türkiye: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292392",
+     "title": "EC Midday press briefing of 06/07/2026",
+     "summary": "COMPETITION - Castlelake / EasyJet case: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292393",
+     "title": "EC Midday press briefing of 06/07/2026",
+     "summary": "INUDSTRIAL POLICY - Aluminium: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292394",
+     "title": "EC Midday press briefing of 06/07/2026",
+     "summary": "FOREIGN AFFAIRS - Mali / Côte d'Ivoire / Burkina Faso / Niger / International Criminal Court: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292396",
+     "title": "EC Midday press briefing of 06/07/2026",
+     "summary": "FOREIGN AFFAIRS - Israel / Trade: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292397",
+     "title": "EC Midday press briefing of 06/07/2026",
+     "summary": "EU/US RELATIONS - US President Trump social media post on Italian PM Meloni: Q&A",
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-06-30T11:58:34+00:00"
+   "firstSeen": "2026-07-06T14:44:00+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-06T12:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-06T11:00:10.000Z",
+   "durationSec": 319,
+   "channel": "EBS",
+   "status": "RECORDED",
+   "title": "Informal meeting of Employment and Social Affairs Ministers (EPSCO Employment and Social) in Mayo, Ireland",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292421",
+     "title": "Informal meeting of Employment and Social Affairs Ministers (EPSCO Employment and Social) in Mayo, Ireland",
+     "summary": "Roundtable Working Session 1b",
+     "inst": "Host"
+    }
+   ],
+   "firstSeen": "2026-07-06T14:44:00+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-06T12:36:33.000Z",
+   "durationSec": 177,
    "channel": "EBS",
    "status": "LIVE",
    "title": "Informal meeting of Employment and Social Affairs Ministers (EPSCO Employment and Social) in Mayo, Ireland",
@@ -422,11 +255,11 @@
      "inst": "Host"
     }
    ],
-   "firstSeen": "2026-06-30T18:25:48+00:00"
+   "firstSeen": "2026-07-06T14:44:00+00:00"
   },
   {
    "ep": true,
-   "start": "2026-07-06T14:00:00.000Z",
+   "start": "2026-07-06T14:00:10.000Z",
    "durationSec": 393,
    "channel": "EBS+",
    "status": "EDIT",
@@ -443,11 +276,11 @@
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I283602-V_v"
     }
    ],
-   "firstSeen": "2026-07-03T11:42:38+00:00"
+   "firstSeen": "2026-07-06T14:44:00+00:00"
   },
   {
    "ep": true,
-   "start": "2026-07-06T14:30:00.000Z",
+   "start": "2026-07-06T14:30:29.680Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
@@ -469,7 +302,7 @@
      "inst": "EP"
     }
    ],
-   "firstSeen": "2026-06-30T11:58:34+00:00"
+   "firstSeen": "2026-07-06T14:44:00+00:00"
   },
   {
    "ep": true,
@@ -550,7 +383,7 @@
     {
      "ref": "I-292237",
      "title": "EP Plenary Session Air passenger rights",
-     "summary": "Opening statements",
+     "summary": "Opening statements by Andrey NOVAKOV (EPP, BG), rapporteur and Apostolos TZITZIKOSTAS, European Commissioner for Sustainable Transport and Tourism",
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292237-V_v"
     },
@@ -564,7 +397,7 @@
     {
      "ref": "I-292239",
      "title": "EP Plenary Session Air passenger rights",
-     "summary": "Closing statements",
+     "summary": "Closing statement by Andrey NOVAKOV (EPP, BG), rapporteur",
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292239-V_v"
     }
@@ -586,7 +419,7 @@
     {
      "ref": "I-292162",
      "title": "Informal meeting of Employment and Social Affairs Ministers (EPSCO Employment and Social) in Mayo, Ireland",
-     "summary": "Press conference by the Irish Presidency and the European Commission",
+     "summary": "Press conference by Dara CALLEARY, Minister for Social Protection and Minister for Rural and Community Development and the Gaeltacht of Ireland and Roxana MÎNZATU, Executive Vice-President of the European Commission for Social Rights and Skills, Quality Jobs and Preparedness",
      "inst": "Host"
     }
    ],
@@ -594,7 +427,7 @@
   },
   {
    "ep": true,
-   "start": "2026-07-06T16:30:00.000Z",
+   "start": "2026-07-06T16:15:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
@@ -628,7 +461,7 @@
     {
      "ref": "I-292163",
      "title": "EP Plenary Session Financial activities of the European Investment Bank Group – annual report 2025",
-     "summary": "Opening statements by Robert de GROOT, Vice-President of the European Investment Bank (EIB)",
+     "summary": "Opening statements by Joachim STREIT (Renew, DE), Rapporteur, Robert DE GROOT, Vice-President of the European Investment Bank (EIB) and Valdis DOMBROVSKIS, European Commissioner for Economy and Productivity, and European Commissioner for Implementation and Simplification",
      "inst": "EP"
     },
     {
@@ -640,15 +473,15 @@
     {
      "ref": "I-292165",
      "title": "EP Plenary Session Financial activities of the European Investment Bank Group – annual report 2025",
-     "summary": "Closing statements",
+     "summary": "Closing statements by Robert DE GROOT, Vice-President of the European Investment Bank (EIB) and Joachim STREIT (Renew, DE), Rapporteur",
      "inst": "EP"
     }
    ],
-   "firstSeen": "2026-07-02T11:44:25+00:00"
+   "firstSeen": "2026-07-06T14:44:00+00:00"
   },
   {
    "ep": true,
-   "start": "2026-07-06T17:30:00.000Z",
+   "start": "2026-07-06T17:15:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
@@ -682,7 +515,7 @@
     {
      "ref": "I-292231",
      "title": "EP Plenary Session Coordination of social security systems",
-     "summary": "Opening statements",
+     "summary": "Opening statement by Gabriele BISCHOFF (S&D, DE), rapporteur on the revision of the coordination of social security systems regulations and Valdis DOMBROVSKIS, European Commissioner for Economy and Productivity, and European Commissioner for Implementation and Simplification",
      "inst": "EP"
     },
     {
@@ -694,15 +527,15 @@
     {
      "ref": "I-292233",
      "title": "EP Plenary Session Coordination of social security systems",
-     "summary": "Closing statements",
+     "summary": "Closing statement by Gabriele BISCHOFF (S&D, DE), rapporteur on the revision of the coordination of social security systems regulations",
      "inst": "EP"
     }
    ],
-   "firstSeen": "2026-07-02T11:44:25+00:00"
+   "firstSeen": "2026-07-06T14:44:00+00:00"
   },
   {
    "ep": true,
-   "start": "2026-07-06T18:00:00.000Z",
+   "start": "2026-07-06T17:45:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
@@ -736,23 +569,23 @@
     {
      "ref": "I-292234",
      "title": "EP Plenary Session Recommendation on the changing geopolitical situation in East Asia",
-     "summary": "Opening statements",
+     "summary": "Opening statement by Adam BIELAN (ECR, PL), Rapporteur",
      "inst": "EP"
     },
     {
      "ref": "I-292235",
      "title": "EP Plenary Session Recommendation on the changing geopolitical situation in East Asia",
-     "summary": "MEPs debate",
+     "summary": "Catch the eye",
      "inst": "EP"
     },
     {
      "ref": "I-292236",
      "title": "EP Plenary Session Recommendation on the changing geopolitical situation in East Asia",
-     "summary": "Closing statements",
+     "summary": "Closing statement by Valdis DOMBROVSKIS, European Commissioner for Economy and Productivity, and European Commissioner for Implementation and Simplification",
      "inst": "EP"
     }
    ],
-   "firstSeen": "2026-07-02T11:44:25+00:00"
+   "firstSeen": "2026-07-06T14:44:00+00:00"
   },
   {
    "ep": true,
@@ -806,6 +639,26 @@
    "start": "2026-07-06T23:00:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
+   "status": "EDIT",
+   "title": "Irish EU Presidency decorations",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292428",
+     "title": "Irish EU Presidency decorations",
+     "summary": "Stockshots of the installation and general views of the 2026 Irish EU Presidency decorations at the buildings of the Council of the EU.",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-07-06T14:44:00+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-07T00:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
    "status": "",
    "title": "2026 NATO Summit in Ankara, Türkiye",
    "languages": [
@@ -819,7 +672,7 @@
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-03T11:42:38+00:00"
+   "firstSeen": "2026-07-06T14:44:00+00:00"
   },
   {
    "ep": true,
@@ -913,6 +766,60 @@
   },
   {
    "ep": true,
+   "start": "2026-07-07T06:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "EP Political Groups press briefing Renew Europe",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "PL"
+   ],
+   "items": [
+    {
+     "ref": "I-292091",
+     "title": "EP Political Groups press briefing Renew Europe",
+     "summary": "Press briefing by Valérie HAYER (Renew, FR), Renew Europe Group President and Billy KELLEHER (Renew, IE), Renew Europe Group Vice President",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292091-V_v"
+    }
+   ],
+   "firstSeen": "2026-07-06T14:44:00+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-07-07T07:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "EP Political Groups press briefing Greens/EFA",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "PL"
+   ],
+   "items": [
+    {
+     "ref": "I-292088",
+     "title": "EP Political Groups press briefing Greens/EFA",
+     "summary": "Press briefing by Terry REINTKE (Greens/EFA, DE) Greens/EFA Group Co-President",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292088-V_v"
+    }
+   ],
+   "firstSeen": "2026-07-06T14:44:00+00:00"
+  },
+  {
+   "ep": true,
    "start": "2026-07-07T07:00:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
@@ -947,7 +854,7 @@
     {
      "ref": "I-292166",
      "title": "EP Plenary Session Urgent measures to strengthen the competitiveness and safeguard quality jobs in the EU’s automotive sector",
-     "summary": "Opening statements",
+     "summary": "Opening statement by Stéphane SÉJOURNÉ, Executive Vice-President of the European Commission for Prosperity and Industrial Strategy",
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292166-V_v"
     },
@@ -967,6 +874,87 @@
     }
    ],
    "firstSeen": "2026-07-02T11:44:25+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-07-07T07:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "EP Political Groups press briefing EPP",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "PL"
+   ],
+   "items": [
+    {
+     "ref": "I-292087",
+     "title": "EP Political Groups press briefing EPP",
+     "summary": "Press briefing by Manfred WEBER (EPP, DE), EPP Group President",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292087-V_v"
+    }
+   ],
+   "firstSeen": "2026-07-06T14:44:00+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-07-07T08:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "EP Political Groups press briefing S&D",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "PL"
+   ],
+   "items": [
+    {
+     "ref": "I-292089",
+     "title": "EP Political Groups press briefing S&D",
+     "summary": "Press briefing by Iratxe GARCÍA PÉREZ, (S&D, ES), S&D Group President",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292089-V_v"
+    }
+   ],
+   "firstSeen": "2026-07-06T14:44:00+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-07-07T08:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "EP Political Groups press briefing ECR",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "PL"
+   ],
+   "items": [
+    {
+     "ref": "I-292090",
+     "title": "EP Political Groups press briefing ECR",
+     "summary": "Press briefing by Patryk JAKI (ECR, PL), ECR Group Co-President",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292090-V_v"
+    }
+   ],
+   "firstSeen": "2026-07-06T14:44:00+00:00"
   },
   {
    "ep": true,
@@ -1004,7 +992,7 @@
     {
      "ref": "I-292169",
      "title": "EP Plenary Session Presentation of the programme of activities of the Irish Presidency",
-     "summary": "Opening statements",
+     "summary": "Opening statement by Maroš ŠEFČOVIČ, European Commissioner for Trade and Economic Security, and European Commissioner for Interinstitutional Relations and Transparency and Micheál MARTIN, Irish Prime Minister",
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292169-V_v"
     },
@@ -1024,6 +1012,33 @@
     }
    ],
    "firstSeen": "2026-07-02T11:44:25+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-07-07T09:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "EP Political Groups press briefing The Left",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "PL"
+   ],
+   "items": [
+    {
+     "ref": "I-292092",
+     "title": "EP Political Groups press briefing The Left",
+     "summary": "Press briefing by Manon AUBRY (The Left, FR), and Martin SCHIRDEWAN (The Left, DE), The Left Group Co-Presidents",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292092-V_v"
+    }
+   ],
+   "firstSeen": "2026-07-06T14:44:00+00:00"
   },
   {
    "ep": true,
@@ -1068,25 +1083,30 @@
    "firstSeen": "2026-07-01T12:25:16+00:00"
   },
   {
-   "ep": true,
-   "start": "2026-07-07T10:50:00.000Z",
+   "ep": false,
+   "start": "2026-07-07T10:35:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
-   "status": "EDIT",
-   "title": "EP News Presentation of the programme of the Irish Presidency of the Council of the EU",
+   "status": "LIVE",
+   "title": "NATO Summit Defence Industry Forum in Ankara, Türkiye",
    "languages": [
     "INT"
    ],
    "items": [
     {
-     "ref": "I-292181",
-     "title": "EP News Presentation of the programme of the Irish Presidency of the Council of the EU",
-     "summary": "Presentation of the programme of activities of the Irish Presidency of the Council of the EU meeting between Roberta METSOLA, EP President and Micheál MARTIN, Irish Prime Minister (Taoiseach) extracts from the debate",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292181-V_v"
+     "ref": "I-292425",
+     "title": "NATO Summit Defence Industry Forum in Ankara, Türkiye",
+     "summary": "Opening remarks by Ursula von der LEYEN, President of the European Commission",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292426",
+     "title": "NATO Summit Defence Industry Forum in Ankara, Türkiye",
+     "summary": "Conversation Ursula von der LEYEN, President of the European Commission with Mark RUTTE, Secretary General of the North Atlantic Treaty Organisation (NATO)",
+     "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-03T11:42:38+00:00"
+   "firstSeen": "2026-07-06T14:44:00+00:00"
   },
   {
    "ep": true,
@@ -1151,7 +1171,7 @@
     {
      "ref": "I-292175",
      "title": "EP Plenary Session EU-Mexico",
-     "summary": "Opening statements",
+     "summary": "Opening statement by Maroš ŠEFČOVIČ, European Commissioner for Trade and Economic Security, and European Commissioner for Interinstitutional Relations and Transparency",
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292175-V_v"
     },
@@ -1171,6 +1191,27 @@
     }
    ],
    "firstSeen": "2026-07-02T11:44:25+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-07-07T11:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "EP News Presentation of the programme of the Irish Presidency of the Council of the EU",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292181",
+     "title": "EP News Presentation of the programme of the Irish Presidency of the Council of the EU",
+     "summary": "Presentation of the programme of activities of the Irish Presidency of the Council of the EU meeting between Roberta METSOLA, EP President and Micheál MARTIN, Irish Prime Minister (Taoiseach) extracts from the debate",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292181-V_v"
+    }
+   ],
+   "firstSeen": "2026-07-06T14:44:00+00:00"
   },
   {
    "ep": true,
@@ -1200,24 +1241,28 @@
    "firstSeen": "2026-07-03T17:03:46+00:00"
   },
   {
-   "ep": false,
+   "ep": true,
    "start": "2026-07-07T12:30:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
-   "status": "EDIT",
-   "title": "Weekly European Commission College meeting",
+   "status": "LIVE",
+   "title": "EP Political Groups press briefings Patriots for Europe",
    "languages": [
-    "INT"
+    "INT",
+    "EN",
+    "FR",
+    "HU"
    ],
    "items": [
     {
-     "ref": "I-292103",
-     "title": "Weekly European Commission College meeting",
-     "summary": "",
-     "inst": "EC"
+     "ref": "I-292093",
+     "title": "EP Political Groups press briefings Patriots for Europe",
+     "summary": "Press briefing by Kinga GÁL, Vice-President of PfE Group",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292093-V_v"
     }
    ],
-   "firstSeen": "2026-07-01T12:25:16+00:00"
+   "firstSeen": "2026-07-06T14:44:00+00:00"
   },
   {
    "ep": true,
@@ -1324,7 +1369,7 @@
     {
      "ref": "I-292178",
      "title": "EP Plenary Session Presentation of the Action Plan on Cybersecurity and AI",
-     "summary": "Opening statements",
+     "summary": "Opening statement by Henna VIRKKUNEN, Executive Vice-President of the European Commission for Tech Sovereignty, Security and Democracy",
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292178-V_v"
     },
@@ -1351,7 +1396,7 @@
    "durationSec": 0,
    "channel": "EBS",
    "status": "LIVE",
-   "title": "Read-out of the College meeting / press conference (details to follow)",
+   "title": "Read-out of the College meeting / press conference by European Commission Executive Vice-President Raffaele FITTO and Commissions Olivér VÁRHELYI and Christophe HANSEN on the Livestock Strategy and the Protein Action Plan",
    "languages": [
     "INT",
     "EN",
@@ -1364,44 +1409,62 @@
    "items": [
     {
      "ref": "I-292104",
-     "title": "Read-out of the College meeting / press conference (details to follow)",
-     "summary": "Read-out of the College meeting / press conference",
+     "title": "Read-out of the College meeting / press conference by European Commission Executive Vice-President Raffaele FITTO and Commissions Olivér VÁRHELYI and Christophe HANSEN on the Livestock Strategy and the Protein Action Plan",
+     "summary": "Read-out of the College meeting / press conference by Raffaele FITTO, Executive Vice-President of the European Commission for Cohesion and Reforms, Olivér VÁRHELYI, European Commissioner for Health and Animal Welfare and Christophe HANSEN, European Commissioner for Agriculture and Food",
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-01T12:25:16+00:00"
+   "firstSeen": "2026-07-06T14:44:00+00:00"
   },
   {
-   "ep": true,
+   "ep": false,
    "start": "2026-07-07T14:00:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
    "status": "EDIT",
-   "title": "EP News Air Passenger Rights EU-Mexico",
+   "title": "Weekly European Commission College meeting",
    "languages": [
     "INT"
    ],
    "items": [
     {
-     "ref": "I-292245",
-     "title": "EP News Air Passenger Rights EU-Mexico",
-     "summary": "EU - Mexico: extracts from the debate",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292245-V_v"
-    },
-    {
-     "ref": "I-292241",
-     "title": "EP News Air Passenger Rights EU-Mexico",
-     "summary": "Air passenger rights extracts of the debate (6.07) and vote in Plenary (7.07)",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292241-V_v"
+     "ref": "I-292103",
+     "title": "Weekly European Commission College meeting",
+     "summary": "",
+     "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-02T11:44:25+00:00"
+   "firstSeen": "2026-07-06T14:44:00+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-07T14:15:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "EC press conference by European Commission Executive Vice-President Henna VIRKKUNEN on the Action plan on Cybersecurity and Artificial Intelligence",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "PL"
+   ],
+   "items": [
+    {
+     "ref": "I-292362",
+     "title": "EC press conference by European Commission Executive Vice-President Henna VIRKKUNEN on the Action plan on Cybersecurity and Artificial Intelligence",
+     "summary": "Press conference by Henna VIRKKUNEN, Executive Vice-President of the European Commission for Tech Sovereignty, Security and Democracy",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-06T14:44:00+00:00"
   },
   {
    "ep": true,
-   "start": "2026-07-07T15:00:00.000Z",
+   "start": "2026-07-07T14:30:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
@@ -1435,7 +1498,7 @@
     {
      "ref": "I-292260",
      "title": "EP Plenary Session 2025 Commission report on Ukraine",
-     "summary": "Opening statements",
+     "summary": "Opening statement by Marta KOS, European Commissioner for Enlargement",
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292260-V_v"
     },
@@ -1454,7 +1517,35 @@
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292262-V_v"
     }
    ],
-   "firstSeen": "2026-07-02T11:44:25+00:00"
+   "firstSeen": "2026-07-06T14:44:00+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-07-07T15:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "EP News Air Passenger Rights EU-Mexico",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292245",
+     "title": "EP News Air Passenger Rights EU-Mexico",
+     "summary": "EU - Mexico: extracts from the debate",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292245-V_v"
+    },
+    {
+     "ref": "I-292241",
+     "title": "EP News Air Passenger Rights EU-Mexico",
+     "summary": "Air passenger rights extracts of the debate (6.07) and vote in Plenary (7.07)",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292241-V_v"
+    }
+   ],
+   "firstSeen": "2026-07-06T14:44:00+00:00"
   },
   {
    "ep": true,
@@ -1478,69 +1569,7 @@
   },
   {
    "ep": true,
-   "start": "2026-07-07T16:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "RECORDED",
-   "title": "EP Political Groups press briefings",
-   "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "DE",
-    "IT",
-    "ES",
-    "PL"
-   ],
-   "items": [
-    {
-     "ref": "I-292091",
-     "title": "EP Political Groups press briefings",
-     "summary": "Press briefing by Valérie HAYER (Renew, FR), Renew Europe Group President and Billy KELLEHER (Renew, IE), Renew Europe Group Vice President",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292091-V_v"
-    },
-    {
-     "ref": "I-292088",
-     "title": "EP Political Groups press briefings",
-     "summary": "Press briefing by Terry REINTKE (Greens/EFA, DE) Greens/EFA Group Co-President",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292088-V_v"
-    },
-    {
-     "ref": "I-292087",
-     "title": "EP Political Groups press briefings",
-     "summary": "Press briefing by Manfred WEBER (EPP, DE), EPP Group President",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292087-V_v"
-    },
-    {
-     "ref": "I-292089",
-     "title": "EP Political Groups press briefings",
-     "summary": "Press briefing by Iratxe GARCÍA PÉREZ, (S&D, ES), S&D Group President",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292089-V_v"
-    },
-    {
-     "ref": "I-292090",
-     "title": "EP Political Groups press briefings)",
-     "summary": "Press briefing by Patryk JAKI (ECR, PL), ECR Group Co-President",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292090-V_v"
-    },
-    {
-     "ref": "I-292092",
-     "title": "EP Political Groups Press Briefing",
-     "summary": "Press briefing by Manon AUBRY (The Left, FR), and Martin SCHIRDEWAN (The Left, DE), The Left Group Co-Presidents",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292092-V_v"
-    }
-   ],
-   "firstSeen": "2026-07-03T11:42:38+00:00"
-  },
-  {
-   "ep": true,
-   "start": "2026-07-07T16:00:00.000Z",
+   "start": "2026-07-07T16:30:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
@@ -1574,7 +1603,7 @@
     {
      "ref": "I-292263",
      "title": "EP Plenary Session 2025 Commission report on Moldova",
-     "summary": "Opening statements",
+     "summary": "Opening statement by Marta KOS, European Commissioner for Enlargement",
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292263-V_v"
     },
@@ -1593,11 +1622,11 @@
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292265-V_v"
     }
    ],
-   "firstSeen": "2026-07-02T11:44:25+00:00"
+   "firstSeen": "2026-07-06T14:44:00+00:00"
   },
   {
    "ep": true,
-   "start": "2026-07-07T17:00:00.000Z",
+   "start": "2026-07-07T17:30:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
@@ -1636,35 +1665,11 @@
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292266-V_v"
     }
    ],
-   "firstSeen": "2026-07-02T11:44:25+00:00"
-  },
-  {
-   "ep": true,
-   "start": "2026-07-07T17:30:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "RECORDED",
-   "title": "EP Political Groups press briefings Patriots for Europe",
-   "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "HU"
-   ],
-   "items": [
-    {
-     "ref": "I-292093",
-     "title": "EP Political Groups press briefings Patriots for Europe",
-     "summary": "Press briefing by Kinga GÁL, Vice-President of PfE Group",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292093-V_v"
-    }
-   ],
-   "firstSeen": "2026-07-03T11:42:38+00:00"
+   "firstSeen": "2026-07-06T14:44:00+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-07T23:00:00.000Z",
+   "start": "2026-07-08T00:00:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
    "status": "",
@@ -1680,7 +1685,7 @@
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-03T17:03:46+00:00"
+   "firstSeen": "2026-07-06T14:44:00+00:00"
   },
   {
    "ep": true,
@@ -1746,7 +1751,7 @@
     {
      "ref": "I-292107",
      "title": "EP Plenary Session Conclusions of the European Council meeting of 18-19 June 2026",
-     "summary": "Opening statement",
+     "summary": "Opening statement by Maroš ŠEFČOVIČ, European Commissioner for Trade and Economic Security, and European Commissioner for Interinstitutional Relations and Transparency",
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292107-V_v"
     },
@@ -1802,7 +1807,7 @@
     {
      "ref": "I-292184",
      "title": "EP Plenary Session EU’s response and preparedness to protect people against recurring heatwaves and upcoming wildfires",
-     "summary": "Opening statements",
+     "summary": "Opening statements by Hadja LAHBIB, European Commissioner for Equality, and European Commissioner for Preparedness and Crisis Management and Thomas BYRNE, Irish Minister of State for European Affairs and Defence",
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292184-V_v"
     },
@@ -1843,27 +1848,6 @@
     }
    ],
    "firstSeen": "2026-07-03T17:03:46+00:00"
-  },
-  {
-   "ep": true,
-   "start": "2026-07-08T09:30:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "EDIT",
-   "title": "EP News Conclusions of the European Council meeting of 18-19 June 2026",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292307",
-     "title": "EP News Conclusions of the European Council meeting of 18-19 June 2026",
-     "summary": "Conclusions of the European Council meeting of 18-19 June 2026: extracts from the debate",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292307-V_v"
-    }
-   ],
-   "firstSeen": "2026-07-02T11:44:25+00:00"
   },
   {
    "ep": false,
@@ -2010,7 +1994,7 @@
     {
      "ref": "I-292228",
      "title": "EP Plenary Session The EU’s role in the reconstruction of the Gaza Strip and the accountability of Israel under international law",
-     "summary": "Opening statements",
+     "summary": "Opening statements by Dubravka ŠUICA, European Commissioner for the Mediterranean and Thomas BYRNE, Irish Minister of State for European Affairs and Defence",
      "inst": "EP"
     },
     {
@@ -2027,6 +2011,47 @@
     }
    ],
    "firstSeen": "2026-07-02T11:44:25+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-07-08T11:15:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "EP News Conclusions of the European Council meeting of 18-19 June 2026",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292307",
+     "title": "EP News Conclusions of the European Council meeting of 18-19 June 2026",
+     "summary": "Conclusions of the European Council meeting of 18-19 June 2026: extracts from the debate",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292307-V_v"
+    }
+   ],
+   "firstSeen": "2026-07-06T14:44:00+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-08T11:20:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "European Commissioner Marta KOS in Skopje, North Macedonia",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292433",
+     "title": "European Commissioner Marta KOS in Skopje, North Macedonia",
+     "summary": "Press conference",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-06T14:44:00+00:00"
   },
   {
    "ep": true,
@@ -2057,7 +2082,7 @@
   },
   {
    "ep": true,
-   "start": "2026-07-08T12:00:00.000Z",
+   "start": "2026-07-08T12:15:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
@@ -2091,7 +2116,7 @@
     {
      "ref": "I-292190",
      "title": "EP Plenary Session Narco-trafficking in Europe’s waters: protecting our borders and supporting our law enforcement officers",
-     "summary": "Opening statements",
+     "summary": "Opening statement by Costas KADIS, European Commissioner for Fisheries and Oceans",
      "inst": "EP"
     },
     {
@@ -2107,28 +2132,7 @@
      "inst": "EP"
     }
    ],
-   "firstSeen": "2026-07-02T11:44:25+00:00"
-  },
-  {
-   "ep": true,
-   "start": "2026-07-08T12:30:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "EDIT",
-   "title": "EP News EU’s response and preparedness to protect people against recurring heatwaves and upcoming wildfires",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292310",
-     "title": "EP News EU’s response and preparedness to protect people against recurring heatwaves and upcoming wildfires",
-     "summary": "EU’s response and preparedness to protect people against recurring heatwaves and upcoming wildfires: extracts from the debate",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292310-V_v"
-    }
-   ],
-   "firstSeen": "2026-07-03T17:03:46+00:00"
+   "firstSeen": "2026-07-06T14:44:00+00:00"
   },
   {
    "ep": true,
@@ -2153,7 +2157,28 @@
   },
   {
    "ep": true,
-   "start": "2026-07-08T13:00:00.000Z",
+   "start": "2026-07-08T13:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "RECORDED",
+   "title": "EP Press Conference Military mobility",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292429",
+     "title": "EP Press Conference Military mobility",
+     "summary": "Press conference by Michał SZCZERBA (EPP, PL) and Roberts ZĪLE (ECR, LV), co-rapporteurs on Military mobility",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292429-V_v"
+    }
+   ],
+   "firstSeen": "2026-07-06T14:44:00+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-07-08T13:30:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
@@ -2206,11 +2231,11 @@
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292195-V_v"
     }
    ],
-   "firstSeen": "2026-07-02T11:44:25+00:00"
+   "firstSeen": "2026-07-06T14:44:00+00:00"
   },
   {
    "ep": true,
-   "start": "2026-07-08T14:00:00.000Z",
+   "start": "2026-07-08T13:45:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
@@ -2222,7 +2247,7 @@
     {
      "ref": "I-292271",
      "title": "EP Plenary Session Ebola outbreak in the Democratic Republic of the Congo and Uganda: EU solidarity and preparedness in global health",
-     "summary": "Opening statements",
+     "summary": "Opening statement by Hadja LAHBIB, European Commissioner for Equality, and European Commissioner for Preparedness and Crisis Management",
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292271-V_v"
     },
@@ -2241,32 +2266,53 @@
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292273-V_v"
     }
    ],
-   "firstSeen": "2026-07-02T11:44:25+00:00"
+   "firstSeen": "2026-07-06T14:44:00+00:00"
   },
   {
    "ep": true,
-   "start": "2026-07-08T15:00:00.000Z",
+   "start": "2026-07-08T14:00:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
-   "status": "EDIT",
-   "title": "EP News LEX Signing Ceremony",
+   "status": "LIVE",
+   "title": "EP Press Conference Impact of 1974 Turkish Invasion on Cypriot women",
    "languages": [
     "INT"
    ],
    "items": [
     {
-     "ref": "I-292311",
-     "title": "EP News LEX Signing Ceremony",
-     "summary": "details to follow",
+     "ref": "I-292430",
+     "title": "EP Press Conference Impact of 1974 Turkish Invasion on Cypriot women",
+     "summary": "Press conference by Eleonora MELETI (EPP, EL), rapporteur on the impact of 1974 Turkish Invasion on Cypriot women and girls, and the crimes committed by Turkish forces and consequences on gender equality",
      "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292311-V_v"
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292430-V_v"
     }
    ],
-   "firstSeen": "2026-07-03T11:42:38+00:00"
+   "firstSeen": "2026-07-06T14:44:00+00:00"
   },
   {
    "ep": true,
-   "start": "2026-07-08T15:00:00.000Z",
+   "start": "2026-07-08T14:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "EP News EU’s response and preparedness to protect people against recurring heatwaves and upcoming wildfires",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292310",
+     "title": "EP News EU’s response and preparedness to protect people against recurring heatwaves and upcoming wildfires",
+     "summary": "EU’s response and preparedness to protect people against recurring heatwaves and upcoming wildfires: extracts from the debate",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292310-V_v"
+    }
+   ],
+   "firstSeen": "2026-07-06T14:44:00+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-07-08T14:30:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
@@ -2300,7 +2346,7 @@
     {
      "ref": "I-292196",
      "title": "EP Plenary Session Harnessing the potential of a competitive and sustainable EU Bioeconomy Strategy for EU strategic autonomy",
-     "summary": "Opening statements",
+     "summary": "Opening statement by Jessika ROSWALL, European Commissioner for Environment, Water Resilience and a Competitive Circular Economy",
      "inst": "EP"
     },
     {
@@ -2316,11 +2362,32 @@
      "inst": "EP"
     }
    ],
-   "firstSeen": "2026-07-02T11:44:25+00:00"
+   "firstSeen": "2026-07-06T14:44:00+00:00"
   },
   {
    "ep": true,
-   "start": "2026-07-08T16:00:00.000Z",
+   "start": "2026-07-08T15:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "EP News LEX Signing Ceremony",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292311",
+     "title": "EP News LEX Signing Ceremony",
+     "summary": "LEX siging ceremony in the presence of Roberta METSOLA, EP President and Minister of State Thomas BYRNE on behalf of the Irish Presidency",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292311-V_v"
+    }
+   ],
+   "firstSeen": "2026-07-03T11:42:38+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-07-08T15:30:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
@@ -2370,7 +2437,7 @@
      "inst": "EP"
     }
    ],
-   "firstSeen": "2026-07-02T11:44:25+00:00"
+   "firstSeen": "2026-07-06T14:44:00+00:00"
   },
   {
    "ep": true,
@@ -2407,7 +2474,7 @@
     {
      "ref": "I-292274",
      "title": "EP Plenary Session Joint communication on humanitarian",
-     "summary": "Opening statements",
+     "summary": "Opening statement by Hadja LAHBIB, European Commissioner for Equality, and European Commissioner for Preparedness and Crisis Management",
      "inst": "EP"
     },
     {
@@ -2461,7 +2528,7 @@
     {
      "ref": "I-292112",
      "title": "EP Plenary Session Evaluation of the Common Fisheries Policy",
-     "summary": "Opening statements",
+     "summary": "Opening statement by Costas KADIS, European Commissioner for Fisheries and Oceans",
      "inst": "EP"
     },
     {
@@ -2521,7 +2588,7 @@
     {
      "ref": "I-292199",
      "title": "EP Plenary Session Feasibility of a 28th tax regime and its potential to support EU competitiveness",
-     "summary": "Opening statements",
+     "summary": "Opening statement by Dubravka ŠUICA, European Commissioner for the Mediterranean",
      "inst": "EP"
     },
     {
@@ -2722,7 +2789,7 @@
     {
      "ref": "I-292202",
      "title": "EP Plenary Session An updated regulatory framework for wool Commission",
-     "summary": "Opening statements",
+     "summary": "Opening statement by Dubravka ŠUICA, European Commissioner for the Mediterranean",
      "inst": "EP"
     },
     {
@@ -2859,6 +2926,225 @@
     }
    ],
    "firstSeen": "2026-07-03T11:42:38+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-10T06:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "Economic and Financial Affairs Council",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292141",
+     "title": "Economic and Financial Affairs Council",
+     "summary": "Arrivals and doorsteps",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-07-06T14:44:00+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-10T07:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "Informal meeting of Competitiveness Ministers in Dublin, Ireland",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292157",
+     "title": "Informal meeting of Competitiveness Ministers in Dublin, Ireland",
+     "summary": "Arrivals and doorsteps",
+     "inst": "Host"
+    }
+   ],
+   "firstSeen": "2026-07-06T14:44:00+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-10T08:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "Informal meeting of Competitiveness Ministers in Dublin, Ireland",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292374",
+     "title": "Informal meeting of Competitiveness Ministers in Dublin, Ireland",
+     "summary": "Roundtable",
+     "inst": "Host"
+    }
+   ],
+   "firstSeen": "2026-07-06T14:44:00+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-10T09:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "EDIT",
+   "title": "Economic and Financial Affairs Council",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292142",
+     "title": "Economic and Financial Affairs Council",
+     "summary": "Exterior views of the Europa and Justus Lipsius building",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292143",
+     "title": "Economic and Financial Affairs Council",
+     "summary": "Compilation of all arrivlals",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292144",
+     "title": "Economic and Financial Affairs Council",
+     "summary": "Roundtable",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-07-06T14:44:00+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-10T10:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "EC Midday press briefing of 10/07/2026",
+   "languages": [
+    "INT",
+    "EN",
+    "FR"
+   ],
+   "items": [
+    {
+     "ref": "I-292068",
+     "title": "EC Midday press briefing of 10/07/2026",
+     "summary": "Announcements",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292069",
+     "title": "EC Midday press briefing of 10/07/2026",
+     "summary": "Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292070",
+     "title": "EC Midday press briefing of 10/07/2026",
+     "summary": "Exterior views of the European Commission Berlaymont building",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292071",
+     "title": "EC Midday press briefing of 10/07/2026",
+     "summary": "Recorded cutaways",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-06T14:44:00+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-10T11:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "Informal meeting of Competitiveness Ministers in Dublin, Ireland",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292375",
+     "title": "Informal meeting of Competitiveness Ministers in Dublin, Ireland",
+     "summary": "Family photo",
+     "inst": "Host"
+    }
+   ],
+   "firstSeen": "2026-07-06T14:44:00+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-10T12:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "Economic and Financial Affairs Council",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "NL"
+   ],
+   "items": [
+    {
+     "ref": "I-292145",
+     "title": "Economic and Financial Affairs Council",
+     "summary": "Press conference",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-07-06T14:44:00+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-10T14:15:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "Informal meeting of Competitiveness Ministers in Dublin, Ireland",
+   "languages": [
+    "INT",
+    "EN"
+   ],
+   "items": [
+    {
+     "ref": "I-292376",
+     "title": "Informal meeting of Competitiveness Ministers in Dublin, Ireland",
+     "summary": "Press conference by the Irish Presidency and the European Commission",
+     "inst": "Host"
+    }
+   ],
+   "firstSeen": "2026-07-06T14:44:00+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-12T07:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "EDIT",
+   "title": "EC archives of the week",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-283215",
+     "title": "EC archives of the week (28/06-04/07): Luxembourg European Council (28-29/06/1991, 35 years ago) Danube Day (29/06) Birth Robert Schuman (29/06/1886, 140 years ago) Luxembourg European Council (29-30/06/1981, 45 years ago) Presentation of Sweden's request for membership of the EC (01/07/1991, 35 years ago) Ireland holds the rotating presidency of the Council of the EU (01/07) Application of the EU-South Korea Free Trade Agreement (01/07/2011, 15 years ago) Enlargement to Croatia (01/07/2013, 13 years ago) Awarding of the Robert Schuman medal to Konrad Adenauer, former German Federal Chancellor (02/07/1966, 60 years ago) End of single use plastics (03/07/2021, 5 years ago) End of single use plastics (03/07)",
+     "summary": "Details to follow",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-06T14:44:00+00:00"
   }
  ]
 }
