@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-06T16:32:19+00:00",
+ "generatedAt": "2026-07-06T21:55:12+00:00",
  "events": [
   {
    "ep": false,
@@ -427,7 +427,7 @@
   {
    "ep": false,
    "start": "2026-07-06T16:10:51.920Z",
-   "durationSec": 0,
+   "durationSec": 1573,
    "channel": "EBS",
    "status": "LIVE",
    "title": "Informal meeting of Employment and Social Affairs Ministers (EPSCO Employment and Social) in Mayo, Ireland",
@@ -442,6 +442,12 @@
      "title": "Informal meeting of Employment and Social Affairs Ministers (EPSCO Employment and Social) in Mayo, Ireland",
      "summary": "Press conference by Dara CALLEARY, Minister for Social Protection and Minister for Rural and Community Development and the Gaeltacht of Ireland and Roxana MÎNZATU, Executive Vice-President of the European Commission for Social Rights and Skills, Quality Jobs and Preparedness",
      "inst": "Host"
+    },
+    {
+     "ref": "I-292461",
+     "title": "Informal meeting of Employment and Social Affairs Ministers (EPSCO Employment and Social) in Mayo, Ireland",
+     "summary": "Recorded cutaways (mute)",
+     "inst": "Host"
     }
    ],
    "firstSeen": "2026-07-06T16:32:19+00:00"
@@ -449,7 +455,7 @@
   {
    "ep": true,
    "start": "2026-07-06T16:24:35.160Z",
-   "durationSec": 0,
+   "durationSec": 2786,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "EP Plenary Session Financial activities of the European Investment Bank Group – annual report 2025",
@@ -502,8 +508,8 @@
   },
   {
    "ep": true,
-   "start": "2026-07-06T17:15:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-06T17:15:16.560Z",
+   "durationSec": 1686,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "EP Plenary Session Coordination of social security systems",
@@ -552,12 +558,12 @@
      "inst": "EP"
     }
    ],
-   "firstSeen": "2026-07-06T14:44:00+00:00"
+   "firstSeen": "2026-07-06T21:55:12+00:00"
   },
   {
    "ep": true,
-   "start": "2026-07-06T17:45:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-06T17:43:22.800Z",
+   "durationSec": 936,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "EP Plenary Session Recent violent and fatal attacks in Italy and Denmark and their implications for public security in Europe",
@@ -588,30 +594,18 @@
    ],
    "items": [
     {
-     "ref": "I-292234",
-     "title": "EP Plenary Session Recent violent and fatal attacks in Italy and Denmark and their implications for public security in Europe",
-     "summary": "Opening statement",
-     "inst": "EP"
-    },
-    {
      "ref": "I-292235",
      "title": "EP Plenary Session Recent violent and fatal attacks in Italy and Denmark and their implications for public security in Europe",
      "summary": "One round of political group speakers",
      "inst": "EP"
-    },
-    {
-     "ref": "I-292236",
-     "title": "EP Plenary Session Recent violent and fatal attacks in Italy and Denmark and their implications for public security in Europe",
-     "summary": "Closing statement by Valdis DOMBROVSKIS, European Commissioner for Economy and Productivity, and European Commissioner for Implementation and Simplification",
-     "inst": "EP"
     }
    ],
-   "firstSeen": "2026-07-06T16:32:19+00:00"
+   "firstSeen": "2026-07-06T21:55:12+00:00"
   },
   {
    "ep": true,
-   "start": "2026-07-06T19:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-06T18:00:10.000Z",
+   "durationSec": 310,
    "channel": "EBS",
    "status": "EDIT",
    "title": "EP News Editing shots",
@@ -627,12 +621,12 @@
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292243-V_v"
     }
    ],
-   "firstSeen": "2026-07-02T11:44:25+00:00"
+   "firstSeen": "2026-07-06T21:55:12+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-06T19:15:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-06T18:15:10.000Z",
+   "durationSec": 662,
    "channel": "EBS",
    "status": "EDIT_RECORDED",
    "title": "European Commissioner Christophe HANSEN in Germany and France",
@@ -653,7 +647,7 @@
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-03T17:03:46+00:00"
+   "firstSeen": "2026-07-06T21:55:12+00:00"
   },
   {
    "ep": false,
@@ -1693,7 +1687,7 @@
    "start": "2026-07-08T00:00:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
-   "status": "",
+   "status": "EDIT",
    "title": "2026 NATO Summit in Ankara, Türkiye",
    "languages": [
     "INT"
@@ -1702,7 +1696,7 @@
     {
      "ref": "I-292106",
      "title": "2026 NATO Summit in Ankara, Türkiye",
-     "summary": "Details to follow",
+     "summary": "Official welcome by Recep Tayyip ERDOĞAN, President of Türkiye of Ursula von der LEYEN, President of the European Commission and",
      "inst": "EC"
     }
    ],
