@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-06T14:44:00+00:00",
+ "generatedAt": "2026-07-06T16:32:19+00:00",
  "events": [
   {
    "ep": false,
@@ -281,7 +281,7 @@
   {
    "ep": true,
    "start": "2026-07-06T14:30:29.680Z",
-   "durationSec": 0,
+   "durationSec": 952,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "EP Plenary Session Last minute press briefing",
@@ -306,8 +306,8 @@
   },
   {
    "ep": true,
-   "start": "2026-07-06T15:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-06T15:01:23.160Z",
+   "durationSec": 1735,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "EP Plenary Session Resumption of Session and Order of Business",
@@ -338,19 +338,39 @@
    ],
    "items": [
     {
-     "ref": "I-291939",
+     "ref": "I-292315",
      "title": "EP Plenary Session Resumption of Session and Order of Business",
-     "summary": "Resumption of Session and Order of Business",
+     "summary": "Opening statements by Roberta METSOLA, EP President on the code of conduct in the chamber during the Plenary Session",
      "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291939-V_v"
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292315-V_v"
+    },
+    {
+     "ref": "I-292314",
+     "title": "EP Plenary Session Resumption of Session and Order of Business",
+     "summary": "Opening statements by Roberta METSOLA, EP President on the 31st anniversary of the Srebrenica genocide",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292314-V_v"
+    },
+    {
+     "ref": "I-292313",
+     "title": "EP Plenary Session Resumption of Session and Order of Business",
+     "summary": "Opening statements by Roberta METSOLA, EP President following the earthquake in Venezuela (24.06.2026) followed by a minute of silence",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292313-V_v"
+    },
+    {
+     "ref": "I-292440",
+     "title": "EP Plenary Session Resumption of Session and Order of Business",
+     "summary": "Resumption of session and order of business",
+     "inst": "EP"
     }
    ],
-   "firstSeen": "2026-06-30T11:58:34+00:00"
+   "firstSeen": "2026-07-06T16:32:19+00:00"
   },
   {
    "ep": true,
-   "start": "2026-07-06T15:30:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-06T15:31:14.000Z",
+   "durationSec": 3201,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "EP Plenary Session Air passenger rights",
@@ -402,18 +422,19 @@
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292239-V_v"
     }
    ],
-   "firstSeen": "2026-07-02T11:44:25+00:00"
+   "firstSeen": "2026-07-06T16:32:19+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-06T15:45:00.000Z",
+   "start": "2026-07-06T16:10:51.920Z",
    "durationSec": 0,
    "channel": "EBS",
    "status": "LIVE",
    "title": "Informal meeting of Employment and Social Affairs Ministers (EPSCO Employment and Social) in Mayo, Ireland",
    "languages": [
     "INT",
-    "EN"
+    "EN",
+    "GA"
    ],
    "items": [
     {
@@ -423,11 +444,11 @@
      "inst": "Host"
     }
    ],
-   "firstSeen": "2026-06-30T18:25:48+00:00"
+   "firstSeen": "2026-07-06T16:32:19+00:00"
   },
   {
    "ep": true,
-   "start": "2026-07-06T16:15:00.000Z",
+   "start": "2026-07-06T16:24:35.160Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
@@ -477,7 +498,7 @@
      "inst": "EP"
     }
    ],
-   "firstSeen": "2026-07-06T14:44:00+00:00"
+   "firstSeen": "2026-07-06T16:32:19+00:00"
   },
   {
    "ep": true,
@@ -539,7 +560,7 @@
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
-   "title": "EP Plenary Session Recommendation on the changing geopolitical situation in East Asia",
+   "title": "EP Plenary Session Recent violent and fatal attacks in Italy and Denmark and their implications for public security in Europe",
    "languages": [
     "INT",
     "EN",
@@ -568,24 +589,24 @@
    "items": [
     {
      "ref": "I-292234",
-     "title": "EP Plenary Session Recommendation on the changing geopolitical situation in East Asia",
-     "summary": "Opening statement by Adam BIELAN (ECR, PL), Rapporteur",
+     "title": "EP Plenary Session Recent violent and fatal attacks in Italy and Denmark and their implications for public security in Europe",
+     "summary": "Opening statement",
      "inst": "EP"
     },
     {
      "ref": "I-292235",
-     "title": "EP Plenary Session Recommendation on the changing geopolitical situation in East Asia",
-     "summary": "Catch the eye",
+     "title": "EP Plenary Session Recent violent and fatal attacks in Italy and Denmark and their implications for public security in Europe",
+     "summary": "One round of political group speakers",
      "inst": "EP"
     },
     {
      "ref": "I-292236",
-     "title": "EP Plenary Session Recommendation on the changing geopolitical situation in East Asia",
+     "title": "EP Plenary Session Recent violent and fatal attacks in Italy and Denmark and their implications for public security in Europe",
      "summary": "Closing statement by Valdis DOMBROVSKIS, European Commissioner for Economy and Productivity, and European Commissioner for Implementation and Simplification",
      "inst": "EP"
     }
    ],
-   "firstSeen": "2026-07-06T14:44:00+00:00"
+   "firstSeen": "2026-07-06T16:32:19+00:00"
   },
   {
    "ep": true,
@@ -650,26 +671,6 @@
      "title": "Irish EU Presidency decorations",
      "summary": "Stockshots of the installation and general views of the 2026 Irish EU Presidency decorations at the buildings of the Council of the EU.",
      "inst": "Council"
-    }
-   ],
-   "firstSeen": "2026-07-06T14:44:00+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-07T00:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "",
-   "title": "2026 NATO Summit in Ankara, Türkiye",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292105",
-     "title": "2026 NATO Summit in Ankara, Türkiye",
-     "summary": "Details to follow",
-     "inst": "EC"
     }
    ],
    "firstSeen": "2026-07-06T14:44:00+00:00"
@@ -1076,7 +1077,7 @@
     {
      "ref": "I-292172",
      "title": "EP Plenary Session Voting session",
-     "summary": "Voting session Vote on request for urgent procedure (Rule 170) Proposal for a regulation of the European Parliament and of the Council amending Regulation (EU) 2021/1232 as regards the extension of its period of application Decision requesting the Authority for European Political Parties and European Political Foundations to verify whether Europe of Sovereign Nations Party complies with the conditions laid down in Article 3(1), points (d) and (e), of Regulation (EU, Euratom) 2025/2445 Amending the decision of 18 December 2024 on setting up a special committee on the Housing Crisis in the European Union, extending its term of office and adjusting its responsibilities Mario Furore (JURI A10-0190/2026) - Request for the waiver of the immunity of Klára Dobrev Temporary support and payment of advances regarding the increased fertiliser prices due to the Middle East crisis Elissavet Vozemberg-Vrionidi (TRAN A10-0174/2026) - International road passenger transport services by coach and bus in the border regions: cabotage operations between Austria and Switzerland Andrzej Halicki (BUDG A10-0180/2026) - Draft amending budget no 1/2026: entering the surplus of the financial year 2025 Lucia Yar (BUDG A10-0179/2026) - Mobilisation of the European Globalisation Adjustment Fund: Application EGF/2026/000 TA 2026 - Technical assistance at the initiative of the Commission Bogdan Rzońca (BUDG A10-0178/2026) - Mobilisation of the European Union Solidarity Fund: assistance to Romania, Cyprus and Spain with regard to natural disasters in 2025 Stéphanie Yon-Courtin (ECON A10-0171/2026) - Competition policy – annual report 2025 Matthias Ecke (ECON A10-0169/2026) - A coherent tax framework for the EU’s financial sector Marcos Ros Sempere (CULT A10-0173/2026) - A new strategy for media literacy and digital learning Lukas Mandl, Pierfrancesco Maran (DEVE/ENVI A10-0187/2026) - Implementation and delivery of the Sustainable Development Goals in view of the 2026 High-Level Political Forum Johan Van Overtveldt (ECON A10-0186/2026) - Digital assets – challenges for the competitiveness and integrity of the European Union’s financial system Texts on which debate is closed",
+     "summary": "Voting session Votes on requests for urgent procedure (Rule 170) - Proposal for a regulation of the European Parliament and of the Council amending Regulation (EU) 2021/1232 as regards the extension of its period of application Decision requesting the Authority for European Political Parties and European Political Foundations to verify whether Europe of Sovereign Nations Party complies with the conditions laid down in Article 3(1), points (d) and (e), of Regulation (EU, Euratom) 2025/2445 Amending the decision of 18 December 2024 on setting up a special committee on the Housing Crisis in the European Union, extending its term of office and adjusting its responsibilities Furore (A10-0190/2026) - Request for the waiver of the immunity of Klára Dobrev Vázquez Lázara (A10-0193/2026) - Request for the waiver of the immunity of Siegbert Frank Droese Tarczyński (A10-0194/2026) - Request for the waiver of the immunity of Ilhan Kyuchyuk Novakov (A10-0191/2026) - Air passenger rights Bischoff (A8-0386/2018) - Coordination of social security systems Temporary support and payment of advances regarding the increased fertiliser prices due to the Middle East crisis Vozemberg-Vrionidi (A10-0174/2026) - International road passenger transport services by coach and bus in the border regions: cabotage operations between Austria and Switzerland Halicki (A10-0180/2026) - Draft amending budget no 1/2026: entering the surplus of the financial year 2025 Yar (A10-0179/2026) - Mobilisation of the European Globalisation Adjustment Fund: Application EGF/2026/000 TA 2026 - Technical assistance at the initiative of the Commission Rzońca (A10-0178/2026) - Mobilisation of the European Union Solidarity Fund: assistance to Romania, Cyprus and Spain with regard to natural disasters in 2025 Streit (A10-0170/2026) - Financial activities of the European Investment Bank Group – annual report 2025 Bielan (A10-0189/2026) - Recommendation on the changing geopolitical situation in East Asia and the need for closer cooperation with like-minded partners in the region Yon-Courtin (A10-0171/2026) - Competition policy – annual report 2025 Ecke (A10-0169/2026) - A coherent tax framework for the EU's financial sector Ros Sempere (A10-0173/2026) - A new strategy for media literacy and digital learning Mandl, Maran (A10-0187/2026) - Implementation and delivery of the Sustainable Development Goals in view of the 2026 High-Level Political Forum Van Overtveldt (A10-0186/2026) - Digital assets – challenges for the competitiveness and integrity of the European Union’s financial system",
      "inst": "EP"
     }
    ],
@@ -1097,13 +1098,13 @@
      "ref": "I-292425",
      "title": "NATO Summit Defence Industry Forum in Ankara, Türkiye",
      "summary": "Opening remarks by Ursula von der LEYEN, President of the European Commission",
-     "inst": "EC"
+     "inst": "Other Organisation"
     },
     {
      "ref": "I-292426",
      "title": "NATO Summit Defence Industry Forum in Ankara, Türkiye",
      "summary": "Conversation Ursula von der LEYEN, President of the European Commission with Mark RUTTE, Secretary General of the North Atlantic Treaty Organisation (NATO)",
-     "inst": "EC"
+     "inst": "Other Organisation"
     }
    ],
    "firstSeen": "2026-07-06T14:44:00+00:00"
@@ -1531,18 +1532,18 @@
    ],
    "items": [
     {
-     "ref": "I-292245",
-     "title": "EP News Air Passenger Rights EU-Mexico",
-     "summary": "EU - Mexico: extracts from the debate",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292245-V_v"
-    },
-    {
      "ref": "I-292241",
      "title": "EP News Air Passenger Rights EU-Mexico",
      "summary": "Air passenger rights extracts of the debate (6.07) and vote in Plenary (7.07)",
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292241-V_v"
+    },
+    {
+     "ref": "I-292245",
+     "title": "EP News Air Passenger Rights EU-Mexico",
+     "summary": "EU - Mexico: extracts from the debate",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292245-V_v"
     }
    ],
    "firstSeen": "2026-07-06T14:44:00+00:00"
@@ -1666,6 +1667,26 @@
     }
    ],
    "firstSeen": "2026-07-06T14:44:00+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-07T19:15:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "2026 NATO Summit in Ankara, Türkiye",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292459",
+     "title": "2026 NATO Summit in Ankara, Türkiye",
+     "summary": "Arrivals at the Social Reception and Dinner for Heads of State and Government with Spouses",
+     "inst": "Other Organisation"
+    }
+   ],
+   "firstSeen": "2026-07-06T16:32:19+00:00"
   },
   {
    "ep": false,
@@ -2459,6 +2480,38 @@
     }
    ],
    "firstSeen": "2026-07-02T11:44:25+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-07-08T17:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "EP Plenary Session Defending European democracy and the integrity of the European Parliament in light of spyware revelations",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292456",
+     "title": "EP Plenary Session Defending European democracy and the integrity of the European Parliament in light of spyware revelations",
+     "summary": "Opening statement",
+     "inst": "EP"
+    },
+    {
+     "ref": "I-292457",
+     "title": "EP Plenary Session Defending European democracy and the integrity of the European Parliament in light of spyware revelations",
+     "summary": "MEPs debate",
+     "inst": "EP"
+    },
+    {
+     "ref": "I-292458",
+     "title": "EP Plenary Session Defending European democracy and the integrity of the European Parliament in light of spyware revelations",
+     "summary": "Closing statement",
+     "inst": "EP"
+    }
+   ],
+   "firstSeen": "2026-07-06T16:32:19+00:00"
   },
   {
    "ep": true,
