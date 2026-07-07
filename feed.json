@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-07T12:41:53+00:00",
+ "generatedAt": "2026-07-07T19:25:34+00:00",
  "events": [
   {
    "ep": true,
@@ -626,7 +626,7 @@
   {
    "ep": true,
    "start": "2026-07-07T12:30:50.360Z",
-   "durationSec": 0,
+   "durationSec": 979,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "EP Plenary Session The impact of the 1974 Turkish invasion on Cypriot women and girls, and the crimes committed by Turkish forces and consequences on gender equality",
@@ -668,7 +668,7 @@
   {
    "ep": true,
    "start": "2026-07-07T12:35:47.720Z",
-   "durationSec": 0,
+   "durationSec": 888,
    "channel": "EBS",
    "status": "LIVE",
    "title": "EP Political Groups press briefings Patriots for Europe",
@@ -690,36 +690,29 @@
    "firstSeen": "2026-07-07T12:41:53+00:00"
   },
   {
-   "ep": true,
-   "start": "2026-07-07T13:00:00.000Z",
-   "durationSec": 0,
+   "ep": false,
+   "start": "2026-07-07T12:55:10.000Z",
+   "durationSec": 12,
    "channel": "EBS",
-   "status": "LIVE",
-   "title": "EP Press Conference Coordination of social security systems regulations",
+   "status": "EDIT",
+   "title": "2026 NATO Summit in Ankara, Türkiye",
    "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "DE",
-    "IT",
-    "ES",
-    "PL"
+    "INT"
    ],
    "items": [
     {
-     "ref": "I-292252",
-     "title": "EP Press Conference Coordination of social security systems regulations",
-     "summary": "Press Conference by Gabriele BISCHOFF (S&D, DE), rapporteur on the revision of the coordination of social security systems regulations on the coordination of social security systems",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292252-V_v"
+     "ref": "I-292105",
+     "title": "2026 NATO Summit in Ankara, Türkiye",
+     "summary": "Bilateral meeting Ursula von der LEYEN, President of the European Commission with Alexander STUBB, President of Finland",
+     "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-03T17:03:46+00:00"
+   "firstSeen": "2026-07-07T19:25:34+00:00"
   },
   {
    "ep": true,
-   "start": "2026-07-07T13:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-07T13:00:10.640Z",
+   "durationSec": 5902,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "EP Plenary Session Presentation of the Action Plan on Cybersecurity and AI",
@@ -778,15 +771,15 @@
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292472-V_v"
     }
    ],
-   "firstSeen": "2026-07-02T11:44:25+00:00"
+   "firstSeen": "2026-07-07T19:25:34+00:00"
   },
   {
-   "ep": false,
-   "start": "2026-07-07T13:30:00.000Z",
-   "durationSec": 0,
+   "ep": true,
+   "start": "2026-07-07T13:00:28.360Z",
+   "durationSec": 497,
    "channel": "EBS",
    "status": "LIVE",
-   "title": "Read-out of the College meeting / press conference by European Commission Executive Vice-President Raffaele FITTO and Commissions Olivér VÁRHELYI and Christophe HANSEN on the Livestock Strategy and the Protein Action Plan",
+   "title": "EP Press Conference Coordination of social security systems regulations",
    "languages": [
     "INT",
     "EN",
@@ -798,17 +791,18 @@
    ],
    "items": [
     {
-     "ref": "I-292104",
-     "title": "Read-out of the College meeting / press conference by European Commission Executive Vice-President Raffaele FITTO and Commissions Olivér VÁRHELYI and Christophe HANSEN on the Livestock Strategy and the Protein Action Plan",
-     "summary": "Read-out of the College meeting / press conference by Raffaele FITTO, Executive Vice-President of the European Commission for Cohesion and Reforms, Olivér VÁRHELYI, European Commissioner for Health and Animal Welfare and Christophe HANSEN, European Commissioner for Agriculture and Food",
-     "inst": "EC"
+     "ref": "I-292252",
+     "title": "EP Press Conference Coordination of social security systems regulations",
+     "summary": "Press Conference by Gabriele BISCHOFF (S&D, DE), rapporteur on the revision of the coordination of social security systems regulations on the coordination of social security systems",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292252-V_v"
     }
    ],
-   "firstSeen": "2026-07-06T14:44:00+00:00"
+   "firstSeen": "2026-07-07T19:25:34+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-07T14:00:00.000Z",
+   "start": "2026-07-07T13:15:10.000Z",
    "durationSec": 567,
    "channel": "EBS",
    "status": "EDIT",
@@ -824,15 +818,15 @@
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-07-07T12:17:24+00:00"
+   "firstSeen": "2026-07-07T19:25:34+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-07T14:15:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-07T13:31:26.240Z",
+   "durationSec": 2281,
    "channel": "EBS",
    "status": "LIVE",
-   "title": "EC press conference by European Commission Executive Vice-President Henna VIRKKUNEN on the Action plan on Cybersecurity and Artificial Intelligence",
+   "title": "Read-out of the College meeting / press conference by European Commission Executive Vice-President Raffaele FITTO and Commissioners Christophe HANSEN and Olivér VÁRHELYI on the Livestock Strategy and the Protein Action Plan",
    "languages": [
     "INT",
     "EN",
@@ -844,18 +838,69 @@
    ],
    "items": [
     {
-     "ref": "I-292362",
-     "title": "EC press conference by European Commission Executive Vice-President Henna VIRKKUNEN on the Action plan on Cybersecurity and Artificial Intelligence",
-     "summary": "Press conference by Henna VIRKKUNEN, Executive Vice-President of the European Commission for Tech Sovereignty, Security and Democracy",
+     "ref": "I-292500",
+     "title": "Read-out of the College meeting / press conference by European Commission Executive Vice-President Raffaele FITTO and Commissioners Christophe HANSEN and Olivér VÁRHELYI on the Livestock Strategy and the Protein Action Plan",
+     "summary": "Read-out of the College meeting / press conference opening remarks by Raffaele FITTO, Executive Vice-President of the European Commission for Cohesion and Reforms Read-out of the College meeting / press conference opening remarks by Christophe HANSEN, European Commissioner for Agriculture and Food Read-out of the College meeting / press conference by Olivér VÁRHELYI, European Commissioner for Health and Animal Welfare Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292104",
+     "title": "Read-out of the College meeting / press conference by European Commission Executive Vice-President Raffaele FITTO and Commissioners Christophe HANSEN and Olivér VÁRHELYI on the Livestock Strategy and the Protein Action Plan",
+     "summary": "Read-out of the College meeting / press conference opening remarks by Raffaele FITTO, Executive Vice-President of the European Commission for Cohesion and Reforms",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292497",
+     "title": "Read-out of the College meeting / press conference by European Commission Executive Vice-President Raffaele FITTO and Commissioners Christophe HANSEN and Olivér VÁRHELYI on the Livestock Strategy and the Protein Action Plan",
+     "summary": "Read-out of the College meeting / press conference opening remarks by Christophe HANSEN, European Commissioner for Agriculture and Food",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292496",
+     "title": "Read-out of the College meeting / press conference by European Commission Executive Vice-President Raffaele FITTO and Commissioners Christophe HANSEN and Olivér VÁRHELYI on the Livestock Strategy and the Protein Action Plan",
+     "summary": "Read-out of the College meeting / press conference by Olivér VÁRHELYI, European Commissioner for Health and Animal Welfare",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292498",
+     "title": "Read-out of the College meeting / press conference by European Commission Executive Vice-President Raffaele FITTO and Commissioners Christophe HANSEN and Olivér VÁRHELYI on the Livestock Strategy and the Protein Action Plan",
+     "summary": "Q&A",
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-06T14:44:00+00:00"
+   "firstSeen": "2026-07-07T19:25:34+00:00"
   },
   {
    "ep": true,
-   "start": "2026-07-07T14:30:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-07T14:15:10.000Z",
+   "durationSec": 549,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "EP News EU-Mexico Presentation of the Action Plan on Cybersecurity and AI",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292245",
+     "title": "EP News EU-Mexico Presentation of the Action Plan on Cybersecurity and AI",
+     "summary": "EU - Mexico: extracts from the debate",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292245-V_v"
+    },
+    {
+     "ref": "I-292182",
+     "title": "EP News EU-Mexico Presentation of the Action Plan on Cybersecurity and AI",
+     "summary": "Presentation of the Action Plan on Cybersecurity and AI: extracts from the debate",
+     "inst": "EP"
+    }
+   ],
+   "firstSeen": "2026-07-07T19:25:34+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-07-07T14:38:32.480Z",
+   "durationSec": 7315,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "EP Plenary Session 2025 Commission report on Ukraine",
@@ -921,53 +966,76 @@
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292262-V_v"
     }
    ],
-   "firstSeen": "2026-07-06T14:44:00+00:00"
+   "firstSeen": "2026-07-07T19:25:34+00:00"
   },
   {
-   "ep": true,
-   "start": "2026-07-07T15:00:00.000Z",
-   "durationSec": 0,
+   "ep": false,
+   "start": "2026-07-07T14:42:20.400Z",
+   "durationSec": 1345,
    "channel": "EBS",
-   "status": "EDIT",
-   "title": "EP News EU-Mexico",
+   "status": "LIVE",
+   "title": "EC press conference by European Commission Executive Vice-President Henna VIRKKUNEN on the Action plan on Cybersecurity and Artificial Intelligence",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "PL"
+   ],
+   "items": [
+    {
+     "ref": "I-292503",
+     "title": "EC press conference by European Commission Executive Vice-President Henna VIRKKUNEN on the Action plan on Cybersecurity and Artificial Intelligence",
+     "summary": "Press conference opening remarks by Henna VIRKKUNEN, Executive Vice-President of the European Commission for Tech Sovereignty, Security and Democracy Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292362",
+     "title": "EC press conference by European Commission Executive Vice-President Henna VIRKKUNEN on the Action plan on Cybersecurity and Artificial Intelligence",
+     "summary": "Press conference opening remarks by Henna VIRKKUNEN, Executive Vice-President of the European Commission for Tech Sovereignty, Security and Democracy",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292495",
+     "title": "EC press conference by European Commission Executive Vice-President Henna VIRKKUNEN on the Action plan on Cybersecurity and Artificial Intelligence",
+     "summary": "Q&A",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-07T19:25:34+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-07T15:15:10.000Z",
+   "durationSec": 426,
+   "channel": "EBS",
+   "status": "EDIT_RECORDED",
+   "title": "2026 NATO Summit in Ankara, Türkiye",
    "languages": [
     "INT"
    ],
    "items": [
     {
-     "ref": "I-292245",
-     "title": "EP News EU-Mexico",
-     "summary": "EU - Mexico: extracts from the debate",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292245-V_v"
-    }
-   ],
-   "firstSeen": "2026-07-07T12:17:24+00:00"
-  },
-  {
-   "ep": true,
-   "start": "2026-07-07T15:50:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "EDIT",
-   "title": "EP News Presentation of the Action Plan on Cybersecurity and AI",
-   "languages": [
-    "INT"
-   ],
-   "items": [
+     "ref": "I-292483",
+     "title": "2026 NATO Summit in Ankara, Türkiye",
+     "summary": "Trilateral meeting Ursula von der LEYEN, President of the European Commission, António COSTA, President of the European Council and Mark RUTTE, Secretary General of the North Atlantic Treaty Organisation (NATO)",
+     "inst": "Other Organisation"
+    },
     {
-     "ref": "I-292182",
-     "title": "EP News Presentation of the Action Plan on Cybersecurity and AI",
-     "summary": "Presentation of the Action Plan on Cybersecurity and AI: extracts from the debate",
-     "inst": "EP"
+     "ref": "I-292502",
+     "title": "2026 NATO Summit in Ankara, Türkiye",
+     "summary": "General views of Ankara and of the NATO Summit venue",
+     "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-02T11:44:25+00:00"
+   "firstSeen": "2026-07-07T19:25:34+00:00"
   },
   {
    "ep": true,
-   "start": "2026-07-07T16:30:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-07T16:40:27.200Z",
+   "durationSec": 3257,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "EP Plenary Session 2025 Commission report on Moldova",
@@ -1007,7 +1075,7 @@
     {
      "ref": "I-292478",
      "title": "EP Plenary Session 2025 Commission report on Moldova",
-     "summary": "One round of political group speakers and reply by Marta KOS, European Commissioner for Enlargement",
+     "summary": "One round of political group speakers",
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292478-V_v"
     },
@@ -1021,17 +1089,17 @@
     {
      "ref": "I-292265",
      "title": "EP Plenary Session 2025 Commission report on Moldova",
-     "summary": "Closing statement by Sven MIKSER, (S&D, EE), Rapporteur",
+     "summary": "Closing statement by Marta KOS, European Commissioner for Enlargement, and Sven MIKSER, (S&D, EE), Rapporteur",
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292265-V_v"
     }
    ],
-   "firstSeen": "2026-07-06T14:44:00+00:00"
+   "firstSeen": "2026-07-07T19:25:34+00:00"
   },
   {
    "ep": true,
-   "start": "2026-07-07T17:30:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-07T17:34:43.840Z",
+   "durationSec": 1553,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "EP Plenary Session 2025 Commission report on Serbia",
@@ -1083,14 +1151,14 @@
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292480-V_v"
     }
    ],
-   "firstSeen": "2026-07-06T14:44:00+00:00"
+   "firstSeen": "2026-07-07T19:25:34+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-07T19:15:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-07T19:15:10.000Z",
+   "durationSec": 2453,
    "channel": "EBS",
-   "status": "EDIT",
+   "status": "RECORDED",
    "title": "2026 NATO Summit in Ankara, Türkiye",
    "languages": [
     "INT"
@@ -1103,7 +1171,7 @@
      "inst": "Other Organisation"
     }
    ],
-   "firstSeen": "2026-07-06T16:32:19+00:00"
+   "firstSeen": "2026-07-07T19:25:34+00:00"
   },
   {
    "ep": false,
