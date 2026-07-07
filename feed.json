@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-07T12:17:24+00:00",
+ "generatedAt": "2026-07-07T12:41:53+00:00",
  "events": [
   {
    "ep": true,
@@ -461,7 +461,7 @@
   {
    "ep": true,
    "start": "2026-07-07T11:03:27.960Z",
-   "durationSec": 0,
+   "durationSec": 5242,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "EP Plenary Session EU-Mexico",
@@ -522,7 +522,7 @@
     {
      "ref": "I-292177",
      "title": "EP Plenary Session EU-Mexico",
-     "summary": "Closing statements by Javi LÓPEZ (S&D, ES), Rapporteur and Borja GIMÉNEZ LARRAZ (EPP, ES), Rapporteur",
+     "summary": "Closing statements by Maroš ŠEFČOVIČ, European Commissioner for Trade and Economic Security, and European Commissioner for Interinstitutional Relations and Transparency, Javi LÓPEZ (S&D, ES), Rapporteur and Borja GIMÉNEZ LARRAZ (EPP, ES), Rapporteur",
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292177-V_v"
     }
@@ -599,7 +599,7 @@
   {
    "ep": true,
    "start": "2026-07-07T12:00:24.840Z",
-   "durationSec": 0,
+   "durationSec": 1196,
    "channel": "EBS",
    "status": "LIVE",
    "title": "EP Press Conference Air passenger’s rights",
@@ -625,31 +625,7 @@
   },
   {
    "ep": true,
-   "start": "2026-07-07T12:30:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "EP Political Groups press briefings Patriots for Europe",
-   "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "HU"
-   ],
-   "items": [
-    {
-     "ref": "I-292093",
-     "title": "EP Political Groups press briefings Patriots for Europe",
-     "summary": "Press briefing by Kinga GÁL, Vice-President of PfE Group",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292093-V_v"
-    }
-   ],
-   "firstSeen": "2026-07-06T14:44:00+00:00"
-  },
-  {
-   "ep": true,
-   "start": "2026-07-07T12:30:00.000Z",
+   "start": "2026-07-07T12:30:50.360Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
@@ -687,7 +663,31 @@
      "inst": "EP"
     }
    ],
-   "firstSeen": "2026-07-02T11:44:25+00:00"
+   "firstSeen": "2026-07-07T12:41:53+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-07-07T12:35:47.720Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "EP Political Groups press briefings Patriots for Europe",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "HU"
+   ],
+   "items": [
+    {
+     "ref": "I-292093",
+     "title": "EP Political Groups press briefings Patriots for Europe",
+     "summary": "Press briefing by Kinga GÁL, Vice-President of PfE Group",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292093-V_v"
+    }
+   ],
+   "firstSeen": "2026-07-07T12:41:53+00:00"
   },
   {
    "ep": true,
