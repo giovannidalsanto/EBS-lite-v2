@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-08T11:21:06+00:00",
+ "generatedAt": "2026-07-08T16:57:53+00:00",
  "events": [
   {
    "ep": true,
@@ -384,7 +384,7 @@
   {
    "ep": true,
    "start": "2026-07-08T11:04:21.040Z",
-   "durationSec": 0,
+   "durationSec": 5114,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "EP Plenary Session The EU’s role in the reconstruction of the Gaza Strip and the accountability of Israel under international law",
@@ -423,7 +423,7 @@
     {
      "ref": "I-292229",
      "title": "EP Plenary Session The EU’s role in the reconstruction of the Gaza Strip and the accountability of Israel under international law",
-     "summary": "MEPs debate and reply from Dubravka ŠUICA, European Commissioner for the Mediterranean",
+     "summary": "One round of political group speakers",
      "inst": "EP"
     },
     {
@@ -435,7 +435,7 @@
     {
      "ref": "I-292230",
      "title": "EP Plenary Session The EU’s role in the reconstruction of the Gaza Strip and the accountability of Israel under international law",
-     "summary": "Closing statement by Thomas BYRNE, Irish Minister of State for European Affairs and Defence",
+     "summary": "Closing statement by Dubravka ŠUICA, European Commissioner for the Mediterranean, and Thomas BYRNE, Irish Minister of State for European Affairs and Defence",
      "inst": "EP"
     }
    ],
@@ -443,8 +443,8 @@
   },
   {
    "ep": false,
-   "start": "2026-07-08T11:20:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-08T11:52:45.880Z",
+   "durationSec": 1457,
    "channel": "EBS",
    "status": "LIVE",
    "title": "European Commissioner Marta KOS in Skopje, North Macedonia",
@@ -456,15 +456,15 @@
     {
      "ref": "I-292433",
      "title": "European Commissioner Marta KOS in Skopje, North Macedonia",
-     "summary": "Press conference by Marta KOS, European Commissioner for Enlargement and Hristijan MICKOSKI, Prime Minister of North Macedonia",
+     "summary": "Press conference by Hristijan MICKOSKI, Prime Minister of North Macedonia and Marta KOS, European Commissioner for Enlargement",
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-06T14:44:00+00:00"
+   "firstSeen": "2026-07-08T16:57:53+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-08T11:45:00.000Z",
+   "start": "2026-07-08T12:20:00.000Z",
    "durationSec": 22,
    "channel": "EBS",
    "status": "EDIT",
@@ -480,39 +480,12 @@
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-08T11:21:06+00:00"
+   "firstSeen": "2026-07-08T16:57:53+00:00"
   },
   {
    "ep": true,
-   "start": "2026-07-08T12:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "EP Press Conference EU - Mexico modernised global agreement",
-   "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "DE",
-    "IT",
-    "ES",
-    "PL"
-   ],
-   "items": [
-    {
-     "ref": "I-292306",
-     "title": "EP Press Conference EU - Mexico modernised global agreement",
-     "summary": "Press Conference by Javi LÓPEZ (S&D, ES) and Borja GIMÉNEZ LARRAZ (EPP, ES), AFET and INTA rapporteurs for the EU-Mexico modernised global agreement",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292306-V_v"
-    }
-   ],
-   "firstSeen": "2026-07-03T17:03:46+00:00"
-  },
-  {
-   "ep": true,
-   "start": "2026-07-08T12:15:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-08T12:29:35.040Z",
+   "durationSec": 3464,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "EP Plenary Session Narco-trafficking in Europe’s waters: protecting our borders and supporting our law enforcement officers",
@@ -551,22 +524,22 @@
     {
      "ref": "I-292191",
      "title": "EP Plenary Session Narco-trafficking in Europe’s waters: protecting our borders and supporting our law enforcement officers",
-     "summary": "MEPs debate and reply from Costas KADIS, European Commissioner for Fisheries and Oceans",
+     "summary": "One round of political group speakers",
      "inst": "EP"
     },
     {
      "ref": "I-292192",
      "title": "EP Plenary Session Narco-trafficking in Europe’s waters: protecting our borders and supporting our law enforcement officers",
-     "summary": "MEPs debate",
+     "summary": "MEPs debate and reply from Costas KADIS, European Commissioner for Fisheries and Oceans",
      "inst": "EP"
     }
    ],
-   "firstSeen": "2026-07-06T14:44:00+00:00"
+   "firstSeen": "2026-07-08T16:57:53+00:00"
   },
   {
    "ep": true,
-   "start": "2026-07-08T13:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-08T13:01:02.240Z",
+   "durationSec": 1316,
    "channel": "EBS",
    "status": "LIVE",
    "title": "EP Press Conference 2025 report on Serbia",
@@ -577,6 +550,7 @@
     "DE",
     "IT",
     "ES",
+    "PL",
     "HR"
    ],
    "items": [
@@ -588,12 +562,12 @@
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292254-V_v"
     }
    ],
-   "firstSeen": "2026-07-03T17:03:46+00:00"
+   "firstSeen": "2026-07-08T16:57:53+00:00"
   },
   {
    "ep": true,
-   "start": "2026-07-08T13:30:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-08T13:27:18.720Z",
+   "durationSec": 991,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "EP Plenary Session Future of EU support for Russian democratic forces, anti-war actors and repressed civil society",
@@ -626,17 +600,17 @@
     {
      "ref": "I-292194",
      "title": "EP Plenary Session Future of EU support for Russian democratic forces, anti-war actors and repressed civil society",
-     "summary": "MEPs debate",
+     "summary": "One round of political group speakers",
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292194-V_v"
     }
    ],
-   "firstSeen": "2026-07-06T14:44:00+00:00"
+   "firstSeen": "2026-07-08T16:57:53+00:00"
   },
   {
    "ep": true,
-   "start": "2026-07-08T13:45:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-08T13:43:49.400Z",
+   "durationSec": 2231,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "EP Plenary Session Ebola outbreak in the Democratic Republic of the Congo and Uganda: EU solidarity and preparedness in global health",
@@ -664,14 +638,21 @@
      "summary": "MEPs debate (part 2)",
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292273-V_v"
+    },
+    {
+     "ref": "I-292576",
+     "title": "EP Plenary Session Ebola outbreak in the Democratic Republic of the Congo and Uganda: EU solidarity and preparedness in global health",
+     "summary": "Closing statement by Hadja LAHBIB, European Commissioner for Equality, and European Commissioner for Preparedness and Crisis Management",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292576-V_v"
     }
    ],
-   "firstSeen": "2026-07-06T14:44:00+00:00"
+   "firstSeen": "2026-07-08T16:57:53+00:00"
   },
   {
    "ep": true,
-   "start": "2026-07-08T14:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-08T14:01:55.600Z",
+   "durationSec": 1640,
    "channel": "EBS",
    "status": "LIVE",
    "title": "EP Press Conference Impact of 1974 Turkish Invasion on Cypriot women",
@@ -691,11 +672,11 @@
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292430-V_v"
     }
    ],
-   "firstSeen": "2026-07-06T14:44:00+00:00"
+   "firstSeen": "2026-07-08T16:57:53+00:00"
   },
   {
    "ep": true,
-   "start": "2026-07-08T14:30:00.000Z",
+   "start": "2026-07-08T14:30:10.000Z",
    "durationSec": 2222,
    "channel": "EBS",
    "status": "RECORDED",
@@ -718,12 +699,12 @@
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292429-V_v"
     }
    ],
-   "firstSeen": "2026-07-08T11:21:06+00:00"
+   "firstSeen": "2026-07-08T16:57:53+00:00"
   },
   {
    "ep": true,
-   "start": "2026-07-08T14:30:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-08T14:30:22.480Z",
+   "durationSec": 2679,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "EP Plenary Session Harnessing the potential of a competitive and sustainable EU Bioeconomy Strategy for EU strategic autonomy",
@@ -770,54 +751,46 @@
      "title": "EP Plenary Session Harnessing the potential of a competitive and sustainable EU Bioeconomy Strategy for EU strategic autonomy",
      "summary": "MEPs debate (part 2)",
      "inst": "EP"
+    },
+    {
+     "ref": "I-292584",
+     "title": "EP Plenary Session Harnessing the potential of a competitive and sustainable EU Bioeconomy Strategy for EU strategic autonomy",
+     "summary": "Closing statement by Jessika ROSWALL, European Commissioner for Environment, Water Resilience and a Competitive Circular Economy",
+     "inst": "EP"
     }
    ],
-   "firstSeen": "2026-07-06T14:44:00+00:00"
+   "firstSeen": "2026-07-08T16:57:53+00:00"
   },
   {
    "ep": true,
-   "start": "2026-07-08T15:15:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-08T15:10:10.000Z",
+   "durationSec": 1661,
    "channel": "EBS",
-   "status": "EDIT",
-   "title": "EP News LEX Signing Ceremony",
+   "status": "RECORDED",
+   "title": "EP Press Conference EU - Mexico modernised global agreement",
    "languages": [
-    "INT"
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "PL"
    ],
    "items": [
     {
-     "ref": "I-292311",
-     "title": "EP News LEX Signing Ceremony",
-     "summary": "LEX siging ceremony in the presence of Roberta METSOLA, EP President and Minister of State Thomas BYRNE on behalf of the Irish Presidency",
+     "ref": "I-292306",
+     "title": "EP Press Conference EU - Mexico modernised global agreement",
+     "summary": "Press Conference by Javi LÓPEZ (S&D, ES) and Borja GIMÉNEZ LARRAZ (EPP, ES), AFET and INTA rapporteurs for the EU-Mexico modernised global agreement",
      "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292311-V_v"
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292306-V_v"
     }
    ],
-   "firstSeen": "2026-07-08T11:21:06+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-08T15:30:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "EDIT",
-   "title": "European Commissioner Marta KOS in Skopje, North Macedonia",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292471",
-     "title": "European Commissioner Marta KOS in Skopje, North Macedonia",
-     "summary": "Meeting with Macedonian youth in the premises of the EU refurbished Student Dormitory Stiv Naumov",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-07-07T12:17:24+00:00"
+   "firstSeen": "2026-07-08T16:57:53+00:00"
   },
   {
    "ep": true,
-   "start": "2026-07-08T15:30:00.000Z",
+   "start": "2026-07-08T15:29:25.920Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
@@ -867,12 +840,33 @@
      "inst": "EP"
     }
    ],
-   "firstSeen": "2026-07-06T14:44:00+00:00"
+   "firstSeen": "2026-07-08T16:57:53+00:00"
   },
   {
    "ep": true,
-   "start": "2026-07-08T16:30:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-08T15:45:10.000Z",
+   "durationSec": 209,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "EP News LEX Signing Ceremony",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292311",
+     "title": "EP News LEX Signing Ceremony",
+     "summary": "LEX siging ceremony in the presence of Roberta METSOLA, EP President and Minister of State Thomas BYRNE on behalf of the Irish Presidency",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292311-V_v"
+    }
+   ],
+   "firstSeen": "2026-07-08T16:57:53+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-07-08T16:00:10.000Z",
+   "durationSec": 241,
    "channel": "EBS",
    "status": "EDIT",
    "title": "EP News Ebola outbreak in the Democratic Republic of the Congo and Uganda",
@@ -888,7 +882,27 @@
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292312-V_v"
     }
    ],
-   "firstSeen": "2026-07-02T11:44:25+00:00"
+   "firstSeen": "2026-07-08T16:57:53+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-08T16:10:10.000Z",
+   "durationSec": 583,
+   "channel": "EBS",
+   "status": "EDIT_RECORDED",
+   "title": "European Commissioner Marta KOS in Skopje, North Macedonia",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292471",
+     "title": "European Commissioner Marta KOS in Skopje, North Macedonia",
+     "summary": "Site visit and statements Meeting with Macedonian youth in the premises of the EU refurbished Student Dormitory Stiv Naumov",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-08T16:57:53+00:00"
   },
   {
    "ep": true,
@@ -929,6 +943,26 @@
    "firstSeen": "2026-07-06T16:32:19+00:00"
   },
   {
+   "ep": false,
+   "start": "2026-07-08T18:45:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "2026 NATO Summit in Ankara, Türkiye",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292507",
+     "title": "2026 NATO Summit in Ankara, Türkiye",
+     "summary": "Details to follow",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-08T16:57:53+00:00"
+  },
+  {
    "ep": true,
    "start": "2026-07-09T06:00:00.000Z",
    "durationSec": 0,
@@ -942,19 +976,19 @@
     {
      "ref": "I-292274",
      "title": "EP Plenary Session Joint communication on humanitarian",
-     "summary": "Opening statement by Hadja LAHBIB, European Commissioner for Equality, and European Commissioner for Preparedness and Crisis Management",
+     "summary": "Opening statements by Leire PAJÍN, (S&D, ES) and Hadja LAHBIB, European Commissioner for Equality, and European Commissioner for Preparedness and Crisis Management",
      "inst": "EP"
     },
     {
      "ref": "I-292277",
      "title": "EP Plenary Session Joint communication on humanitarian",
-     "summary": "MEPs debate",
+     "summary": "MEPs debate and reply from Hadja LAHBIB, European Commissioner for Equality, and European Commissioner for Preparedness and Crisis Management",
      "inst": "EP"
     },
     {
-     "ref": "I-292278",
+     "ref": "I-292566",
      "title": "EP Plenary Session Joint communication on humanitarian",
-     "summary": "Closing statements",
+     "summary": "MEPs debate (part 2)",
      "inst": "EP"
     }
    ],
@@ -1000,19 +1034,13 @@
      "inst": "EP"
     },
     {
-     "ref": "I-292113",
-     "title": "EP Plenary Session Evaluation of the Common Fisheries Policy",
-     "summary": "One round of political leaders",
-     "inst": "EP"
-    },
-    {
      "ref": "I-292114",
      "title": "EP Plenary Session Evaluation of the Common Fisheries Policy",
-     "summary": "MEPs debate (part 1)",
+     "summary": "MEPs debate and reply from Costas KADIS, European Commissioner for Fisheries and Oceans",
      "inst": "EP"
     },
     {
-     "ref": "I-292115",
+     "ref": "I-292564",
      "title": "EP Plenary Session Evaluation of the Common Fisheries Policy",
      "summary": "MEPs debate (part 2)",
      "inst": "EP"
@@ -1056,19 +1084,25 @@
     {
      "ref": "I-292199",
      "title": "EP Plenary Session Feasibility of a 28th tax regime and its potential to support EU competitiveness",
-     "summary": "Opening statement by Dubravka ŠUICA, European Commissioner for the Mediterranean",
+     "summary": "Opening statements by Ľudovít ÓDOR, (Renew, SK), Rapporteur and Dubravka ŠUICA, European Commissioner for the Mediterranean",
      "inst": "EP"
     },
     {
      "ref": "I-292200",
      "title": "EP Plenary Session Feasibility of a 28th tax regime and its potential to support EU competitiveness",
-     "summary": "MEPs debate",
+     "summary": "MEPs debate and reply from Dubravka ŠUICA, European Commissioner for the Mediterranean",
+     "inst": "EP"
+    },
+    {
+     "ref": "I-292565",
+     "title": "EP Plenary Session Feasibility of a 28th tax regime and its potential to support EU competitiveness",
+     "summary": "MEPs debate (part 2)",
      "inst": "EP"
     },
     {
      "ref": "I-292201",
      "title": "EP Plenary Session Feasibility of a 28th tax regime and its potential to support EU competitiveness",
-     "summary": "Closing statements",
+     "summary": "Closing statement by Ľudovít ÓDOR, (Renew, SK), Rapporteur",
      "inst": "EP"
     }
    ],
@@ -1194,7 +1228,7 @@
     {
      "ref": "I-292117",
      "title": "EP Plenary Session Voting Session",
-     "summary": "Voting Session",
+     "summary": "Voting Session (A10-0183/2026) NAVARRETE ROJAS - Provision of digital euro services by payment services providers incorporated in Member States whose currency is not the euro and amending Regulation (EU) (A10-0185/2026) NAVARRETE ROJAS - Establishment of the digital euro (A10-0192/2026) CHAHIM - Amendments to the Critical Raw Materials Act (C10-0178/2026) - Amending Regulation (EU) 2021/1232 as regards the extension of its period of application The threat of war crimes, the escalating violations of international humanitarian law and the human rights situation in El-Obeid, Sudan Ongoing persecution of Christians in Nigeria, notably the Kawel village massacre The abduction, forced conversion and child marriage of Maria Shahbaz and the protection of girls in Pakistan (A10-0167/2026) ÓDOR - Feasibility of a 28th tax regime and its potential to support EU competitiveness Joint communication on humanitarian aid",
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292117-V_v"
     }
@@ -1361,7 +1395,8 @@
    "status": "LIVE",
    "title": "Economist’s 30th Annual Government Roundtable in Attica, Greece",
    "languages": [
-    "INT"
+    "EN",
+    "EL"
    ],
    "items": [
     {
@@ -1397,6 +1432,26 @@
   },
   {
    "ep": false,
+   "start": "2026-07-09T23:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "",
+   "title": "European Commissioner Marta KOS in Podgorica, Montenegro",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292586",
+     "title": "European Commissioner Marta KOS in Podgorica, Montenegro",
+     "summary": "Details to follow",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-08T16:57:53+00:00"
+  },
+  {
+   "ep": false,
    "start": "2026-07-10T06:00:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
@@ -1414,6 +1469,26 @@
     }
    ],
    "firstSeen": "2026-07-06T14:44:00+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-10T06:45:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "EIB Group, EU governments, and institutional investors join forces to expand European Tech Champions Initiative",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292427",
+     "title": "EIB Group, EU governments, and institutional investors join forces to expand European Tech Champions Initiative",
+     "summary": "The EIB Group, EU governments, and institutional investors join forces to expand European Tech Champions Initiative, a flagship fund-of-funds investing into pioneering companies raising capital to scale in Europe and compete globally Introductory remarks by Nadia CALVIÑO, President of the European Investment Bank (EIB) Family photo",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-07-08T16:57:53+00:00"
   },
   {
    "ep": false,
@@ -1616,43 +1691,87 @@
   },
   {
    "ep": false,
-   "start": "2026-07-12T23:00:00.000Z",
+   "start": "2026-07-13T05:30:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
-   "title": "Foreign Affairs Council",
+   "title": "Foreign Affairs Council Agriculture and Fisheries Council",
    "languages": [
     "INT"
    ],
    "items": [
     {
      "ref": "I-292435",
-     "title": "Foreign Affairs Council",
-     "summary": "Details to follow",
+     "title": "Foreign Affairs Council Agriculture and Fisheries Council",
+     "summary": "Arrivals and doorsteps",
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-07-07T12:17:24+00:00"
+   "firstSeen": "2026-07-08T16:57:53+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-13T00:00:00.000Z",
+   "start": "2026-07-13T09:00:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
-   "status": "LIVE",
+   "status": "EDIT",
+   "title": "Foreign Affairs Council",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292533",
+     "title": "Foreign Affairs Council",
+     "summary": "Exterior views of the Europa and Justus Lipsius European Council buildings",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292534",
+     "title": "Foreign Affairs Council",
+     "summary": "Compilation of all arrivals",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292535",
+     "title": "Foreign Affairs Council",
+     "summary": "Roundtable",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-07-08T16:57:53+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-13T09:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "EDIT",
    "title": "Agriculture and Fisheries Council",
    "languages": [
     "INT"
    ],
    "items": [
     {
-     "ref": "I-292436",
+     "ref": "I-292536",
      "title": "Agriculture and Fisheries Council",
-     "summary": "Details to follow",
+     "summary": "Exterior views of the Europa and Justus Lipsius European Council buildings",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292537",
+     "title": "Agriculture and Fisheries Council",
+     "summary": "Compilation of all arrivals",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292538",
+     "title": "Agriculture and Fisheries Council",
+     "summary": "Roundtable",
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-07-07T12:17:24+00:00"
+   "firstSeen": "2026-07-08T16:57:53+00:00"
   },
   {
    "ep": false,
@@ -1696,7 +1815,59 @@
   },
   {
    "ep": false,
-   "start": "2026-07-13T23:00:00.000Z",
+   "start": "2026-07-13T14:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "Foreign Affairs Council",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "NL"
+   ],
+   "items": [
+    {
+     "ref": "I-292532",
+     "title": "Foreign Affairs Council",
+     "summary": "Press conference by Kaja KALLAS, High Representative of the Union for Foreign Affairs and Security Policy and Vice-President of the European Commission",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-07-08T16:57:53+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-13T15:45:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "Agriculture and Fisheries Council",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "NL"
+   ],
+   "items": [
+    {
+     "ref": "I-292436",
+     "title": "Agriculture and Fisheries Council",
+     "summary": "Press conference by the Irish Presidency and the European Commission",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-07-08T16:57:53+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-14T06:30:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
@@ -1708,11 +1879,43 @@
     {
      "ref": "I-292441",
      "title": "General Affairs Council",
-     "summary": "Details to follow",
+     "summary": "Arrivals and doorsteps",
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-07-08T10:33:11+00:00"
+   "firstSeen": "2026-07-08T16:57:53+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-14T09:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "EDIT",
+   "title": "General Affairs Council",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292539",
+     "title": "General Affairs Council",
+     "summary": "Exterior views of the Europa and Justus Lipsius European Council buildings",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292540",
+     "title": "General Affairs Council",
+     "summary": "Compilation of all arrivals",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292541",
+     "title": "General Affairs Council",
+     "summary": "Roundtable",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-07-08T16:57:53+00:00"
   },
   {
    "ep": false,
@@ -1753,6 +1956,32 @@
     }
    ],
    "firstSeen": "2026-07-08T10:33:11+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-14T10:15:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "General Affairs Council",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "NL"
+   ],
+   "items": [
+    {
+     "ref": "I-292545",
+     "title": "General Affairs Council",
+     "summary": "Press conference by the Irish Presidency and the European Commission",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-07-08T16:57:53+00:00"
   }
  ]
 }
