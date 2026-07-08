@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-08T10:33:11+00:00",
+ "generatedAt": "2026-07-08T11:21:06+00:00",
  "events": [
   {
    "ep": true,
@@ -181,7 +181,7 @@
   {
    "ep": false,
    "start": "2026-07-08T10:03:01.760Z",
-   "durationSec": 0,
+   "durationSec": 2370,
    "channel": "EBS",
    "status": "LIVE",
    "title": "EC Midday press briefing of 08/07/2026",
@@ -191,6 +191,12 @@
     "FR"
    ],
    "items": [
+    {
+     "ref": "I-292531",
+     "title": "EC Midday press briefing of 08/07/2026",
+     "summary": "ANNOUNCEMENT - July infringements package EU/US RELATIONS / TRADE - Spain: Q&A TRADE - China: Q&A FOREIGN AFFAIRS - Iran: Q&A WAR IN UKRAINE / ENERGY / INTERNAL MARKET - EU Sanctions against Russia / Export bans / Petroleum / Export of Irish alumina to Russia: Q&A NATIONAL SOVEREIGNTY - Greenland: Q&A INFRINGEMENT - Commission decides to refer Hungary to Court of Justice of the EU for imposing price margin restrictions for the sale of food products and drugstore articles: Q&A DEFENCE / BUDGET - European Peace Facility / Ukraine: Q&A DIGITAL AFFAIRS - Action plan on Cybersecurity and Artificial Intelligence: Q&A DIGITAL AFFAIRS - Child Safety on line / France ENLARGEMENT - Ukraine / Serbia: Q&A CLIMATE / CRISIS MANAGEMENT - EP debate on EU’s response and preparedness to protect people against recurring heatwaves and upcoming wildfires: Q&A Exterior views of the European Commission Berlaymont building Recorded cutaways",
+     "inst": "EC"
+    },
     {
      "ref": "I-292059",
      "title": "EC Midday press briefing of 08/07/2026",
@@ -242,7 +248,25 @@
     {
      "ref": "I-292517",
      "title": "EC Midday press briefing of 08/07/2026",
-     "summary": "Q&A",
+     "summary": "DIGITAL AFFAIRS - Action plan on Cybersecurity and Artificial Intelligence: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292518",
+     "title": "EC Midday press briefing of 08/07/2026",
+     "summary": "DIGITAL AFFAIRS - Child Safety on line / France",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292519",
+     "title": "EC Midday press briefing of 08/07/2026",
+     "summary": "ENLARGEMENT - Ukraine / Serbia: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292526",
+     "title": "EC Midday press briefing of 08/07/2026",
+     "summary": "CLIMATE / CRISIS MANAGEMENT - EP debate on EU’s response and preparedness to protect people against recurring heatwaves and upcoming wildfires: Q&A",
      "inst": "EC"
     },
     {
@@ -263,7 +287,7 @@
   {
    "ep": true,
    "start": "2026-07-08T10:04:30.520Z",
-   "durationSec": 0,
+   "durationSec": 3310,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "EP Plenary Session Voting Session",
@@ -304,6 +328,34 @@
    "firstSeen": "2026-07-08T10:33:11+00:00"
   },
   {
+   "ep": true,
+   "start": "2026-07-08T10:50:10.000Z",
+   "durationSec": 586,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "EP News Conclusions of the European Council meeting of 18-19 June 2026 EU’s response and preparedness to protect people against recurring heatwaves and upcoming wildfires",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292307",
+     "title": "EP News Conclusions of the European Council meeting of 18-19 June 2026 EU’s response and preparedness to protect people against recurring heatwaves and upcoming wildfires",
+     "summary": "Conclusions of the European Council meeting of 18-19 June 2026 extracts from the debate",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292307-V_v"
+    },
+    {
+     "ref": "I-292310",
+     "title": "EP News Conclusions of the European Council meeting of 18-19 June 2026 EU’s response and preparedness to protect people against recurring heatwaves and upcoming wildfires",
+     "summary": "EU’s response and preparedness to protect people against recurring heatwaves and upcoming wildfires extracts from the debate",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292310-V_v"
+    }
+   ],
+   "firstSeen": "2026-07-08T11:21:06+00:00"
+  },
+  {
    "ep": false,
    "start": "2026-07-08T11:00:00.000Z",
    "durationSec": 374,
@@ -331,7 +383,7 @@
   },
   {
    "ep": true,
-   "start": "2026-07-08T11:00:00.000Z",
+   "start": "2026-07-08T11:04:21.040Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
@@ -387,28 +439,7 @@
      "inst": "EP"
     }
    ],
-   "firstSeen": "2026-07-02T11:44:25+00:00"
-  },
-  {
-   "ep": true,
-   "start": "2026-07-08T11:15:00.000Z",
-   "durationSec": 289,
-   "channel": "EBS",
-   "status": "EDIT",
-   "title": "EP News Conclusions of the European Council meeting of 18-19 June 2026",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292307",
-     "title": "EP News Conclusions of the European Council meeting of 18-19 June 2026",
-     "summary": "Conclusions of the European Council meeting of 18-19 June 2026 extracts from the debate",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292307-V_v"
-    }
-   ],
-   "firstSeen": "2026-07-06T14:44:00+00:00"
+   "firstSeen": "2026-07-08T11:21:06+00:00"
   },
   {
    "ep": false,
@@ -430,6 +461,26 @@
     }
    ],
    "firstSeen": "2026-07-06T14:44:00+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-08T11:45:00.000Z",
+   "durationSec": 22,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "2026 NATO Summit in Ankara, Türkiye",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292106",
+     "title": "2026 NATO Summit in Ankara, Türkiye",
+     "summary": "Bilateral meeting Ursula von der LEYEN, President of the European Commission and Volodymyr ZELENSKYY, President of Ukraine",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-08T11:21:06+00:00"
   },
   {
    "ep": true,
@@ -542,33 +593,6 @@
   {
    "ep": true,
    "start": "2026-07-08T13:30:00.000Z",
-   "durationSec": 2222,
-   "channel": "EBS",
-   "status": "RECORDED",
-   "title": "EP Press Conference Military mobility",
-   "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "DE",
-    "IT",
-    "LV",
-    "PL"
-   ],
-   "items": [
-    {
-     "ref": "I-292429",
-     "title": "EP Press Conference Military mobility",
-     "summary": "Press conference by Michał SZCZERBA (EPP, PL) and Roberts ZĪLE (ECR, LV), co-rapporteurs on Military mobility",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292429-V_v"
-    }
-   ],
-   "firstSeen": "2026-07-06T14:44:00+00:00"
-  },
-  {
-   "ep": true,
-   "start": "2026-07-08T13:30:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
@@ -672,23 +696,29 @@
   {
    "ep": true,
    "start": "2026-07-08T14:30:00.000Z",
-   "durationSec": 297,
+   "durationSec": 2222,
    "channel": "EBS",
-   "status": "EDIT",
-   "title": "EP News EU’s response and preparedness to protect people against recurring heatwaves and upcoming wildfires",
+   "status": "RECORDED",
+   "title": "EP Press Conference Military mobility",
    "languages": [
-    "INT"
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "LV",
+    "PL"
    ],
    "items": [
     {
-     "ref": "I-292310",
-     "title": "EP News EU’s response and preparedness to protect people against recurring heatwaves and upcoming wildfires",
-     "summary": "EU’s response and preparedness to protect people against recurring heatwaves and upcoming wildfires extracts from the debate",
+     "ref": "I-292429",
+     "title": "EP Press Conference Military mobility",
+     "summary": "Press conference by Michał SZCZERBA (EPP, PL) and Roberts ZĪLE (ECR, LV), co-rapporteurs on Military mobility",
      "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292310-V_v"
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292429-V_v"
     }
    ],
-   "firstSeen": "2026-07-06T14:44:00+00:00"
+   "firstSeen": "2026-07-08T11:21:06+00:00"
   },
   {
    "ep": true,
@@ -746,7 +776,7 @@
   },
   {
    "ep": true,
-   "start": "2026-07-08T15:00:00.000Z",
+   "start": "2026-07-08T15:15:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
    "status": "EDIT",
@@ -763,7 +793,7 @@
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292311-V_v"
     }
    ],
-   "firstSeen": "2026-07-03T11:42:38+00:00"
+   "firstSeen": "2026-07-08T11:21:06+00:00"
   },
   {
    "ep": false,
