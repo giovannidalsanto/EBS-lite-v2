@@ -1,976 +1,38 @@
 {
- "generatedAt": "2026-07-08T16:57:53+00:00",
+ "generatedAt": "2026-07-09T12:22:12+00:00",
  "events": [
   {
    "ep": true,
-   "start": "2026-07-08T06:30:10.000Z",
-   "durationSec": 378,
-   "channel": "EBS+",
-   "status": "EDIT",
-   "title": "EP Stockshots",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-276620",
-     "title": "Wildfires in Europe",
-     "summary": "This infoclip shows images of wildfires, firefighters extinguishing fires, evacuations of the population in Spain and Italy. In 2025, the wildfire season has been well above average, with a cumulative burnt area in the European Union of more than 1 million hectares, according to the European Forest Fire Information System (EFFIS). It’s the highest value ever recorded inside the European Union since 2006. Between 8 and 19 August, the estimated total burnt area in both Portugal and Spain was over 500,000 hectares, according to EFFIS, making it the countries’ highest value of burnt areas ever recorded in mid-August, comparable to almost twice the size of Luxembourg. © Images of firefighters battling fires in Spain are strictly for journalistic purposes. For any other use, please contact the press office of the Spanish Emergency Military Unit (Unidad Militar de Emergencias).",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I276620-V_v"
-    },
-    {
-     "ref": "I-274980",
-     "title": "Heatwave",
-     "summary": "This infoclip illustrates how the heatwaves impact the daily-life of Europeans. It stages people hiding in the shade in a public park, eating ice-creams, buying bottles of water, sipping cold-drinks and playing with water fountains on a public place.",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I274980-V_v"
-    }
-   ],
-   "firstSeen": "2026-07-07T12:17:24+00:00"
-  },
-  {
-   "ep": true,
-   "start": "2026-07-08T07:01:41.840Z",
-   "durationSec": 3444,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "EP Plenary Session Conclusions of the European Council meeting of 18-19 June 2026",
-   "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "DE",
-    "IT",
-    "ES",
-    "EL",
-    "PT",
-    "NL",
-    "DA",
-    "FI",
-    "SV",
-    "CS",
-    "ET",
-    "LV",
-    "LT",
-    "HU",
-    "PL",
-    "SK",
-    "SL",
-    "BG",
-    "RO",
-    "HR"
-   ],
-   "items": [
-    {
-     "ref": "I-292107",
-     "title": "EP Plenary Session Conclusions of the European Council meeting of 18-19 June 2026",
-     "summary": "Opening statement by Maroš ŠEFČOVIČ, European Commissioner for Trade and Economic Security, and European Commissioner for Interinstitutional Relations and Transparency",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292107-V_v"
-    },
-    {
-     "ref": "I-292108",
-     "title": "EP Plenary Session Conclusions of the European Council meeting of 18-19 June 2026",
-     "summary": "MEPs debate",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292108-V_v"
-    },
-    {
-     "ref": "I-292109",
-     "title": "EP Plenary Session Conclusions of the European Council meeting of 18-19 June 2026",
-     "summary": "Closing statement by Maroš ŠEFČOVIČ, European Commissioner for Trade and Economic Security, and European Commissioner for Interinstitutional Relations and Transparency",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292109-V_v"
-    }
-   ],
-   "firstSeen": "2026-07-08T10:33:11+00:00"
-  },
-  {
-   "ep": true,
-   "start": "2026-07-08T08:00:26.640Z",
-   "durationSec": 7362,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "EP Plenary Session EU’s response and preparedness to protect people against recurring heatwaves and upcoming wildfires",
-   "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "DE",
-    "IT",
-    "ES",
-    "EL",
-    "PT",
-    "NL",
-    "DA",
-    "FI",
-    "SV",
-    "CS",
-    "ET",
-    "LV",
-    "LT",
-    "HU",
-    "PL",
-    "SK",
-    "SL",
-    "BG",
-    "RO",
-    "HR"
-   ],
-   "items": [
-    {
-     "ref": "I-292184",
-     "title": "EP Plenary Session EU’s response and preparedness to protect people against recurring heatwaves and upcoming wildfires",
-     "summary": "Opening statements by Thomas BYRNE, Irish Minister of State for European Affairs and Defence, and Hadja LAHBIB, European Commissioner for Equality, and European Commissioner for Preparedness and Crisis Management",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292184-V_v"
-    },
-    {
-     "ref": "I-292185",
-     "title": "EP Plenary Session EU’s response and preparedness to protect people against recurring heatwaves and upcoming wildfires",
-     "summary": "MEPs debate and reply by Hadja LAHBIB, European Commissioner for Equality, and European Commissioner for Preparedness and Crisis Management",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292185-V_v"
-    },
-    {
-     "ref": "I-292508",
-     "title": "EP Plenary Session EU’s response and preparedness to protect people against recurring heatwaves and upcoming wildfires",
-     "summary": "MEPs debate (part 2)",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292508-V_v"
-    },
-    {
-     "ref": "I-292509",
-     "title": "EP Plenary Session EU’s response and preparedness to protect people against recurring heatwaves and upcoming wildfires",
-     "summary": "MEPs debate (part 3)",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292509-V_v"
-    },
-    {
-     "ref": "I-292186",
-     "title": "EP Plenary Session EU’s response and preparedness to protect people against recurring heatwaves and upcoming wildfires",
-     "summary": "Closing statements by Hadja LAHBIB, European Commissioner for Equality, and European Commissioner for Preparedness and Crisis Management, and Thomas BYRNE, Irish Minister of State for European Affairs and Defence",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292186-V_v"
-    }
-   ],
-   "firstSeen": "2026-07-08T10:33:11+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-08T08:34:45.120Z",
-   "durationSec": 5236,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "Concluding press conference of the Cypriot Presidency of the European Union",
-   "languages": [
-    "INT",
-    "EN"
-   ],
-   "items": [
-    {
-     "ref": "I-292244",
-     "title": "Concluding press conference of the Cypriot Presidency of the European Union",
-     "summary": "Press conference by Marilena RAOUNA, Cypriot Deputy Minister for European Affairs Constantinos KOMBOS, Cypriot Minister for Foreign Affairs and Marilena RAOUNA, Cypriot Deputy Minister for European Affairs Nikos CHRISTODOULIDES, President of Cyprus",
-     "inst": "Host"
-    }
-   ],
-   "firstSeen": "2026-07-08T10:33:11+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-08T10:03:01.760Z",
-   "durationSec": 2370,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "EC Midday press briefing of 08/07/2026",
-   "languages": [
-    "INT",
-    "EN",
-    "FR"
-   ],
-   "items": [
-    {
-     "ref": "I-292531",
-     "title": "EC Midday press briefing of 08/07/2026",
-     "summary": "ANNOUNCEMENT - July infringements package EU/US RELATIONS / TRADE - Spain: Q&A TRADE - China: Q&A FOREIGN AFFAIRS - Iran: Q&A WAR IN UKRAINE / ENERGY / INTERNAL MARKET - EU Sanctions against Russia / Export bans / Petroleum / Export of Irish alumina to Russia: Q&A NATIONAL SOVEREIGNTY - Greenland: Q&A INFRINGEMENT - Commission decides to refer Hungary to Court of Justice of the EU for imposing price margin restrictions for the sale of food products and drugstore articles: Q&A DEFENCE / BUDGET - European Peace Facility / Ukraine: Q&A DIGITAL AFFAIRS - Action plan on Cybersecurity and Artificial Intelligence: Q&A DIGITAL AFFAIRS - Child Safety on line / France ENLARGEMENT - Ukraine / Serbia: Q&A CLIMATE / CRISIS MANAGEMENT - EP debate on EU’s response and preparedness to protect people against recurring heatwaves and upcoming wildfires: Q&A Exterior views of the European Commission Berlaymont building Recorded cutaways",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292059",
-     "title": "EC Midday press briefing of 08/07/2026",
-     "summary": "ANNOUNCEMENT - July infringements package",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292060",
-     "title": "EC Midday press briefing of 08/07/2026",
-     "summary": "EU/US RELATIONS / TRADE - Spain: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292511",
-     "title": "EC Midday press briefing of 08/07/2026",
-     "summary": "TRADE - China: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292512",
-     "title": "EC Midday press briefing of 08/07/2026",
-     "summary": "FOREIGN AFFAIRS - Iran: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292513",
-     "title": "EC Midday press briefing of 08/07/2026",
-     "summary": "WAR IN UKRAINE / ENERGY / INTERNAL MARKET - EU Sanctions against Russia / Export bans / Petroleum / Export of Irish alumina to Russia: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292514",
-     "title": "EC Midday press briefing of 08/07/2026",
-     "summary": "NATIONAL SOVEREIGNTY - Greenland: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292515",
-     "title": "EC Midday press briefing of 08/07/2026",
-     "summary": "INFRINGEMENT - Commission decides to refer Hungary to Court of Justice of the EU for imposing price margin restrictions for the sale of food products and drugstore articles: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292516",
-     "title": "EC Midday press briefing of 08/07/2026",
-     "summary": "DEFENCE / BUDGET - European Peace Facility / Ukraine: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292517",
-     "title": "EC Midday press briefing of 08/07/2026",
-     "summary": "DIGITAL AFFAIRS - Action plan on Cybersecurity and Artificial Intelligence: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292518",
-     "title": "EC Midday press briefing of 08/07/2026",
-     "summary": "DIGITAL AFFAIRS - Child Safety on line / France",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292519",
-     "title": "EC Midday press briefing of 08/07/2026",
-     "summary": "ENLARGEMENT - Ukraine / Serbia: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292526",
-     "title": "EC Midday press briefing of 08/07/2026",
-     "summary": "CLIMATE / CRISIS MANAGEMENT - EP debate on EU’s response and preparedness to protect people against recurring heatwaves and upcoming wildfires: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292062",
-     "title": "EC Midday press briefing of 08/07/2026",
-     "summary": "Exterior views of the European Commission Berlaymont building",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292063",
-     "title": "EC Midday press briefing of 08/07/2026",
-     "summary": "Recorded cutaways",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-07-08T10:33:11+00:00"
-  },
-  {
-   "ep": true,
-   "start": "2026-07-08T10:04:30.520Z",
-   "durationSec": 3310,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "EP Plenary Session Voting Session",
-   "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "DE",
-    "IT",
-    "ES",
-    "EL",
-    "PT",
-    "NL",
-    "DA",
-    "FI",
-    "SV",
-    "CS",
-    "ET",
-    "LV",
-    "LT",
-    "HU",
-    "PL",
-    "SK",
-    "SL",
-    "BG",
-    "RO",
-    "HR"
-   ],
-   "items": [
-    {
-     "ref": "I-292111",
-     "title": "EP Plenary Session Voting Session",
-     "summary": "Voting Session Objection pursuant to Rule 114(3): Trajectory to decrease the contribution of high indirect land-use change-risk biofuels, bioliquids and biomass fuels to renewable energy targets Objection pursuant to Rule 115(2) and (3), and (4)(c): Lead in certain fishing tackle López, Giménez Larraz (A10-0181/2026) - EU–Mexico Political, Economic and Cooperation Strategic Partnership Agreement López, Giménez Larraz (A10-0182/2026) - EU–Mexico Political, Economic and Cooperation Strategic Partnership Agreement (Interim report) Giménez Larraz (A10-0198/2026) - EU–Mexico Interim Agreement on Trade Kyuchyuk (A10-0156/2026) - Protection of the environment through criminal law Tobé (A10-0177/2026) - EU/Morocco Euro-Mediterranean Aviation Agreement: accession to the EU of Croatia (Protocol) Borchia (A10-0151/2026) - EU-Morocco Agreement for scientific and technological cooperation setting out the terms and conditions for the participation of Morocco in the Partnership for Research and Innovation in the Mediterranean Area (PRIMA): amendment and supplement Gahler (A10-0172/2026) - 2025 Commission report on Ukraine Mikser (A10-0164/2026) - 2025 Commission report on Moldova Picula (A10-0163/2026) - 2025 Commission report on Serbia The impact of the 1974 Turkish invasion on Cypriot women and girls, and the crimes committed by Turkish forces and consequences on gender equality Objection pursuant to Rule 115(2) and (3): Genetically modified maize NK603 × T25 Objection pursuant to Rule 115(2) and (3): Genetically modified soybean MON 87705 Objection pursuant to Rule 115(2) and (3): Genetically modified maize DP202216 x NK603 x DAS-40278-9 and its sub-combinations DP202216 x NK603, DP202216 x DAS-40278-9",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292111-V_v"
-    }
-   ],
-   "firstSeen": "2026-07-08T10:33:11+00:00"
-  },
-  {
-   "ep": true,
-   "start": "2026-07-08T10:50:10.000Z",
-   "durationSec": 586,
-   "channel": "EBS",
-   "status": "EDIT",
-   "title": "EP News Conclusions of the European Council meeting of 18-19 June 2026 EU’s response and preparedness to protect people against recurring heatwaves and upcoming wildfires",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292307",
-     "title": "EP News Conclusions of the European Council meeting of 18-19 June 2026 EU’s response and preparedness to protect people against recurring heatwaves and upcoming wildfires",
-     "summary": "Conclusions of the European Council meeting of 18-19 June 2026 extracts from the debate",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292307-V_v"
-    },
-    {
-     "ref": "I-292310",
-     "title": "EP News Conclusions of the European Council meeting of 18-19 June 2026 EU’s response and preparedness to protect people against recurring heatwaves and upcoming wildfires",
-     "summary": "EU’s response and preparedness to protect people against recurring heatwaves and upcoming wildfires extracts from the debate",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292310-V_v"
-    }
-   ],
-   "firstSeen": "2026-07-08T11:21:06+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-08T11:00:00.000Z",
-   "durationSec": 374,
-   "channel": "EBS",
-   "status": "EDIT_RECORDED",
-   "title": "Court of Justice of the European Union",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292355",
-     "title": "Court of Justice of the European Union",
-     "summary": "General Court rulings in cases T-268/21 RENV Ryanair v Commission and T-538/24 Ryanair v Commission regarding an Italian state aid to airlines companies to compensate for the damage suffered in the context of the COVID-19 pandemic Read by Marc VAN DER WOUDE, President of the lower-tier General Court",
-     "inst": "Court of Justice o"
-    },
-    {
-     "ref": "I-292356",
-     "title": "Court of Justice of the European Union",
-     "summary": "General Court ruling in joined cases T-1079/23 Apple v Commission, T-1080/23 Apple v Commission and T-214/24 Apple Distribution International v Commission regarding the application of the DMA regulation Read by Marc VAN DER WOUDE, President of the lower-tier General Court",
-     "inst": "Court of Justice o"
-    }
-   ],
-   "firstSeen": "2026-07-03T17:03:46+00:00"
-  },
-  {
-   "ep": true,
-   "start": "2026-07-08T11:04:21.040Z",
-   "durationSec": 5114,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "EP Plenary Session The EU’s role in the reconstruction of the Gaza Strip and the accountability of Israel under international law",
-   "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "DE",
-    "IT",
-    "ES",
-    "EL",
-    "PT",
-    "NL",
-    "DA",
-    "FI",
-    "SV",
-    "CS",
-    "ET",
-    "LV",
-    "LT",
-    "HU",
-    "PL",
-    "SK",
-    "SL",
-    "BG",
-    "RO",
-    "HR"
-   ],
-   "items": [
-    {
-     "ref": "I-292228",
-     "title": "EP Plenary Session The EU’s role in the reconstruction of the Gaza Strip and the accountability of Israel under international law",
-     "summary": "Opening statements by Yannis MANIATIS, (S&D, EL), Author, Thomas BYRNE, Irish Minister of State for European Affairs and Defence, and Dubravka ŠUICA, European Commissioner for the Mediterranean",
-     "inst": "EP"
-    },
-    {
-     "ref": "I-292229",
-     "title": "EP Plenary Session The EU’s role in the reconstruction of the Gaza Strip and the accountability of Israel under international law",
-     "summary": "One round of political group speakers",
-     "inst": "EP"
-    },
-    {
-     "ref": "I-292504",
-     "title": "EP Plenary Session The EU’s role in the reconstruction of the Gaza Strip and the accountability of Israel under international law",
-     "summary": "MEPs debate (part 2)",
-     "inst": "EP"
-    },
-    {
-     "ref": "I-292230",
-     "title": "EP Plenary Session The EU’s role in the reconstruction of the Gaza Strip and the accountability of Israel under international law",
-     "summary": "Closing statement by Dubravka ŠUICA, European Commissioner for the Mediterranean, and Thomas BYRNE, Irish Minister of State for European Affairs and Defence",
-     "inst": "EP"
-    }
-   ],
-   "firstSeen": "2026-07-08T11:21:06+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-08T11:52:45.880Z",
-   "durationSec": 1457,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "European Commissioner Marta KOS in Skopje, North Macedonia",
-   "languages": [
-    "INT",
-    "EN"
-   ],
-   "items": [
-    {
-     "ref": "I-292433",
-     "title": "European Commissioner Marta KOS in Skopje, North Macedonia",
-     "summary": "Press conference by Hristijan MICKOSKI, Prime Minister of North Macedonia and Marta KOS, European Commissioner for Enlargement",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-07-08T16:57:53+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-08T12:20:00.000Z",
-   "durationSec": 22,
-   "channel": "EBS",
-   "status": "EDIT",
-   "title": "2026 NATO Summit in Ankara, Türkiye",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292106",
-     "title": "2026 NATO Summit in Ankara, Türkiye",
-     "summary": "Bilateral meeting Ursula von der LEYEN, President of the European Commission and Volodymyr ZELENSKYY, President of Ukraine",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-07-08T16:57:53+00:00"
-  },
-  {
-   "ep": true,
-   "start": "2026-07-08T12:29:35.040Z",
-   "durationSec": 3464,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "EP Plenary Session Narco-trafficking in Europe’s waters: protecting our borders and supporting our law enforcement officers",
-   "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "DE",
-    "IT",
-    "ES",
-    "EL",
-    "PT",
-    "NL",
-    "DA",
-    "FI",
-    "SV",
-    "CS",
-    "ET",
-    "LV",
-    "LT",
-    "HU",
-    "PL",
-    "SK",
-    "SL",
-    "BG",
-    "RO",
-    "HR"
-   ],
-   "items": [
-    {
-     "ref": "I-292190",
-     "title": "EP Plenary Session Narco-trafficking in Europe’s waters: protecting our borders and supporting our law enforcement officers",
-     "summary": "Opening statement by Costas KADIS, European Commissioner for Fisheries and Oceans",
-     "inst": "EP"
-    },
-    {
-     "ref": "I-292191",
-     "title": "EP Plenary Session Narco-trafficking in Europe’s waters: protecting our borders and supporting our law enforcement officers",
-     "summary": "One round of political group speakers",
-     "inst": "EP"
-    },
-    {
-     "ref": "I-292192",
-     "title": "EP Plenary Session Narco-trafficking in Europe’s waters: protecting our borders and supporting our law enforcement officers",
-     "summary": "MEPs debate and reply from Costas KADIS, European Commissioner for Fisheries and Oceans",
-     "inst": "EP"
-    }
-   ],
-   "firstSeen": "2026-07-08T16:57:53+00:00"
-  },
-  {
-   "ep": true,
-   "start": "2026-07-08T13:01:02.240Z",
-   "durationSec": 1316,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "EP Press Conference 2025 report on Serbia",
-   "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "DE",
-    "IT",
-    "ES",
-    "PL",
-    "HR"
-   ],
-   "items": [
-    {
-     "ref": "I-292254",
-     "title": "EP Press Conference 2025 report on Serbia",
-     "summary": "Press Conference by Tonino PICULA (S&D, HR), rapporteur on the 2025 report on Serbia",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292254-V_v"
-    }
-   ],
-   "firstSeen": "2026-07-08T16:57:53+00:00"
-  },
-  {
-   "ep": true,
-   "start": "2026-07-08T13:27:18.720Z",
-   "durationSec": 991,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "EP Plenary Session Future of EU support for Russian democratic forces, anti-war actors and repressed civil society",
-   "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "DE",
-    "IT",
-    "ES",
-    "EL",
-    "PT",
-    "NL",
-    "DA",
-    "FI",
-    "SV",
-    "CS",
-    "ET",
-    "LV",
-    "LT",
-    "HU",
-    "PL",
-    "SK",
-    "SL",
-    "BG",
-    "RO",
-    "HR"
-   ],
-   "items": [
-    {
-     "ref": "I-292194",
-     "title": "EP Plenary Session Future of EU support for Russian democratic forces, anti-war actors and repressed civil society",
-     "summary": "One round of political group speakers",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292194-V_v"
-    }
-   ],
-   "firstSeen": "2026-07-08T16:57:53+00:00"
-  },
-  {
-   "ep": true,
-   "start": "2026-07-08T13:43:49.400Z",
-   "durationSec": 2231,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "EP Plenary Session Ebola outbreak in the Democratic Republic of the Congo and Uganda: EU solidarity and preparedness in global health",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292271",
-     "title": "EP Plenary Session Ebola outbreak in the Democratic Republic of the Congo and Uganda: EU solidarity and preparedness in global health",
-     "summary": "Opening statement by Hadja LAHBIB, European Commissioner for Equality, and European Commissioner for Preparedness and Crisis Management",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292271-V_v"
-    },
-    {
-     "ref": "I-292272",
-     "title": "EP Plenary Session Ebola outbreak in the Democratic Republic of the Congo and Uganda: EU solidarity and preparedness in global health",
-     "summary": "MEPs debate and reply from Hadja LAHBIB, European Commissioner for Equality, and European Commissioner for Preparedness and Crisis Management",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292272-V_v"
-    },
-    {
-     "ref": "I-292273",
-     "title": "EP Plenary Session Ebola outbreak in the Democratic Republic of the Congo and Uganda: EU solidarity and preparedness in global health",
-     "summary": "MEPs debate (part 2)",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292273-V_v"
-    },
-    {
-     "ref": "I-292576",
-     "title": "EP Plenary Session Ebola outbreak in the Democratic Republic of the Congo and Uganda: EU solidarity and preparedness in global health",
-     "summary": "Closing statement by Hadja LAHBIB, European Commissioner for Equality, and European Commissioner for Preparedness and Crisis Management",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292576-V_v"
-    }
-   ],
-   "firstSeen": "2026-07-08T16:57:53+00:00"
-  },
-  {
-   "ep": true,
-   "start": "2026-07-08T14:01:55.600Z",
-   "durationSec": 1640,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "EP Press Conference Impact of 1974 Turkish Invasion on Cypriot women",
-   "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "DE",
-    "EL"
-   ],
-   "items": [
-    {
-     "ref": "I-292430",
-     "title": "EP Press Conference Impact of 1974 Turkish Invasion on Cypriot women",
-     "summary": "Press conference by Eleonora MELETI (EPP, EL), rapporteur on the impact of 1974 Turkish Invasion on Cypriot women and girls, and the crimes committed by Turkish forces and consequences on gender equality",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292430-V_v"
-    }
-   ],
-   "firstSeen": "2026-07-08T16:57:53+00:00"
-  },
-  {
-   "ep": true,
-   "start": "2026-07-08T14:30:10.000Z",
-   "durationSec": 2222,
-   "channel": "EBS",
-   "status": "RECORDED",
-   "title": "EP Press Conference Military mobility",
-   "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "DE",
-    "IT",
-    "LV",
-    "PL"
-   ],
-   "items": [
-    {
-     "ref": "I-292429",
-     "title": "EP Press Conference Military mobility",
-     "summary": "Press conference by Michał SZCZERBA (EPP, PL) and Roberts ZĪLE (ECR, LV), co-rapporteurs on Military mobility",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292429-V_v"
-    }
-   ],
-   "firstSeen": "2026-07-08T16:57:53+00:00"
-  },
-  {
-   "ep": true,
-   "start": "2026-07-08T14:30:22.480Z",
-   "durationSec": 2679,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "EP Plenary Session Harnessing the potential of a competitive and sustainable EU Bioeconomy Strategy for EU strategic autonomy",
-   "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "DE",
-    "IT",
-    "ES",
-    "EL",
-    "PT",
-    "NL",
-    "DA",
-    "FI",
-    "SV",
-    "CS",
-    "ET",
-    "LV",
-    "LT",
-    "HU",
-    "PL",
-    "SK",
-    "SL",
-    "BG",
-    "RO",
-    "HR"
-   ],
-   "items": [
-    {
-     "ref": "I-292196",
-     "title": "EP Plenary Session Harnessing the potential of a competitive and sustainable EU Bioeconomy Strategy for EU strategic autonomy",
-     "summary": "Opening statement by Jessika ROSWALL, European Commissioner for Environment, Water Resilience and a Competitive Circular Economy",
-     "inst": "EP"
-    },
-    {
-     "ref": "I-292197",
-     "title": "EP Plenary Session Harnessing the potential of a competitive and sustainable EU Bioeconomy Strategy for EU strategic autonomy",
-     "summary": "MEPs debate and reply from Jessika ROSWALL, European Commissioner for Environment, Water Resilience and a Competitive Circular Economy",
-     "inst": "EP"
-    },
-    {
-     "ref": "I-292198",
-     "title": "EP Plenary Session Harnessing the potential of a competitive and sustainable EU Bioeconomy Strategy for EU strategic autonomy",
-     "summary": "MEPs debate (part 2)",
-     "inst": "EP"
-    },
-    {
-     "ref": "I-292584",
-     "title": "EP Plenary Session Harnessing the potential of a competitive and sustainable EU Bioeconomy Strategy for EU strategic autonomy",
-     "summary": "Closing statement by Jessika ROSWALL, European Commissioner for Environment, Water Resilience and a Competitive Circular Economy",
-     "inst": "EP"
-    }
-   ],
-   "firstSeen": "2026-07-08T16:57:53+00:00"
-  },
-  {
-   "ep": true,
-   "start": "2026-07-08T15:10:10.000Z",
-   "durationSec": 1661,
-   "channel": "EBS",
-   "status": "RECORDED",
-   "title": "EP Press Conference EU - Mexico modernised global agreement",
-   "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "DE",
-    "IT",
-    "ES",
-    "PL"
-   ],
-   "items": [
-    {
-     "ref": "I-292306",
-     "title": "EP Press Conference EU - Mexico modernised global agreement",
-     "summary": "Press Conference by Javi LÓPEZ (S&D, ES) and Borja GIMÉNEZ LARRAZ (EPP, ES), AFET and INTA rapporteurs for the EU-Mexico modernised global agreement",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292306-V_v"
-    }
-   ],
-   "firstSeen": "2026-07-08T16:57:53+00:00"
-  },
-  {
-   "ep": true,
-   "start": "2026-07-08T15:29:25.920Z",
-   "durationSec": 0,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "EP Plenary Session Debates on cases of breaches of human rights, democracy and the rule of law",
-   "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "DE",
-    "IT",
-    "ES",
-    "EL",
-    "PT",
-    "NL",
-    "DA",
-    "FI",
-    "SV",
-    "CS",
-    "ET",
-    "LV",
-    "LT",
-    "HU",
-    "PL",
-    "SK",
-    "SL",
-    "BG",
-    "RO",
-    "HR"
-   ],
-   "items": [
-    {
-     "ref": "I-292187",
-     "title": "EP Plenary Session Debates on cases of breaches of human rights, democracy and the rule of law",
-     "summary": "The threat of war crimes, the escalating violations of international humanitarian law and the human rights situation in El-Obeid, Sudan",
-     "inst": "EP"
-    },
-    {
-     "ref": "I-292188",
-     "title": "EP Plenary Session Debates on cases of breaches of human rights, democracy and the rule of law",
-     "summary": "Ongoing persecution of Christians in Nigeria, notably the Kawel village massacre",
-     "inst": "EP"
-    },
-    {
-     "ref": "I-292189",
-     "title": "EP Plenary Session Debates on cases of breaches of human rights, democracy and the rule of law",
-     "summary": "The abduction, forced conversion and child marriage of Maria Shahbaz and the protection of minor girls in Pakistan",
-     "inst": "EP"
-    }
-   ],
-   "firstSeen": "2026-07-08T16:57:53+00:00"
-  },
-  {
-   "ep": true,
-   "start": "2026-07-08T15:45:10.000Z",
-   "durationSec": 209,
-   "channel": "EBS",
-   "status": "EDIT",
-   "title": "EP News LEX Signing Ceremony",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292311",
-     "title": "EP News LEX Signing Ceremony",
-     "summary": "LEX siging ceremony in the presence of Roberta METSOLA, EP President and Minister of State Thomas BYRNE on behalf of the Irish Presidency",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292311-V_v"
-    }
-   ],
-   "firstSeen": "2026-07-08T16:57:53+00:00"
-  },
-  {
-   "ep": true,
-   "start": "2026-07-08T16:00:10.000Z",
-   "durationSec": 241,
-   "channel": "EBS",
-   "status": "EDIT",
-   "title": "EP News Ebola outbreak in the Democratic Republic of the Congo and Uganda",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292312",
-     "title": "EP News Ebola outbreak in the Democratic Republic of the Congo and Uganda",
-     "summary": "Ebola outbreak in the Democratic Republic of the Congo and Uganda: extracts from the debate",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292312-V_v"
-    }
-   ],
-   "firstSeen": "2026-07-08T16:57:53+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-08T16:10:10.000Z",
-   "durationSec": 583,
-   "channel": "EBS",
-   "status": "EDIT_RECORDED",
-   "title": "European Commissioner Marta KOS in Skopje, North Macedonia",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292471",
-     "title": "European Commissioner Marta KOS in Skopje, North Macedonia",
-     "summary": "Site visit and statements Meeting with Macedonian youth in the premises of the EU refurbished Student Dormitory Stiv Naumov",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-07-08T16:57:53+00:00"
-  },
-  {
-   "ep": true,
-   "start": "2026-07-08T17:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "EP Plenary Session Defending European democracy and the integrity of the European Parliament in light of spyware revelations",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292456",
-     "title": "EP Plenary Session Defending European democracy and the integrity of the European Parliament in light of spyware revelations",
-     "summary": "Opening statements by Thomas BYRNE, Irish Minister of State for European Affairs and Defence and Dubravka ŠUICA, European Commissioner for the Mediterranean",
-     "inst": "EP"
-    },
-    {
-     "ref": "I-292457",
-     "title": "EP Plenary Session Defending European democracy and the integrity of the European Parliament in light of spyware revelations",
-     "summary": "MEPs debate and reply from Dubravka ŠUICA, European Commissioner for the Mediterranean",
-     "inst": "EP"
-    },
-    {
-     "ref": "I-292506",
-     "title": "EP Plenary Session Defending European democracy and the integrity of the European Parliament in light of spyware revelations",
-     "summary": "MEPs debate (part 2)",
-     "inst": "EP"
-    },
-    {
-     "ref": "I-292458",
-     "title": "EP Plenary Session Defending European democracy and the integrity of the European Parliament in light of spyware revelations",
-     "summary": "Closing statement by Thomas BYRNE, Irish Minister of State for European Affairs and Defence",
-     "inst": "EP"
-    }
-   ],
-   "firstSeen": "2026-07-06T16:32:19+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-08T18:45:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "EDIT",
-   "title": "2026 NATO Summit in Ankara, Türkiye",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292507",
-     "title": "2026 NATO Summit in Ankara, Türkiye",
-     "summary": "Details to follow",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-07-08T16:57:53+00:00"
-  },
-  {
-   "ep": true,
-   "start": "2026-07-09T06:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-09T06:00:16.120Z",
+   "durationSec": 2910,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "EP Plenary Session Joint communication on humanitarian",
    "languages": [
-    "INT"
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "EL",
+    "PT",
+    "NL",
+    "DA",
+    "FI",
+    "SV",
+    "CS",
+    "ET",
+    "LV",
+    "LT",
+    "HU",
+    "MT",
+    "PL",
+    "SK",
+    "SL",
+    "BG",
+    "RO",
+    "HR"
    ],
    "items": [
     {
@@ -982,22 +44,22 @@
     {
      "ref": "I-292277",
      "title": "EP Plenary Session Joint communication on humanitarian",
-     "summary": "MEPs debate and reply from Hadja LAHBIB, European Commissioner for Equality, and European Commissioner for Preparedness and Crisis Management",
+     "summary": "MEPs debate",
      "inst": "EP"
     },
     {
-     "ref": "I-292566",
+     "ref": "I-292590",
      "title": "EP Plenary Session Joint communication on humanitarian",
-     "summary": "MEPs debate (part 2)",
+     "summary": "Closing statement by Hadja LAHBIB, European Commissioner for Equality, and European Commissioner for Preparedness and Crisis Management",
      "inst": "EP"
     }
    ],
-   "firstSeen": "2026-07-03T11:42:38+00:00"
+   "firstSeen": "2026-07-09T12:22:12+00:00"
   },
   {
    "ep": true,
-   "start": "2026-07-09T07:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-09T07:00:26.560Z",
+   "durationSec": 6075,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "EP Plenary Session Evaluation of the Common Fisheries Policy",
@@ -1036,22 +98,48 @@
     {
      "ref": "I-292114",
      "title": "EP Plenary Session Evaluation of the Common Fisheries Policy",
-     "summary": "MEPs debate and reply from Costas KADIS, European Commissioner for Fisheries and Oceans",
+     "summary": "MEPs debate",
      "inst": "EP"
     },
     {
      "ref": "I-292564",
      "title": "EP Plenary Session Evaluation of the Common Fisheries Policy",
-     "summary": "MEPs debate (part 2)",
+     "summary": "Closing statement by Costas KADIS, European Commissioner for Fisheries and Oceans",
      "inst": "EP"
     }
    ],
-   "firstSeen": "2026-07-03T11:42:38+00:00"
+   "firstSeen": "2026-07-09T12:22:12+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-09T07:30:10.000Z",
+   "durationSec": 1758,
+   "channel": "EBS",
+   "status": "EDIT_RECORDED",
+   "title": "Inauguration of the 2026 Irish EU Presidency decorations at the buildings of the Council of the EU",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292589",
+     "title": "Inauguration of the 2026 Irish EU Presidency decorations at the buildings of the Council of the EU",
+     "summary": "Speech by Thérèse BLANCHET, Secretary-General of the Council of the European Union Speech by Feargal Ó COIGLIGH, Secretary General of the Department of Culture, Communications and Sport of Ireland Speech by Richard MALONE, creator of the Irish EU Presidency decorations at the EU Council Cutaways",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292428",
+     "title": "Irish EU Presidency decorations",
+     "summary": "Stockshots of the installation and general views of the 2026 Irish EU Presidency decorations at the buildings of the Council of the EU.",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-07-09T12:22:12+00:00"
   },
   {
    "ep": true,
-   "start": "2026-07-09T08:30:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-09T08:41:41.680Z",
+   "durationSec": 4718,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "EP Plenary Session Feasibility of a 28th tax regime and its potential to support EU competitiveness",
@@ -1090,28 +178,22 @@
     {
      "ref": "I-292200",
      "title": "EP Plenary Session Feasibility of a 28th tax regime and its potential to support EU competitiveness",
-     "summary": "MEPs debate and reply from Dubravka ŠUICA, European Commissioner for the Mediterranean",
-     "inst": "EP"
-    },
-    {
-     "ref": "I-292565",
-     "title": "EP Plenary Session Feasibility of a 28th tax regime and its potential to support EU competitiveness",
-     "summary": "MEPs debate (part 2)",
+     "summary": "MEPs debate",
      "inst": "EP"
     },
     {
      "ref": "I-292201",
      "title": "EP Plenary Session Feasibility of a 28th tax regime and its potential to support EU competitiveness",
-     "summary": "Closing statement by Ľudovít ÓDOR, (Renew, SK), Rapporteur",
+     "summary": "Closing statement by Ľudovít ÓDOR, (Renew, SK), Rapporteur and Dubravka ŠUICA, European Commissioner for the Mediterranean",
      "inst": "EP"
     }
    ],
-   "firstSeen": "2026-07-03T11:42:38+00:00"
+   "firstSeen": "2026-07-09T12:22:12+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-09T09:30:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-09T09:30:10.000Z",
+   "durationSec": 1168,
    "channel": "EBS",
    "status": "EDIT_RECORDED",
    "title": "Court of Justice of the European Union",
@@ -1122,80 +204,40 @@
     {
      "ref": "I-292357",
      "title": "Court of Justice of the European Union",
-     "summary": "ECJ ruling in case C-234/25 Sky Österreich Fernsehen regarding the subscription to a platform service and the right of withdrawal",
+     "summary": "ECJ ruling in case C-234/25 Sky Österreich Fernsehen regarding the subscription to a platform service and the right of withdrawal Read by Thomas VON DANWITZ, Vice-President of the Court of Justice",
      "inst": "Court of Justice o"
     },
     {
      "ref": "I-292358",
      "title": "Court of Justice of the European Union",
-     "summary": "ECJ ruling in case C-788/24 Anne Franck Fonds regarding copyright and related rights, the publication on a website and the territorialisation of the internet through geo-blocking measures",
+     "summary": "ECJ ruling in case C-788/24 Anne Franck Fonds regarding copyright and related rights, the publication on a website and the territorialisation of the internet through geo-blocking measures Read by Thomas VON DANWITZ, Vice-President of the Court of Justice",
      "inst": "Court of Justice o"
     },
     {
      "ref": "I-292359",
      "title": "Court of Justice of the European Union",
-     "summary": "ECJ ruling in case C-428/23 ROGON and Others concerning national sports association’s regulations governing the activities of players’ agents",
+     "summary": "ECJ ruling in case C-428/23 ROGON and Others concerning national sports association’s regulations governing the activities of players’ agents Read by Thomas VON DANWITZ, Vice-President of the Court of Justice",
      "inst": "Court of Justice o"
     },
     {
      "ref": "I-292360",
      "title": "Court of Justice of the European Union",
-     "summary": "ECJ ruling in case C-199/24 Legal Newsdesk Sweden regarding the process of data relating to criminal convictions and their availability online to the public in return for payment",
+     "summary": "ECJ ruling in case C-199/24 Legal Newsdesk Sweden regarding the process of data relating to criminal convictions and their availability online to the public in return for payment Read by Thomas VON DANWITZ, Vice-President of the Court of Justice",
      "inst": "Court of Justice o"
     },
     {
      "ref": "I-292361",
      "title": "Court of Justice of the European Union",
-     "summary": "Opinion of the advocate general in joined cases C-535/25 Amazon Italia Logistica, C-536/25 Amazon Italia Services and C-537/25 Amazon Italia Transport regarding the application of the postal service directive",
+     "summary": "Opinion of the advocate general in joined cases C-535/25 Amazon Italia Logistica, C-536/25 Amazon Italia Services and C-537/25 Amazon Italia Transport regarding the application of the postal service directive Read by Maciej SZPUNAR, Advocate-General",
      "inst": "Court of Justice o"
     }
    ],
-   "firstSeen": "2026-07-03T11:42:38+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-09T10:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "EC Midday press briefing of 09/07/2026",
-   "languages": [
-    "INT",
-    "EN",
-    "FR"
-   ],
-   "items": [
-    {
-     "ref": "I-292064",
-     "title": "EC Midday press briefing of 09/07/2026",
-     "summary": "Announcements",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292065",
-     "title": "EC Midday press briefing of 09/07/2026",
-     "summary": "Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292066",
-     "title": "EC Midday press briefing of 09/07/2026",
-     "summary": "Exterior views of the European Commission Berlaymont building",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292067",
-     "title": "EC Midday press briefing of 09/07/2026",
-     "summary": "Recorded cutaways",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-07-03T11:42:38+00:00"
+   "firstSeen": "2026-07-09T12:22:12+00:00"
   },
   {
    "ep": true,
-   "start": "2026-07-09T10:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-09T10:02:35.520Z",
+   "durationSec": 2779,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "EP Plenary Session Voting Session",
@@ -1233,7 +275,113 @@
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292117-V_v"
     }
    ],
-   "firstSeen": "2026-07-03T11:42:38+00:00"
+   "firstSeen": "2026-07-09T12:22:12+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-09T10:04:00.560Z",
+   "durationSec": 1761,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "EC Midday press briefing of 09/07/2026",
+   "languages": [
+    "INT",
+    "EN",
+    "FR"
+   ],
+   "items": [
+    {
+     "ref": "I-292613",
+     "title": "EC Midday press briefing of 09/07/2026",
+     "summary": "ANNOUNCEMENT - Today’s Councils PRESIDENT AGENDA - Outcome of the trilateral working dinner between EC President von der LEYEN, European Council President COSTA and Türkiye President ERDOĞAN: Q&A INTERNATIONAL LAW: United States / Iran / Participation in the Epic Fury Operation: Q&A WAR IN UKRAINE / DEFENCE - NATO Pledge: Q&A TRADE - Products originating from Israeli settlements: Q&A FOREIGN AFFAIRS - Gaza / Hamas: Q&A FOREIGN AFFAIRS - Iran: Q&A SPORT - Suspension of Russian participation in sport and cultural events / International Olympic Committee (IOC) decision to lift the suspension of the Russian Olympic Committee: Q&A ENERGY - Strait of Hormuz / Prices / Security of supply / Gas storages: Q&A AGRICULTURE / TRADE - Poland / Ukrainian agricultural products: Q&A TRADE - EU-Philippines Free Trade Agreement: Q&A EU/US RELATIONS / TRADE - Ongoing negotiations / Spain / Forced labour: Q&A Exterior views of the European Commission Berlaymont building Recorded cutaways",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292064",
+     "title": "EC Midday press briefing of 09/07/2026",
+     "summary": "ANNOUNCEMENT - Today’s Councils",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292065",
+     "title": "EC Midday press briefing of 09/07/2026",
+     "summary": "PRESIDENT AGENDA - Outcome of the trilateral working dinner between EC President von der LEYEN, European Council President COSTA and Türkiye President ERDOĞAN: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292603",
+     "title": "EC Midday press briefing of 09/07/2026",
+     "summary": "INTERNATIONAL LAW: United States / Iran / Participation in the Epic Fury Operation: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292604",
+     "title": "EC Midday press briefing of 09/07/2026",
+     "summary": "WAR IN UKRAINE / DEFENCE - NATO Pledge: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292605",
+     "title": "EC Midday press briefing of 09/07/2026",
+     "summary": "TRADE - Products originating from Israeli settlements: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292606",
+     "title": "EC Midday press briefing of 09/07/2026",
+     "summary": "FOREIGN AFFAIRS - Gaza / Hamas: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292607",
+     "title": "EC Midday press briefing of 09/07/2026",
+     "summary": "FOREIGN AFFAIRS - Iran: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292608",
+     "title": "EC Midday press briefing of 09/07/2026",
+     "summary": "SPORT - Suspension of Russian participation in sport and cultural events / International Olympic Committee (IOC) decision to lift the suspension of the Russian Olympic Committee: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292609",
+     "title": "EC Midday press briefing of 09/07/2026",
+     "summary": "ENERGY - Strait of Hormuz / Prices / Security of supply / Gas storages: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292610",
+     "title": "EC Midday press briefing of 09/07/2026",
+     "summary": "AGRICULTURE / TRADE - Poland / Ukrainian agricultural products: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292611",
+     "title": "EC Midday press briefing of 09/07/2026",
+     "summary": "TRADE - EU-Philippines Free Trade Agreement: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292612",
+     "title": "EC Midday press briefing of 09/07/2026",
+     "summary": "EU/US RELATIONS / TRADE - Ongoing negotiations / Spain / Forced labour: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292066",
+     "title": "EC Midday press briefing of 09/07/2026",
+     "summary": "Exterior views of the European Commission Berlaymont building",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292067",
+     "title": "EC Midday press briefing of 09/07/2026",
+     "summary": "Recorded cutaways",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-09T12:22:12+00:00"
   },
   {
    "ep": false,
@@ -1291,19 +439,19 @@
     {
      "ref": "I-292202",
      "title": "EP Plenary Session An updated regulatory framework for wool Commission",
-     "summary": "Opening statement by Dubravka ŠUICA, European Commissioner for the Mediterranean",
+     "summary": "Opening statement by Daniel BUDA, (EPP, RO), Author and Dubravka ŠUICA, European Commissioner for the Mediterranean",
      "inst": "EP"
     },
     {
      "ref": "I-292203",
      "title": "EP Plenary Session An updated regulatory framework for wool Commission",
-     "summary": "MEPs debate",
+     "summary": "MEPs debate and reply from Dubravka ŠUICA, European Commissioner for the Mediterranean",
      "inst": "EP"
     },
     {
      "ref": "I-292204",
      "title": "EP Plenary Session An updated regulatory framework for wool Commission",
-     "summary": "Closing statements",
+     "summary": "MEPs debate (part 2)",
      "inst": "EP"
     }
    ],
@@ -1363,7 +511,7 @@
   },
   {
    "ep": false,
-   "start": "2026-07-09T17:00:00.000Z",
+   "start": "2026-07-09T16:30:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
    "status": "LIVE",
@@ -1385,7 +533,7 @@
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-07-03T11:42:38+00:00"
+   "firstSeen": "2026-07-09T12:22:12+00:00"
   },
   {
    "ep": true,
@@ -1423,7 +571,7 @@
     {
      "ref": "I-292296",
      "title": "EP News Economist’s 30th Annual Government Roundtable",
-     "summary": "Official visit by Roberta METSOLA, EP President to Athens (Greece) - Participation to the Economist’s 30th Annual Government Roundtable with Kyriakos MITSOTAKIS, Greek Prime Minister: extracts",
+     "summary": "Official visit by Roberta METSOLA, EP President to Athens (Greece) Participation to the Economist’s 30th Annual Government Roundtable with Kyriakos MITSOTAKIS, Greek Prime Minister: extracts",
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292296-V_v"
     }
@@ -1432,27 +580,7 @@
   },
   {
    "ep": false,
-   "start": "2026-07-09T23:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS+",
-   "status": "",
-   "title": "European Commissioner Marta KOS in Podgorica, Montenegro",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292586",
-     "title": "European Commissioner Marta KOS in Podgorica, Montenegro",
-     "summary": "Details to follow",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-07-08T16:57:53+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-10T06:00:00.000Z",
+   "start": "2026-07-10T06:30:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
@@ -1468,7 +596,7 @@
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-07-06T14:44:00+00:00"
+   "firstSeen": "2026-07-09T12:22:12+00:00"
   },
   {
    "ep": false,
@@ -1671,6 +799,38 @@
   },
   {
    "ep": false,
+   "start": "2026-07-10T16:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "EDIT_RECORDED",
+   "title": "European Commissioner Marta KOS in Montenegro",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292586",
+     "title": "European Commissioner Marta KOS in Montenegro",
+     "summary": "Visit of Institute of Marine Biology",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292600",
+     "title": "European Commissioner Marta KOS in Montenegro",
+     "summary": "Great Kotor Bay seabed clean-up event with joint press statement with Milojko SPAJIĆ, Montenegrin Prime Minister",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292602",
+     "title": "European Commissioner Marta KOS in Montenegro",
+     "summary": "Visit of Ostrog Monastery",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-09T12:22:12+00:00"
+  },
+  {
+   "ep": false,
    "start": "2026-07-12T07:00:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
@@ -1817,6 +977,26 @@
    "ep": false,
    "start": "2026-07-13T14:00:00.000Z",
    "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "Signature ceremony with European Commissioner Dubravka ŠUICA and the Prime Minister of the Palestinian Authority Mohammad MUSTAFA on financial support from Member States to Palestine",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292494",
+     "title": "Signature ceremony with European Commissioner Dubravka ŠUICA and the Prime Minister of the Palestinian Authority Mohammad MUSTAFA on financial support from Member States to Palestine",
+     "summary": "Signing ceremony",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-09T12:22:12+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-13T14:00:00.000Z",
+   "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "Foreign Affairs Council",
@@ -1867,6 +1047,26 @@
   },
   {
    "ep": false,
+   "start": "2026-07-13T16:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "EC press point by European Commissioner Dubravka ŠUICA and the Prime Minister of the Palestinian Authority Mohammad MUSTAFA on the Palestine Donor Group",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292466",
+     "title": "EC press point by European Commissioner Dubravka ŠUICA and the Prime Minister of the Palestinian Authority Mohammad MUSTAFA on the Palestine Donor Group",
+     "summary": "Press point by Dubravka ŠUICA, European Commissioner for the Mediterranean and Mohammad MUSTAFA, Palestinian Prime Minister",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-09T12:22:12+00:00"
+  },
+  {
+   "ep": false,
    "start": "2026-07-14T06:30:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
@@ -1884,6 +1084,38 @@
     }
    ],
    "firstSeen": "2026-07-08T16:57:53+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-07-14T07:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "",
+   "title": "EP Exchange of views Conditions and procedures for unfreezing EU funds allocated to Hungary CONT BUDG Committee",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292569",
+     "title": "EP Exchange of views Conditions and procedures for unfreezing EU funds allocated to Hungary CONT BUDG Committee",
+     "summary": "Opening statements Committee on Budgetary Control (CONT) and Committee on Budgets (BUDG)",
+     "inst": "EP"
+    },
+    {
+     "ref": "I-292570",
+     "title": "EP Exchange of views Conditions and procedures for unfreezing EU funds allocated to Hungary CONT BUDG Committee",
+     "summary": "Q&A Committee on Budgetary Control (CONT) and Committee on Budgets (BUDG)",
+     "inst": "EP"
+    },
+    {
+     "ref": "I-292571",
+     "title": "EP Exchange of views Conditions and procedures for unfreezing EU funds allocated to Hungary CONT BUDG Committee",
+     "summary": "Closing statements Committee on Budgetary Control (CONT) and Committee on Budgets (BUDG)",
+     "inst": "EP"
+    }
+   ],
+   "firstSeen": "2026-07-09T12:22:12+00:00"
   },
   {
    "ep": false,
@@ -1982,6 +1214,295 @@
     }
    ],
    "firstSeen": "2026-07-08T16:57:53+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-07-14T10:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "EDIT",
+   "title": "EP News Conditions and procedures for unfreezing EU funds allocated to Hungary CONT BUDG Committee",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292568",
+     "title": "EP News Conditions and procedures for unfreezing EU funds allocated to Hungary CONT BUDG Committee",
+     "summary": "Conditions and procedures for unfreezing EU funds allocated to Hungary extracts from the exchange of views with Raffaele FITTO, Executive Vice-President of the European Commission for Cohesion and Reforms, Piotr SERAFIN, European Commissioner for Budget, Anti-Fraud and Public Administration and Michael MCGRATH, European Commissioner for Democracy, Justice, the Rule of Law, and Consumer Protection Committee on Budgetary Control (CONT) and Committee on Budgets (BUDG)",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292568-V_v"
+    }
+   ],
+   "firstSeen": "2026-07-09T12:22:12+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-14T11:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "EC press point by European Commissioner Dubravka ŠUICA on the Demography report",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292581",
+     "title": "EC press point by European Commissioner Dubravka ŠUICA on the Demography report",
+     "summary": "Press point by Dubravka ŠUICA, European Commissioner for the Mediterranean",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-09T12:22:12+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-07-14T13:15:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "EP Exchange of views Safety and cyber security risks potentially posed by advanced AI systems, and the application of the EU AI Act and European digital rules IMCO Committee",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292573",
+     "title": "EP Exchange of views Safety and cyber security risks potentially posed by advanced AI systems, and the application of the EU AI Act and European digital rules IMCO Committee",
+     "summary": "Opening statements Committee on the Internal Market and Consumer Protection (IMCO)",
+     "inst": "EP"
+    },
+    {
+     "ref": "I-292574",
+     "title": "EP Exchange of views Safety and cyber security risks potentially posed by advanced AI systems, and the application of the EU AI Act and European digital rules IMCO Committee",
+     "summary": "Q&A Committee on the Internal Market and Consumer Protection (IMCO)",
+     "inst": "EP"
+    },
+    {
+     "ref": "I-292575",
+     "title": "EP Exchange of views Safety and cyber security risks potentially posed by advanced AI systems, and the application of the EU AI Act and European digital rules IMCO Committee",
+     "summary": "Closing statements Committee on the Internal Market and Consumer Protection (IMCO)",
+     "inst": "EP"
+    }
+   ],
+   "firstSeen": "2026-07-09T12:22:12+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-07-14T16:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "EDIT",
+   "title": "EP News Presentation of the EU Council's priorities by Irish Ministers",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292567",
+     "title": "EP News Presentation of the EU Council's priorities by Irish Ministers LIBE ITRE AFET SEDE AGRI ENVI Committees",
+     "summary": "Presentation of the EU Council's priorities by Irish Ministers extracts from the EP Committee meetings Committee on Civil Liberties, Justice and Home Affairs (LIBE), Committee on Industry, Research and Energy (ITRE), Committee on Foreign Affairs (AFET), Committee on Security and Defence (SEDE), Committee on Agriculture and Rural Development (AGRI) and Committee on the Environment, Climate and Food Safety (ENVI)",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292567-V_v"
+    }
+   ],
+   "firstSeen": "2026-07-09T12:22:12+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-14T23:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "607th European Economic and Social Committee Plenary session",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292443",
+     "title": "607th European Economic and Social Committee Plenary session",
+     "summary": "Details to follow",
+     "inst": "European Economic "
+    }
+   ],
+   "firstSeen": "2026-07-09T12:22:12+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-15T09:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "EC press point by Executive Vice-President Roxana MÎNZATU and the Chair of the European Skills High-Level Board Ylva JOHANSSON on the European Skills High-Level Board and the Skills Guarantee Pilot",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292445",
+     "title": "EC press point by Executive Vice-President Roxana MÎNZATU and the Chair of the European Skills High-Level Board Ylva JOHANSSON on the European Skills High-Level Board and the Skills Guarantee Pilot",
+     "summary": "Press point by Roxana MÎNZATU, Executive Vice-President of the European Commission for Social Rights and Skills, Quality Jobs and Preparedness and Ylva JOHANSSON, Chair of the European Skills High-Level Board",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-09T12:22:12+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-15T10:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "Read-out of the College meeting / press conference with international sign language (details to follow)",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "EL",
+    "PT",
+    "NL",
+    "DA",
+    "FI",
+    "SV",
+    "CS",
+    "ET",
+    "LV",
+    "LT",
+    "HU",
+    "MT",
+    "PL",
+    "SK",
+    "SL",
+    "BG",
+    "RO",
+    "HR"
+   ],
+   "items": [
+    {
+     "ref": "I-292417",
+     "title": "Read-out of the College meeting / press conference with international sign language (details to follow)",
+     "summary": "Read-out of the College meeting / press conference (with international sign language)",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-09T12:22:12+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-07-15T12:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "",
+   "title": "EP Exchange of Views Outcome of the NATO Summit in Ankara with Radmila ŠEKERINSKA, Deputy Secretary General of NATO SEDE Committee and D-NPA Delegation",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292577",
+     "title": "EP Exchange of Views Outcome of the NATO Summit in Ankara with Radmila ŠEKERINSKA, Deputy Secretary General of NATO SEDE Committee and D-NPA Delegation",
+     "summary": "Opening statements Committee on Security and Defence (SEDE) and Delegation for relations with the NATO Parliamentary Assembly (D-NPA)",
+     "inst": "EP"
+    },
+    {
+     "ref": "I-292578",
+     "title": "EP Exchange of Views Outcome of the NATO Summit in Ankara with Radmila ŠEKERINSKA, Deputy Secretary General of NATO SEDE Committee and D-NPA Delegation",
+     "summary": "Q&A Committee on Security and Defence (SEDE) and Delegation for relations with the NATO Parliamentary Assembly (D-NPA)",
+     "inst": "EP"
+    },
+    {
+     "ref": "I-292579",
+     "title": "EP Exchange of Views Outcome of the NATO Summit in Ankara with Radmila ŠEKERINSKA, Deputy Secretary General of NATO SEDE Committee and D-NPA Delegation",
+     "summary": "Closing statements Committee on Security and Defence (SEDE) and Delegation for relations with the NATO Parliamentary Assembly (D-NPA)",
+     "inst": "EP"
+    }
+   ],
+   "firstSeen": "2026-07-09T12:22:12+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-15T13:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "EC Midday press briefing of 15/07/2026",
+   "languages": [
+    "INT",
+    "EN",
+    "FR"
+   ],
+   "items": [
+    {
+     "ref": "I-292594",
+     "title": "EC Midday press briefing of 15/07/2026",
+     "summary": "Announcements",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292595",
+     "title": "EC Midday press briefing of 15/07/2026",
+     "summary": "Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292596",
+     "title": "EC Midday press briefing of 15/07/2026",
+     "summary": "Exterior views of the European Commission Berlaymont building",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292597",
+     "title": "EC Midday press briefing of 15/07/2026",
+     "summary": "Recorded cutaways",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-09T12:22:12+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-15T14:20:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "EU-India Trade and Technology Council (TTC) ministerial",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292468",
+     "title": "EU-India Trade and Technology Council (TTC) ministerial",
+     "summary": "Press point by Henna VIRKKUNEN, Executive Vice-President of the European Commission for Tech Sovereignty, Security and Democracy Maroš ŠEFČOVIČ, European Commissioner for Trade and Economic Security, and European Commissioner for Interinstitutional Relations and Transparency Ekaterina ZAHARIEVA, European Commissioner for Startups, Research and Innovation Subrahmanyam JAISHANKAR, Minister of External Affairs of India Piyush GOYAL, Minister of Commerce and Industry of India Jitin PRASADA, Minister of State for Electronics and Information Technology of India",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-09T12:22:12+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-07-15T15:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "EP News Exchange of views with Anthropic IMCO Committee",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292501",
+     "title": "EP News Exchange of views with Anthropic IMCO Committee",
+     "summary": "Exchange of view on safety and cyber security risks potentially posed by advanced AI systems, and the application of the EU AI Act and European digital rules extracts from the exchange of views with Anthropic Committee on the Internal Market and Consumer Protection (IMCO )",
+     "inst": "EP"
+    }
+   ],
+   "firstSeen": "2026-07-09T12:22:12+00:00"
   }
  ]
 }
