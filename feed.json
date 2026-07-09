@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-09T14:02:27+00:00",
+ "generatedAt": "2026-07-09T19:13:54+00:00",
  "events": [
   {
    "ep": true,
@@ -495,7 +495,7 @@
   },
   {
    "ep": false,
-   "start": "2026-07-09T14:00:00.000Z",
+   "start": "2026-07-09T14:00:10.000Z",
    "durationSec": 488,
    "channel": "EBS",
    "status": "EDIT",
@@ -523,12 +523,12 @@
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-07-03T11:42:38+00:00"
+   "firstSeen": "2026-07-09T19:13:54+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-09T16:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-09T16:45:10.000Z",
+   "durationSec": 325,
    "channel": "EBS",
    "status": "EDIT",
    "title": "Eurogroup meeting",
@@ -537,18 +537,24 @@
    ],
    "items": [
     {
+     "ref": "I-292631",
+     "title": "Eurogroup meeting",
+     "summary": "Arrival of Rachel REEVES, British Chancellor of the Exchequer",
+     "inst": "Council"
+    },
+    {
      "ref": "I-292354",
      "title": "Eurogroup meeting",
      "summary": "Roundtable inclusive format",
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-07-03T11:42:38+00:00"
+   "firstSeen": "2026-07-09T19:13:54+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-09T16:30:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-09T17:29:52.920Z",
+   "durationSec": 1420,
    "channel": "EBS",
    "status": "LIVE",
    "title": "Eurogroup meeting",
@@ -558,29 +564,52 @@
     "FR",
     "DE",
     "IT",
-    "ES",
-    "NL"
+    "ES"
    ],
    "items": [
     {
+     "ref": "I-292635",
+     "title": "Eurogroup meeting",
+     "summary": "Press conference opening remarks by Kyriakos PIERRAKAKIS, President of the Eurogroup Press conference opening remarks by Valdis DOMBROVSKIS, European Commissioner for Economy and Productivity Press conference opening remarks Pierre GRAMEGNA, Managing Director of the European Stability Mechanism Q&A",
+     "inst": "Council"
+    },
+    {
      "ref": "I-292134",
      "title": "Eurogroup meeting",
-     "summary": "Press conference by Kyriakos PIERRAKAKIS, President of the Eurogroup, Valdis DOMBROVSKIS, European Commissioner for Economy and Productivity, and Pierre GRAMEGNA, Managing Director of the European Stability Mechanism",
+     "summary": "Press conference opening remarks by Kyriakos PIERRAKAKIS, President of the Eurogroup",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292632",
+     "title": "Eurogroup meeting",
+     "summary": "Press conference opening remarks by Valdis DOMBROVSKIS, European Commissioner for Economy and Productivity",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292633",
+     "title": "Eurogroup meeting",
+     "summary": "Press conference opening remarks Pierre GRAMEGNA, Managing Director of the European Stability Mechanism",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292634",
+     "title": "Eurogroup meeting",
+     "summary": "Q&A",
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-07-09T12:22:12+00:00"
+   "firstSeen": "2026-07-09T19:13:54+00:00"
   },
   {
    "ep": true,
-   "start": "2026-07-09T17:30:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-09T17:52:35.360Z",
+   "durationSec": 3288,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "Economist’s 30th Annual Government Roundtable in Attica, Greece",
    "languages": [
-    "EN",
-    "EL"
+    "INT",
+    "EN"
    ],
    "items": [
     {
@@ -591,7 +620,7 @@
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292295-V_v"
     }
    ],
-   "firstSeen": "2026-07-03T17:03:46+00:00"
+   "firstSeen": "2026-07-09T19:13:54+00:00"
   },
   {
    "ep": true,
@@ -607,7 +636,7 @@
     {
      "ref": "I-292296",
      "title": "EP News Economist’s 30th Annual Government Roundtable",
-     "summary": "Official visit by Roberta METSOLA, EP President to Athens (Greece) Participation to the Economist’s 30th Annual Government Roundtable with Kyriakos MITSOTAKIS, Greek Prime Minister: extracts",
+     "summary": "Official visit by Roberta METSOLA, EP President to Athens (Greece) - Meeting with Kyriakos MITSOTAKIS, Greek Prime Minister and participation to the Economist’s 30th Annual Government Roundtable: extracts",
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292296-V_v"
     }
@@ -835,6 +864,32 @@
   },
   {
    "ep": false,
+   "start": "2026-07-10T15:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT_RECORDED",
+   "title": "European Commissioner Olivér VÁRHELYI in France",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292629",
+     "title": "European Commissioner Olivér VÁRHELYI in France",
+     "summary": "Site visit - pork Farm Dunkerque area",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292630",
+     "title": "European Commissioner Olivér VÁRHELYI in France",
+     "summary": "Port of Calais visit",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-09T19:13:54+00:00"
+  },
+  {
+   "ep": false,
    "start": "2026-07-10T16:30:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
@@ -854,12 +909,6 @@
      "ref": "I-292600",
      "title": "European Commissioner Marta KOS in Montenegro",
      "summary": "Great Kotor Bay seabed clean-up event with joint press statement with Milojko SPAJIĆ, Montenegrin Prime Minister",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292602",
-     "title": "European Commissioner Marta KOS in Montenegro",
-     "summary": "Visit of Ostrog Monastery",
      "inst": "EC"
     }
    ],
@@ -1158,12 +1207,18 @@
    "start": "2026-07-14T09:00:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
-   "status": "EDIT",
+   "status": "EDIT_RECORDED",
    "title": "General Affairs Council",
    "languages": [
     "INT"
    ],
    "items": [
+    {
+     "ref": "I-292628",
+     "title": "General Affairs Council",
+     "summary": "Recorded doorsteps",
+     "inst": "Council"
+    },
     {
      "ref": "I-292539",
      "title": "General Affairs Council",
@@ -1252,27 +1307,6 @@
    "firstSeen": "2026-07-08T16:57:53+00:00"
   },
   {
-   "ep": true,
-   "start": "2026-07-14T10:30:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS+",
-   "status": "EDIT",
-   "title": "EP News Conditions and procedures for unfreezing EU funds allocated to Hungary CONT BUDG Committee",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292568",
-     "title": "EP News Conditions and procedures for unfreezing EU funds allocated to Hungary CONT BUDG Committee",
-     "summary": "Conditions and procedures for unfreezing EU funds allocated to Hungary extracts from the exchange of views with Raffaele FITTO, Executive Vice-President of the European Commission for Cohesion and Reforms, Piotr SERAFIN, European Commissioner for Budget, Anti-Fraud and Public Administration and Michael MCGRATH, European Commissioner for Democracy, Justice, the Rule of Law, and Consumer Protection Committee on Budgetary Control (CONT) and Committee on Budgets (BUDG)",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292568-V_v"
-    }
-   ],
-   "firstSeen": "2026-07-09T12:22:12+00:00"
-  },
-  {
    "ep": false,
    "start": "2026-07-14T11:00:00.000Z",
    "durationSec": 0,
@@ -1291,6 +1325,27 @@
     }
    ],
    "firstSeen": "2026-07-09T12:22:12+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-07-14T11:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "EDIT",
+   "title": "EP News Conditions and procedures for unfreezing EU funds allocated to Hungary CONT BUDG Committee",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292568",
+     "title": "EP News Conditions and procedures for unfreezing EU funds allocated to Hungary CONT BUDG Committee",
+     "summary": "Conditions and procedures for unfreezing EU funds allocated to Hungary extracts from the exchange of views with Raffaele FITTO, Executive Vice-President of the European Commission for Cohesion and Reforms, Piotr SERAFIN, European Commissioner for Budget, Anti-Fraud and Public Administration and Michael MCGRATH, European Commissioner for Democracy, Justice, the Rule of Law, and Consumer Protection Committee on Budgetary Control (CONT) and Committee on Budgets (BUDG)",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292568-V_v"
+    }
+   ],
+   "firstSeen": "2026-07-09T19:13:54+00:00"
   },
   {
    "ep": true,
