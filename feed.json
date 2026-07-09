@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-09T12:22:12+00:00",
+ "generatedAt": "2026-07-09T14:02:27+00:00",
  "events": [
   {
    "ep": true,
@@ -385,7 +385,7 @@
   },
   {
    "ep": false,
-   "start": "2026-07-09T12:00:00.000Z",
+   "start": "2026-07-09T12:29:52.320Z",
    "durationSec": 0,
    "channel": "EBS",
    "status": "LIVE",
@@ -397,16 +397,52 @@
     {
      "ref": "I-292129",
      "title": "Eurogroup meeting",
-     "summary": "Arrivals and doorsteps",
+     "summary": "Arrival doorstep by Riikka PURRA, Finnish Minister for Finance",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292616",
+     "title": "Eurogroup meeting",
+     "summary": "Arrival doorstep by Simon HARRIS, Tánaiste and Irish Minister for Finance",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292617",
+     "title": "Eurogroup meeting",
+     "summary": "Arrival doorstep by Joaquim MIRANDA SARMENTO, Portuguese Minister of State and for Finance",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292618",
+     "title": "Eurogroup meeting",
+     "summary": "Arrival doorstep by Kyriakos PIERRAKAKIS, President of the Eurogroup",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292619",
+     "title": "Eurogroup meeting",
+     "summary": "Arrival doorstep by Valdis DOMBROVSKIS, European Commissioner for Economy and Productivity, and European Commissioner for Implementation and Simplification",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292620",
+     "title": "Eurogroup meeting",
+     "summary": "Arrival doorstep by Carlos CUERPO, Spanish Minister for Economy, Trade and Business",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292621",
+     "title": "Eurogroup meeting",
+     "summary": "Arrival doorstep by Eelco HEINEN, Dutch Minister for Finance",
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-07-03T11:42:38+00:00"
+   "firstSeen": "2026-07-09T14:02:27+00:00"
   },
   {
    "ep": true,
-   "start": "2026-07-09T13:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-09T13:00:26.040Z",
+   "durationSec": 2753,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "EP Plenary Session An updated regulatory framework for wool Commission",
@@ -445,22 +481,22 @@
     {
      "ref": "I-292203",
      "title": "EP Plenary Session An updated regulatory framework for wool Commission",
-     "summary": "MEPs debate and reply from Dubravka ŠUICA, European Commissioner for the Mediterranean",
+     "summary": "MEPs debate",
      "inst": "EP"
     },
     {
      "ref": "I-292204",
      "title": "EP Plenary Session An updated regulatory framework for wool Commission",
-     "summary": "MEPs debate (part 2)",
+     "summary": "Closing remarks by Dubravka ŠUICA, European Commissioner for the Mediterranean",
      "inst": "EP"
     }
    ],
-   "firstSeen": "2026-07-03T11:42:38+00:00"
+   "firstSeen": "2026-07-09T14:02:27+00:00"
   },
   {
    "ep": false,
    "start": "2026-07-09T14:00:00.000Z",
-   "durationSec": 0,
+   "durationSec": 488,
    "channel": "EBS",
    "status": "EDIT",
    "title": "Eurogroup meeting",
@@ -477,7 +513,7 @@
     {
      "ref": "I-292131",
      "title": "Eurogroup meeting",
-     "summary": "Compilation of all arrivlals",
+     "summary": "Compilation of all arrivals",
      "inst": "Council"
     },
     {
@@ -975,7 +1011,7 @@
   },
   {
    "ep": false,
-   "start": "2026-07-13T14:00:00.000Z",
+   "start": "2026-07-13T11:00:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
    "status": "LIVE",
@@ -987,11 +1023,11 @@
     {
      "ref": "I-292494",
      "title": "Signature ceremony with European Commissioner Dubravka ŠUICA and the Prime Minister of the Palestinian Authority Mohammad MUSTAFA on financial support from Member States to Palestine",
-     "summary": "Signing ceremony",
+     "summary": "Signing ceremony by Dubravka ŠUICA, European Commissioner for the Mediterranean and Mohammad MUSTAFA, Prime Minister of the Palestinian Authority",
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-09T12:22:12+00:00"
+   "firstSeen": "2026-07-09T14:02:27+00:00"
   },
   {
    "ep": false,
