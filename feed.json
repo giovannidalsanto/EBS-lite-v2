@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-10T15:36:19+00:00",
+ "generatedAt": "2026-07-10T17:22:30+00:00",
  "events": [
   {
    "ep": false,
@@ -488,7 +488,7 @@
     {
      "ref": "I-292713",
      "title": "European Commissioner Marta KOS in Montenegro",
-     "summary": "Press conference",
+     "summary": "Press conference by Milojko SPAJIĆ, Montenegrin Prime Minister, and Marta KOS, European Commissioner for Enlargement",
      "inst": "EC"
     }
    ],
@@ -627,19 +627,23 @@
    "durationSec": 0,
    "channel": "EBS",
    "status": "LIVE",
-   "title": "EC President Ursula von der LEYEN receives the final report on child safety online from the co-chairs of the special panel of experts",
+   "title": "Press point by EC President Ursula von der LEYEN and the co-chairs of the Special Panel on child safety online, on the report on children’s safety online",
    "languages": [
-    "INT"
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "MT"
    ],
    "items": [
     {
      "ref": "I-292698",
-     "title": "EC President Ursula von der LEYEN receives the final report on child safety online from the co-chairs of the special panel of experts",
-     "summary": "Ursula von der LEYEN, President of the European Commission receives the final report on child safety online from the co-chairs of the special panel of experts",
+     "title": "Press point by EC President Ursula von der LEYEN and the co-chairs of the Special Panel on child safety online, on the report on children’s safety online",
+     "summary": "Press point by Ursula von der LEYEN, President of the European Commission, and the co-chairs of the Special Panel on child safety online",
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-10T12:15:01+00:00"
+   "firstSeen": "2026-07-10T17:22:30+00:00"
   },
   {
    "ep": false,
