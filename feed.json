@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-13T16:06:27+00:00",
+ "generatedAt": "2026-07-13T18:03:18+00:00",
  "events": [
   {
    "ep": false,
@@ -459,27 +459,33 @@
   {
    "ep": false,
    "start": "2026-07-13T16:00:00.000Z",
-   "durationSec": 58,
+   "durationSec": 71,
    "channel": "EBS",
    "status": "EDIT",
-   "title": "European Commission President Ursula von der LEYEN and European Council President in Paris, France to participate in the meeting of the Coalition of the Willing on Ukraine hosted by President Emmanuel Macron",
+   "title": "European Commission President Ursula von der LEYEN in Paris, France to participate in the meeting of the Coalition of the Willing on Ukraine hosted by President Emmanuel Macron",
    "languages": [
     "INT"
    ],
    "items": [
     {
      "ref": "I-292437",
-     "title": "European Commission President Ursula von der LEYEN and European Council President António COSTA in Paris, France to participate in the meeting of the Coalition of the Willing on Ukraine hosted by President Emmanuel Macron",
-     "summary": "Arrival and welcome",
+     "title": "European Commission President Ursula von der LEYEN in Paris, France to participate in the meeting of the Coalition of the Willing on Ukraine hosted by President Emmanuel Macron",
+     "summary": "Arrivals of Ursula von der LEYEN, President of the European Commission and António COSTA, President of the European Council and welcome by Emmanuel MACRON, President of the French Republic",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292814",
+     "title": "European Commission President Ursula von der LEYEN in Paris, France to participate in the meeting of the Coalition of the Willing on Ukraine hosted by President Emmanuel Macron",
+     "summary": "Pull aside Ursula von der LEYEN, President of the European Commission with Keir STARMER, British Prime Minister",
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-13T16:06:27+00:00"
+   "firstSeen": "2026-07-13T18:03:18+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-13T16:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-13T16:03:48.520Z",
+   "durationSec": 1789,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "Agriculture and Fisheries Council",
@@ -493,6 +499,12 @@
     "NL"
    ],
    "items": [
+    {
+     "ref": "I-292816",
+     "title": "Agriculture and Fisheries Council",
+     "summary": "Press conference opening remarks by Martin HEYDON, Minister of Agriculture, Food and the Marine of Ireland Press conference opening remarks by Christophe HANSEN, European Commissioner for Agriculture and Food Q&A with Martin HEYDON, Minister of Agriculture, Food and the Marine of Ireland and Christophe HANSEN, European Commissioner for Agriculture and Food",
+     "inst": "Council"
+    },
     {
      "ref": "I-292436",
      "title": "Agriculture and Fisheries Council",
@@ -512,34 +524,11 @@
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-07-13T16:06:27+00:00"
+   "firstSeen": "2026-07-13T18:03:18+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-13T16:30:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "EC press point by European Commissioner Dubravka ŠUICA and the Prime Minister of the Palestinian Authority Mohammad MUSTAFA following the Second Palestine Donor Group Ministerial meeting",
-   "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "AR"
-   ],
-   "items": [
-    {
-     "ref": "I-292466",
-     "title": "EC press point by European Commissioner Dubravka ŠUICA and the Prime Minister of the Palestinian Authority Mohammad MUSTAFA following the Second Palestine Donor Group Ministerial meeting",
-     "summary": "Press point by Dubravka ŠUICA, European Commissioner for the Mediterranean and Mohammad MUSTAFA, Palestinian Prime Minister",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-07-13T16:06:27+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-13T16:30:00.000Z",
+   "start": "2026-07-13T16:40:10.000Z",
    "durationSec": 1302,
    "channel": "EBS+",
    "status": "RECORDED",
@@ -561,7 +550,30 @@
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-07-13T16:06:27+00:00"
+   "firstSeen": "2026-07-13T18:03:18+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-13T17:00:26.960Z",
+   "durationSec": 1725,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "EC press point by European Commissioner Dubravka ŠUICA and the Prime Minister of the Palestinian Authority Mohammad MUSTAFA following the Second Palestine Donor Group Ministerial meeting",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "AR"
+   ],
+   "items": [
+    {
+     "ref": "I-292466",
+     "title": "EC press point by European Commissioner Dubravka ŠUICA and the Prime Minister of the Palestinian Authority Mohammad MUSTAFA following the Second Palestine Donor Group Ministerial meeting",
+     "summary": "Press point by Dubravka ŠUICA, European Commissioner for the Mediterranean and Mohammad MUSTAFA, Palestinian Prime Minister",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-13T18:03:18+00:00"
   },
   {
    "ep": false,
