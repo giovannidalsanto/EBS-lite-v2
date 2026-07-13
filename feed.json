@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-13T05:51:02+00:00",
+ "generatedAt": "2026-07-13T07:29:40+00:00",
  "events": [
   {
    "ep": false,
@@ -40,12 +40,60 @@
     },
     {
      "ref": "I-292714",
-     "title": "Foreign Affairs Council Agriculture and Fisheries Council",
-     "summary": "Arrivals and doorsteps",
+     "title": "Foreign Affairs Council",
+     "summary": "Doorstep Gordan GRLIĆ RADMAN, Minister for Foreign and European Affairs of Croatia",
      "inst": "Council"
     },
     {
      "ref": "I-292715",
+     "title": "Foreign Affairs Council",
+     "summary": "Doorstep Tone KAJZER, Minister of Foreign and European Affairs of Slovenia",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292716",
+     "title": "Foreign Affairs Council",
+     "summary": "Doorstep Kęstutis BUDRYS, Minister for Foreign Affairs of Lithuania",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292717",
+     "title": "Foreign Affairs Council",
+     "summary": "Doorstep Oana-Silvia ȚOIU, Minister of Foreign Affairs of Romania",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292718",
+     "title": "Foreign Affairs Council",
+     "summary": "Doorstep Maxime PRÉVOT, Deputy Prime Minister of Belgium and Minister of Foreign Affairs, European Affairs and Development Cooperation of Belgium",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292719",
+     "title": "Agriculture and Fisheries Council",
+     "summary": "Doorstep Rolandas TARAŠKEVIČIUS, Vice-Minister for Agriculture of Lithuania",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292721",
+     "title": "Agriculture and Fisheries Council",
+     "summary": "Doorstep Martin HEYDON, Minister of Agriculture, Food and the Marine of Ireland",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292722",
+     "title": "Foreign Affairs Council",
+     "summary": "Doorstep Tom BERENDSEN, Minister for Foreign Affairs, Minister for Asylum and Migration of the Netherlands",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292726",
+     "title": "Foreign Affairs Council",
+     "summary": "Doorstep José Manuel ALBARES Bueno, Minister of Foreign Affairs, European Union and Cooperation of Spain",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292727",
      "title": "Foreign Affairs Council Agriculture and Fisheries Council",
      "summary": "Arrivals and doorsteps",
      "inst": "Council"
@@ -59,23 +107,22 @@
    "durationSec": 0,
    "channel": "EBS",
    "status": "LIVE",
-   "title": "Press point by EC President Ursula von der LEYEN and the co-chairs of the Special Panel on child safety online, on the report on children’s safety online",
+   "title": "Press point by EC President Ursula von der LEYEN and the co-chairs of the Special Panel on child safety online with Prof Jorg M. FEGERT and Dr Maria MELCIOR on the report on children’s safety , on the report on children’s safety online",
    "languages": [
     "INT",
     "EN",
     "FR",
-    "DE",
-    "MT"
+    "DE"
    ],
    "items": [
     {
      "ref": "I-292698",
-     "title": "Press point by EC President Ursula von der LEYEN and the co-chairs of the Special Panel on child safety online, on the report on children’s safety online",
-     "summary": "Press point by Ursula von der LEYEN, President of the European Commission, and the co-chairs of the Special Panel on child safety online",
+     "title": "Press point by EC President Ursula von der LEYEN and the co-chairs of the Special Panel on child safety online with Prof Jorg M. FEGERT and Dr Maria MELCIOR on the report on children’s safety , on the report on children’s safety online",
+     "summary": "Press point by Ursula von der LEYEN, President of the European Commission, and the co-chairs of the Special Panel Prof Jorg M. FEGERT and Dr Maria MELCIOR on child safety online",
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-10T17:22:30+00:00"
+   "firstSeen": "2026-07-13T07:29:40+00:00"
   },
   {
    "ep": false,
@@ -99,7 +146,7 @@
   },
   {
    "ep": false,
-   "start": "2026-07-13T09:00:00.000Z",
+   "start": "2026-07-13T09:30:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "EDIT",
@@ -127,11 +174,11 @@
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-07-08T16:57:53+00:00"
+   "firstSeen": "2026-07-13T07:29:40+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-13T09:30:00.000Z",
+   "start": "2026-07-13T10:00:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "EDIT",
@@ -159,7 +206,7 @@
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-07-08T16:57:53+00:00"
+   "firstSeen": "2026-07-13T07:29:40+00:00"
   },
   {
    "ep": false,
@@ -390,7 +437,7 @@
    "start": "2026-07-14T07:30:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
-   "status": "",
+   "status": "LIVE",
    "title": "EP Exchange of views Conditions and procedures for unfreezing EU funds allocated to Hungary CONT BUDG Committee",
    "languages": [
     "INT",
@@ -699,7 +746,7 @@
    "durationSec": 0,
    "channel": "EBS+",
    "status": "EDIT",
-   "title": "EP News Presentation of the EU Council's priorities by Irish Ministers",
+   "title": "EP News Presentation of the EU Council's priorities by Irish Ministers LIBE ITRE AFET SEDE AGRI ENVI Committees",
    "languages": [
     "INT"
    ],
@@ -712,7 +759,7 @@
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292567-V_v"
     }
    ],
-   "firstSeen": "2026-07-09T12:22:12+00:00"
+   "firstSeen": "2026-07-13T07:29:40+00:00"
   },
   {
    "ep": false,
@@ -784,7 +831,7 @@
    "start": "2026-07-15T12:30:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
-   "status": "",
+   "status": "LIVE",
    "title": "EP Exchange of Views Outcome of the NATO Summit in Ankara with Radmila ŠEKERINSKA, Deputy Secretary General of NATO SEDE Committee and D-NPA Delegation",
    "languages": [
     "INT",
