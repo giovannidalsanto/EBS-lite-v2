@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-13T13:27:52+00:00",
+ "generatedAt": "2026-07-13T16:06:27+00:00",
  "events": [
   {
    "ep": false,
@@ -316,8 +316,8 @@
   },
   {
    "ep": false,
-   "start": "2026-07-13T14:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-13T14:21:38.040Z",
+   "durationSec": 1035,
    "channel": "EBS",
    "status": "LIVE",
    "title": "Signature ceremony with European Commissioner Dubravka ŠUICA and the Prime Minister of the Palestinian Authority Mohammad MUSTAFA on financial support from Member States to Palestine",
@@ -331,42 +331,16 @@
     {
      "ref": "I-292494",
      "title": "Signature ceremony with European Commissioner Dubravka ŠUICA and the Prime Minister of the Palestinian Authority Mohammad MUSTAFA on financial support from Member States to Palestine",
-     "summary": "Signing ceremony by Dubravka ŠUICA, European Commissioner for the Mediterranean and Mohammad MUSTAFA, Prime Minister of the Palestinian Authority",
+     "summary": "Signing ceremony in presence by Dubravka ŠUICA, European Commissioner for the Mediterranean and Mohammad MUSTAFA, Prime Minister of the Palestinian Authority Dubravka ŠUICA, European Commissioner for the Mediterranean Estephan SALAMEH, Minister of Finance and Planning of the Palestinian Authority José Manuel ALBARES BUENO, Spanish Minister for Foreign Affairs, European Union and Cooperation Lars Løkke RASMUSSEN, Danish Minister for Foreign Affairs Constantinos KOMBOS, Cypriot Minister for Foreign Affairs Helen MCENTEE, Irish Minister for Foreign Affairs and Trade and Minister for Defence Alexandra PAPADOPOULOU , Deputy Minister of Foreign Affairs of Greece Inês DOMINGOS, Secretary of State for European Affairs of Portugal Maria TRIPODI, Vice-Minister for Foreign Affairs and International Cooperation Marcel DE VINK, Vice Minister, Director General of Political Affairs at the Ministry of Foreign Affairs of the Netherlands Philippe LEGLISE-COSTA, Ambassador, PermanentRepresentative of France to the European Union Didier CHASSOT, Assistant Director General and Head of the Europoe and Middle East Division of Swiss Agency for Development and Cooperation Véronique PETIT, Director General for Multilateral Affairs, Foreign Affairs Ministry of Belgium Group photo",
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-10T15:36:19+00:00"
+   "firstSeen": "2026-07-13T16:06:27+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-13T14:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "Foreign Affairs Council",
-   "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "DE",
-    "IT",
-    "ES",
-    "NL"
-   ],
-   "items": [
-    {
-     "ref": "I-292532",
-     "title": "Foreign Affairs Council",
-     "summary": "Press conference by Kaja KALLAS, High Representative of the Union for Foreign Affairs and Security Policy and Vice-President of the European Commission",
-     "inst": "Council"
-    }
-   ],
-   "firstSeen": "2026-07-08T16:57:53+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-13T14:30:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-13T14:52:05.400Z",
+   "durationSec": 1089,
    "channel": "EBS",
    "status": "LIVE",
    "title": "Second Palestine Donor Group Ministerial meeting",
@@ -384,32 +358,50 @@
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-10T15:36:19+00:00"
+   "firstSeen": "2026-07-13T16:06:27+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-13T14:30:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-13T14:54:44.280Z",
+   "durationSec": 1400,
    "channel": "EBS+",
    "status": "LIVE",
-   "title": "Foreign Affairs Council Agriculture and Fisheries Council",
+   "title": "Foreign Affairs Council",
    "languages": [
-    "INT"
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "NL"
    ],
    "items": [
     {
-     "ref": "I-292770",
-     "title": "Foreign Affairs Council Agriculture and Fisheries Council",
-     "summary": "Doorsteps",
+     "ref": "I-292810",
+     "title": "Foreign Affairs Council",
+     "summary": "Press conference opening remarks by Kaja KALLAS, High Representative of the Union for Foreign Affairs and Security Policy and Vice-President of the European Commission Q&A with Kaja KALLAS, High Representative of the Union for Foreign Affairs and Security Policy and Vice-President of the European Commission",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292532",
+     "title": "Foreign Affairs Council",
+     "summary": "Press conference opening remarks by Kaja KALLAS, High Representative of the Union for Foreign Affairs and Security Policy and Vice-President of the European Commission",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292809",
+     "title": "Foreign Affairs Council",
+     "summary": "Q&A with Kaja KALLAS, High Representative of the Union for Foreign Affairs and Security Policy and Vice-President of the European Commission",
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-07-13T13:27:52+00:00"
+   "firstSeen": "2026-07-13T16:06:27+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-13T15:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-13T15:15:10.000Z",
+   "durationSec": 74,
    "channel": "EBS",
    "status": "RECORDED",
    "title": "Second Palestine Donor Group Ministerial meeting",
@@ -424,11 +416,69 @@
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-10T15:36:19+00:00"
+   "firstSeen": "2026-07-13T16:06:27+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-13T15:40:00.000Z",
+   "start": "2026-07-13T15:25:10.000Z",
+   "durationSec": 1103,
+   "channel": "EBS+",
+   "status": "RECORDED",
+   "title": "Foreign Affairs Council Agriculture and Fisheries Council",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292770",
+     "title": "Agriculture and Fisheries Council",
+     "summary": "Doorstep by Richard TAKÁČ, Slovak Minister for Agriculture and Rural Development",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292801",
+     "title": "Foreign Affairs Council",
+     "summary": "Doorstep by Chris FEARNE, Maltese Minister for Foreign and European Affairs",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292805",
+     "title": "Foreign Affairs Council",
+     "summary": "Doorstep Marek EŠTOK, State Secretary at the Ministry of Foreign and European Affairs of Slovakia",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292807",
+     "title": "Foreign Affairs Council",
+     "summary": "Doorstep Tom BERENDSEN, Minister for Foreign Affairs, Minister for Asylum and Migration of the Netherlands",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-07-13T16:06:27+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-13T16:00:00.000Z",
+   "durationSec": 58,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "European Commission President Ursula von der LEYEN and European Council President in Paris, France to participate in the meeting of the Coalition of the Willing on Ukraine hosted by President Emmanuel Macron",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292437",
+     "title": "European Commission President Ursula von der LEYEN and European Council President António COSTA in Paris, France to participate in the meeting of the Coalition of the Willing on Ukraine hosted by President Emmanuel Macron",
+     "summary": "Arrival and welcome",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-13T16:06:27+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-13T16:00:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
@@ -446,31 +496,23 @@
     {
      "ref": "I-292436",
      "title": "Agriculture and Fisheries Council",
-     "summary": "Press conference by the Irish Presidency and the European Commission",
+     "summary": "Press conference opening remarks by Martin HEYDON, Minister of Agriculture, Food and the Marine of Ireland",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292812",
+     "title": "Agriculture and Fisheries Council",
+     "summary": "Press conference opening remarks by Christophe HANSEN, European Commissioner for Agriculture and Food",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292813",
+     "title": "Agriculture and Fisheries Council",
+     "summary": "Q&A with Martin HEYDON, Minister of Agriculture, Food and the Marine of Ireland and Christophe HANSEN, European Commissioner for Agriculture and Food",
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-07-10T15:36:19+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-13T16:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "EDIT",
-   "title": "European Commission President Ursula von der LEYEN in Paris, France to participate in the meeting of the Coalition of the Willing on Ukraine hosted by President Emmanuel Macron",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292437",
-     "title": "European Commission President Ursula von der LEYEN in Paris, France to participate in the meeting of the Coalition of the Willing on Ukraine hosted by President Emmanuel Macron",
-     "summary": "Arrival and welcome",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-07-13T13:27:52+00:00"
+   "firstSeen": "2026-07-13T16:06:27+00:00"
   },
   {
    "ep": false,
@@ -478,7 +520,7 @@
    "durationSec": 0,
    "channel": "EBS",
    "status": "LIVE",
-   "title": "EC press point by European Commissioner Dubravka ŠUICA and the Prime Minister of the Palestinian Authority Mohammad MUSTAFA on the Palestine Donor Group",
+   "title": "EC press point by European Commissioner Dubravka ŠUICA and the Prime Minister of the Palestinian Authority Mohammad MUSTAFA following the Second Palestine Donor Group Ministerial meeting",
    "languages": [
     "INT",
     "EN",
@@ -488,32 +530,38 @@
    "items": [
     {
      "ref": "I-292466",
-     "title": "EC press point by European Commissioner Dubravka ŠUICA and the Prime Minister of the Palestinian Authority Mohammad MUSTAFA on the Palestine Donor Group",
+     "title": "EC press point by European Commissioner Dubravka ŠUICA and the Prime Minister of the Palestinian Authority Mohammad MUSTAFA following the Second Palestine Donor Group Ministerial meeting",
      "summary": "Press point by Dubravka ŠUICA, European Commissioner for the Mediterranean and Mohammad MUSTAFA, Palestinian Prime Minister",
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-09T12:22:12+00:00"
+   "firstSeen": "2026-07-13T16:06:27+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-13T23:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "EDIT",
-   "title": "EC President Ursula von der LEYEN and European Council President António COSTA in Paris, France to participates in the Bastille Day celebrations",
+   "start": "2026-07-13T16:30:00.000Z",
+   "durationSec": 1302,
+   "channel": "EBS+",
+   "status": "RECORDED",
+   "title": "Foreign Affairs Council Agriculture and Fisheries Council",
    "languages": [
     "INT"
    ],
    "items": [
     {
-     "ref": "I-292705",
-     "title": "EC President Ursula von der LEYEN and European Council President António COSTA in Paris, France to participates in the Bastille Day celebrations",
-     "summary": "General views of the attending at the Bastille Day celebrations",
-     "inst": "Other Organisation"
+     "ref": "I-292808",
+     "title": "Foreign Affairs Council",
+     "summary": "Doorstep Gordan GRLIĆ RADMAN, Minister for Foreign and European Affairs of Croatia",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292811",
+     "title": "Agriculture and Fisheries Council",
+     "summary": "Doorstep by Francesco LOLLOBRIGIDA, Minister of Agriculture, Food Sovereignty and Forestry of Italy",
+     "inst": "Council"
     }
    ],
-   "firstSeen": "2026-07-10T15:36:19+00:00"
+   "firstSeen": "2026-07-13T16:06:27+00:00"
   },
   {
    "ep": false,
@@ -565,7 +613,26 @@
    "languages": [
     "INT"
    ],
-   "items": [],
+   "items": [
+    {
+     "ref": "I-292778",
+     "title": "Accession Conference with Ukraine",
+     "summary": "Arrival",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292779",
+     "title": "Accession Conference with Ukraine",
+     "summary": "Family photo",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292780",
+     "title": "Accession Conference with Ukraine",
+     "summary": "Roundtable",
+     "inst": "Council"
+    }
+   ],
    "firstSeen": "2026-07-13T13:27:52+00:00"
   },
   {
@@ -681,26 +748,6 @@
    "ep": false,
    "start": "2026-07-14T09:00:00.000Z",
    "durationSec": 0,
-   "channel": "EBS",
-   "status": "EDIT_RECORDED",
-   "title": "Court of Justice of the European Union",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292647",
-     "title": "Court of Justice of the European Union",
-     "summary": "ECJ ruling in case C-474/24 Nada Austria and others regarding the online publication of the name of a person who has infringed anti-doping rules",
-     "inst": "Court of Justice o"
-    }
-   ],
-   "firstSeen": "2026-07-10T12:15:01+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-14T09:00:00.000Z",
-   "durationSec": 0,
    "channel": "EBS+",
    "status": "EDIT_RECORDED",
    "title": "General Affairs Council",
@@ -734,6 +781,26 @@
     }
    ],
    "firstSeen": "2026-07-08T16:57:53+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-14T09:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "EDIT_RECORDED",
+   "title": "Court of Justice of the European Union",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292647",
+     "title": "Court of Justice of the European Union",
+     "summary": "ECJ ruling in case C-474/24 Nada Austria and others regarding the online publication of the name of a person who has infringed anti-doping rules",
+     "inst": "Court of Justice o"
+    }
+   ],
+   "firstSeen": "2026-07-13T16:06:27+00:00"
   },
   {
    "ep": false,
@@ -863,6 +930,46 @@
     }
    ],
    "firstSeen": "2026-07-13T13:27:52+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-14T12:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "RECORDED",
+   "title": "European Commissioner ŠUICA at the Demography Report presentation event",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292587",
+     "title": "European Commissioner ŠUICA at the Demography Report presentation event",
+     "summary": "Closing remarks by Dubravka ŠUICA, European Commissioner for the Mediterranean",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-13T16:06:27+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-14T12:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "EC President Ursula von der LEYEN and European Council President António COSTA in Paris, France to participates in the Bastille Day celebrations",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292705",
+     "title": "EC President Ursula von der LEYEN and European Council President António COSTA in Paris, France to participates in the Bastille Day celebrations",
+     "summary": "Participation of Ursula von der LEYEN, President of the European Commission and António COSTA, President of the European Council in the military parade on the Champs-Elysées",
+     "inst": "Other Organisation"
+    }
+   ],
+   "firstSeen": "2026-07-13T16:06:27+00:00"
   },
   {
    "ep": false,
@@ -1583,7 +1690,7 @@
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
-   "title": "EC press conference (with international sign language) by European Commission Executive Vice-President Teresa RIBERA and Commissioners Wopke HOEKSTRA and Dan JØRGENSEN on the ETS review and the Energy package",
+   "title": "Read-out of the College meeting / press conference (with international sign language) by European Commission Executive Vice-President Teresa RIBERA and Commissioners Wopke HOEKSTRA and Dan JØRGENSEN on the ETS review and the Energy package",
    "languages": [
     "INT",
     "EN",
@@ -1613,12 +1720,12 @@
    "items": [
     {
      "ref": "I-292700",
-     "title": "EC press conference (with international sign language) by European Commission Executive Vice-President Teresa RIBERA and Commissioners Wopke HOEKSTRA and Dan JØRGENSEN on the ETS review and the Energy package",
+     "title": "Read-out of the College meeting / press conference (with international sign language) by European Commission Executive Vice-President Teresa RIBERA and Commissioners Wopke HOEKSTRA and Dan JØRGENSEN on the ETS review and the Energy package",
      "summary": "Press conference (with international sign language) by Teresa RIBERA, Executive Vice-President of the European Commission for a Clean, Just and Competitive Transition, Wopke HOEKSTRA, European Commissioner for Climate, Net Zero and Clean Growth and Dan JØRGENSEN, European Commissioner for Energy and Housing",
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-13T05:51:02+00:00"
+   "firstSeen": "2026-07-13T16:06:27+00:00"
   },
   {
    "ep": false,
@@ -1669,7 +1776,7 @@
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
-   "title": "EC press conference (with international sign language) by European Commission Executive Vice-President Henna VIRKKUNEN and Commissioner Michael McGRATH on the Rule of Law reporton the Rule of Law report",
+   "title": "EC press conference (with international sign language) by European Commission Executive Vice-President Henna VIRKKUNEN and Commissioner Michael McGRATH on the Rule of Law report on the Rule of Law report",
    "languages": [
     "INT",
     "EN",
@@ -1699,12 +1806,12 @@
    "items": [
     {
      "ref": "I-292701",
-     "title": "EC press conference (with international sign language) by European Commission Executive Vice-President Henna VIRKKUNEN and Commissioner Michael McGRATH on the Rule of Law reporton the Rule of Law report",
+     "title": "EC press conference (with international sign language) by European Commission Executive Vice-President Henna VIRKKUNEN and Commissioner Michael McGRATH on the Rule of Law report on the Rule of Law report",
      "summary": "Press conference (with international sign language) by Henna VIRKKUNEN, Executive Vice-President of the European Commission for Tech Sovereignty, Security and Democracy and Michael MCGRATH, European Commissioner for Democracy, Justice, the Rule of Law, and Consumer Protection",
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-13T05:51:02+00:00"
+   "firstSeen": "2026-07-13T16:06:27+00:00"
   },
   {
    "ep": false,
