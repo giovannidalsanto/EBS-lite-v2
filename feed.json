@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-13T10:39:50+00:00",
+ "generatedAt": "2026-07-13T13:27:52+00:00",
  "events": [
   {
    "ep": false,
@@ -244,28 +244,28 @@
   },
   {
    "ep": false,
-   "start": "2026-07-13T10:45:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-13T10:48:38.200Z",
+   "durationSec": 478,
    "channel": "EBS+",
    "status": "LIVE",
-   "title": "Foreign Affairs Council Agriculture and Fisheries Council",
+   "title": "Agriculture and Fisheries Council",
    "languages": [
     "INT"
    ],
    "items": [
     {
      "ref": "I-292769",
-     "title": "Foreign Affairs Council Agriculture and Fisheries Council",
-     "summary": "Arrivals and doorsteps",
+     "title": "Agriculture and Fisheries Council",
+     "summary": "Doorstep José Manuel FERNANDES, Portuguese Minister for Agriculture and Fisheries",
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-07-13T10:39:50+00:00"
+   "firstSeen": "2026-07-13T13:27:52+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-13T11:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-13T11:15:10.000Z",
+   "durationSec": 97,
    "channel": "EBS+",
    "status": "EDIT",
    "title": "EU-Gulf Cooperation Council (GCC) High-Level Forum",
@@ -280,7 +280,39 @@
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-07-13T10:39:50+00:00"
+   "firstSeen": "2026-07-13T13:27:52+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-13T12:15:10.000Z",
+   "durationSec": 978,
+   "channel": "EBS+",
+   "status": "RECORDED",
+   "title": "Foreign Affairs Council Agriculture and Fisheries Council",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292772",
+     "title": "Foreign Affairs Council Agriculture and Fisheries Council",
+     "summary": "Doorstep Anton REFALO, Minister for Agriculture, Fisheries and Animal Rights of Malta",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292781",
+     "title": "Foreign Affairs Council Agriculture and Fisheries Council",
+     "summary": "Second doorstep Antonio TAJANI, Italian Deputy Prime Minister and Minister for Foreign Affairs and International Cooperation",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292786",
+     "title": "Agriculture and Fisheries Council",
+     "summary": "Doorstep Tugomir MAJDAK, State Secretary at the Ministry of Agriculture, Forestry and Fisheries of Croatia",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-07-13T13:27:52+00:00"
   },
   {
    "ep": false,
@@ -342,27 +374,7 @@
     "INT",
     "EN",
     "FR",
-    "DE",
-    "IT",
-    "ES",
-    "EL",
-    "PT",
-    "NL",
-    "DA",
-    "FI",
-    "SV",
-    "CS",
-    "ET",
-    "LV",
-    "LT",
-    "HU",
-    "MT",
-    "PL",
-    "SK",
-    "SL",
-    "BG",
-    "RO",
-    "HR"
+    "AR"
    ],
    "items": [
     {
@@ -376,36 +388,33 @@
   },
   {
    "ep": false,
+   "start": "2026-07-13T14:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "Foreign Affairs Council Agriculture and Fisheries Council",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292770",
+     "title": "Foreign Affairs Council Agriculture and Fisheries Council",
+     "summary": "Doorsteps",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-07-13T13:27:52+00:00"
+  },
+  {
+   "ep": false,
    "start": "2026-07-13T15:00:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
    "status": "RECORDED",
    "title": "Second Palestine Donor Group Ministerial meeting",
    "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "DE",
-    "IT",
-    "ES",
-    "EL",
-    "PT",
-    "NL",
-    "DA",
-    "FI",
-    "SV",
-    "CS",
-    "ET",
-    "LV",
-    "LT",
-    "HU",
-    "MT",
-    "PL",
-    "SK",
-    "SL",
-    "BG",
-    "RO",
-    "HR"
+    "INT"
    ],
    "items": [
     {
@@ -445,6 +454,26 @@
   },
   {
    "ep": false,
+   "start": "2026-07-13T16:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "European Commission President Ursula von der LEYEN in Paris, France to participate in the meeting of the Coalition of the Willing on Ukraine hosted by President Emmanuel Macron",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292437",
+     "title": "European Commission President Ursula von der LEYEN in Paris, France to participate in the meeting of the Coalition of the Willing on Ukraine hosted by President Emmanuel Macron",
+     "summary": "Arrival and welcome",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-13T13:27:52+00:00"
+  },
+  {
+   "ep": false,
    "start": "2026-07-13T16:30:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
@@ -480,7 +509,7 @@
     {
      "ref": "I-292705",
      "title": "EC President Ursula von der LEYEN and European Council President António COSTA in Paris, France to participates in the Bastille Day celebrations",
-     "summary": "General views of the attending the Bastille Day celebrations",
+     "summary": "General views of the attending at the Bastille Day celebrations",
      "inst": "Other Organisation"
     }
    ],
@@ -492,19 +521,19 @@
    "durationSec": 0,
    "channel": "EBS",
    "status": "LIVE",
-   "title": "Intergovernmental Conference with Ukraine",
+   "title": "Accession Conference with Ukraine",
    "languages": [
     "INT"
    ],
    "items": [
     {
      "ref": "I-292708",
-     "title": "Intergovernmental Conference with Ukraine",
+     "title": "Accession Conference with Ukraine",
      "summary": "Doorstep Taras KACHKA, Deputy Prime Minister of Ukraine",
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-07-13T10:39:50+00:00"
+   "firstSeen": "2026-07-13T13:27:52+00:00"
   },
   {
    "ep": false,
@@ -525,6 +554,19 @@
     }
    ],
    "firstSeen": "2026-07-08T16:57:53+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-14T06:45:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "Accession Conference with Ukraine",
+   "languages": [
+    "INT"
+   ],
+   "items": [],
+   "firstSeen": "2026-07-13T13:27:52+00:00"
   },
   {
    "ep": false,
@@ -590,6 +632,26 @@
     }
    ],
    "firstSeen": "2026-07-09T12:22:12+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-14T08:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "European Commissioner ŠUICA at the Demography Report presentation event",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291457",
+     "title": "European Commissioner ŠUICA at the Demography Report presentation event",
+     "summary": "Opening speech by Dubravka ŠUICA, European Commissioner for the Mediterranean",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-13T13:27:52+00:00"
   },
   {
    "ep": true,
@@ -784,6 +846,26 @@
   },
   {
    "ep": false,
+   "start": "2026-07-14T11:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "Gibraltar agreement signing ceremony",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292442",
+     "title": "Gibraltar agreement signing ceremony",
+     "summary": "Signing ceremony by Maroš ŠEFČOVIČ, European Commissioner for Trade and Economic Security, and European Commissioner for Interinstitutional Relations and Transparency Stephen DOUGHTY, Minister of State for Europe of the United Kingdom Fabian PICARDO, Chief Minister of Gibraltar José Manuel ALBARES BUENO, Minister for Foreign Affairs of Spain",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-13T13:27:52+00:00"
+  },
+  {
+   "ep": false,
    "start": "2026-07-14T13:00:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
@@ -858,11 +940,43 @@
   },
   {
    "ep": false,
+   "start": "2026-07-14T13:45:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "Accession Conference with Montenegro",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292791",
+     "title": "Accession Conference with Montenegro",
+     "summary": "Arrival",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292792",
+     "title": "Accession Conference with Montenegro",
+     "summary": "Family photo",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292793",
+     "title": "Accession Conference with Montenegro",
+     "summary": "Roundtable",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-07-13T13:27:52+00:00"
+  },
+  {
+   "ep": false,
    "start": "2026-07-14T14:00:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
    "status": "LIVE",
-   "title": "Intergovernmental Conference with Montenegro",
+   "title": "Accession Conference with Montenegro",
    "languages": [
     "INT",
     "EN",
@@ -871,12 +985,58 @@
    "items": [
     {
      "ref": "I-292557",
-     "title": "Intergovernmental Conference with Montenegro",
+     "title": "Accession Conference with Montenegro",
      "summary": "Press conference by Thomas BYRNE, Minister of State for European Affairs and Defence of Ireland, Marta KOS, European Commissioner for Enlargement and Milojko SPAJIĆ, Prime Minister of Montenegro",
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-07-13T10:39:50+00:00"
+   "firstSeen": "2026-07-13T13:27:52+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-14T14:45:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "Accession Conference with Moldova",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292796",
+     "title": "Accession Conference with Moldova",
+     "summary": "Doorstep Eugen OSMOCHESCU, Acting Prime Minister of Moldova",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-07-13T13:27:52+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-14T15:45:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "Accession Conference with Moldova",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292794",
+     "title": "Accession Conference with Moldova",
+     "summary": "Arrival",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292795",
+     "title": "Accession Conference with Moldova",
+     "summary": "Roundtable",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-07-13T13:27:52+00:00"
   },
   {
    "ep": false,
@@ -884,7 +1044,7 @@
    "durationSec": 0,
    "channel": "EBS",
    "status": "LIVE",
-   "title": "Intergovernmental Conference with Moldova",
+   "title": "Accession Conference with Moldova",
    "languages": [
     "INT",
     "EN",
@@ -893,12 +1053,12 @@
    "items": [
     {
      "ref": "I-292560",
-     "title": "Intergovernmental Conference with Moldova",
+     "title": "Accession Conference with Moldova",
      "summary": "Press conference by Thomas BYRNE, Minister of State for European Affairs and Defence of Ireland, Marta KOS, European Commissioner for Enlargement and Eugen OSMOCHESCU, Acting Prime Minister of Moldova",
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-07-13T10:39:50+00:00"
+   "firstSeen": "2026-07-13T13:27:52+00:00"
   },
   {
    "ep": true,
@@ -906,20 +1066,52 @@
    "durationSec": 0,
    "channel": "EBS+",
    "status": "EDIT",
-   "title": "EP News Presentation of the EU Council's priorities by Irish Ministers LIBE ITRE AFET SEDE AGRI ENVI Committees",
+   "title": "EP News Presentation of the EU Council's priorities by Irish Ministers LIBE CULT AFET SEDE AGRI ENVI Committees",
    "languages": [
     "INT"
    ],
    "items": [
     {
      "ref": "I-292567",
-     "title": "EP News Presentation of the EU Council's priorities by Irish Ministers LIBE ITRE AFET SEDE AGRI ENVI Committees",
-     "summary": "Presentation of the EU Council's priorities by Irish Ministers extracts from the EP Committee meetings Committee on Civil Liberties, Justice and Home Affairs (LIBE), Committee on Industry, Research and Energy (ITRE), Committee on Foreign Affairs (AFET), Committee on Security and Defence (SEDE), Committee on Agriculture and Rural Development (AGRI) and Committee on the Environment, Climate and Food Safety (ENVI)",
+     "title": "EP News Presentation of the EU Council's priorities by Irish Ministers LIBE CULT AFET SEDE AGRI ENVI Committees",
+     "summary": "Presentation of the EU Council's priorities by Irish Ministers extracts from the EP Committee meetings Committee on Civil Liberties, Justice and Home Affairs (LIBE), Committee on Culture and Education (CULT), Committee on Foreign Affairs (AFET), Committee on Security and Defence (SEDE), Committee on Agriculture and Rural Development (AGRI) and Committee on the Environment, Climate and Food Safety (ENVI)",
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292567-V_v"
     }
    ],
-   "firstSeen": "2026-07-13T07:29:40+00:00"
+   "firstSeen": "2026-07-13T13:27:52+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-14T17:45:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "Accession Conference with Albania",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292797",
+     "title": "Accession Conference with Albania",
+     "summary": "Arrival",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292798",
+     "title": "Accession Conference with Albania",
+     "summary": "Family photo",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292799",
+     "title": "Accession Conference with Albania",
+     "summary": "Roundtable",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-07-13T13:27:52+00:00"
   },
   {
    "ep": false,
@@ -927,7 +1119,7 @@
    "durationSec": 0,
    "channel": "EBS",
    "status": "LIVE",
-   "title": "Intergovernmental Conference with Albania",
+   "title": "Accession Conference with Albania",
    "languages": [
     "INT",
     "EN",
@@ -936,12 +1128,12 @@
    "items": [
     {
      "ref": "I-292558",
-     "title": "Intergovernmental Conference with Albania",
+     "title": "Accession Conference with Albania",
      "summary": "Press conference by Thomas BYRNE, Minister of State for European Affairs and Defence of Ireland, Marta KOS, European Commissioner for Enlargement and Edi RAMA, Prime Minister of Albania",
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-07-13T10:39:50+00:00"
+   "firstSeen": "2026-07-13T13:27:52+00:00"
   },
   {
    "ep": false,
@@ -1348,7 +1540,7 @@
    "durationSec": 0,
    "channel": "EBS",
    "status": "LIVE",
-   "title": "EC press conference by European Commission Executive Vice-President Teresa RIBERA and Commissioners Wopke HOEKSTRA and Dan JØRGENSEN on the ETS review and the Energy package",
+   "title": "Read-out of the College meeting / press conference by European Commission Executive Vice-President Teresa RIBERA and Commissioners Wopke HOEKSTRA and Dan JØRGENSEN on the ETS review and the Energy package",
    "languages": [
     "INT",
     "EN",
@@ -1378,12 +1570,12 @@
    "items": [
     {
      "ref": "I-292591",
-     "title": "EC press conference by European Commission Executive Vice-President Teresa RIBERA and Commissioners Wopke HOEKSTRA and Dan JØRGENSEN on the ETS review and the Energy package",
+     "title": "Read-out of the College meeting / press conference by European Commission Executive Vice-President Teresa RIBERA and Commissioners Wopke HOEKSTRA and Dan JØRGENSEN on the ETS review and the Energy package",
      "summary": "Press conference by Teresa RIBERA, Executive Vice-President of the European Commission for a Clean, Just and Competitive Transition, Wopke HOEKSTRA, European Commissioner for Climate, Net Zero and Clean Growth and Dan JØRGENSEN, European Commissioner for Energy and Housing",
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-13T05:51:02+00:00"
+   "firstSeen": "2026-07-13T13:27:52+00:00"
   },
   {
    "ep": false,
@@ -1434,7 +1626,7 @@
    "durationSec": 0,
    "channel": "EBS",
    "status": "LIVE",
-   "title": "EC press conference by European Commission Executive Vice-President Henna VIRKKUNEN and Commissioner Michael McGRATH on the Rule of Law reporton the Rule of Law report",
+   "title": "EC press conference by European Commission Executive Vice-President Henna VIRKKUNEN and Commissioner Michael McGRATH on the Rule of Law report on the Rule of Law report",
    "languages": [
     "INT",
     "EN",
@@ -1464,12 +1656,12 @@
    "items": [
     {
      "ref": "I-292592",
-     "title": "EC press conference by European Commission Executive Vice-President Henna VIRKKUNEN and Commissioner Michael McGRATH on the Rule of Law reporton the Rule of Law report",
+     "title": "EC press conference by European Commission Executive Vice-President Henna VIRKKUNEN and Commissioner Michael McGRATH on the Rule of Law report on the Rule of Law report",
      "summary": "Press conference by Henna VIRKKUNEN, Executive Vice-President of the European Commission for Tech Sovereignty, Security and Democracy and Michael MCGRATH, European Commissioner for Democracy, Justice, the Rule of Law, and Consumer Protection",
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-13T05:51:02+00:00"
+   "firstSeen": "2026-07-13T13:27:52+00:00"
   },
   {
    "ep": false,
