@@ -1,586 +1,6 @@
 {
- "generatedAt": "2026-07-10T17:22:30+00:00",
+ "generatedAt": "2026-07-13T05:51:02+00:00",
  "events": [
-  {
-   "ep": false,
-   "start": "2026-07-10T06:26:41.040Z",
-   "durationSec": 1814,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "Economic and Financial Affairs Council",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292141",
-     "title": "Economic and Financial Affairs Council",
-     "summary": "Doorstep Roland LESCURE, Minister of Economy, Finance, Industrial and Energy Sovereignty of France",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-292636",
-     "title": "Economic and Financial Affairs Council",
-     "summary": "Doorstep András KÁRMÁN, Minister of Finance of Hungary",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-292637",
-     "title": "Economic and Financial Affairs Council",
-     "summary": "Doorstep Nadia CALVIÑO, President of the European Investment Bank (EIB)",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-292638",
-     "title": "Economic and Financial Affairs Council",
-     "summary": "Doorstep Simon HARRIS, Tánaiste and Minister for Finance of Ireland",
-     "inst": "Council"
-    }
-   ],
-   "firstSeen": "2026-07-10T12:15:01+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-10T06:46:04.120Z",
-   "durationSec": 532,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "EIB Group, EU governments, and institutional investors join forces to expand European Tech Champions Initiative",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292427",
-     "title": "EIB Group, EU governments, and institutional investors join forces to expand European Tech Champions Initiative",
-     "summary": "The EIB Group, EU governments, and institutional investors join forces to expand European Tech Champions Initiative, a flagship fund-of-funds investing into pioneering companies raising capital to scale in Europe and compete globally Family photo Introductory remarks by Nadia CALVIÑO, President of the European Investment Bank (EIB)",
-     "inst": "Council"
-    }
-   ],
-   "firstSeen": "2026-07-10T12:15:01+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-10T07:19:43.680Z",
-   "durationSec": 3381,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "Informal meeting of Competitiveness Ministers in Dublin, Ireland",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292157",
-     "title": "Informal meeting of Competitiveness Ministers in Dublin, Ireland",
-     "summary": "Doorstep Peter BURKE, Minister for Enterprise, Tourism and Employment of Ireland",
-     "inst": "Host"
-    },
-    {
-     "ref": "I-292641",
-     "title": "Informal meeting of Competitiveness Ministers in Dublin, Ireland",
-     "summary": "Doorstep Stavros KALAFATIS, Deputy Minister of Development",
-     "inst": "Host"
-    },
-    {
-     "ref": "I-292643",
-     "title": "Informal meeting of Competitiveness Ministers in Dublin, Ireland",
-     "summary": "Doorstep Helene BUDLIGER ARTIEDA, State Secretary, State Secretariat for Economic Affairs (SECO) of Switzerland",
-     "inst": "Host"
-    },
-    {
-     "ref": "I-292644",
-     "title": "Informal meeting of Competitiveness Ministers in Dublin, Ireland",
-     "summary": "Doorstep Lionel BONJEAN, Director General - SPW EER of Belgium",
-     "inst": "Host"
-    },
-    {
-     "ref": "I-292645",
-     "title": "Informal meeting of Competitiveness Ministers in Dublin, Ireland",
-     "summary": "Doorstep Leon KOROŠEC, State Secretary, Ministry of the Economy, Labour and Sport of Slovenia",
-     "inst": "Host"
-    },
-    {
-     "ref": "I-292646",
-     "title": "Informal meeting of Competitiveness Ministers in Dublin, Ireland",
-     "summary": "Doorstep Valentino VALENTI, Vice Minister for Enterprises and Made in Italy",
-     "inst": "Host"
-    },
-    {
-     "ref": "I-292661",
-     "title": "Informal meeting of Competitiveness Ministers in Dublin, Ireland",
-     "summary": "Doorstep Sakari PUISTO, Minister of Economic Affairs of Finland",
-     "inst": "Host"
-    },
-    {
-     "ref": "I-292662",
-     "title": "Informal meeting of Competitiveness Ministers in Dublin, Ireland",
-     "summary": "Doorstep Heleen Gerlinde HERBERT, Minister of Economic Affairs and Climate of the Netherlands",
-     "inst": "Host"
-    },
-    {
-     "ref": "I-292663",
-     "title": "Informal meeting of Competitiveness Ministers in Dublin, Ireland",
-     "summary": "First recorded compilation of arrivals and welcome by Peter BURKE, Minister for Enterprise, Tourism and Employment of Ireland",
-     "inst": "Host"
-    }
-   ],
-   "firstSeen": "2026-07-10T12:15:01+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-10T08:00:10.000Z",
-   "durationSec": 459,
-   "channel": "EBS+",
-   "status": "EDIT",
-   "title": "Economic and Financial Affairs Council",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292142",
-     "title": "Economic and Financial Affairs Council",
-     "summary": "Exterior views of the Europa and Justus Lipsius building",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-292143",
-     "title": "Economic and Financial Affairs Council",
-     "summary": "Compilation of all arrivlals",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-292144",
-     "title": "Economic and Financial Affairs Council",
-     "summary": "Roundtable",
-     "inst": "Council"
-    }
-   ],
-   "firstSeen": "2026-07-10T12:15:01+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-10T08:20:01.000Z",
-   "durationSec": 700,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "Informal meeting of Competitiveness Ministers in Dublin, Ireland",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292374",
-     "title": "Informal meeting of Competitiveness Ministers in Dublin, Ireland",
-     "summary": "Roundtable",
-     "inst": "Host"
-    }
-   ],
-   "firstSeen": "2026-07-10T12:15:01+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-10T08:32:32.520Z",
-   "durationSec": 643,
-   "channel": "EBS",
-   "status": "EDIT",
-   "title": "Informal meeting of Competitiveness Ministers in Dublin, Ireland",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292664",
-     "title": "Informal meeting of Competitiveness Ministers in Dublin, Ireland",
-     "summary": "Second recorded compilation of arrivals and welcome by Peter BURKE, Minister for Enterprise, Tourism and Employment of Ireland",
-     "inst": "Host"
-    }
-   ],
-   "firstSeen": "2026-07-10T12:15:01+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-10T08:43:38.000Z",
-   "durationSec": 202,
-   "channel": "EBS",
-   "status": "RECORDED",
-   "title": "Informal meeting of Competitiveness Ministers in Dublin, Ireland",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292669",
-     "title": "Informal meeting of Competitiveness Ministers in Dublin, Ireland",
-     "summary": "Doorstep Sébastien MARTIN, Minister Delegate for Industry of France",
-     "inst": "Host"
-    }
-   ],
-   "firstSeen": "2026-07-10T12:15:01+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-10T10:06:55.040Z",
-   "durationSec": 2509,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "EC Midday press briefing of 10/07/2026",
-   "languages": [
-    "INT",
-    "EN",
-    "FR"
-   ],
-   "items": [
-    {
-     "ref": "I-292693",
-     "title": "EC Midday press briefing of 10/07/2026",
-     "summary": "ANNOUNCEMENT - President’s agenda for next week ANNOUNCEMENT - 31 year anniversary of Srebrenica genocide ANNOUNCEMENT - Commission preliminarily finds the addictive design of Instagram and Facebook in breach of the Digital Services Act ANNOUNCEMENT - Hungary joins the European Public Prosecutor’s Office, further strengthening protection of EU funds ANNOUNCEMENT - Today’s Councils RULE OF LAW - Hungary joins the European Public Prosecutor’s Office, further strengthening protection of EU funds: Q&A ENLARGEMENT - Albania: Q&A COMMISSION - President’s agenda for next week: Q&A WAR IN UKRAINE - EU sanctions against Russia: Q&A PRESIDENT AGENDA / DEFENCE / WAR IN UKRAINE - Outcome of the NATO Summit in Ankara, Türkiye / Gift received by EC President von der Leyen and participants from Türkiye President Erdoğan / European anti-ballistic system proposal by Ukraine / US-Ukraine deal on Patriot missiles: Q&A INSTITUTIONAL AFFAIRS / DIGITAL AFFAIRS - Academics call for Irish Presidency of the Council to recuse itself from discussions on digital files and corporate tax / Irish Regulatory and Data Protection Authority: Q&A CLIMATE - EU’s response and preparedness to protect people against recurring heatwaves and wildfires: Q&A TRADE - Options papers on Products originating from Israeli illegal settlements: Q&A Exterior views of the European Commission Berlaymont building Recorded cutaways",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292068",
-     "title": "EC Midday press briefing of 10/07/2026",
-     "summary": "ANNOUNCEMENT - President’s agenda for next week",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292069",
-     "title": "EC Midday press briefing of 10/07/2026",
-     "summary": "ANNOUNCEMENT - 31 year anniversary of Srebrenica genocide",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292671",
-     "title": "EC Midday press briefing of 10/07/2026",
-     "summary": "ANNOUNCEMENT - Commission preliminarily finds the addictive design of Instagram and Facebook in breach of the Digital Services Act",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292672",
-     "title": "EC Midday press briefing of 10/07/2026",
-     "summary": "ANNOUNCEMENT - Hungary joins the European Public Prosecutor’s Office, further strengthening protection of EU funds",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292673",
-     "title": "EC Midday press briefing of 10/07/2026",
-     "summary": "ANNOUNCEMENT - Today’s Councils",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292674",
-     "title": "EC Midday press briefing of 10/07/2026",
-     "summary": "RULE OF LAW - Hungary joins the European Public Prosecutor’s Office, further strengthening protection of EU funds: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292675",
-     "title": "EC Midday press briefing of 10/07/2026",
-     "summary": "ENLARGEMENT - Albania: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292676",
-     "title": "EC Midday press briefing of 10/07/2026",
-     "summary": "COMMISSION - President’s agenda for next week: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292677",
-     "title": "EC Midday press briefing of 10/07/2026",
-     "summary": "WAR IN UKRAINE - EU sanctions against Russia: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292678",
-     "title": "EC Midday press briefing of 10/07/2026",
-     "summary": "PRESIDENT AGENDA / DEFENCE / WAR IN UKRAINE - Outcome of the NATO Summit in Ankara, Türkiye / Gift received by EC President von der Leyen and participants from Türkiye President Erdoğan / European anti-ballistic system proposal by Ukraine / US-Ukraine deal on Patriot missiles: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292679",
-     "title": "EC Midday press briefing of 10/07/2026",
-     "summary": "INSTITUTIONAL AFFAIRS / DIGITAL AFFAIRS - Academics call for Irish Presidency of the Council to recuse itself from discussions on digital files and corporate tax / Irish Regulatory and Data Protection Authority: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292684",
-     "title": "EC Midday press briefing of 10/07/2026",
-     "summary": "CLIMATE - EU’s response and preparedness to protect people against recurring heatwaves and wildfires: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292685",
-     "title": "EC Midday press briefing of 10/07/2026",
-     "summary": "TRADE - Options papers on Products originating from Israeli illegal settlements: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292070",
-     "title": "EC Midday press briefing of 10/07/2026",
-     "summary": "Exterior views of the European Commission Berlaymont building",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-07-10T12:15:01+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-10T10:55:10.000Z",
-   "durationSec": 84,
-   "channel": "EBS",
-   "status": "RECORDED",
-   "title": "Informal meeting of Competitiveness Ministers in Dublin, Ireland",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292375",
-     "title": "Informal meeting of Competitiveness Ministers in Dublin, Ireland",
-     "summary": "Family photo",
-     "inst": "Host"
-    }
-   ],
-   "firstSeen": "2026-07-10T12:15:01+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-10T11:22:43.760Z",
-   "durationSec": 516,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "Economic and Financial Affairs Council",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292690",
-     "title": "Economic and Financial Affairs Council",
-     "summary": "Doorstep by Joaquim MIRANDA SARMENTO, Portuguese Minister of State and for Finance",
-     "inst": "Council"
-    }
-   ],
-   "firstSeen": "2026-07-10T12:15:01+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-10T11:37:55.600Z",
-   "durationSec": 1269,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "Economic and Financial Affairs Council",
-   "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "DE",
-    "IT",
-    "ES",
-    "NL"
-   ],
-   "items": [
-    {
-     "ref": "I-292699",
-     "title": "Economic and Financial Affairs Council",
-     "summary": "Press conference opening remarks by Simon HARRIS, Irish Deputy Prime Minster (Tánaiste) and Minister for Finance Press conference opening remarks by Valdis DOMBROVSKIS, European Commissioner for Economy and Productivity, and European Commissioner for Implementation and Simplification Q&A",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-292145",
-     "title": "Economic and Financial Affairs Council",
-     "summary": "Press conference opening remarks by Simon HARRIS, Irish Deputy Prime Minster (Tánaiste) and Minister for Finance",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-292695",
-     "title": "Economic and Financial Affairs Council",
-     "summary": "Press conference opening remarks by Valdis DOMBROVSKIS, European Commissioner for Economy and Productivity, and European Commissioner for Implementation and Simplification",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-292696",
-     "title": "Economic and Financial Affairs Council",
-     "summary": "Q&A",
-     "inst": "Council"
-    }
-   ],
-   "firstSeen": "2026-07-10T12:15:01+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-10T14:15:13.040Z",
-   "durationSec": 1373,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "Informal meeting of Competitiveness Ministers in Dublin, Ireland",
-   "languages": [
-    "INT",
-    "EN"
-   ],
-   "items": [
-    {
-     "ref": "I-292376",
-     "title": "Informal meeting of Competitiveness Ministers in Dublin, Ireland",
-     "summary": "Press conference by Peter BURKE, Minister for Enterprise, Tourism and Employment of Ireland and Declan HUGHES, Secretary General, Department of Enterprise, Tourism and Employment of Ireland",
-     "inst": "Host"
-    },
-    {
-     "ref": "I-292712",
-     "title": "Informal meeting of Competitiveness Ministers in Dublin, Ireland",
-     "summary": "Recorded cutaways (mute)",
-     "inst": "Host"
-    }
-   ],
-   "firstSeen": "2026-07-10T15:36:19+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-10T15:30:10.000Z",
-   "durationSec": 693,
-   "channel": "EBS",
-   "status": "EDIT_RECORDED",
-   "title": "European Commissioner Olivér VÁRHELYI in France",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292629",
-     "title": "European Commissioner Olivér VÁRHELYI in France",
-     "summary": "Site visit - pork Farm Dunkerque area",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292630",
-     "title": "European Commissioner Olivér VÁRHELYI in France",
-     "summary": "Port of Calais visit",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-07-10T15:36:19+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-10T16:30:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS+",
-   "status": "EDIT_RECORDED",
-   "title": "European Commissioner Marta KOS in Montenegro",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292586",
-     "title": "European Commissioner Marta KOS in Montenegro",
-     "summary": "Visit of Institute of Marine Biology",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292600",
-     "title": "European Commissioner Marta KOS in Montenegro",
-     "summary": "Great Kotor Bay seabed clean-up event with joint press statement with Milojko SPAJIĆ, Montenegrin Prime Minister",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292713",
-     "title": "European Commissioner Marta KOS in Montenegro",
-     "summary": "Press conference by Milojko SPAJIĆ, Montenegrin Prime Minister, and Marta KOS, European Commissioner for Enlargement",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-07-09T12:22:12+00:00"
-  },
-  {
-   "ep": true,
-   "start": "2026-07-12T07:00:00.000Z",
-   "durationSec": 8125,
-   "channel": "EBS+",
-   "status": "EDIT",
-   "title": "EC archives of the week (12-18/07): Brussels European Council (12-13/07/1976, 50 years ago) Birth Simone Veil (13/07/1927, 99 years ago) France National Day (14/07) Terrorist attack in Nice (14/07/2016, 10 years ago) 11th Asia/Europe Meeting (ASEM11), Ulaanbaatar, Mongolia (14-16/07/2016, 10 years ago) European floods (14/07/2021, 5 years ago) Visit of Ursula von der Leyen, President of the European Commission, to Ireland to present the Commission’s assessment of the national recovery plan under NextGenerationEU (16/07/2021, 5 years ago) Election of Simone Veil as President of the EP (17/07/1979, 47 years ago) Nelson Mandela International Day (18/07)",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-001864",
-     "title": "European Council, in Brussels 12-13/07/1976 and pro-European demonstration in front of the EEC buildings",
-     "summary": "The Heads of State or Government met in Brussels on 12-13/07/1976 for a meeting of the European Council. The Council gave its agreement on the following distribution and number of seats for the European Parliament which will be elected in 1978 by direct universal suffrage: Luxembourg 6; Ireland 15; Denmark 16; Belgium 24; The Netherlands 25; France 81; Italy 81; United Kingdom 81; Germany; 81. Within the European Council, a broad agreement emerged with respect to the appreciation of the economic situation. It was characterised by a general improvement of circumstances. The Council is convinced that this recovery will continue in 1977. However, relatively high unemployment rates should still be expected for a fairly long period of time. The progression of these rates will continue to be monitored particularly closely in certain Member States.",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-125292",
-     "title": "Memoclip: Tribute to Simone Veil",
-     "summary": "This memoclip illustrates the relations between Simone Veil and the European institutions, from her election as President of the European Parliament in 1979 until the inauguration of the Simone Veil Agora in Brussels in 2011. Simone Veil was the first President of the European Parliament elected by universal suffrage, from 1979 to 1982.",
-     "inst": "EP"
-    },
-    {
-     "ref": "I-280795",
-     "title": "General views of Paris (France) and official buildings",
-     "summary": "This Infoclip presents a series of general views of Paris, covering major landmarks such as the Champs-Élysées, the Panthéon, the Seine and Place de la Concorde. Footage features several national institutions, including the Ministry for Europe and Foreign Affairs and the Senate, located within the historic Palais du Luxembourg. Additional views show the Élysée Palace, the headquarters of Medef, the leading French employers’ organisation, and the Hôtel de Ville, seat of the Paris city administration. It also includes scenes from the Jardin du Luxembourg and the Jardin des Invalides.",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I280795-V_v"
-    },
-    {
-     "ref": "I-199003",
-     "title": "European Union Capitals: Paris, France",
-     "summary": "This stockshot provides illustrative images of Paris, capital of France, filmed in November 2020. It presents general views of the city, official buildings and sights, general atmosphere in the streets and historic places and buildings in the heart of the city during the coronavirus pandemic.",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-124641",
-     "title": "Joint press statement by Donald Tusk, President of the European Council, and Jean-Claude Juncker, President of the EC, following the Nice attack",
-     "summary": "On 15 July 2016, Jean-Claude Juncker, President of the EC, and Donald Tusk, President of the European Council, gave a joint press conference at the 11th ASEM Summit held in Mongolia following the Nice attack.",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-124801",
-     "title": "11th Asia/Europe Meeting (ASEM11), Ulaanbaatar, Mongolia, 14-16/07/2016",
-     "summary": "The 11th Asia/Europe Meeting – the ASEM Summit – took place on 15 and 16 July 2016 in Ulaanbaatar, Mongolia, under the theme \"20 Years of ASEM: Partnership for the Future through Connectivity\". The Asia-Europe Meeting (ASEM) is an informal process of dialogue and cooperation bringing together the EU and its Member States, plus Switzerland and Norway, with 21 Asian countries and the Secretariat of the Association of Southeast Asian Nations (ASEAN). Jean-Claude Juncker, President of the EC, and Donald Tusk, President of the European Council, accompanied by Federica Mogherini, High Representative of the Union for Foreign Affairs and Security Policy and Vice-President of the EC, represented the EU at ASEM11. Leaders discussed the future direction of the Asia/Europe Meeting as a platform for inter-regional dialogue; economic cooperation and connectivity; and global and regional challenges to international stability and sustainable development, terrorism, climate change and migration.",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-209483",
-     "title": "Visit of Ursula von der Leyen, President of the European Commission, Janez Lenarčič and Didier Reynders, European Commissioners, and Alexander De Croo, Belgian Prime Minister, to floodings affected region in Belgium",
-     "summary": "On 17 July 2021, Ursula von der Leyen, President of the European Commission, Janez Lenarčič, European Commissioner for Crisis Management, and Didier Reynders, European Commissioner for Justice, went to floodings affected region in Belgium (Jemelle, Rochefort and Pepinster) to support citizens. Along with Alexander De Croo, Belgian Prime Minister, Pierre-Yves Dermagne, Belgian Deputy Prime Minister and Minister for Economy and Labour, and former Mayor of Rochefort, and Philippe Godin, Mayor of Pepinster. This video shows the visit and the statement given by Ursula von der Leyen on this occasion.",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-209491",
-     "title": "Floods in Belgium, July 2021",
-     "summary": "This video stockshot shows illustration images of the serious flooding that hit the regions of Verviers and Liège in Belgium around 14 July 2021.",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-210321",
-     "title": "Floods in Belgium, July 2021 (part 2)",
-     "summary": "This video stockshot shows illustration images of the serious flooding that hit Belgium in July 2021. Images show the towns of Jemelle, Rochefort and Pepinster, filmed on 17 July 2021.",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-209386",
-     "title": "Visit of Ursula von der Leyen, President of the European Commission, to Ireland to present the Commission’s assessment of the national recovery plan under NextGenerationEU: arrival, welcome, tour of the campus, bilateral meeting and handing over of the Commission decision",
-     "summary": "On 16 July 2021, Ursula von der Leyen, President of the European Commission, and Mairead McGuinness, European Commissioner for Financial Services, Financial Stability, and Capital Markets Union, went in Ireland, where they met with Micheál Martin, Irish Prime Minister (Taoiseach), and David FitzPatrick, President of Technological University Dublin.Ursula von der Leyen and Micheál Martin presented the assessment of the European Commission of the national recovery and resilience plan under NextGenerationEU. This financing of €989 million in grants and loans, under the Recovery and Resilience Facility (RRF), has been set to support the implementation of the crucial investment and reform measures outlined in recovery and resilience plan of Ireland and should play a key role in enabling Ireland to emerge stronger from the COVID-19 pandemic. This event was held at Technological University Dublin.",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-002375",
-     "title": "Election of Simone Veil as President of the EP; plenary session of the EP",
-     "summary": "Simone Veil was elected President of the EP during this plenary session, the first session after the EP was elected by direct universal suffrage",
-     "inst": "EP"
-    },
-    {
-     "ref": "I-077897",
-     "title": "Nelson Mandela and the European institutions",
-     "summary": "Nelson Mandela is one of the world's most revered statesmen. He led the struggle to replace the apartheid regime of South Africa by a multi-racial democracy. Sentenced to life in prison, he spent 27 years in jail before becoming the country's first black President. He played a leading role in the drive for peace. He is laureate of the 1988 Sakharov Prize and of the 1993 Nobel Peace Prize®. This video illustrates the relations between Nelson Mandela and the European institutions.",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-07-10T15:36:19+00:00"
-  },
   {
    "ep": false,
    "start": "2026-07-12T23:00:00.000Z",
@@ -603,7 +23,7 @@
   },
   {
    "ep": false,
-   "start": "2026-07-13T05:30:00.000Z",
+   "start": "2026-07-13T05:33:16.320Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
@@ -614,12 +34,24 @@
    "items": [
     {
      "ref": "I-292435",
+     "title": "Foreign Affairs Council",
+     "summary": "Doorstep Kaja KALLAS, High Representative of the Union for Foreign Affairs and Security Policy and Vice-President of the European Commission",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292714",
+     "title": "Foreign Affairs Council Agriculture and Fisheries Council",
+     "summary": "Arrivals and doorsteps",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292715",
      "title": "Foreign Affairs Council Agriculture and Fisheries Council",
      "summary": "Arrivals and doorsteps",
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-07-08T16:57:53+00:00"
+   "firstSeen": "2026-07-13T05:51:02+00:00"
   },
   {
    "ep": false,
@@ -728,26 +160,6 @@
     }
    ],
    "firstSeen": "2026-07-08T16:57:53+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-13T13:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS+",
-   "status": "EDIT_RECORDED",
-   "title": "European Commissioner Maroš ŠEFČOVIČ in Gibraltar for the EU-UK Agreement",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292438",
-     "title": "European Commissioner Maroš ŠEFČOVIČ in Gibraltar for the EU-UK Agreement",
-     "summary": "Symbolic Demolition of the Gibraltar Fence",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-07-10T15:36:19+00:00"
   },
   {
    "ep": false,
@@ -1654,6 +1066,304 @@
     }
    ],
    "firstSeen": "2026-07-10T12:15:01+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-16T23:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "Informal meeting of Justice and Home Affairs ministers in Dublin, Ireland",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292450",
+     "title": "Informal meeting of Justice and Home Affairs ministers in Dublin, Ireland",
+     "summary": "Details to follow",
+     "inst": "Host"
+    }
+   ],
+   "firstSeen": "2026-07-13T05:51:02+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-17T09:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "EC press conference by European Commission Executive Vice-President Teresa RIBERA and Commissioners Wopke HOEKSTRA and Dan JØRGENSEN on the ETS review and the Energy package",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "EL",
+    "PT",
+    "NL",
+    "DA",
+    "FI",
+    "SV",
+    "CS",
+    "ET",
+    "LV",
+    "LT",
+    "HU",
+    "MT",
+    "PL",
+    "SK",
+    "SL",
+    "BG",
+    "RO",
+    "HR"
+   ],
+   "items": [
+    {
+     "ref": "I-292591",
+     "title": "EC press conference by European Commission Executive Vice-President Teresa RIBERA and Commissioners Wopke HOEKSTRA and Dan JØRGENSEN on the ETS review and the Energy package",
+     "summary": "Press conference by Teresa RIBERA, Executive Vice-President of the European Commission for a Clean, Just and Competitive Transition, Wopke HOEKSTRA, European Commissioner for Climate, Net Zero and Clean Growth and Dan JØRGENSEN, European Commissioner for Energy and Housing",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-13T05:51:02+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-17T09:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "EC press conference (with international sign language) by European Commission Executive Vice-President Teresa RIBERA and Commissioners Wopke HOEKSTRA and Dan JØRGENSEN on the ETS review and the Energy package",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "EL",
+    "PT",
+    "NL",
+    "DA",
+    "FI",
+    "SV",
+    "CS",
+    "ET",
+    "LV",
+    "LT",
+    "HU",
+    "MT",
+    "PL",
+    "SK",
+    "SL",
+    "BG",
+    "RO",
+    "HR"
+   ],
+   "items": [
+    {
+     "ref": "I-292700",
+     "title": "EC press conference (with international sign language) by European Commission Executive Vice-President Teresa RIBERA and Commissioners Wopke HOEKSTRA and Dan JØRGENSEN on the ETS review and the Energy package",
+     "summary": "Press conference (with international sign language) by Teresa RIBERA, Executive Vice-President of the European Commission for a Clean, Just and Competitive Transition, Wopke HOEKSTRA, European Commissioner for Climate, Net Zero and Clean Growth and Dan JØRGENSEN, European Commissioner for Energy and Housing",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-13T05:51:02+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-17T09:15:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "EC press conference by European Commission Executive Vice-President Henna VIRKKUNEN and Commissioner Michael McGRATH on the Rule of Law reporton the Rule of Law report",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "EL",
+    "PT",
+    "NL",
+    "DA",
+    "FI",
+    "SV",
+    "CS",
+    "ET",
+    "LV",
+    "LT",
+    "HU",
+    "MT",
+    "PL",
+    "SK",
+    "SL",
+    "BG",
+    "RO",
+    "HR"
+   ],
+   "items": [
+    {
+     "ref": "I-292592",
+     "title": "EC press conference by European Commission Executive Vice-President Henna VIRKKUNEN and Commissioner Michael McGRATH on the Rule of Law reporton the Rule of Law report",
+     "summary": "Press conference by Henna VIRKKUNEN, Executive Vice-President of the European Commission for Tech Sovereignty, Security and Democracy and Michael MCGRATH, European Commissioner for Democracy, Justice, the Rule of Law, and Consumer Protection",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-13T05:51:02+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-17T09:15:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "EC press conference (with international sign language) by European Commission Executive Vice-President Henna VIRKKUNEN and Commissioner Michael McGRATH on the Rule of Law reporton the Rule of Law report",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "EL",
+    "PT",
+    "NL",
+    "DA",
+    "FI",
+    "SV",
+    "CS",
+    "ET",
+    "LV",
+    "LT",
+    "HU",
+    "MT",
+    "PL",
+    "SK",
+    "SL",
+    "BG",
+    "RO",
+    "HR"
+   ],
+   "items": [
+    {
+     "ref": "I-292701",
+     "title": "EC press conference (with international sign language) by European Commission Executive Vice-President Henna VIRKKUNEN and Commissioner Michael McGRATH on the Rule of Law reporton the Rule of Law report",
+     "summary": "Press conference (with international sign language) by Henna VIRKKUNEN, Executive Vice-President of the European Commission for Tech Sovereignty, Security and Democracy and Michael MCGRATH, European Commissioner for Democracy, Justice, the Rule of Law, and Consumer Protection",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-13T05:51:02+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-17T09:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "EC press conference by European Commissioner Maria Luís ALBUQUERQUE on the competitiveness of the banking sector",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "EL",
+    "PT",
+    "NL",
+    "DA",
+    "FI",
+    "SV",
+    "CS",
+    "ET",
+    "LV",
+    "LT",
+    "HU",
+    "MT",
+    "PL",
+    "SK",
+    "SL",
+    "BG",
+    "RO",
+    "HR"
+   ],
+   "items": [
+    {
+     "ref": "I-292593",
+     "title": "EC press conference by European Commissioner Maria Luís ALBUQUERQUE on the competitiveness of the banking sector",
+     "summary": "Press conference by Maria Luís ALBUQUERQUE, European Commissioner for Financial Services and the Savings and Investment Union",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-13T05:51:02+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-17T09:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "EC press conference (with international sign language) by European Commissioner Maria Luís ALBUQUERQUE on the competitiveness of the banking sector",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "EL",
+    "PT",
+    "NL",
+    "DA",
+    "FI",
+    "SV",
+    "CS",
+    "ET",
+    "LV",
+    "LT",
+    "HU",
+    "MT",
+    "PL",
+    "SK",
+    "SL",
+    "BG",
+    "RO",
+    "HR"
+   ],
+   "items": [
+    {
+     "ref": "I-292702",
+     "title": "EC press conference (with international sign language) by European Commissioner Maria Luís ALBUQUERQUE on the competitiveness of the banking sector",
+     "summary": "Press conference (with international sign language) by Maria Luís ALBUQUERQUE, European Commissioner for Financial Services and the Savings and Investment Union",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-13T05:51:02+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-19T07:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "EDIT",
+   "title": "EC archives of the week",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-284734",
+     "title": "EC archives of the week (05-11/07): Meeting between Muhammad Yunus, 2006 Nobel Peace Prize ® laureate, and José Manuel Barroso, President of the EC (06/07/2011, 15 years ago) Debate and vote on the draft revision of the Treaties of the EC, plenary session of the EP (07-08/07/1981, 45 years ago) EU-US leaders meeting and NATO Summit in Warsaw (08-09/07/2016, 10 years ago) Ministers for Finance gave Slovenia the final go-ahead to become the 13th Member of the Eurozone on 1 January 2007 (11/07/2006, 20 years ago) International Day of Reflection and Commemoration of the 1995 Genocide in Srebrenica (11/07)",
+     "summary": "Details to follow",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-13T05:51:02+00:00"
   }
  ]
 }
