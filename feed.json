@@ -1,30 +1,10 @@
 {
- "generatedAt": "2026-07-13T07:29:40+00:00",
+ "generatedAt": "2026-07-13T10:39:50+00:00",
  "events": [
   {
    "ep": false,
-   "start": "2026-07-12T23:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "",
-   "title": "European Commission President Ursula von der LEYEN and HRVP Kaja KALLAS in Paris, France to participate in the meeting of the Coalition of the Willing on Ukraine hosted by President Emmanuel Macron",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292437",
-     "title": "European Commission President Ursula von der LEYEN and HRVP Kaja KALLAS in Paris, France to participate in the meeting of the Coalition of the Willing on Ukraine hosted by President Emmanuel Macron",
-     "summary": "Details to follow",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-07-10T15:36:19+00:00"
-  },
-  {
-   "ep": false,
    "start": "2026-07-13T05:33:16.320Z",
-   "durationSec": 0,
+   "durationSec": 17533,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "Foreign Affairs Council Agriculture and Fisheries Council",
@@ -94,8 +74,32 @@
     },
     {
      "ref": "I-292727",
-     "title": "Foreign Affairs Council Agriculture and Fisheries Council",
-     "summary": "Arrivals and doorsteps",
+     "title": "Foreign Affairs Council",
+     "summary": "Doorstep Xavier BETTEL, Deputy Prime Minister, Minister for Foreign Affairs and Foreign Trade and Minister for Development Cooperation and Humanitarian Affairs of Luxembourg",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292728",
+     "title": "Foreign Affairs Council",
+     "summary": "Doorstep Artjoms URŠUĻSKIS, Parliamentary Secretary at the Ministry of Foreign Affairs of Latvia",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292729",
+     "title": "Agriculture and Fisheries Council",
+     "summary": "Doorstep Margaritis SCHINAS, Minister of Rural Development and Food of Greece",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292730",
+     "title": "Foreign Affairs Council",
+     "summary": "Doorstep Velislava PETROVA-CHAMOVA, Minister of Foreign Affairs of Bulgaria",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292731",
+     "title": "Agriculture and Fisheries Council",
+     "summary": "Doorstep Janez CIGLER KRALJ, Minister of Agriculture of Slovenia",
      "inst": "Council"
     }
    ],
@@ -103,11 +107,11 @@
   },
   {
    "ep": false,
-   "start": "2026-07-13T08:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-13T08:02:06.920Z",
+   "durationSec": 1473,
    "channel": "EBS",
    "status": "LIVE",
-   "title": "Press point by EC President Ursula von der LEYEN and the co-chairs of the Special Panel on child safety online with Prof Jorg M. FEGERT and Dr Maria MELCIOR on the report on children’s safety , on the report on children’s safety online",
+   "title": "Press point by EC President Ursula von der LEYEN and the co-chairs of the Special Panel on child safety online Prof Jorg M. FEGERT and Dr Maria MELCHIOR on the report on children’s safety , on the report on children’s safety online",
    "languages": [
     "INT",
     "EN",
@@ -116,38 +120,68 @@
    ],
    "items": [
     {
+     "ref": "I-292744",
+     "title": "Press point by EC President Ursula von der LEYEN and the co-chairs of the Special Panel on child safety online Prof Jorg M. FEGERT and Dr Maria MELCHIOR on the report on children’s safety , on the report on children’s safety online",
+     "summary": "Press point opening remarks by Ursula von der LEYEN, President of the European Commission Handover of the report on children’s safety online Press point opening remarks by Dr Maria MELCHIOR, co-chair of the Special Panel on child safety online Press point opening remarks by Prof Jorg M. FEGERT, co-chair of the Special Panel on child safety online Q&A and group photo",
+     "inst": "EC"
+    },
+    {
      "ref": "I-292698",
-     "title": "Press point by EC President Ursula von der LEYEN and the co-chairs of the Special Panel on child safety online with Prof Jorg M. FEGERT and Dr Maria MELCIOR on the report on children’s safety , on the report on children’s safety online",
-     "summary": "Press point by Ursula von der LEYEN, President of the European Commission, and the co-chairs of the Special Panel Prof Jorg M. FEGERT and Dr Maria MELCIOR on child safety online",
+     "title": "Press point by EC President Ursula von der LEYEN and the co-chairs of the Special Panel on child safety online Prof Jorg M. FEGERT and Dr Maria MELCHIOR on the report on children’s safety , on the report on children’s safety online",
+     "summary": "Press point opening remarks by Ursula von der LEYEN, President of the European Commission",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292735",
+     "title": "Press point by EC President Ursula von der LEYEN and the co-chairs of the Special Panel on child safety online Prof Jorg M. FEGERT and Dr Maria MELCHIOR on the report on children’s safety , on the report on children’s safety online",
+     "summary": "Handover of the report on children’s safety online",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292736",
+     "title": "Press point by EC President Ursula von der LEYEN and the co-chairs of the Special Panel on child safety online Prof Jorg M. FEGERT and Dr Maria MELCHIOR on the report on children’s safety , on the report on children’s safety online",
+     "summary": "Press point opening remarks by Dr Maria MELCHIOR, co-chair of the Special Panel on child safety online",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292738",
+     "title": "Press point by EC President Ursula von der LEYEN and the co-chairs of the Special Panel on child safety online Prof Jorg M. FEGERT and Dr Maria MELCHIOR on the report on children’s safety , on the report on children’s safety online",
+     "summary": "Press point opening remarks by Prof Jorg M. FEGERT, co-chair of the Special Panel on child safety online",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292737",
+     "title": "Press point by EC President Ursula von der LEYEN and the co-chairs of the Special Panel on child safety online Prof Jorg M. FEGERT and Dr Maria MELCHIOR on the report on children’s safety , on the report on children’s safety online",
+     "summary": "Q&A and group photo",
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-13T07:29:40+00:00"
+   "firstSeen": "2026-07-13T10:39:50+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-13T08:35:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-13T08:35:53.920Z",
+   "durationSec": 842,
    "channel": "EBS",
    "status": "LIVE",
-   "title": "High-Level Roundtable on the Decarbonisation of the Martitime Sector",
+   "title": "High-Level Roundtable on the Decarbonisation of the Maritime Sector",
    "languages": [
     "INT"
    ],
    "items": [
     {
      "ref": "I-292434",
-     "title": "High-Level Roundtable on the Decarbonisation of the Martitime Sector",
+     "title": "High-Level Roundtable on the Decarbonisation of the Maritime Sector",
      "summary": "Opening speech by Teresa RIBERA, Executive Vice-President of the European Commission for a Clean, Just and Competitive Transition",
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-10T12:15:01+00:00"
+   "firstSeen": "2026-07-13T10:39:50+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-13T09:30:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-13T10:30:10.000Z",
+   "durationSec": 333,
    "channel": "EBS+",
    "status": "EDIT",
    "title": "Foreign Affairs Council",
@@ -174,12 +208,12 @@
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-07-13T07:29:40+00:00"
+   "firstSeen": "2026-07-13T10:39:50+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-13T10:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-13T10:37:10.000Z",
+   "durationSec": 440,
    "channel": "EBS+",
    "status": "EDIT",
    "title": "Agriculture and Fisheries Council",
@@ -206,7 +240,47 @@
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-07-13T07:29:40+00:00"
+   "firstSeen": "2026-07-13T10:39:50+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-13T10:45:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "Foreign Affairs Council Agriculture and Fisheries Council",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292769",
+     "title": "Foreign Affairs Council Agriculture and Fisheries Council",
+     "summary": "Arrivals and doorsteps",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-07-13T10:39:50+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-13T11:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "EDIT",
+   "title": "EU-Gulf Cooperation Council (GCC) High-Level Forum",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292599",
+     "title": "EU-Gulf Cooperation Council (GCC) High-Level Forum",
+     "summary": "All arrivals",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-07-13T10:39:50+00:00"
   },
   {
    "ep": false,
@@ -414,6 +488,26 @@
   },
   {
    "ep": false,
+   "start": "2026-07-14T05:45:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "Intergovernmental Conference with Ukraine",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292708",
+     "title": "Intergovernmental Conference with Ukraine",
+     "summary": "Doorstep Taras KACHKA, Deputy Prime Minister of Ukraine",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-07-13T10:39:50+00:00"
+  },
+  {
+   "ep": false,
    "start": "2026-07-14T06:30:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
@@ -431,6 +525,28 @@
     }
    ],
    "firstSeen": "2026-07-08T16:57:53+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-14T07:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "Intergovernmental Conference with Ukraine",
+   "languages": [
+    "INT",
+    "EN",
+    "FR"
+   ],
+   "items": [
+    {
+     "ref": "I-292559",
+     "title": "Intergovernmental Conference with Ukraine",
+     "summary": "Press conference by Thomas BYRNE, Minister of State for European Affairs and Defence of Ireland, Marta KOS, European Commissioner for Enlargement and Taras KACHKA, Deputy Prime Minister of Ukraine",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-07-13T10:39:50+00:00"
   },
   {
    "ep": true,
@@ -741,6 +857,50 @@
    "firstSeen": "2026-07-09T12:22:12+00:00"
   },
   {
+   "ep": false,
+   "start": "2026-07-14T14:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "Intergovernmental Conference with Montenegro",
+   "languages": [
+    "INT",
+    "EN",
+    "FR"
+   ],
+   "items": [
+    {
+     "ref": "I-292557",
+     "title": "Intergovernmental Conference with Montenegro",
+     "summary": "Press conference by Thomas BYRNE, Minister of State for European Affairs and Defence of Ireland, Marta KOS, European Commissioner for Enlargement and Milojko SPAJIĆ, Prime Minister of Montenegro",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-07-13T10:39:50+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-14T16:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "Intergovernmental Conference with Moldova",
+   "languages": [
+    "INT",
+    "EN",
+    "FR"
+   ],
+   "items": [
+    {
+     "ref": "I-292560",
+     "title": "Intergovernmental Conference with Moldova",
+     "summary": "Press conference by Thomas BYRNE, Minister of State for European Affairs and Defence of Ireland, Marta KOS, European Commissioner for Enlargement and Eugen OSMOCHESCU, Acting Prime Minister of Moldova",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-07-13T10:39:50+00:00"
+  },
+  {
    "ep": true,
    "start": "2026-07-14T16:00:00.000Z",
    "durationSec": 0,
@@ -763,6 +923,28 @@
   },
   {
    "ep": false,
+   "start": "2026-07-14T18:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "Intergovernmental Conference with Albania",
+   "languages": [
+    "INT",
+    "EN",
+    "FR"
+   ],
+   "items": [
+    {
+     "ref": "I-292558",
+     "title": "Intergovernmental Conference with Albania",
+     "summary": "Press conference by Thomas BYRNE, Minister of State for European Affairs and Defence of Ireland, Marta KOS, European Commissioner for Enlargement and Edi RAMA, Prime Minister of Albania",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-07-13T10:39:50+00:00"
+  },
+  {
+   "ep": false,
    "start": "2026-07-15T09:30:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
@@ -782,6 +964,46 @@
     }
    ],
    "firstSeen": "2026-07-09T12:22:12+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-15T10:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "EC Midday press briefing of 15/07/2026",
+   "languages": [
+    "INT",
+    "EN",
+    "FR"
+   ],
+   "items": [
+    {
+     "ref": "I-292594",
+     "title": "EC Midday press briefing of 15/07/2026",
+     "summary": "Announcements",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292595",
+     "title": "EC Midday press briefing of 15/07/2026",
+     "summary": "Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292596",
+     "title": "EC Midday press briefing of 15/07/2026",
+     "summary": "Exterior views of the European Commission Berlaymont building",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292597",
+     "title": "EC Midday press briefing of 15/07/2026",
+     "summary": "Recorded cutaways",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-13T10:39:50+00:00"
   },
   {
    "ep": false,
@@ -876,46 +1098,6 @@
      "title": "EP Exchange of Views Outcome of the NATO Summit in Ankara with Radmila ŠEKERINSKA, Deputy Secretary General of NATO SEDE Committee and D-NPA Delegation",
      "summary": "Closing statements Committee on Security and Defence (SEDE) and Delegation for relations with the NATO Parliamentary Assembly (D-NPA)",
      "inst": "EP"
-    }
-   ],
-   "firstSeen": "2026-07-09T12:22:12+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-15T13:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "EC Midday press briefing of 15/07/2026",
-   "languages": [
-    "INT",
-    "EN",
-    "FR"
-   ],
-   "items": [
-    {
-     "ref": "I-292594",
-     "title": "EC Midday press briefing of 15/07/2026",
-     "summary": "Announcements",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292595",
-     "title": "EC Midday press briefing of 15/07/2026",
-     "summary": "Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292596",
-     "title": "EC Midday press briefing of 15/07/2026",
-     "summary": "Exterior views of the European Commission Berlaymont building",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292597",
-     "title": "EC Midday press briefing of 15/07/2026",
-     "summary": "Recorded cutaways",
-     "inst": "EC"
     }
    ],
    "firstSeen": "2026-07-09T12:22:12+00:00"
@@ -1133,6 +1315,32 @@
     }
    ],
    "firstSeen": "2026-07-13T05:51:02+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-17T08:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "Weekly European Commission College meeting",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292414",
+     "title": "Weekly European Commission College meeting",
+     "summary": "Exterior views of the European Commission Berlaymont building",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292415",
+     "title": "Weekly European Commission College meeting",
+     "summary": "Roundtable",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-13T10:39:50+00:00"
   },
   {
    "ep": false,
