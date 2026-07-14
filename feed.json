@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-14T12:19:43+00:00",
+ "generatedAt": "2026-07-14T14:26:04+00:00",
  "events": [
   {
    "ep": false,
@@ -609,7 +609,7 @@
   },
   {
    "ep": false,
-   "start": "2026-07-14T12:30:00.000Z",
+   "start": "2026-07-14T12:30:10.000Z",
    "durationSec": 120,
    "channel": "EBS",
    "status": "EDIT",
@@ -625,12 +625,32 @@
      "inst": "Other Organisation"
     }
    ],
-   "firstSeen": "2026-07-14T10:53:10+00:00"
+   "firstSeen": "2026-07-14T14:26:04+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-14T13:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-14T13:10:10.000Z",
+   "durationSec": 369,
+   "channel": "EBS+",
+   "status": "RECORDED",
+   "title": "General Affairs Council",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292886",
+     "title": "General Affairs Council",
+     "summary": "Exit doorstep Andreja METELKO-ZGOMBIĆ, State Secretary for Europe of Croatia",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-07-14T14:26:04+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-14T13:15:10.000Z",
+   "durationSec": 1325,
    "channel": "EBS",
    "status": "EDIT_RECORDED",
    "title": "European Commissioner Hadja LAHBIB in Eupen and Limbourg, Belgium for the floods commemorations",
@@ -641,7 +661,7 @@
     {
      "ref": "I-292546",
      "title": "European Commissioner Hadja LAHBIB in Eupen and Limbourg, Belgium for the floods commemorations",
-     "summary": "Speech by Hadja LAHBIB, European Commissioner for Equality, and European Commissioner for Preparedness and Crisis Management",
+     "summary": "Speech by Hadja LAHBIB, European Commissioner for Equality, and European Commissioner for Preparedness and Crisis Management Visit of the Unterstadt of Eupen with Thomas LENNERTZ, Mayor of Eupen",
      "inst": "EC"
     },
     {
@@ -651,11 +671,11 @@
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-10T15:36:19+00:00"
+   "firstSeen": "2026-07-14T14:26:04+00:00"
   },
   {
    "ep": true,
-   "start": "2026-07-14T13:30:00.000Z",
+   "start": "2026-07-14T13:32:57.920Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
@@ -683,7 +703,7 @@
     {
      "ref": "I-292573",
      "title": "EP Exchange of views Safety and cyber security risks potentially posed by advanced AI systems, and the application of the EU AI Act and European digital rules IMCO Committee",
-     "summary": "Opening statements Committee on the Internal Market and Consumer Protection (IMCO)",
+     "summary": "Opening statements by Anna CAVAZZINI (Greens/EFA, DE), IMCO Chair and Donny GREENBERG, Senior expert from the technical team of Anthropic Committee on the Internal Market and Consumer Protection (IMCO)",
      "inst": "EP"
     },
     {
@@ -699,12 +719,12 @@
      "inst": "EP"
     }
    ],
-   "firstSeen": "2026-07-14T12:19:43+00:00"
+   "firstSeen": "2026-07-14T14:26:04+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-14T13:45:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-14T13:45:10.000Z",
+   "durationSec": 105,
    "channel": "EBS",
    "status": "EDIT",
    "title": "Accession Conference with Montenegro",
@@ -731,11 +751,11 @@
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-07-13T13:27:52+00:00"
+   "firstSeen": "2026-07-14T14:26:04+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-14T14:00:00.000Z",
+   "start": "2026-07-14T14:00:36.440Z",
    "durationSec": 0,
    "channel": "EBS",
    "status": "LIVE",
@@ -753,7 +773,7 @@
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-07-13T13:27:52+00:00"
+   "firstSeen": "2026-07-14T14:26:04+00:00"
   },
   {
    "ep": false,
@@ -769,11 +789,31 @@
     {
      "ref": "I-292796",
      "title": "Accession Conference with Moldova",
-     "summary": "Doorstep Eugen OSMOCHESCU, Acting Prime Minister of Moldova",
+     "summary": "Doorstep Cristina GHERASIMOV, Deputy Prime Minister for European Integration of the Republic of Moldova",
      "inst": "Council"
     }
    ],
    "firstSeen": "2026-07-13T13:27:52+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-14T15:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "RECORDED",
+   "title": "Statement by Maroš ŠEFČOVIČ on the signing of the agreement between the EU and the UK with respect to Gibraltar",
+   "languages": [
+    "EN"
+   ],
+   "items": [
+    {
+     "ref": "I-292869",
+     "title": "Statement by Maroš ŠEFČOVIČ on the signing of the agreement between the EU and the UK with respect to Gibraltar",
+     "summary": "",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-14T14:26:04+00:00"
   },
   {
    "ep": false,
@@ -849,7 +889,7 @@
    "start": "2026-07-14T17:45:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
-   "status": "LIVE",
+   "status": "EDIT",
    "title": "Accession Conference with Albania",
    "languages": [
     "INT"
