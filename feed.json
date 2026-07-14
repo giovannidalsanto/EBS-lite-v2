@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-14T14:26:04+00:00",
+ "generatedAt": "2026-07-14T16:00:14+00:00",
  "events": [
   {
    "ep": false,
@@ -661,7 +661,7 @@
     {
      "ref": "I-292546",
      "title": "European Commissioner Hadja LAHBIB in Eupen and Limbourg, Belgium for the floods commemorations",
-     "summary": "Speech by Hadja LAHBIB, European Commissioner for Equality, and European Commissioner for Preparedness and Crisis Management Visit of the Unterstadt of Eupen with Thomas LENNERTZ, Mayor of Eupen",
+     "summary": "Visit of the Unterstadt of Eupen",
      "inst": "EC"
     },
     {
@@ -676,7 +676,7 @@
   {
    "ep": true,
    "start": "2026-07-14T13:32:57.920Z",
-   "durationSec": 0,
+   "durationSec": 3267,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "EP Exchange of views Safety and cyber security risks potentially posed by advanced AI systems, and the application of the EU AI Act and European digital rules IMCO Committee",
@@ -710,12 +710,6 @@
      "ref": "I-292574",
      "title": "EP Exchange of views Safety and cyber security risks potentially posed by advanced AI systems, and the application of the EU AI Act and European digital rules IMCO Committee",
      "summary": "Q&A Committee on the Internal Market and Consumer Protection (IMCO)",
-     "inst": "EP"
-    },
-    {
-     "ref": "I-292575",
-     "title": "EP Exchange of views Safety and cyber security risks potentially posed by advanced AI systems, and the application of the EU AI Act and European digital rules IMCO Committee",
-     "summary": "Closing statements Committee on the Internal Market and Consumer Protection (IMCO)",
      "inst": "EP"
     }
    ],
@@ -756,7 +750,7 @@
   {
    "ep": false,
    "start": "2026-07-14T14:00:36.440Z",
-   "durationSec": 0,
+   "durationSec": 1755,
    "channel": "EBS",
    "status": "LIVE",
    "title": "Accession Conference with Montenegro",
@@ -767,9 +761,33 @@
    ],
    "items": [
     {
+     "ref": "I-292890",
+     "title": "Accession Conference with Montenegro",
+     "summary": "Press conference opening remarks by Thomas BYRNE, Minister of State at the Department of the Taoiseach and the Department of Foreign Affairs with special responsibility for European Affairs; and the Department of Defence of Ireland Press conference opening remarks by Milojko SPAJIĆ, Prime Minister of Montenegro Press conference opening remarks by Marta KOS, European Commissioner for Enlargement Q&A",
+     "inst": "Council"
+    },
+    {
      "ref": "I-292557",
      "title": "Accession Conference with Montenegro",
-     "summary": "Press conference by Thomas BYRNE, Minister of State at the Department of the Taoiseach and the Department of Foreign Affairs with special responsibility for European Affairs; and the Department of Defence of Ireland, Marta KOS, European Commissioner for Enlargement and Milojko SPAJIĆ, Prime Minister of Montenegro",
+     "summary": "Press conference opening remarks by Thomas BYRNE, Minister of State at the Department of the Taoiseach and the Department of Foreign Affairs with special responsibility for European Affairs; and the Department of Defence of Ireland",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292887",
+     "title": "Accession Conference with Montenegro",
+     "summary": "Press conference opening remarks by Milojko SPAJIĆ, Prime Minister of Montenegro",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292888",
+     "title": "Accession Conference with Montenegro",
+     "summary": "Press conference opening remarks by Marta KOS, European Commissioner for Enlargement",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292889",
+     "title": "Accession Conference with Montenegro",
+     "summary": "Q&A",
      "inst": "Council"
     }
    ],
@@ -777,10 +795,10 @@
   },
   {
    "ep": false,
-   "start": "2026-07-14T14:45:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-14T14:39:17.640Z",
+   "durationSec": 87,
    "channel": "EBS",
-   "status": "LIVE",
+   "status": "RECORDED",
    "title": "Accession Conference with Moldova",
    "languages": [
     "INT"
@@ -793,12 +811,12 @@
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-07-13T13:27:52+00:00"
+   "firstSeen": "2026-07-14T16:00:14+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-14T15:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-14T15:15:10.000Z",
+   "durationSec": 108,
    "channel": "EBS",
    "status": "RECORDED",
    "title": "Statement by Maroš ŠEFČOVIČ on the signing of the agreement between the EU and the UK with respect to Gibraltar",
@@ -809,16 +827,16 @@
     {
      "ref": "I-292869",
      "title": "Statement by Maroš ŠEFČOVIČ on the signing of the agreement between the EU and the UK with respect to Gibraltar",
-     "summary": "",
+     "summary": "Statement by Maroš ŠEFČOVIČ, European Commissioner for Trade and Economic Security, and European Commissioner for Interinstitutional Relations and Transparency",
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-14T14:26:04+00:00"
+   "firstSeen": "2026-07-14T16:00:14+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-14T15:45:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-14T15:45:10.000Z",
+   "durationSec": 33,
    "channel": "EBS",
    "status": "EDIT",
    "title": "Accession Conference with Moldova",
@@ -833,13 +851,19 @@
      "inst": "Council"
     },
     {
+     "ref": "I-292894",
+     "title": "Accession Conference with Moldova",
+     "summary": "Family photo",
+     "inst": "Council"
+    },
+    {
      "ref": "I-292795",
      "title": "Accession Conference with Moldova",
      "summary": "Roundtable",
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-07-13T13:27:52+00:00"
+   "firstSeen": "2026-07-14T16:00:14+00:00"
   },
   {
    "ep": false,
@@ -866,7 +890,7 @@
   {
    "ep": true,
    "start": "2026-07-14T16:00:00.000Z",
-   "durationSec": 0,
+   "durationSec": 387,
    "channel": "EBS+",
    "status": "EDIT",
    "title": "EP News Presentation of the EU Council's priorities by Irish Ministers LIBE CULT AFET SEDE AGRI ENVI Committees",
@@ -1021,6 +1045,26 @@
    "firstSeen": "2026-07-13T10:39:50+00:00"
   },
   {
+   "ep": false,
+   "start": "2026-07-15T11:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "High Represntative / Vice-President Kaja KALLAS in Ethiopia",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292447",
+     "title": "High Represntative / Vice-President Kaja KALLAS in Ethiopia",
+     "summary": "Meeting with Abiy AHMED, Ethiopian Prime Minister",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-14T16:00:14+00:00"
+  },
+  {
    "ep": true,
    "start": "2026-07-15T12:30:00.000Z",
    "durationSec": 0,
@@ -1121,26 +1165,6 @@
    "firstSeen": "2026-07-14T10:53:10+00:00"
   },
   {
-   "ep": false,
-   "start": "2026-07-15T16:30:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "EDIT_RECORDED",
-   "title": "European Commission Executive Vice-President Teresa RIBERA attends the EU Day for Victims of the Global Climate Crisis Monument Commemoration",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292482",
-     "title": "European Commission Executive Vice-President Teresa RIBERA attends the EU Day for Victims of the Global Climate Crisis Monument Commemoration",
-     "summary": "Details to follow",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-07-14T10:53:10+00:00"
-  },
-  {
    "ep": true,
    "start": "2026-07-15T17:00:00.000Z",
    "durationSec": 0,
@@ -1166,19 +1190,19 @@
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
-   "title": "Informal meeting of Justice and Home Affairs ministers in Dublin, Ireland",
+   "title": "Informal meeting of Home Affairs Ministers in Dublin, Ireland",
    "languages": [
     "INT"
    ],
    "items": [
     {
      "ref": "I-292449",
-     "title": "Informal meeting of Justice and Home Affairs ministers in Dublin, Ireland",
+     "title": "Informal meeting of Home Affairs Ministers in Dublin, Ireland",
      "summary": "Arrivals, welcome and doorsteps",
      "inst": "Host"
     }
    ],
-   "firstSeen": "2026-07-14T10:53:10+00:00"
+   "firstSeen": "2026-07-14T16:00:14+00:00"
   },
   {
    "ep": false,
@@ -1206,19 +1230,19 @@
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
-   "title": "Informal meeting of Justice and Home Affairs ministers in Dublin, Ireland",
+   "title": "Informal meeting of Home Affairs Ministers in Dublin, Ireland",
    "languages": [
     "INT"
    ],
    "items": [
     {
      "ref": "I-292840",
-     "title": "Informal meeting of Justice and Home Affairs ministers in Dublin, Ireland",
+     "title": "Informal meeting of Home Affairs Ministers in Dublin, Ireland",
      "summary": "Roundtable",
      "inst": "Host"
     }
    ],
-   "firstSeen": "2026-07-14T10:53:10+00:00"
+   "firstSeen": "2026-07-14T16:00:14+00:00"
   },
   {
    "ep": false,
@@ -1226,19 +1250,19 @@
    "durationSec": 0,
    "channel": "EBS+",
    "status": "EDIT",
-   "title": "Informal meeting of Justice and Home Affairs ministers in Dublin, Ireland",
+   "title": "Informal meeting of Home Affairs Ministers in Dublin, Ireland",
    "languages": [
     "INT"
    ],
    "items": [
     {
      "ref": "I-292849",
-     "title": "Informal meeting of Justice and Home Affairs ministers in Dublin, Ireland",
+     "title": "Informal meeting of Home Affairs Ministers in Dublin, Ireland",
      "summary": "Compilation of all arrivals and welcome",
      "inst": "Host"
     }
    ],
-   "firstSeen": "2026-07-14T10:53:10+00:00"
+   "firstSeen": "2026-07-14T16:00:14+00:00"
   },
   {
    "ep": false,
@@ -1246,19 +1270,19 @@
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
-   "title": "Informal meeting of Justice and Home Affairs ministers in Dublin, Ireland",
+   "title": "Informal meeting of Home Affairs Ministers in Dublin, Ireland",
    "languages": [
     "INT"
    ],
    "items": [
     {
      "ref": "I-292841",
-     "title": "Informal meeting of Justice and Home Affairs ministers in Dublin, Ireland",
+     "title": "Informal meeting of Home Affairs Ministers in Dublin, Ireland",
      "summary": "Family photo",
      "inst": "Host"
     }
    ],
-   "firstSeen": "2026-07-14T10:53:10+00:00"
+   "firstSeen": "2026-07-14T16:00:14+00:00"
   },
   {
    "ep": false,
@@ -1330,11 +1354,37 @@
   },
   {
    "ep": false,
+   "start": "2026-07-16T13:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT_RECORDED",
+   "title": "High Represntative / Vice-President Kaja KALLAS in Djibouti",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292448",
+     "title": "High Represntative / Vice-President Kaja KALLAS in Djibouti",
+     "summary": "Official visit to ship ITS BERGAMINI",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292891",
+     "title": "High Represntative / Vice-President Kaja KALLAS in Djibouti",
+     "summary": "Official visit to ship ESP NUMANCIA",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-14T16:00:14+00:00"
+  },
+  {
+   "ep": false,
    "start": "2026-07-16T14:00:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
-   "title": "Informal meeting of Justice and Home Affairs ministers in Dublin, Ireland",
+   "title": "Informal meeting of Home Affairs Ministers in Dublin, Ireland",
    "languages": [
     "INT",
     "EN"
@@ -1342,12 +1392,38 @@
    "items": [
     {
      "ref": "I-292842",
-     "title": "Informal meeting of Justice and Home Affairs ministers in Dublin, Ireland",
+     "title": "Informal meeting of Home Affairs Ministers in Dublin, Ireland",
      "summary": "Press conference by the Irish Presidency and the European Commission",
      "inst": "Host"
     }
    ],
-   "firstSeen": "2026-07-14T10:53:10+00:00"
+   "firstSeen": "2026-07-14T16:00:14+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-16T17:15:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT_RECORDED",
+   "title": "High Represntative / Vice-President Kaja KALLAS in Djibouti",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292892",
+     "title": "High Represntative / Vice-President Kaja KALLAS in Djibouti",
+     "summary": "Official signing ceremony of the EU-Djibouti SOFA on ASPIDES",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292893",
+     "title": "High Represntative / Vice-President Kaja KALLAS in Djibouti",
+     "summary": "Press conference",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-14T16:00:14+00:00"
   },
   {
    "ep": false,
@@ -1355,19 +1431,19 @@
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
-   "title": "Informal meeting of Justice and Home Affairs ministers in Dublin, Ireland",
+   "title": "Informal meeting of Justice Ministers in Dublin, Ireland",
    "languages": [
     "INT"
    ],
    "items": [
     {
      "ref": "I-292450",
-     "title": "Informal meeting of Justice and Home Affairs ministers in Dublin, Ireland",
+     "title": "Informal meeting of Justice Ministers in Dublin, Ireland",
      "summary": "Arrivals, welcome and doorsteps",
      "inst": "Host"
     }
    ],
-   "firstSeen": "2026-07-14T10:53:10+00:00"
+   "firstSeen": "2026-07-14T16:00:14+00:00"
   },
   {
    "ep": false,
@@ -1375,19 +1451,19 @@
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
-   "title": "Informal meeting of Justice and Home Affairs ministers in Dublin, Ireland",
+   "title": "Informal meeting of Justice Ministers in Dublin, Ireland",
    "languages": [
     "INT"
    ],
    "items": [
     {
      "ref": "I-292844",
-     "title": "Informal meeting of Justice and Home Affairs ministers in Dublin, Ireland",
+     "title": "Informal meeting of Justice Ministers in Dublin, Ireland",
      "summary": "Roundtable",
      "inst": "Host"
     }
    ],
-   "firstSeen": "2026-07-14T10:53:10+00:00"
+   "firstSeen": "2026-07-14T16:00:14+00:00"
   },
   {
    "ep": false,
@@ -1421,19 +1497,19 @@
    "durationSec": 0,
    "channel": "EBS+",
    "status": "EDIT",
-   "title": "Informal meeting of Justice and Home Affairs ministers in Dublin, Ireland",
+   "title": "Informal meeting of Justice Ministers in Dublin, Ireland",
    "languages": [
     "INT"
    ],
    "items": [
     {
      "ref": "I-292848",
-     "title": "Informal meeting of Justice and Home Affairs ministers in Dublin, Ireland",
+     "title": "Informal meeting of Justice Ministers in Dublin, Ireland",
      "summary": "Compilation of all arrivals and welcome",
      "inst": "Host"
     }
    ],
-   "firstSeen": "2026-07-14T10:53:10+00:00"
+   "firstSeen": "2026-07-14T16:00:14+00:00"
   },
   {
    "ep": false,
@@ -1527,19 +1603,19 @@
    "durationSec": 0,
    "channel": "EBS+",
    "status": "RECORDED",
-   "title": "Informal meeting of Justice and Home Affairs ministers in Dublin, Ireland",
+   "title": "Informal meeting of Justice Ministers in Dublin, Ireland",
    "languages": [
     "INT"
    ],
    "items": [
     {
      "ref": "I-292845",
-     "title": "Informal meeting of Justice and Home Affairs ministers in Dublin, Ireland",
+     "title": "Informal meeting of Justice Ministers in Dublin, Ireland",
      "summary": "Family photo",
      "inst": "Host"
     }
    ],
-   "firstSeen": "2026-07-14T10:53:10+00:00"
+   "firstSeen": "2026-07-14T16:00:14+00:00"
   },
   {
    "ep": false,
@@ -1719,7 +1795,7 @@
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
-   "title": "Informal meeting of Justice and Home Affairs ministers in Dublin, Ireland",
+   "title": "Informal meeting of Justice Ministers in Dublin, Ireland",
    "languages": [
     "INT",
     "EN"
@@ -1727,12 +1803,12 @@
    "items": [
     {
      "ref": "I-292846",
-     "title": "Informal meeting of Justice and Home Affairs ministers in Dublin, Ireland",
+     "title": "Informal meeting of Justice Ministers in Dublin, Ireland",
      "summary": "Press conference by the Irish Presidency and the European Commission",
      "inst": "Host"
     }
    ],
-   "firstSeen": "2026-07-14T10:53:10+00:00"
+   "firstSeen": "2026-07-14T16:00:14+00:00"
   },
   {
    "ep": false,
