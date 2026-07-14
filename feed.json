@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-14T16:00:14+00:00",
+ "generatedAt": "2026-07-14T17:22:28+00:00",
  "events": [
   {
    "ep": false,
@@ -836,7 +836,7 @@
   {
    "ep": false,
    "start": "2026-07-14T15:45:10.000Z",
-   "durationSec": 33,
+   "durationSec": 119,
    "channel": "EBS",
    "status": "EDIT",
    "title": "Accession Conference with Moldova",
@@ -866,30 +866,8 @@
    "firstSeen": "2026-07-14T16:00:14+00:00"
   },
   {
-   "ep": false,
-   "start": "2026-07-14T16:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "Accession Conference with Moldova",
-   "languages": [
-    "INT",
-    "EN",
-    "FR"
-   ],
-   "items": [
-    {
-     "ref": "I-292560",
-     "title": "Accession Conference with Moldova",
-     "summary": "Press conference by Thomas BYRNE, Minister of State at the Department of the Taoiseach and the Department of Foreign Affairs with special responsibility for European Affairs; and the Department of Defence of Ireland, Marta KOS, European Commissioner for Enlargement and Eugen OSMOCHESCU, Acting Prime Minister of Moldova",
-     "inst": "Council"
-    }
-   ],
-   "firstSeen": "2026-07-13T13:27:52+00:00"
-  },
-  {
    "ep": true,
-   "start": "2026-07-14T16:00:00.000Z",
+   "start": "2026-07-14T16:00:10.000Z",
    "durationSec": 387,
    "channel": "EBS+",
    "status": "EDIT",
@@ -906,12 +884,84 @@
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292567-V_v"
     }
    ],
-   "firstSeen": "2026-07-13T13:27:52+00:00"
+   "firstSeen": "2026-07-14T17:22:28+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-14T16:00:19.080Z",
+   "durationSec": 864,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "Accession Conference with Moldova",
+   "languages": [
+    "INT",
+    "EN",
+    "FR"
+   ],
+   "items": [
+    {
+     "ref": "I-292898",
+     "title": "Accession Conference with Moldova",
+     "summary": "Press conference opening remarks by Thomas BYRNE, Minister of State at the Department of the Taoiseach and the Department of Foreign Affairs with special responsibility for European Affairs; and the Department of Defence of Ireland Press conference opening remarks by Eugen OSMOCHESCU, Acting Prime Minister of Moldova Press conference opening remarks by Marta KOS, European Commissioner for Enlargement Q&A",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292560",
+     "title": "Accession Conference with Moldova",
+     "summary": "Press conference opening remarks by Thomas BYRNE, Minister of State at the Department of the Taoiseach and the Department of Foreign Affairs with special responsibility for European Affairs; and the Department of Defence of Ireland",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292895",
+     "title": "Accession Conference with Moldova",
+     "summary": "Press conference opening remarks by Eugen OSMOCHESCU, Acting Prime Minister of Moldova",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292896",
+     "title": "Accession Conference with Moldova",
+     "summary": "Press conference opening remarks by Marta KOS, European Commissioner for Enlargement",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292897",
+     "title": "Accession Conference with Moldova",
+     "summary": "Q&A",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-07-14T17:22:28+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-14T16:30:10.000Z",
+   "durationSec": 1956,
+   "channel": "EBS+",
+   "status": "RECORDED",
+   "title": "European Commissioner Andrius KUBILIUS in Kyiv, Ukraine at the EU-UA Defence Industry Forum - Armouring Cooperation (13/07/2026)",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292439",
+     "title": "European Commissioner Andrius KUBILIUS in Kyiv, Ukraine at the EU-UA Defence Industry Forum - Armouring Cooperation (13/07/2026)",
+     "summary": "Signing ceremony of the Ukraine’s association to the European Defence Fund and EU-Ukraine Financing Agreement of the Ukraine Support Instrument Mykhailo FEDOROV, Ukrainian Minister for Defence Video message by Kaja KALLAS, High Representative of the Union for Foreign Affairs and Security Policy and Vice-President of the European Commission Andrius KUBILIUS, European Commissioner for Defence and Space Katarína MATHERNOVÁ, EU Ambassador to Ukraine",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292724",
+     "title": "European Commissioner Andrius KUBILIUS in Kyiv, Ukraine at the EU-UA Defence Industry Forum - Armouring Cooperation (13/07/2026)",
+     "summary": "High-level announcement of the Winners of the 1st edition of DefTech Forges Andrius KUBILIUS, European Commissioner for Defence and Space André DENK, Executive Director, EDA Winners of the 1st edition of DefTech Forges",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-14T17:22:28+00:00"
   },
   {
    "ep": false,
    "start": "2026-07-14T17:45:00.000Z",
-   "durationSec": 0,
+   "durationSec": 9,
    "channel": "EBS",
    "status": "EDIT",
    "title": "Accession Conference with Albania",
