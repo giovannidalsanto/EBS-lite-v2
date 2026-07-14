@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-07-14T06:19:10+00:00",
+ "generatedAt": "2026-07-14T08:37:49+00:00",
  "events": [
   {
    "ep": false,
    "start": "2026-07-14T05:38:46.640Z",
-   "durationSec": 0,
+   "durationSec": 725,
    "channel": "EBS",
    "status": "LIVE",
    "title": "Accession Conference with Ukraine",
@@ -67,28 +67,8 @@
   },
   {
    "ep": false,
-   "start": "2026-07-14T06:30:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "General Affairs Council",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292818",
-     "title": "General Affairs Council Accession Conference with Ukraine",
-     "summary": "Arrivals and doorsteps",
-     "inst": "Council"
-    }
-   ],
-   "firstSeen": "2026-07-08T16:57:53+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-14T06:45:00.000Z",
-   "durationSec": 25,
+   "start": "2026-07-14T06:40:10.000Z",
+   "durationSec": 191,
    "channel": "EBS",
    "status": "EDIT",
    "title": "Accession Conference with Ukraine",
@@ -115,12 +95,12 @@
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-07-13T13:27:52+00:00"
+   "firstSeen": "2026-07-14T08:37:49+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-14T07:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-14T07:00:12.720Z",
+   "durationSec": 1603,
    "channel": "EBS",
    "status": "LIVE",
    "title": "Intergovernmental Conference with Ukraine",
@@ -133,15 +113,15 @@
     {
      "ref": "I-292559",
      "title": "Intergovernmental Conference with Ukraine",
-     "summary": "Press conference by Thomas BYRNE, Minister of State for European Affairs and Defence of Ireland, Marta KOS, European Commissioner for Enlargement and Taras KACHKA, Deputy Prime Minister of Ukraine",
+     "summary": "Press conference by Thomas BYRNE, Minister of State at the Department of the Taoiseach and the Department of Foreign Affairs with special responsibility for European Affairs; and the Department of Defence of Ireland, Taras KACHKA, Deputy Prime Minister of Ukraine, and Marta KOS, European Commissioner for Enlargement",
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-07-13T10:39:50+00:00"
+   "firstSeen": "2026-07-14T08:37:49+00:00"
   },
   {
    "ep": true,
-   "start": "2026-07-14T07:30:00.000Z",
+   "start": "2026-07-14T07:40:31.440Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
@@ -164,28 +144,31 @@
     {
      "ref": "I-292569",
      "title": "EP Exchange of views Conditions and procedures for unfreezing EU funds allocated to Hungary CONT BUDG Committee",
-     "summary": "Opening statements Committee on Budgetary Control (CONT) and Committee on Budgets (BUDG)",
-     "inst": "EP"
+     "summary": "Opening statements by HOHLMEIER, Monika (EPP, DE), BUDG Vice-Chair, Andreas SCHWAB, (EPP, DE), CONT Chair, Raffaele FITTO, Executive Vice-President of the European Commission for Cohesion and Reforms, Piotr SERAFIN, European Commissioner for Budget, Anti-Fraud and Public Administration and Michael MCGRATH, European Commissioner for Democracy, Justice, the Rule of Law, and Consumer Protection Committee on Budgetary Control (CONT) and Committee on Budgets (BUDG)",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292569-V_v"
     },
     {
      "ref": "I-292570",
      "title": "EP Exchange of views Conditions and procedures for unfreezing EU funds allocated to Hungary CONT BUDG Committee",
      "summary": "Q&A Committee on Budgetary Control (CONT) and Committee on Budgets (BUDG)",
-     "inst": "EP"
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292570-V_v"
     },
     {
      "ref": "I-292571",
      "title": "EP Exchange of views Conditions and procedures for unfreezing EU funds allocated to Hungary CONT BUDG Committee",
-     "summary": "Closing statements Committee on Budgetary Control (CONT) and Committee on Budgets (BUDG)",
-     "inst": "EP"
+     "summary": "Closing statements by HOHLMEIER, Monika (EPP, DE), BUDG Vice-Chair, and Andreas SCHWAB, (EPP, DE), CONT Chair Committee on Budgetary Control (CONT) and Committee on Budgets (BUDG)",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292571-V_v"
     }
    ],
-   "firstSeen": "2026-07-09T12:22:12+00:00"
+   "firstSeen": "2026-07-14T08:37:49+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-14T08:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-14T08:09:00.680Z",
+   "durationSec": 825,
    "channel": "EBS",
    "status": "LIVE",
    "title": "European Commissioner ŠUICA at the Demography Report presentation event",
@@ -200,11 +183,11 @@
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-13T13:27:52+00:00"
+   "firstSeen": "2026-07-14T08:37:49+00:00"
   },
   {
    "ep": true,
-   "start": "2026-07-14T08:30:00.000Z",
+   "start": "2026-07-14T08:32:02.440Z",
    "durationSec": 0,
    "channel": "EBS",
    "status": "LIVE",
@@ -224,51 +207,13 @@
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292667-V_v"
     }
    ],
-   "firstSeen": "2026-07-10T12:15:01+00:00"
+   "firstSeen": "2026-07-14T08:37:49+00:00"
   },
   {
    "ep": false,
    "start": "2026-07-14T09:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS+",
-   "status": "EDIT_RECORDED",
-   "title": "General Affairs Council",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292628",
-     "title": "General Affairs Council",
-     "summary": "Recorded doorsteps",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-292539",
-     "title": "General Affairs Council",
-     "summary": "Exterior views of the Europa and Justus Lipsius European Council buildings",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-292540",
-     "title": "General Affairs Council",
-     "summary": "Compilation of all arrivals",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-292541",
-     "title": "General Affairs Council",
-     "summary": "Roundtable",
-     "inst": "Council"
-    }
-   ],
-   "firstSeen": "2026-07-08T16:57:53+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-14T09:30:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS+",
+   "durationSec": 418,
+   "channel": "EBS",
    "status": "EDIT_RECORDED",
    "title": "Court of Justice of the European Union",
    "languages": [
@@ -278,11 +223,79 @@
     {
      "ref": "I-292647",
      "title": "Court of Justice of the European Union",
-     "summary": "ECJ ruling in case C-474/24 Nada Austria and others regarding the online publication of the name of a person who has infringed anti-doping rules",
+     "summary": "ECJ ruling in case C-474/24 Nada Austria and others regarding the online publication of the name of a person who has infringed anti-doping rules Read by Koen LENAERTS, President of the Court of Justice of the European Union",
      "inst": "Court of Justice o"
     }
    ],
-   "firstSeen": "2026-07-13T16:06:27+00:00"
+   "firstSeen": "2026-07-14T08:37:49+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-14T09:00:00.000Z",
+   "durationSec": 3474,
+   "channel": "EBS+",
+   "status": "RECORDED",
+   "title": "General Affairs Council",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292818",
+     "title": "General Affairs Council",
+     "summary": "Doorstep Ignacy NIEMCZYCKI, State Secretary at the Ministry of Foreign Affairs of Poland",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292829",
+     "title": "General Affairs Council",
+     "summary": "Doorstep Gunther KRICHBAUM, Minister of State for Europe at the Federal Foreign Office of Germany",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292830",
+     "title": "General Affairs Council",
+     "summary": "Doorstep Anastasios CHATZIVASILEIOU, Deputy Minister of Foreign Affairs of Greece",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292831",
+     "title": "General Affairs Council",
+     "summary": "Doorstep Jessica ROSENCRANTZ, Minister for EU Affairs of Sweden",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292832",
+     "title": "General Affairs Council",
+     "summary": "Doorstep Fernando SAMPEDRO MARCOS, State Secretary for the European Union of Spain",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292833",
+     "title": "General Affairs Council",
+     "summary": "Doorstep Sigitas MITKUS, Vice-Minister for Foreign Affairs of Lithuania",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292834",
+     "title": "General Affairs Council",
+     "summary": "Doorstep Artjoms URŠUĻSKIS, Parliamentary Secretary at the Ministry for Foreign Affairs of Latvia",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292835",
+     "title": "General Affairs Council",
+     "summary": "Doorstep Joakim STRAND, Minister for European Affairs and Ownership Steering of Finland",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292836",
+     "title": "General Affairs Council",
+     "summary": "Doorstep Lars LØKKE RASMUSSEN, Minister of Foreign Affairs of Denmark",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-07-08T16:57:53+00:00"
   },
   {
    "ep": false,
@@ -326,6 +339,38 @@
   },
   {
    "ep": false,
+   "start": "2026-07-14T10:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "EDIT",
+   "title": "General Affairs Council",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292539",
+     "title": "General Affairs Council",
+     "summary": "Exterior views of the Europa and Justus Lipsius European Council buildings",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292540",
+     "title": "General Affairs Council",
+     "summary": "Compilation of all arrivals",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292541",
+     "title": "General Affairs Council",
+     "summary": "Roundtable",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-07-14T08:37:49+00:00"
+  },
+  {
+   "ep": false,
    "start": "2026-07-14T10:15:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
@@ -344,7 +389,7 @@
     {
      "ref": "I-292545",
      "title": "General Affairs Council",
-     "summary": "Press conference by the Irish Presidency and the European Commission",
+     "summary": "Press conference by Thomas BYRNE, Minister of State at the Department of the Taoiseach and the Department of Foreign Affairs with special responsibility for European Affairs; and the Department of Defence of Ireland, and Valdis DOMBROVSKIS, European Commissioner for Economy and Productivity, and European Commissioner for Implementation and Simplification",
      "inst": "Council"
     }
    ],
@@ -575,7 +620,7 @@
     {
      "ref": "I-292557",
      "title": "Accession Conference with Montenegro",
-     "summary": "Press conference by Thomas BYRNE, Minister of State for European Affairs and Defence of Ireland, Marta KOS, European Commissioner for Enlargement and Milojko SPAJIĆ, Prime Minister of Montenegro",
+     "summary": "Press conference by Thomas BYRNE, Minister of State at the Department of the Taoiseach and the Department of Foreign Affairs with special responsibility for European Affairs; and the Department of Defence of Ireland, Marta KOS, European Commissioner for Enlargement and Milojko SPAJIĆ, Prime Minister of Montenegro",
      "inst": "Council"
     }
    ],
@@ -643,7 +688,7 @@
     {
      "ref": "I-292560",
      "title": "Accession Conference with Moldova",
-     "summary": "Press conference by Thomas BYRNE, Minister of State for European Affairs and Defence of Ireland, Marta KOS, European Commissioner for Enlargement and Eugen OSMOCHESCU, Acting Prime Minister of Moldova",
+     "summary": "Press conference by Thomas BYRNE, Minister of State at the Department of the Taoiseach and the Department of Foreign Affairs with special responsibility for European Affairs; and the Department of Defence of Ireland, Marta KOS, European Commissioner for Enlargement and Eugen OSMOCHESCU, Acting Prime Minister of Moldova",
      "inst": "Council"
     }
    ],
@@ -718,7 +763,7 @@
     {
      "ref": "I-292558",
      "title": "Accession Conference with Albania",
-     "summary": "Press conference by Thomas BYRNE, Minister of State for European Affairs and Defence of Ireland, Marta KOS, European Commissioner for Enlargement and Edi RAMA, Prime Minister of Albania",
+     "summary": "Press conference by Thomas BYRNE, Minister of State at the Department of the Taoiseach and the Department of Foreign Affairs with special responsibility for European Affairs; and the Department of Defence of Irelandd, Marta KOS, European Commissioner for Enlargement and Edi RAMA, Prime Minister of Albania",
      "inst": "Council"
     }
    ],
