@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-14T10:53:10+00:00",
+ "generatedAt": "2026-07-14T12:19:43+00:00",
  "events": [
   {
    "ep": false,
@@ -313,7 +313,7 @@
   {
    "ep": false,
    "start": "2026-07-14T10:02:30.160Z",
-   "durationSec": 0,
+   "durationSec": 3339,
    "channel": "EBS",
    "status": "LIVE",
    "title": "EC Midday press briefing of 14/07/2026",
@@ -323,6 +323,12 @@
     "FR"
    ],
    "items": [
+    {
+     "ref": "I-292872",
+     "title": "EC Midday press briefing of 14/07/2026",
+     "summary": "ANNOUNCEMENT - Updated President’s agenda for this week ANNOUNCEMENT - Today’s council and accession conferences FOREIGN AFFAIRS / INTERNATIONAL LAW - International Criminal Court (ICC): Q&A FOREIGN AFFAIRS / TRADE - Outcome of the Foreign Affairs Council (FAC) / Israel / Options papers on Products originating from Israeli illegal settlements: Q&A COHESION - Appointment of the new Special Representative for Cyprus: Question FOREIGN AFFAIRS - Nomination of EU Special Representative for Sahel: Question FOREIGN AFFAIRS - Outcome of the Foreign Affairs Council (FAC) / Israel: follow up Q&A INTERNATIONAL PARTNERSHIP - Palestine / Outcome of the Second Palestine Donor Group Ministerial meeting: Q&A ENLARGEMENT - Serbia: Q&A PRESIDENT AGENDA - Upcoming visit to Ukraine: Q&A FOREIGN AFFAIRS - Nomination of EU Special Representative for Sahel: Q&A ENLARGEMENT - Serbia: follow up Q&A FOREIGN AFFAIRS - Nomination of EU Special Representative for Sahel: follow up Q&A COHESION - Appointment of the new Special Representative for Cyprus: Question WAR IN UKRAINE / DEFENCE - Outcome of the meeting of the Coalition of the Willing on Ukraine: Q&A DEFENCE - EU/Ukraine agreements on European Defence Fund (EDF) and European Defence Industry Programme (EDIP)/Ukraine Support Instrument (USI) defence industry programs DIGITAL AFFAIRS - Report on children’s safety online: Q&A Exterior views of the European Commission Berlaymont building Recorded cutaways",
+     "inst": "EC"
+    },
     {
      "ref": "I-292402",
      "title": "EC Midday press briefing of 14/07/2026",
@@ -404,13 +410,7 @@
     {
      "ref": "I-292865",
      "title": "EC Midday press briefing of 14/07/2026",
-     "summary": "Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292404",
-     "title": "EC Midday press briefing of 14/07/2026",
-     "summary": "Exterior views of the European Commission Berlaymont building",
+     "summary": "WAR IN UKRAINE / DEFENCE - Outcome of the meeting of the Coalition of the Willing on Ukraine: Q&A DEFENCE - EU/Ukraine agreements on European Defence Fund (EDF) and European Defence Industry Programme (EDIP)/Ukraine Support Instrument (USI) defence industry programs",
      "inst": "EC"
     }
    ],
@@ -451,7 +451,7 @@
   {
    "ep": false,
    "start": "2026-07-14T10:49:24.280Z",
-   "durationSec": 0,
+   "durationSec": 967,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "General Affairs Council",
@@ -466,9 +466,27 @@
    ],
    "items": [
     {
+     "ref": "I-292873",
+     "title": "General Affairs Council",
+     "summary": "Press conference opening remarks by Thomas BYRNE, Minister of State at the Department of the Taoiseach and the Department of Foreign Affairs with special responsibility for European Affairs; and the Department of Defence of Ireland Press conference opening remarks by Valdis DOMBROVSKIS, European Commissioner for Economy and Productivity, and European Commissioner for Implementation and Simplification Press conference Q&A with Thomas BYRNE, Minister of State at the Department of the Taoiseach and the Department of Foreign Affairs with special responsibility for European Affairs; and the Department of Defence of Ireland, and Valdis DOMBROVSKIS, European Commissioner for Economy and Productivity, and European Commissioner for Implementation and Simplification",
+     "inst": "Council"
+    },
+    {
      "ref": "I-292545",
      "title": "General Affairs Council",
-     "summary": "Press conference by Thomas BYRNE, Minister of State at the Department of the Taoiseach and the Department of Foreign Affairs with special responsibility for European Affairs; and the Department of Defence of Ireland, and Valdis DOMBROVSKIS, European Commissioner for Economy and Productivity, and European Commissioner for Implementation and Simplification",
+     "summary": "Press conference opening remarks by Thomas BYRNE, Minister of State at the Department of the Taoiseach and the Department of Foreign Affairs with special responsibility for European Affairs; and the Department of Defence of Ireland",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292870",
+     "title": "General Affairs Council",
+     "summary": "Press conference opening remarks by Valdis DOMBROVSKIS, European Commissioner for Economy and Productivity, and European Commissioner for Implementation and Simplification",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-292871",
+     "title": "General Affairs Council",
+     "summary": "Press conference Q&A with Thomas BYRNE, Minister of State at the Department of the Taoiseach and the Department of Foreign Affairs with special responsibility for European Affairs; and the Department of Defence of Ireland, and Valdis DOMBROVSKIS, European Commissioner for Economy and Productivity, and European Commissioner for Implementation and Simplification",
      "inst": "Council"
     }
    ],
@@ -476,8 +494,8 @@
   },
   {
    "ep": false,
-   "start": "2026-07-14T11:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-14T11:08:35.880Z",
+   "durationSec": 693,
    "channel": "EBS",
    "status": "LIVE",
    "title": "EC press point by European Commissioner Dubravka ŠUICA on the Demography report",
@@ -488,20 +506,32 @@
    ],
    "items": [
     {
+     "ref": "I-292875",
+     "title": "EC press point by European Commissioner Dubravka ŠUICA on the Demography report",
+     "summary": "Press point opening remarks by Dubravka ŠUICA, European Commissioner for the Mediterranean Q&A",
+     "inst": "EC"
+    },
+    {
      "ref": "I-292581",
      "title": "EC press point by European Commissioner Dubravka ŠUICA on the Demography report",
-     "summary": "Press point by Dubravka ŠUICA, European Commissioner for the Mediterranean",
+     "summary": "Press point opening remarks by Dubravka ŠUICA, European Commissioner for the Mediterranean",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292874",
+     "title": "EC press point by European Commissioner Dubravka ŠUICA on the Demography report",
+     "summary": "Q&A",
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-09T12:22:12+00:00"
+   "firstSeen": "2026-07-14T12:19:43+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-14T11:15:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-14T11:10:10.000Z",
+   "durationSec": 162,
    "channel": "EBS+",
-   "status": "LIVE_EDIT",
+   "status": "EDIT",
    "title": "General Affairs Council",
    "languages": [
     "INT"
@@ -510,75 +540,15 @@
     {
      "ref": "I-292863",
      "title": "General Affairs Council",
-     "summary": "Exit doorsteps",
+     "summary": "Exit doorstep Marek EŠTOK, State Secretary at the Ministry of Foreign and European Affairs of Slovakia",
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-07-14T10:53:10+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-14T11:30:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "Gibraltar agreement signing ceremony",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292442",
-     "title": "Gibraltar agreement signing ceremony",
-     "summary": "Signing ceremony by Maroš ŠEFČOVIČ, European Commissioner for Trade and Economic Security, and European Commissioner for Interinstitutional Relations and Transparency Stephen DOUGHTY, Minister of State for Europe of the United Kingdom Fabian PICARDO, Chief Minister of Gibraltar José Manuel ALBARES BUENO, Minister for Foreign Affairs of Spain",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-07-13T13:27:52+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-14T12:00:00.000Z",
-   "durationSec": 232,
-   "channel": "EBS",
-   "status": "RECORDED",
-   "title": "European Commissioner ŠUICA at the Demography Report presentation event",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292587",
-     "title": "European Commissioner ŠUICA at the Demography Report presentation event",
-     "summary": "Closing remarks by Dubravka ŠUICA, European Commissioner for the Mediterranean",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-07-13T16:06:27+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-14T12:30:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "EDIT",
-   "title": "EC President Ursula von der LEYEN and European Council President António COSTA in Paris, France to participate in the Bastille Day celebrations",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292705",
-     "title": "EC President Ursula von der LEYEN and European Council President António COSTA in Paris, France to participate in the Bastille Day celebrations",
-     "summary": "Participation of Ursula von der LEYEN, President of the European Commission and António COSTA, President of the European Council in the military parade on the Champs-Elysées",
-     "inst": "Other Organisation"
-    }
-   ],
-   "firstSeen": "2026-07-14T10:53:10+00:00"
+   "firstSeen": "2026-07-14T12:19:43+00:00"
   },
   {
    "ep": true,
-   "start": "2026-07-14T12:30:00.000Z",
+   "start": "2026-07-14T11:30:10.000Z",
    "durationSec": 323,
    "channel": "EBS+",
    "status": "EDIT",
@@ -593,6 +563,66 @@
      "summary": "Conditions and procedures for unfreezing EU funds allocated to Hungary extracts from the exchange of views with Raffaele FITTO, Executive Vice-President of the European Commission for Cohesion and Reforms, Piotr SERAFIN, European Commissioner for Budget, Anti-Fraud and Public Administration and Michael MCGRATH, European Commissioner for Democracy, Justice, the Rule of Law, and Consumer Protection Committee on Budgetary Control (CONT) and Committee on Budgets (BUDG)",
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292568-V_v"
+    }
+   ],
+   "firstSeen": "2026-07-14T12:19:43+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-14T11:36:39.920Z",
+   "durationSec": 187,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "Gibraltar agreement signing ceremony",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292442",
+     "title": "Gibraltar agreement signing ceremony",
+     "summary": "Signing ceremony by Maroš ŠEFČOVIČ, European Commissioner for Trade and Economic Security, and European Commissioner for Interinstitutional Relations and Transparency Stephen DOUGHTY, Minister of State for Europe of the United Kingdom Fabian PICARDO, Chief Minister of Gibraltar José Manuel ALBARES BUENO, Minister for Foreign Affairs of Spain",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-14T12:19:43+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-14T11:45:10.240Z",
+   "durationSec": 231,
+   "channel": "EBS",
+   "status": "RECORDED",
+   "title": "European Commissioner ŠUICA at the Demography Report presentation event",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292587",
+     "title": "European Commissioner ŠUICA at the Demography Report presentation event",
+     "summary": "Closing remarks by Dubravka ŠUICA, European Commissioner for the Mediterranean",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-14T12:19:43+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-14T12:30:00.000Z",
+   "durationSec": 120,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "EC President Ursula von der LEYEN and European Council President António COSTA in Paris, France to participate in the Bastille Day celebrations",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292705",
+     "title": "EC President Ursula von der LEYEN and European Council President António COSTA in Paris, France to participate in the Bastille Day celebrations",
+     "summary": "Participation of Ursula von der LEYEN, President of the European Commission and António COSTA, President of the European Council in the military parade on the Champs-Elysées",
+     "inst": "Other Organisation"
     }
    ],
    "firstSeen": "2026-07-14T10:53:10+00:00"
@@ -625,7 +655,7 @@
   },
   {
    "ep": true,
-   "start": "2026-07-14T13:15:00.000Z",
+   "start": "2026-07-14T13:30:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
@@ -669,7 +699,7 @@
      "inst": "EP"
     }
    ],
-   "firstSeen": "2026-07-09T12:22:12+00:00"
+   "firstSeen": "2026-07-14T12:19:43+00:00"
   },
   {
    "ep": false,
@@ -867,6 +897,26 @@
     }
    ],
    "firstSeen": "2026-07-13T13:27:52+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-14T23:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "",
+   "title": "European Commission President Ursula von der LEYEN in Ukraine",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292446",
+     "title": "European Commission President Ursula von der LEYEN in Ukraine",
+     "summary": "Details to follow",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-14T12:19:43+00:00"
   },
   {
    "ep": false,
