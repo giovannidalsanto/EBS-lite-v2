@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-14T08:37:49+00:00",
+ "generatedAt": "2026-07-14T10:53:10+00:00",
  "events": [
   {
    "ep": false,
@@ -122,7 +122,7 @@
   {
    "ep": true,
    "start": "2026-07-14T07:40:31.440Z",
-   "durationSec": 0,
+   "durationSec": 5456,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "EP Exchange of views Conditions and procedures for unfreezing EU funds allocated to Hungary CONT BUDG Committee",
@@ -154,13 +154,6 @@
      "summary": "Q&A Committee on Budgetary Control (CONT) and Committee on Budgets (BUDG)",
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292570-V_v"
-    },
-    {
-     "ref": "I-292571",
-     "title": "EP Exchange of views Conditions and procedures for unfreezing EU funds allocated to Hungary CONT BUDG Committee",
-     "summary": "Closing statements by HOHLMEIER, Monika (EPP, DE), BUDG Vice-Chair, and Andreas SCHWAB, (EPP, DE), CONT Chair Committee on Budgetary Control (CONT) and Committee on Budgets (BUDG)",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292571-V_v"
     }
    ],
    "firstSeen": "2026-07-14T08:37:49+00:00"
@@ -188,7 +181,7 @@
   {
    "ep": true,
    "start": "2026-07-14T08:32:02.440Z",
-   "durationSec": 0,
+   "durationSec": 1248,
    "channel": "EBS",
    "status": "LIVE",
    "title": "EP Press Conference The Impact of social media and online environment on young people",
@@ -211,7 +204,7 @@
   },
   {
    "ep": false,
-   "start": "2026-07-14T09:00:00.000Z",
+   "start": "2026-07-14T09:00:10.000Z",
    "durationSec": 418,
    "channel": "EBS",
    "status": "EDIT_RECORDED",
@@ -227,11 +220,11 @@
      "inst": "Court of Justice o"
     }
    ],
-   "firstSeen": "2026-07-14T08:37:49+00:00"
+   "firstSeen": "2026-07-14T10:53:10+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-14T09:00:00.000Z",
+   "start": "2026-07-14T09:15:10.000Z",
    "durationSec": 3474,
    "channel": "EBS+",
    "status": "RECORDED",
@@ -295,11 +288,31 @@
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-07-08T16:57:53+00:00"
+   "firstSeen": "2026-07-14T10:53:10+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-14T10:00:00.000Z",
+   "start": "2026-07-14T09:55:10.000Z",
+   "durationSec": 15,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "EC President Ursula von der LEYEN in Paris, France to participate in the Bastille Day celebrations",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292852",
+     "title": "EC President Ursula von der LEYEN in Paris, France to participate in the Bastille Day celebrations",
+     "summary": "Bilateral meeting with Nikos CHRISTODOULIDES, President of Cyprus",
+     "inst": "Other Organisation"
+    }
+   ],
+   "firstSeen": "2026-07-14T10:53:10+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-14T10:02:30.160Z",
    "durationSec": 0,
    "channel": "EBS",
    "status": "LIVE",
@@ -313,11 +326,83 @@
     {
      "ref": "I-292402",
      "title": "EC Midday press briefing of 14/07/2026",
-     "summary": "Announcements",
+     "summary": "ANNOUNCEMENT - Updated President’s agenda for this week",
      "inst": "EC"
     },
     {
      "ref": "I-292403",
+     "title": "EC Midday press briefing of 14/07/2026",
+     "summary": "ANNOUNCEMENT - Today’s council and accession conferences",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292853",
+     "title": "EC Midday press briefing of 14/07/2026",
+     "summary": "FOREIGN AFFAIRS / INTERNATIONAL LAW - International Criminal Court (ICC): Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292854",
+     "title": "EC Midday press briefing of 14/07/2026",
+     "summary": "FOREIGN AFFAIRS / TRADE - Outcome of the Foreign Affairs Council (FAC) / Israel / Options papers on Products originating from Israeli illegal settlements: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292855",
+     "title": "EC Midday press briefing of 14/07/2026",
+     "summary": "COHESION - Appointment of the new Special Representative for Cyprus: Question",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292856",
+     "title": "EC Midday press briefing of 14/07/2026",
+     "summary": "FOREIGN AFFAIRS - Nomination of EU Special Representative for Sahel: Question",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292857",
+     "title": "EC Midday press briefing of 14/07/2026",
+     "summary": "FOREIGN AFFAIRS - Outcome of the Foreign Affairs Council (FAC) / Israel: follow up Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292858",
+     "title": "EC Midday press briefing of 14/07/2026",
+     "summary": "INTERNATIONAL PARTNERSHIP - Palestine / Outcome of the Second Palestine Donor Group Ministerial meeting: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292859",
+     "title": "EC Midday press briefing of 14/07/2026",
+     "summary": "ENLARGEMENT - Serbia: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292860",
+     "title": "EC Midday press briefing of 14/07/2026",
+     "summary": "PRESIDENT AGENDA - Upcoming visit to Ukraine: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292861",
+     "title": "EC Midday press briefing of 14/07/2026",
+     "summary": "FOREIGN AFFAIRS - Nomination of EU Special Representative for Sahel: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292862",
+     "title": "EC Midday press briefing of 14/07/2026",
+     "summary": "ENLARGEMENT - Serbia: follow up Q&A FOREIGN AFFAIRS - Nomination of EU Special Representative for Sahel: follow up Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292864",
+     "title": "EC Midday press briefing of 14/07/2026",
+     "summary": "COHESION - Appointment of the new Special Representative for Cyprus: Question",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292865",
      "title": "EC Midday press briefing of 14/07/2026",
      "summary": "Q&A",
      "inst": "EC"
@@ -327,20 +412,14 @@
      "title": "EC Midday press briefing of 14/07/2026",
      "summary": "Exterior views of the European Commission Berlaymont building",
      "inst": "EC"
-    },
-    {
-     "ref": "I-292405",
-     "title": "EC Midday press briefing of 14/07/2026",
-     "summary": "Recorded cutaways",
-     "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-08T10:33:11+00:00"
+   "firstSeen": "2026-07-14T10:53:10+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-14T10:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-14T10:15:10.000Z",
+   "durationSec": 361,
    "channel": "EBS+",
    "status": "EDIT",
    "title": "General Affairs Council",
@@ -367,11 +446,11 @@
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-07-14T08:37:49+00:00"
+   "firstSeen": "2026-07-14T10:53:10+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-14T10:15:00.000Z",
+   "start": "2026-07-14T10:49:24.280Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
@@ -393,7 +472,7 @@
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-07-08T16:57:53+00:00"
+   "firstSeen": "2026-07-14T10:53:10+00:00"
   },
   {
    "ep": false,
@@ -418,25 +497,24 @@
    "firstSeen": "2026-07-09T12:22:12+00:00"
   },
   {
-   "ep": true,
-   "start": "2026-07-14T11:00:00.000Z",
+   "ep": false,
+   "start": "2026-07-14T11:15:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
-   "status": "EDIT",
-   "title": "EP News Conditions and procedures for unfreezing EU funds allocated to Hungary CONT BUDG Committee",
+   "status": "LIVE_EDIT",
+   "title": "General Affairs Council",
    "languages": [
     "INT"
    ],
    "items": [
     {
-     "ref": "I-292568",
-     "title": "EP News Conditions and procedures for unfreezing EU funds allocated to Hungary CONT BUDG Committee",
-     "summary": "Conditions and procedures for unfreezing EU funds allocated to Hungary extracts from the exchange of views with Raffaele FITTO, Executive Vice-President of the European Commission for Cohesion and Reforms, Piotr SERAFIN, European Commissioner for Budget, Anti-Fraud and Public Administration and Michael MCGRATH, European Commissioner for Democracy, Justice, the Rule of Law, and Consumer Protection Committee on Budgetary Control (CONT) and Committee on Budgets (BUDG)",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292568-V_v"
+     "ref": "I-292863",
+     "title": "General Affairs Council",
+     "summary": "Exit doorsteps",
+     "inst": "Council"
     }
    ],
-   "firstSeen": "2026-07-09T19:13:54+00:00"
+   "firstSeen": "2026-07-14T10:53:10+00:00"
   },
   {
    "ep": false,
@@ -461,7 +539,7 @@
   {
    "ep": false,
    "start": "2026-07-14T12:00:00.000Z",
-   "durationSec": 0,
+   "durationSec": 232,
    "channel": "EBS",
    "status": "RECORDED",
    "title": "European Commissioner ŠUICA at the Demography Report presentation event",
@@ -484,19 +562,40 @@
    "durationSec": 0,
    "channel": "EBS",
    "status": "EDIT",
-   "title": "EC President Ursula von der LEYEN and European Council President António COSTA in Paris, France to participates in the Bastille Day celebrations",
+   "title": "EC President Ursula von der LEYEN and European Council President António COSTA in Paris, France to participate in the Bastille Day celebrations",
    "languages": [
     "INT"
    ],
    "items": [
     {
      "ref": "I-292705",
-     "title": "EC President Ursula von der LEYEN and European Council President António COSTA in Paris, France to participates in the Bastille Day celebrations",
+     "title": "EC President Ursula von der LEYEN and European Council President António COSTA in Paris, France to participate in the Bastille Day celebrations",
      "summary": "Participation of Ursula von der LEYEN, President of the European Commission and António COSTA, President of the European Council in the military parade on the Champs-Elysées",
      "inst": "Other Organisation"
     }
    ],
-   "firstSeen": "2026-07-13T16:06:27+00:00"
+   "firstSeen": "2026-07-14T10:53:10+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-07-14T12:30:00.000Z",
+   "durationSec": 323,
+   "channel": "EBS+",
+   "status": "EDIT",
+   "title": "EP News Conditions and procedures for unfreezing EU funds allocated to Hungary CONT BUDG Committee",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292568",
+     "title": "EP News Conditions and procedures for unfreezing EU funds allocated to Hungary CONT BUDG Committee",
+     "summary": "Conditions and procedures for unfreezing EU funds allocated to Hungary extracts from the exchange of views with Raffaele FITTO, Executive Vice-President of the European Commission for Cohesion and Reforms, Piotr SERAFIN, European Commissioner for Budget, Anti-Fraud and Public Administration and Michael MCGRATH, European Commissioner for Democracy, Justice, the Rule of Law, and Consumer Protection Committee on Budgetary Control (CONT) and Committee on Budgets (BUDG)",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292568-V_v"
+    }
+   ],
+   "firstSeen": "2026-07-14T10:53:10+00:00"
   },
   {
    "ep": false,
@@ -771,9 +870,9 @@
   },
   {
    "ep": false,
-   "start": "2026-07-15T09:30:00.000Z",
+   "start": "2026-07-15T09:00:00.000Z",
    "durationSec": 0,
-   "channel": "EBS+",
+   "channel": "EBS",
    "status": "LIVE",
    "title": "EC press point by Executive Vice-President Roxana MÎNZATU and the Chair of the European Skills High-Level Board Ylva JOHANSSON on the European Skills High-Level Board and the Skills Guarantee Pilot",
    "languages": [
@@ -789,7 +888,7 @@
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-09T12:22:12+00:00"
+   "firstSeen": "2026-07-14T10:53:10+00:00"
   },
   {
    "ep": false,
@@ -832,53 +931,10 @@
    "firstSeen": "2026-07-13T10:39:50+00:00"
   },
   {
-   "ep": false,
-   "start": "2026-07-15T10:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "Read-out of the College meeting / press conference with international sign language (details to follow)",
-   "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "DE",
-    "IT",
-    "ES",
-    "EL",
-    "PT",
-    "NL",
-    "DA",
-    "FI",
-    "SV",
-    "CS",
-    "ET",
-    "LV",
-    "LT",
-    "HU",
-    "MT",
-    "PL",
-    "SK",
-    "SL",
-    "BG",
-    "RO",
-    "HR"
-   ],
-   "items": [
-    {
-     "ref": "I-292417",
-     "title": "Read-out of the College meeting / press conference with international sign language (details to follow)",
-     "summary": "Read-out of the College meeting / press conference (with international sign language)",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-07-09T12:22:12+00:00"
-  },
-  {
    "ep": true,
    "start": "2026-07-15T12:30:00.000Z",
    "durationSec": 0,
-   "channel": "EBS+",
+   "channel": "EBS",
    "status": "LIVE",
    "title": "EP Exchange of Views Outcome of the NATO Summit in Ankara with Radmila ŠEKERINSKA, Deputy Secretary General of NATO SEDE Committee and D-NPA Delegation",
    "languages": [
@@ -926,11 +982,11 @@
      "inst": "EP"
     }
    ],
-   "firstSeen": "2026-07-09T12:22:12+00:00"
+   "firstSeen": "2026-07-14T10:53:10+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-15T14:20:00.000Z",
+   "start": "2026-07-15T14:00:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
    "status": "LIVE",
@@ -946,13 +1002,13 @@
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-09T12:22:12+00:00"
+   "firstSeen": "2026-07-14T10:53:10+00:00"
   },
   {
    "ep": false,
    "start": "2026-07-15T14:30:00.000Z",
    "durationSec": 0,
-   "channel": "EBS+",
+   "channel": "EBS",
    "status": "RECORDED",
    "title": "607th European Economic and Social Committee Plenary session",
    "languages": [
@@ -972,11 +1028,11 @@
      "inst": "European Economic "
     }
    ],
-   "firstSeen": "2026-07-10T15:36:19+00:00"
+   "firstSeen": "2026-07-14T10:53:10+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-15T15:00:00.000Z",
+   "start": "2026-07-15T16:30:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
    "status": "EDIT_RECORDED",
@@ -992,11 +1048,11 @@
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-10T15:36:19+00:00"
+   "firstSeen": "2026-07-14T10:53:10+00:00"
   },
   {
    "ep": true,
-   "start": "2026-07-15T15:30:00.000Z",
+   "start": "2026-07-15T17:00:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
    "status": "EDIT",
@@ -1012,11 +1068,11 @@
      "inst": "EP"
     }
    ],
-   "firstSeen": "2026-07-10T15:36:19+00:00"
+   "firstSeen": "2026-07-14T10:53:10+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-15T23:00:00.000Z",
+   "start": "2026-07-16T07:30:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
@@ -1028,11 +1084,11 @@
     {
      "ref": "I-292449",
      "title": "Informal meeting of Justice and Home Affairs ministers in Dublin, Ireland",
-     "summary": "Details to follow",
+     "summary": "Arrivals, welcome and doorsteps",
      "inst": "Host"
     }
    ],
-   "firstSeen": "2026-07-10T12:15:01+00:00"
+   "firstSeen": "2026-07-14T10:53:10+00:00"
   },
   {
    "ep": false,
@@ -1053,6 +1109,66 @@
     }
    ],
    "firstSeen": "2026-07-10T15:36:19+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-16T08:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "Informal meeting of Justice and Home Affairs ministers in Dublin, Ireland",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292840",
+     "title": "Informal meeting of Justice and Home Affairs ministers in Dublin, Ireland",
+     "summary": "Roundtable",
+     "inst": "Host"
+    }
+   ],
+   "firstSeen": "2026-07-14T10:53:10+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-16T08:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "EDIT",
+   "title": "Informal meeting of Justice and Home Affairs ministers in Dublin, Ireland",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292849",
+     "title": "Informal meeting of Justice and Home Affairs ministers in Dublin, Ireland",
+     "summary": "Compilation of all arrivals and welcome",
+     "inst": "Host"
+    }
+   ],
+   "firstSeen": "2026-07-14T10:53:10+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-16T09:45:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "Informal meeting of Justice and Home Affairs ministers in Dublin, Ireland",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292841",
+     "title": "Informal meeting of Justice and Home Affairs ministers in Dublin, Ireland",
+     "summary": "Family photo",
+     "inst": "Host"
+    }
+   ],
+   "firstSeen": "2026-07-14T10:53:10+00:00"
   },
   {
    "ep": false,
@@ -1124,7 +1240,28 @@
   },
   {
    "ep": false,
-   "start": "2026-07-16T23:00:00.000Z",
+   "start": "2026-07-16T14:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "Informal meeting of Justice and Home Affairs ministers in Dublin, Ireland",
+   "languages": [
+    "INT",
+    "EN"
+   ],
+   "items": [
+    {
+     "ref": "I-292842",
+     "title": "Informal meeting of Justice and Home Affairs ministers in Dublin, Ireland",
+     "summary": "Press conference by the Irish Presidency and the European Commission",
+     "inst": "Host"
+    }
+   ],
+   "firstSeen": "2026-07-14T10:53:10+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-17T07:00:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
@@ -1136,11 +1273,31 @@
     {
      "ref": "I-292450",
      "title": "Informal meeting of Justice and Home Affairs ministers in Dublin, Ireland",
-     "summary": "Details to follow",
+     "summary": "Arrivals, welcome and doorsteps",
      "inst": "Host"
     }
    ],
-   "firstSeen": "2026-07-13T05:51:02+00:00"
+   "firstSeen": "2026-07-14T10:53:10+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-17T08:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "Informal meeting of Justice and Home Affairs ministers in Dublin, Ireland",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292844",
+     "title": "Informal meeting of Justice and Home Affairs ministers in Dublin, Ireland",
+     "summary": "Roundtable",
+     "inst": "Host"
+    }
+   ],
+   "firstSeen": "2026-07-14T10:53:10+00:00"
   },
   {
    "ep": false,
@@ -1170,7 +1327,27 @@
   },
   {
    "ep": false,
-   "start": "2026-07-17T09:00:00.000Z",
+   "start": "2026-07-17T08:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "EDIT",
+   "title": "Informal meeting of Justice and Home Affairs ministers in Dublin, Ireland",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292848",
+     "title": "Informal meeting of Justice and Home Affairs ministers in Dublin, Ireland",
+     "summary": "Compilation of all arrivals and welcome",
+     "inst": "Host"
+    }
+   ],
+   "firstSeen": "2026-07-14T10:53:10+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-17T09:30:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
    "status": "LIVE",
@@ -1209,11 +1386,11 @@
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-13T13:27:52+00:00"
+   "firstSeen": "2026-07-14T10:53:10+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-17T09:00:00.000Z",
+   "start": "2026-07-17T09:30:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
@@ -1252,11 +1429,31 @@
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-13T16:06:27+00:00"
+   "firstSeen": "2026-07-14T10:53:10+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-17T09:15:00.000Z",
+   "start": "2026-07-17T10:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "RECORDED",
+   "title": "Informal meeting of Justice and Home Affairs ministers in Dublin, Ireland",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292845",
+     "title": "Informal meeting of Justice and Home Affairs ministers in Dublin, Ireland",
+     "summary": "Family photo",
+     "inst": "Host"
+    }
+   ],
+   "firstSeen": "2026-07-14T10:53:10+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-17T11:00:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
    "status": "LIVE",
@@ -1295,11 +1492,11 @@
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-13T13:27:52+00:00"
+   "firstSeen": "2026-07-14T10:53:10+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-17T09:15:00.000Z",
+   "start": "2026-07-17T11:00:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
@@ -1338,11 +1535,11 @@
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-13T16:06:27+00:00"
+   "firstSeen": "2026-07-14T10:53:10+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-17T09:30:00.000Z",
+   "start": "2026-07-17T12:00:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
    "status": "LIVE",
@@ -1381,11 +1578,11 @@
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-13T05:51:02+00:00"
+   "firstSeen": "2026-07-14T10:53:10+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-17T09:30:00.000Z",
+   "start": "2026-07-17T12:00:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
@@ -1424,7 +1621,28 @@
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-13T05:51:02+00:00"
+   "firstSeen": "2026-07-14T10:53:10+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-17T14:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "Informal meeting of Justice and Home Affairs ministers in Dublin, Ireland",
+   "languages": [
+    "INT",
+    "EN"
+   ],
+   "items": [
+    {
+     "ref": "I-292846",
+     "title": "Informal meeting of Justice and Home Affairs ministers in Dublin, Ireland",
+     "summary": "Press conference by the Irish Presidency and the European Commission",
+     "inst": "Host"
+    }
+   ],
+   "firstSeen": "2026-07-14T10:53:10+00:00"
   },
   {
    "ep": false,
