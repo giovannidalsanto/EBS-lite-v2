@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-15T10:57:26+00:00",
+ "generatedAt": "2026-07-15T12:20:08+00:00",
  "events": [
   {
    "ep": false,
@@ -176,7 +176,7 @@
   {
    "ep": false,
    "start": "2026-07-15T10:05:10.000Z",
-   "durationSec": 0,
+   "durationSec": 3823,
    "channel": "EBS+",
    "status": "RECORDED",
    "title": "European Commission President Ursula von der LEYEN in Ukraine",
@@ -196,7 +196,7 @@
   },
   {
    "ep": false,
-   "start": "2026-07-15T11:00:00.000Z",
+   "start": "2026-07-15T11:00:10.000Z",
    "durationSec": 33,
    "channel": "EBS",
    "status": "EDIT",
@@ -212,11 +212,11 @@
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-07-15T10:57:26+00:00"
+   "firstSeen": "2026-07-15T12:20:08+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-15T11:00:00.000Z",
+   "start": "2026-07-15T11:25:10.000Z",
    "durationSec": 79,
    "channel": "EBS+",
    "status": "EDIT",
@@ -232,7 +232,7 @@
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-15T10:57:26+00:00"
+   "firstSeen": "2026-07-15T12:20:08+00:00"
   },
   {
    "ep": false,
@@ -336,7 +336,31 @@
    "status": "RECORDED",
    "title": "607th European Economic and Social Committee Plenary session",
    "languages": [
-    "INT"
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "EL",
+    "PT",
+    "NL",
+    "DA",
+    "FI",
+    "SV",
+    "CS",
+    "ET",
+    "LV",
+    "LT",
+    "HU",
+    "MT",
+    "PL",
+    "SK",
+    "SL",
+    "BG",
+    "RO",
+    "GA",
+    "HR"
    ],
    "items": [
     {
@@ -402,7 +426,31 @@
    "status": "LIVE",
    "title": "607th European Economic and Social Committee Plenary session",
    "languages": [
-    "INT"
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "EL",
+    "PT",
+    "NL",
+    "DA",
+    "FI",
+    "SV",
+    "CS",
+    "ET",
+    "LV",
+    "LT",
+    "HU",
+    "MT",
+    "PL",
+    "SK",
+    "SL",
+    "BG",
+    "RO",
+    "GA",
+    "HR"
    ],
    "items": [
     {
@@ -1102,6 +1150,26 @@
   },
   {
    "ep": false,
+   "start": "2026-07-21T09:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "EDIT",
+   "title": "Informal meeting of Research and Innovation Ministers in Dublin, Ireland",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292934",
+     "title": "Informal meeting of Research and Innovation Ministers in Dublin, Ireland",
+     "summary": "Compilation of all arrivals and welcome",
+     "inst": "Host"
+    }
+   ],
+   "firstSeen": "2026-07-15T12:20:08+00:00"
+  },
+  {
+   "ep": false,
    "start": "2026-07-21T10:30:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
@@ -1119,6 +1187,27 @@
     }
    ],
    "firstSeen": "2026-07-15T10:57:26+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-21T11:45:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "Informal meeting of Research and Innovation Ministers in Dublin, Ireland",
+   "languages": [
+    "INT",
+    "EN"
+   ],
+   "items": [
+    {
+     "ref": "I-292933",
+     "title": "Informal meeting of Research and Innovation Ministers in Dublin, Ireland",
+     "summary": "Press conference by the Irish Presidency and the European Commission",
+     "inst": "Host"
+    }
+   ],
+   "firstSeen": "2026-07-15T12:20:08+00:00"
   }
  ]
 }
