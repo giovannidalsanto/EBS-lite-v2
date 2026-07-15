@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-15T14:22:30+00:00",
+ "generatedAt": "2026-07-15T16:05:18+00:00",
  "events": [
   {
    "ep": false,
@@ -235,26 +235,6 @@
    "firstSeen": "2026-07-15T12:20:08+00:00"
   },
   {
-   "ep": false,
-   "start": "2026-07-15T12:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS+",
-   "status": "EDIT_RECORDED",
-   "title": "European Commission President Ursula von der LEYEN in Ukraine",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292446",
-     "title": "European Commission President Ursula von der LEYEN in Ukraine",
-     "summary": "Details to follow",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-07-15T10:57:26+00:00"
-  },
-  {
    "ep": true,
    "start": "2026-07-15T12:34:17.640Z",
    "durationSec": 3766,
@@ -310,13 +290,15 @@
   },
   {
    "ep": false,
-   "start": "2026-07-15T14:20:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-15T14:47:00.280Z",
+   "durationSec": 2511,
    "channel": "EBS",
    "status": "LIVE",
    "title": "EU-India Trade and Technology Council (TTC) ministerial",
    "languages": [
-    "INT"
+    "INT",
+    "EN",
+    "FR"
    ],
    "items": [
     {
@@ -326,12 +308,59 @@
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-15T14:22:30+00:00"
+   "firstSeen": "2026-07-15T16:05:18+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-15T14:30:00.000Z",
-   "durationSec": 3571,
+   "start": "2026-07-15T15:00:10.080Z",
+   "durationSec": 1500,
+   "channel": "EBS+",
+   "status": "RECORDED",
+   "title": "European Commission President Ursula von der LEYEN in Ukraine",
+   "languages": [
+    "INT",
+    "EN"
+   ],
+   "items": [
+    {
+     "ref": "I-292883",
+     "title": "European Commission President Ursula von der LEYEN in Ukraine",
+     "summary": "Press conference by Ursula von der LEYEN, President of the European Commission and Volodymyr ZELENSKYY, President of Ukraine",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-15T16:05:18+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-15T15:30:00.000Z",
+   "durationSec": 102,
+   "channel": "EBS+",
+   "status": "EDIT",
+   "title": "European Commission President Ursula von der LEYEN in Ukraine",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292877",
+     "title": "European Commission President Ursula von der LEYEN in Ukraine",
+     "summary": "Bilateral meeting with Volodymyr ZELENSKYY, President of Ukraine",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292904",
+     "title": "European Commission President Ursula von der LEYEN in Ukraine",
+     "summary": "Ukraine - Southeast Europe Summit Family photo and roundtable working lunch",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-15T16:05:18+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-15T15:35:10.000Z",
+   "durationSec": 7325,
    "channel": "EBS",
    "status": "RECORDED",
    "title": "607th European Economic and Social Committee Plenary session",
@@ -376,7 +405,27 @@
      "inst": "European Economic "
     }
    ],
-   "firstSeen": "2026-07-14T10:53:10+00:00"
+   "firstSeen": "2026-07-15T16:05:18+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-15T15:45:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "EDIT_RECORDED",
+   "title": "European Commission President Ursula von der LEYEN in Ukraine",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292446",
+     "title": "European Commission President Ursula von der LEYEN in Ukraine",
+     "summary": "Details to follow",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-15T16:05:18+00:00"
   },
   {
    "ep": false,
@@ -631,13 +680,13 @@
     {
      "ref": "I-292892",
      "title": "High Represntative / Vice-President Kaja KALLAS in Djibouti",
-     "summary": "Official signing ceremony of the EU-Djibouti SOFA on ASPIDES",
+     "summary": "Bilateral meeting with Abdoulkader Kamil MOHAMED, Prime Minister of Djibouti",
      "inst": "EC"
     },
     {
      "ref": "I-292893",
      "title": "High Represntative / Vice-President Kaja KALLAS in Djibouti",
-     "summary": "Press conference",
+     "summary": "EU-Dijouti SOFA signing ceremony",
      "inst": "EC"
     }
    ],
