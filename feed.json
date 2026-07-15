@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-15T08:56:30+00:00",
+ "generatedAt": "2026-07-15T10:57:26+00:00",
  "events": [
   {
    "ep": false,
@@ -23,28 +23,8 @@
   },
   {
    "ep": false,
-   "start": "2026-07-15T08:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS+",
-   "status": "EDIT_RECORDED",
-   "title": "European Commission President Ursula von der LEYEN in Ukraine",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292446",
-     "title": "European Commission President Ursula von der LEYEN in Ukraine",
-     "summary": "Details to follow",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-07-15T08:56:30+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-15T09:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-15T09:02:39.200Z",
+   "durationSec": 1040,
    "channel": "EBS",
    "status": "LIVE",
    "title": "EC press point by Executive Vice-President Roxana MÎNZATU and the Chair of the European Skills High-Level Board Ylva JOHANSSON on the European Skills High-Level Board and the Skills Guarantee Pilot",
@@ -55,18 +35,42 @@
    ],
    "items": [
     {
+     "ref": "I-292920",
+     "title": "EC press point by Executive Vice-President Roxana MÎNZATU and the Chair of the European Skills High-Level Board Ylva JOHANSSON on the European Skills High-Level Board and the Skills Guarantee Pilot",
+     "summary": "Press point opening remarks by Roxana MÎNZATU, Executive Vice-President of the European Commission for Social Rights and Skills, Quality Jobs and Preparedness Press point opening remarks by Ylva JOHANSSON, Chair of the European Skills High-Level Board Handover of the European Skills High-Level Board and the Skills Guarantee Pilot report and additional press point remarks by Roxana MÎNZATU, Executive Vice-President of the European Commission for Social Rights and Skills, Quality Jobs and Preparedness Q&A",
+     "inst": "EC"
+    },
+    {
      "ref": "I-292445",
      "title": "EC press point by Executive Vice-President Roxana MÎNZATU and the Chair of the European Skills High-Level Board Ylva JOHANSSON on the European Skills High-Level Board and the Skills Guarantee Pilot",
-     "summary": "Press point by Roxana MÎNZATU, Executive Vice-President of the European Commission for Social Rights and Skills, Quality Jobs and Preparedness and Ylva JOHANSSON, Chair of the European Skills High-Level Board",
+     "summary": "Press point opening remarks by Roxana MÎNZATU, Executive Vice-President of the European Commission for Social Rights and Skills, Quality Jobs and Preparedness",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292917",
+     "title": "EC press point by Executive Vice-President Roxana MÎNZATU and the Chair of the European Skills High-Level Board Ylva JOHANSSON on the European Skills High-Level Board and the Skills Guarantee Pilot",
+     "summary": "Press point opening remarks by Ylva JOHANSSON, Chair of the European Skills High-Level Board",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292918",
+     "title": "EC press point by Executive Vice-President Roxana MÎNZATU and the Chair of the European Skills High-Level Board Ylva JOHANSSON on the European Skills High-Level Board and the Skills Guarantee Pilot",
+     "summary": "Handover of the European Skills High-Level Board and the Skills Guarantee Pilot report and additional press point remarks by Roxana MÎNZATU, Executive Vice-President of the European Commission for Social Rights and Skills, Quality Jobs and Preparedness",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292919",
+     "title": "EC press point by Executive Vice-President Roxana MÎNZATU and the Chair of the European Skills High-Level Board Ylva JOHANSSON on the European Skills High-Level Board and the Skills Guarantee Pilot",
+     "summary": "Q&A",
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-14T10:53:10+00:00"
+   "firstSeen": "2026-07-15T10:57:26+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-15T09:30:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-15T09:34:44.240Z",
+   "durationSec": 1711,
    "channel": "EBS",
    "status": "LIVE",
    "title": "EC Midday press briefing of 15/07/2026",
@@ -77,15 +81,81 @@
    ],
    "items": [
     {
+     "ref": "I-292930",
+     "title": "EC Midday press briefing of 15/07/2026",
+     "summary": "ANNOUNCEMENT - Ongoing visit of EC President von der Leyen in Ukraine ANNOUNCEMENT - EU-India Trade and Technology Council (TTC) ministerial ANNOUNCEMENT - College agenda and press events FOREIGN AFFAIRS - Nomination of EU Special Representative for Sahel: Q&A EU FUNDING - EBRD / EIB funding / China Railway Rolling Stock Corporation (CRRC): Q&A SPORT - European teams support at the Football World Cup: Q&A CULTURE / DEMOCRACY / FUNDING - Russian participation to the Venice Biennale Art Exhibition: Q&A SPORT / FUNDING - Organizations decision to lift the suspension of Russian participation in sport and cultural events: Q&A SCHENGEN - Cyprus: Q&A WAR IN UKRAINE / BUDGET - Ukraine 90 billion loan / Permission for Ukraine to use EU funds for Chinese drone parts: Q&A TRADE - Tariffs exemptions / EU/US Joint statement / Steel / Cheese: Q&A EU-SWITZERLAND RELATIONS - European Ports Alliance: Q&A Exterior views of the European Commission Berlaymont building Recorded cutaways",
+     "inst": "EC"
+    },
+    {
      "ref": "I-292594",
      "title": "EC Midday press briefing of 15/07/2026",
-     "summary": "Announcements",
+     "summary": "ANNOUNCEMENT - Ongoing visit of EC President von der Leyen in Ukraine",
      "inst": "EC"
     },
     {
      "ref": "I-292595",
      "title": "EC Midday press briefing of 15/07/2026",
-     "summary": "Q&A",
+     "summary": "ANNOUNCEMENT - EU-India Trade and Technology Council (TTC) ministerial",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292908",
+     "title": "EC Midday press briefing of 15/07/2026",
+     "summary": "ANNOUNCEMENT - College agenda and press events",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292909",
+     "title": "EC Midday press briefing of 15/07/2026",
+     "summary": "FOREIGN AFFAIRS - Nomination of EU Special Representative for Sahel: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292910",
+     "title": "EC Midday press briefing of 15/07/2026",
+     "summary": "EU FUNDING - EBRD / EIB funding / China Railway Rolling Stock Corporation (CRRC): Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292911",
+     "title": "EC Midday press briefing of 15/07/2026",
+     "summary": "SPORT - European teams support at the Football World Cup: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292912",
+     "title": "EC Midday press briefing of 15/07/2026",
+     "summary": "CULTURE / DEMOCRACY / FUNDING - Russian participation to the Venice Biennale Art Exhibition: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292913",
+     "title": "EC Midday press briefing of 15/07/2026",
+     "summary": "SPORT / FUNDING - Organizations decision to lift the suspension of Russian participation in sport and cultural events: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292916",
+     "title": "EC Midday press briefing of 15/07/2026",
+     "summary": "SCHENGEN - Cyprus: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292924",
+     "title": "EC Midday press briefing of 15/07/2026",
+     "summary": "WAR IN UKRAINE / BUDGET - Ukraine 90 billion loan / Permission for Ukraine to use EU funds for Chinese drone parts: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292925",
+     "title": "EC Midday press briefing of 15/07/2026",
+     "summary": "TRADE - Tariffs exemptions / EU/US Joint statement / Steel / Cheese: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292926",
+     "title": "EC Midday press briefing of 15/07/2026",
+     "summary": "EU-SWITZERLAND RELATIONS - European Ports Alliance: Q&A",
      "inst": "EC"
     },
     {
@@ -101,7 +171,88 @@
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-15T08:56:30+00:00"
+   "firstSeen": "2026-07-15T10:57:26+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-15T10:05:10.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "RECORDED",
+   "title": "European Commission President Ursula von der LEYEN in Ukraine",
+   "languages": [
+    "INT",
+    "EN"
+   ],
+   "items": [
+    {
+     "ref": "I-292882",
+     "title": "European Commission President Ursula von der LEYEN in Ukraine",
+     "summary": "Ceremony for the Day of Ukrainian Statehood and the Day of the Baptism of Kyivan Rus-Ukraine Arrivals, Ukrainian anthem and one minute of silence Speech by Volodymyr ZELENSKYY, President of Ukraine State awards Volodymyr ZELENSKYY, President of Ukraine presenting the Order of Europe Award to Ursula von der LEYEN, President of the European Commission Speech by Ursula von der LEYEN, President of the European Commission Speeches by Maia SANDU, President of Moldova and Nicușor DAN, President of Romania",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-15T10:57:26+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-15T11:00:00.000Z",
+   "durationSec": 33,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "António COSTA, President of the European Council, meets Christian SAUNDERS, Commissioner-General ad interim of the United Nations Relief and Works Agency for Palestine Refugees in the Near East (UNRWA)",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292931",
+     "title": "António COSTA, President of the European Council, meets Christian SAUNDERS, Commissioner-General ad interim of the United Nations Relief and Works Agency for Palestine Refugees in the Near East (UNRWA)",
+     "summary": "Roundtable",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-07-15T10:57:26+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-15T11:00:00.000Z",
+   "durationSec": 79,
+   "channel": "EBS+",
+   "status": "EDIT",
+   "title": "European Commission President Ursula von der LEYEN in Ukraine",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292906",
+     "title": "European Commission President Ursula von der LEYEN in Ukraine",
+     "summary": "Ceremony for the Day of Ukrainian Statehood and the Day of the Baptism of Kyivan Rus-Ukraine Joint flower-laying ceremony at the Wall of Remembrance for the Fallen Defenders of Ukraine",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-15T10:57:26+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-15T12:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "EDIT_RECORDED",
+   "title": "European Commission President Ursula von der LEYEN in Ukraine",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292446",
+     "title": "European Commission President Ursula von der LEYEN in Ukraine",
+     "summary": "Details to follow",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-15T10:57:26+00:00"
   },
   {
    "ep": true,
@@ -911,7 +1062,7 @@
   },
   {
    "ep": false,
-   "start": "2026-07-20T23:00:00.000Z",
+   "start": "2026-07-21T07:00:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
@@ -923,11 +1074,51 @@
     {
      "ref": "I-292817",
      "title": "Informal meeting of Research and Innovation Ministers in Dublin, Ireland",
-     "summary": "Details to follow",
+     "summary": "Arrivals, welcome and doorsteps",
      "inst": "Host"
     }
    ],
-   "firstSeen": "2026-07-15T05:12:21+00:00"
+   "firstSeen": "2026-07-15T10:57:26+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-21T08:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "Informal meeting of Research and Innovation Ministers in Dublin, Ireland",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292921",
+     "title": "Informal meeting of Research and Innovation Ministers in Dublin, Ireland",
+     "summary": "Roundtable",
+     "inst": "Host"
+    }
+   ],
+   "firstSeen": "2026-07-15T10:57:26+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-21T10:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "Informal meeting of Research and Innovation Ministers in Dublin, Ireland",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292922",
+     "title": "Informal meeting of Research and Innovation Ministers in Dublin, Ireland",
+     "summary": "Family photo",
+     "inst": "Host"
+    }
+   ],
+   "firstSeen": "2026-07-15T10:57:26+00:00"
   }
  ]
 }
