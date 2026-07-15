@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-15T16:05:18+00:00",
+ "generatedAt": "2026-07-15T17:33:37+00:00",
  "events": [
   {
    "ep": false,
@@ -409,23 +409,23 @@
   },
   {
    "ep": false,
-   "start": "2026-07-15T15:45:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-15T17:35:00.000Z",
+   "durationSec": 157,
    "channel": "EBS+",
-   "status": "EDIT_RECORDED",
+   "status": "EDIT",
    "title": "European Commission President Ursula von der LEYEN in Ukraine",
    "languages": [
     "INT"
    ],
    "items": [
     {
-     "ref": "I-292446",
+     "ref": "I-292880",
      "title": "European Commission President Ursula von der LEYEN in Ukraine",
-     "summary": "Details to follow",
+     "summary": "Visit to UNESCO World Heritage sites damaged by the Russian strike on the territory of the Kyiv-Pechersk Lavra on 15 June 2026",
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-15T16:05:18+00:00"
+   "firstSeen": "2026-07-15T17:33:37+00:00"
   },
   {
    "ep": false,
@@ -686,7 +686,7 @@
     {
      "ref": "I-292893",
      "title": "High Represntative / Vice-President Kaja KALLAS in Djibouti",
-     "summary": "EU-Dijouti SOFA signing ceremony",
+     "summary": "EU-Djibouti SOFA signing ceremony",
      "inst": "EC"
     }
    ],
