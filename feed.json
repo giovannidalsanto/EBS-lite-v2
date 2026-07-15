@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-15T12:20:08+00:00",
+ "generatedAt": "2026-07-15T14:22:30+00:00",
  "events": [
   {
    "ep": false,
@@ -256,8 +256,8 @@
   },
   {
    "ep": true,
-   "start": "2026-07-15T12:30:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-15T12:34:17.640Z",
+   "durationSec": 3766,
    "channel": "EBS",
    "status": "LIVE",
    "title": "EP Exchange of Views Outcome of the NATO Summit in Ankara with Radmila ŠEKERINSKA, Deputy Secretary General of NATO SEDE Committee and D-NPA Delegation",
@@ -290,7 +290,7 @@
     {
      "ref": "I-292577",
      "title": "EP Exchange of Views Outcome of the NATO Summit in Ankara with Radmila ŠEKERINSKA, Deputy Secretary General of NATO SEDE Committee and D-NPA Delegation",
-     "summary": "Opening statements Committee on Security and Defence (SEDE) and Delegation for relations with the NATO Parliamentary Assembly (D-NPA)",
+     "summary": "Opening statement by STRACK-ZIMMERMANN, Marie-Agnes (Renew, DE), SEDE Chair, DE MEO, Salvatore (EPP, IT) and Radmila ŠEKERINSKA, Deputy Secretary General of NATO Committee on Security and Defence (SEDE) and Delegation for relations with the NATO Parliamentary Assembly (D-NPA)",
      "inst": "EP"
     },
     {
@@ -302,15 +302,15 @@
     {
      "ref": "I-292579",
      "title": "EP Exchange of Views Outcome of the NATO Summit in Ankara with Radmila ŠEKERINSKA, Deputy Secretary General of NATO SEDE Committee and D-NPA Delegation",
-     "summary": "Closing statements Committee on Security and Defence (SEDE) and Delegation for relations with the NATO Parliamentary Assembly (D-NPA)",
+     "summary": "Closing statement by STRACK-ZIMMERMANN, Marie-Agnes (Renew, DE), SEDE Chair Committee on Security and Defence (SEDE) and Delegation for relations with the NATO Parliamentary Assembly (D-NPA)",
      "inst": "EP"
     }
    ],
-   "firstSeen": "2026-07-14T10:53:10+00:00"
+   "firstSeen": "2026-07-15T14:22:30+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-15T14:00:00.000Z",
+   "start": "2026-07-15T14:20:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
    "status": "LIVE",
@@ -326,12 +326,12 @@
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-14T10:53:10+00:00"
+   "firstSeen": "2026-07-15T14:22:30+00:00"
   },
   {
    "ep": false,
    "start": "2026-07-15T14:30:00.000Z",
-   "durationSec": 0,
+   "durationSec": 3571,
    "channel": "EBS",
    "status": "RECORDED",
    "title": "607th European Economic and Social Committee Plenary session",
@@ -374,26 +374,6 @@
      "title": "607th European Economic and Social Committee Plenary session",
      "summary": "Better protection for workers: quality jobs and fair labour mobility with Roxana MÎNZATU, Executive Vice-President of the European Commission for Social Rights and Skills, Quality Jobs and Preparedness linked to SOC/856 - Quality jobs roadmap and SOC/861 - Towards a clear EU framework for the posting of third-country nationals (TCNs): ensuring genuine posting, legal certainty and fair competition",
      "inst": "European Economic "
-    }
-   ],
-   "firstSeen": "2026-07-14T10:53:10+00:00"
-  },
-  {
-   "ep": true,
-   "start": "2026-07-15T17:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "EDIT",
-   "title": "EP News Exchange of views with Anthropic IMCO Committee",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292501",
-     "title": "EP News Exchange of views with Anthropic IMCO Committee",
-     "summary": "Exchange of view on safety and cyber security risks potentially posed by advanced AI systems, and the application of the EU AI Act and European digital rules extracts from the exchange of views with Anthropic Committee on the Internal Market and Consumer Protection (IMCO )",
-     "inst": "EP"
     }
    ],
    "firstSeen": "2026-07-14T10:53:10+00:00"
