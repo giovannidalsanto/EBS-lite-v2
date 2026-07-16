@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-16T08:42:23+00:00",
+ "generatedAt": "2026-07-16T11:06:20+00:00",
  "events": [
   {
    "ep": false,
@@ -39,7 +39,7 @@
     {
      "ref": "I-292957",
      "title": "Informal meeting of Home Affairs Ministers in Dublin, Ireland",
-     "summary": "Doorstep Gerhard Karner, Federal Minister of the Interior of Austria",
+     "summary": "Doorstep Gerhard KARNER, Federal Minister of the Interior of Austria",
      "inst": "Host"
     },
     {
@@ -57,7 +57,7 @@
     {
      "ref": "I-292950",
      "title": "Informal meeting of Home Affairs Ministers in Dublin, Ireland",
-     "summary": "Doorstep Martynas Katelynas, Minister of the Interior od Lithaunia",
+     "summary": "Doorstep Martynas KATEYNAS, Minister of the Interior of Lithaunia",
      "inst": "Host"
     },
     {
@@ -92,7 +92,7 @@
   {
    "ep": false,
    "start": "2026-07-16T07:58:34.360Z",
-   "durationSec": 0,
+   "durationSec": 10872,
    "channel": "EBS",
    "status": "LIVE",
    "title": "607th European Economic and Social Committee Plenary session",
@@ -127,7 +127,25 @@
     {
      "ref": "I-292444",
      "title": "607th European Economic and Social Committee Plenary session",
-     "summary": "High-level debate on EU enlargement with Marta KOS, European Commissioner for Enlargement, Mihai POPSOI, Minister of Foreign Affairs of the Republic of Moldova, Zoran DIMITROVSKI, Deputy Minister of Foreign Affairs and Foreign Trade of the Republic of North Macedonia, Nerijus ALEKSIEJŪNAS, Ambassador, Permanent Representative of the Republic of Lithuania to the EU, David McALLISTER, Member of the European Parliament, Chair of the AFET Committee (video-message), and participants from the enlargement candidate members initiative",
+     "summary": "High-level debate on EU enlargement Opening remarks by Séamus BOLAND, President of the European Economic and Social Committee (EESC) Keynote speech by Marta KOS, European Commissioner for Enlargement Debate with EESC Members",
+     "inst": "European Economic "
+    },
+    {
+     "ref": "I-292966",
+     "title": "607th European Economic and Social Committee Plenary session",
+     "summary": "High-level debate on EU enlargement Session I - Building a safer, more resilient and secure Europe with Mihai POPSOI, Minister of Foreign Affairs of the Republic of Moldova, Nerijus ALEKSIEJŪNAS, Ambassador, Permanent Representative of the Republic of Lithuania to the EU, and Ariane RODERT, Rapporteur of the European economic and Social Committees Opinion on the European Preparedness Union Strategy Video message by David McALLISTER, Member of the European Parliament, Chair of the AFET Committee Participants from the enlargement candidate members initiative Moderator: Teona LAVRELASHVILI, Research Associate, Wilfried Martens Centre for European Studies",
+     "inst": "European Economic "
+    },
+    {
+     "ref": "I-292971",
+     "title": "607th European Economic and Social Committee Plenary session",
+     "summary": "High-level debate on EU enlargement Session II - Accelerating socio-economic convergence with the EU to drive European growth and competitiveness with Zulfi ISMAILI, Ambassador of the Republic of North Macedonia to the European Union, Oleg ROIBU, EESC Member, rapporteur of the opinion REX/612 \"Civil society's role in supporting reform under the Growth Plans for the Western Balkans and Moldova, as well as in Ukraine's reform path\", and Andrej ZORKO, EESC Member, co-rapporteur of the opinion REX/612 Participants from the enlargement candidate members initiative Moderator: Igor Šoltes, Head of the Regional Cooperation Council (RCC) Office in Brussels",
+     "inst": "European Economic "
+    },
+    {
+     "ref": "I-292972",
+     "title": "607th European Economic and Social Committee Plenary session",
+     "summary": "High-level debate on EU enlargement Concluding remarks by Valentina SUPERTI, Director for Western Balkans, European Commission’s Directorate-General for Enlargement and Eastern Neighbourhood (DG ENEST), and Séamus BOLAND, President of the European Economic and Social Committee (EESC)",
      "inst": "European Economic "
     }
    ],
@@ -175,8 +193,8 @@
   },
   {
    "ep": false,
-   "start": "2026-07-16T09:45:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-16T09:59:35.840Z",
+   "durationSec": 119,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "Informal meeting of Home Affairs Ministers in Dublin, Ireland",
@@ -191,12 +209,12 @@
      "inst": "Host"
     }
    ],
-   "firstSeen": "2026-07-14T16:00:14+00:00"
+   "firstSeen": "2026-07-16T11:06:20+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-16T11:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-16T11:00:10.000Z",
+   "durationSec": 2739,
    "channel": "EBS+",
    "status": "EDIT_RECORDED",
    "title": "Court of Justice of the European Union",
@@ -207,43 +225,43 @@
     {
      "ref": "I-292648",
      "title": "Court of Justice of the European Union",
-     "summary": "ECJ Joined cases in cases C-258/23 Imagens Médicas Integradas S.A., C-259/23 Synlabhealth II S.A., C-260/23 SIBS-Sociedade Gestoras de Paricipaçoes Sociais S.A. regarding infringement of the rules of competition and the right to respect for personal data",
+     "summary": "ECJ Joined cases in cases C-258/23 Imagens Médicas Integradas S.A., C-259/23 Synlabhealth II S.A., C-260/23 SIBS-Sociedade Gestoras de Paricipaçoes Sociais S.A. regarding infringement of the rules of competition and the right to respect for personal data Read by Nuno José CARDOSO DA SILVA PIÇARRA, Judge",
      "inst": "Court of Justice o"
     },
     {
      "ref": "I-292649",
      "title": "Court of Justice of the European Union",
-     "summary": "ECJ ruling in case C-196/24 Aucrinde regarding cooperation between courts of the member states in the taking of evidence: exhumation of a body for the purpose of establishing parentage",
+     "summary": "ECJ ruling in case C-196/24 Aucrinde regarding cooperation between courts of the member states in the taking of evidence: exhumation of a body for the purpose of establishing parentage Read by Koen LENAERTS, President of the Court of Justice of the European Union",
      "inst": "Court of Justice o"
     },
     {
      "ref": "I-292650",
      "title": "Court of Justice of the European Union",
-     "summary": "ECJ rulings in cases C-523/24 Sociedad Civil Catalana and C-666/24 Associació Catalana de Víctimes d’Organitzacions Terroristes regarding the compatibility of amnesty Spanish law regarding Catalonia with EU law",
+     "summary": "ECJ rulings in cases C-523/24 Sociedad Civil Catalana and C-666/24 Associació Catalana de Víctimes d’Organitzacions Terroristes regarding the compatibility of amnesty Spanish law regarding Catalonia with EU law Read by Koen LENAERTS, President of the Court of Justice of the European Union",
      "inst": "Court of Justice o"
     },
     {
      "ref": "I-292652",
      "title": "Court of Justice of the European Union",
-     "summary": "ECJ ruling in case C-280/25 Lin II regarding the protection of the financial interests of the European union",
+     "summary": "ECJ ruling in case C-280/25 Lin II regarding the protection of the financial interests of the European union Read by Octavia SPINEANU-MATEI, President of the VIII Chamber",
      "inst": "Court of Justice o"
     },
     {
      "ref": "I-292653",
      "title": "Court of Justice of the European Union",
-     "summary": "ECJ ruling in case C-26/25 Bukla regarding the return directive",
+     "summary": "ECJ ruling in case C-26/25 Bukla regarding the return directive Read by Koen LENAERTS, President of the Court of Justice of the European Union",
      "inst": "Court of Justice o"
     },
     {
      "ref": "I-292654",
      "title": "Court of Justice of the European Union",
-     "summary": "ECJ ruling in case C-209/23 RRC Sports regarding the regulations of football agents",
+     "summary": "ECJ ruling in case C-209/23 RRC Sports regarding the regulations of football agents Read by Thomas von DANWITZ, Vice-President of the Court of Justice of the European Union",
      "inst": "Court of Justice o"
     },
     {
      "ref": "I-292655",
      "title": "Court of Justice of the European Union",
-     "summary": "ECJ joined cases in C-424/24 FIGC and Coni and C-425/24 FIGC and Coni regarding disciplinary sanction imposed pursuant to sport law",
+     "summary": "ECJ joined cases in C-424/24 FIGC and Coni and C-425/24 FIGC and Coni regarding disciplinary sanction imposed pursuant to sport law Read by Koen LENAERTS, President of the Court of Justice of the European Union",
      "inst": "Court of Justice o"
     },
     {
@@ -255,11 +273,11 @@
     {
      "ref": "I-292657",
      "title": "Court of Justice of the European Union",
-     "summary": "Opinion of the advocate general in case C-524/24 Italy v Austria regarding the prohibition of the cross-border traffic of certain heavy goods (Brenner motorway",
+     "summary": "Opinion of the advocate general in case C-524/24 Italy v Austria regarding the prohibition of the cross-border traffic of certain heavy goods (Brenner motorway Read by Andrea BIONDI, Advocat General",
      "inst": "Court of Justice o"
     }
    ],
-   "firstSeen": "2026-07-10T12:15:01+00:00"
+   "firstSeen": "2026-07-16T11:06:20+00:00"
   },
   {
    "ep": false,
