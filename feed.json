@@ -1,432 +1,6 @@
 {
- "generatedAt": "2026-07-15T17:33:37+00:00",
+ "generatedAt": "2026-07-16T05:23:15+00:00",
  "events": [
-  {
-   "ep": false,
-   "start": "2026-07-15T07:15:10.000Z",
-   "durationSec": 27,
-   "channel": "EBS+",
-   "status": "EDIT",
-   "title": "European Commission President Ursula von der LEYEN in Ukraine",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292876",
-     "title": "European Commission President Ursula von der LEYEN in Ukraine",
-     "summary": "Arrival at Kyiv railway station",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-07-15T08:56:30+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-15T09:02:39.200Z",
-   "durationSec": 1040,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "EC press point by Executive Vice-President Roxana MÎNZATU and the Chair of the European Skills High-Level Board Ylva JOHANSSON on the European Skills High-Level Board and the Skills Guarantee Pilot",
-   "languages": [
-    "INT",
-    "EN",
-    "FR"
-   ],
-   "items": [
-    {
-     "ref": "I-292920",
-     "title": "EC press point by Executive Vice-President Roxana MÎNZATU and the Chair of the European Skills High-Level Board Ylva JOHANSSON on the European Skills High-Level Board and the Skills Guarantee Pilot",
-     "summary": "Press point opening remarks by Roxana MÎNZATU, Executive Vice-President of the European Commission for Social Rights and Skills, Quality Jobs and Preparedness Press point opening remarks by Ylva JOHANSSON, Chair of the European Skills High-Level Board Handover of the European Skills High-Level Board and the Skills Guarantee Pilot report and additional press point remarks by Roxana MÎNZATU, Executive Vice-President of the European Commission for Social Rights and Skills, Quality Jobs and Preparedness Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292445",
-     "title": "EC press point by Executive Vice-President Roxana MÎNZATU and the Chair of the European Skills High-Level Board Ylva JOHANSSON on the European Skills High-Level Board and the Skills Guarantee Pilot",
-     "summary": "Press point opening remarks by Roxana MÎNZATU, Executive Vice-President of the European Commission for Social Rights and Skills, Quality Jobs and Preparedness",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292917",
-     "title": "EC press point by Executive Vice-President Roxana MÎNZATU and the Chair of the European Skills High-Level Board Ylva JOHANSSON on the European Skills High-Level Board and the Skills Guarantee Pilot",
-     "summary": "Press point opening remarks by Ylva JOHANSSON, Chair of the European Skills High-Level Board",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292918",
-     "title": "EC press point by Executive Vice-President Roxana MÎNZATU and the Chair of the European Skills High-Level Board Ylva JOHANSSON on the European Skills High-Level Board and the Skills Guarantee Pilot",
-     "summary": "Handover of the European Skills High-Level Board and the Skills Guarantee Pilot report and additional press point remarks by Roxana MÎNZATU, Executive Vice-President of the European Commission for Social Rights and Skills, Quality Jobs and Preparedness",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292919",
-     "title": "EC press point by Executive Vice-President Roxana MÎNZATU and the Chair of the European Skills High-Level Board Ylva JOHANSSON on the European Skills High-Level Board and the Skills Guarantee Pilot",
-     "summary": "Q&A",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-07-15T10:57:26+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-15T09:34:44.240Z",
-   "durationSec": 1711,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "EC Midday press briefing of 15/07/2026",
-   "languages": [
-    "INT",
-    "EN",
-    "FR"
-   ],
-   "items": [
-    {
-     "ref": "I-292930",
-     "title": "EC Midday press briefing of 15/07/2026",
-     "summary": "ANNOUNCEMENT - Ongoing visit of EC President von der Leyen in Ukraine ANNOUNCEMENT - EU-India Trade and Technology Council (TTC) ministerial ANNOUNCEMENT - College agenda and press events FOREIGN AFFAIRS - Nomination of EU Special Representative for Sahel: Q&A EU FUNDING - EBRD / EIB funding / China Railway Rolling Stock Corporation (CRRC): Q&A SPORT - European teams support at the Football World Cup: Q&A CULTURE / DEMOCRACY / FUNDING - Russian participation to the Venice Biennale Art Exhibition: Q&A SPORT / FUNDING - Organizations decision to lift the suspension of Russian participation in sport and cultural events: Q&A SCHENGEN - Cyprus: Q&A WAR IN UKRAINE / BUDGET - Ukraine 90 billion loan / Permission for Ukraine to use EU funds for Chinese drone parts: Q&A TRADE - Tariffs exemptions / EU/US Joint statement / Steel / Cheese: Q&A EU-SWITZERLAND RELATIONS - European Ports Alliance: Q&A Exterior views of the European Commission Berlaymont building Recorded cutaways",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292594",
-     "title": "EC Midday press briefing of 15/07/2026",
-     "summary": "ANNOUNCEMENT - Ongoing visit of EC President von der Leyen in Ukraine",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292595",
-     "title": "EC Midday press briefing of 15/07/2026",
-     "summary": "ANNOUNCEMENT - EU-India Trade and Technology Council (TTC) ministerial",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292908",
-     "title": "EC Midday press briefing of 15/07/2026",
-     "summary": "ANNOUNCEMENT - College agenda and press events",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292909",
-     "title": "EC Midday press briefing of 15/07/2026",
-     "summary": "FOREIGN AFFAIRS - Nomination of EU Special Representative for Sahel: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292910",
-     "title": "EC Midday press briefing of 15/07/2026",
-     "summary": "EU FUNDING - EBRD / EIB funding / China Railway Rolling Stock Corporation (CRRC): Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292911",
-     "title": "EC Midday press briefing of 15/07/2026",
-     "summary": "SPORT - European teams support at the Football World Cup: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292912",
-     "title": "EC Midday press briefing of 15/07/2026",
-     "summary": "CULTURE / DEMOCRACY / FUNDING - Russian participation to the Venice Biennale Art Exhibition: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292913",
-     "title": "EC Midday press briefing of 15/07/2026",
-     "summary": "SPORT / FUNDING - Organizations decision to lift the suspension of Russian participation in sport and cultural events: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292916",
-     "title": "EC Midday press briefing of 15/07/2026",
-     "summary": "SCHENGEN - Cyprus: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292924",
-     "title": "EC Midday press briefing of 15/07/2026",
-     "summary": "WAR IN UKRAINE / BUDGET - Ukraine 90 billion loan / Permission for Ukraine to use EU funds for Chinese drone parts: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292925",
-     "title": "EC Midday press briefing of 15/07/2026",
-     "summary": "TRADE - Tariffs exemptions / EU/US Joint statement / Steel / Cheese: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292926",
-     "title": "EC Midday press briefing of 15/07/2026",
-     "summary": "EU-SWITZERLAND RELATIONS - European Ports Alliance: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292596",
-     "title": "EC Midday press briefing of 15/07/2026",
-     "summary": "Exterior views of the European Commission Berlaymont building",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292597",
-     "title": "EC Midday press briefing of 15/07/2026",
-     "summary": "Recorded cutaways",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-07-15T10:57:26+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-15T10:05:10.000Z",
-   "durationSec": 3823,
-   "channel": "EBS+",
-   "status": "RECORDED",
-   "title": "European Commission President Ursula von der LEYEN in Ukraine",
-   "languages": [
-    "INT",
-    "EN"
-   ],
-   "items": [
-    {
-     "ref": "I-292882",
-     "title": "European Commission President Ursula von der LEYEN in Ukraine",
-     "summary": "Ceremony for the Day of Ukrainian Statehood and the Day of the Baptism of Kyivan Rus-Ukraine Arrivals, Ukrainian anthem and one minute of silence Speech by Volodymyr ZELENSKYY, President of Ukraine State awards Volodymyr ZELENSKYY, President of Ukraine presenting the Order of Europe Award to Ursula von der LEYEN, President of the European Commission Speech by Ursula von der LEYEN, President of the European Commission Speeches by Maia SANDU, President of Moldova and Nicușor DAN, President of Romania",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-07-15T10:57:26+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-15T11:00:10.000Z",
-   "durationSec": 33,
-   "channel": "EBS",
-   "status": "EDIT",
-   "title": "António COSTA, President of the European Council, meets Christian SAUNDERS, Commissioner-General ad interim of the United Nations Relief and Works Agency for Palestine Refugees in the Near East (UNRWA)",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292931",
-     "title": "António COSTA, President of the European Council, meets Christian SAUNDERS, Commissioner-General ad interim of the United Nations Relief and Works Agency for Palestine Refugees in the Near East (UNRWA)",
-     "summary": "Roundtable",
-     "inst": "Council"
-    }
-   ],
-   "firstSeen": "2026-07-15T12:20:08+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-15T11:25:10.000Z",
-   "durationSec": 79,
-   "channel": "EBS+",
-   "status": "EDIT",
-   "title": "European Commission President Ursula von der LEYEN in Ukraine",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292906",
-     "title": "European Commission President Ursula von der LEYEN in Ukraine",
-     "summary": "Ceremony for the Day of Ukrainian Statehood and the Day of the Baptism of Kyivan Rus-Ukraine Joint flower-laying ceremony at the Wall of Remembrance for the Fallen Defenders of Ukraine",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-07-15T12:20:08+00:00"
-  },
-  {
-   "ep": true,
-   "start": "2026-07-15T12:34:17.640Z",
-   "durationSec": 3766,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "EP Exchange of Views Outcome of the NATO Summit in Ankara with Radmila ŠEKERINSKA, Deputy Secretary General of NATO SEDE Committee and D-NPA Delegation",
-   "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "DE",
-    "IT",
-    "ES",
-    "EL",
-    "PT",
-    "NL",
-    "DA",
-    "FI",
-    "SV",
-    "CS",
-    "ET",
-    "LV",
-    "LT",
-    "HU",
-    "PL",
-    "SK",
-    "SL",
-    "BG",
-    "RO",
-    "HR"
-   ],
-   "items": [
-    {
-     "ref": "I-292577",
-     "title": "EP Exchange of Views Outcome of the NATO Summit in Ankara with Radmila ŠEKERINSKA, Deputy Secretary General of NATO SEDE Committee and D-NPA Delegation",
-     "summary": "Opening statement by STRACK-ZIMMERMANN, Marie-Agnes (Renew, DE), SEDE Chair, DE MEO, Salvatore (EPP, IT) and Radmila ŠEKERINSKA, Deputy Secretary General of NATO Committee on Security and Defence (SEDE) and Delegation for relations with the NATO Parliamentary Assembly (D-NPA)",
-     "inst": "EP"
-    },
-    {
-     "ref": "I-292578",
-     "title": "EP Exchange of Views Outcome of the NATO Summit in Ankara with Radmila ŠEKERINSKA, Deputy Secretary General of NATO SEDE Committee and D-NPA Delegation",
-     "summary": "Q&A Committee on Security and Defence (SEDE) and Delegation for relations with the NATO Parliamentary Assembly (D-NPA)",
-     "inst": "EP"
-    },
-    {
-     "ref": "I-292579",
-     "title": "EP Exchange of Views Outcome of the NATO Summit in Ankara with Radmila ŠEKERINSKA, Deputy Secretary General of NATO SEDE Committee and D-NPA Delegation",
-     "summary": "Closing statement by STRACK-ZIMMERMANN, Marie-Agnes (Renew, DE), SEDE Chair Committee on Security and Defence (SEDE) and Delegation for relations with the NATO Parliamentary Assembly (D-NPA)",
-     "inst": "EP"
-    }
-   ],
-   "firstSeen": "2026-07-15T14:22:30+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-15T14:47:00.280Z",
-   "durationSec": 2511,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "EU-India Trade and Technology Council (TTC) ministerial",
-   "languages": [
-    "INT",
-    "EN",
-    "FR"
-   ],
-   "items": [
-    {
-     "ref": "I-292468",
-     "title": "EU-India Trade and Technology Council (TTC) ministerial",
-     "summary": "Press point by Henna VIRKKUNEN, Executive Vice-President of the European Commission for Tech Sovereignty, Security and Democracy Maroš ŠEFČOVIČ, European Commissioner for Trade and Economic Security, and European Commissioner for Interinstitutional Relations and Transparency Ekaterina ZAHARIEVA, European Commissioner for Startups, Research and Innovation Subrahmanyam JAISHANKAR, Minister of External Affairs of India Piyush GOYAL, Minister of Commerce and Industry of India Jitin PRASADA, Minister of State for Electronics and Information Technology of India",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-07-15T16:05:18+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-15T15:00:10.080Z",
-   "durationSec": 1500,
-   "channel": "EBS+",
-   "status": "RECORDED",
-   "title": "European Commission President Ursula von der LEYEN in Ukraine",
-   "languages": [
-    "INT",
-    "EN"
-   ],
-   "items": [
-    {
-     "ref": "I-292883",
-     "title": "European Commission President Ursula von der LEYEN in Ukraine",
-     "summary": "Press conference by Ursula von der LEYEN, President of the European Commission and Volodymyr ZELENSKYY, President of Ukraine",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-07-15T16:05:18+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-15T15:30:00.000Z",
-   "durationSec": 102,
-   "channel": "EBS+",
-   "status": "EDIT",
-   "title": "European Commission President Ursula von der LEYEN in Ukraine",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292877",
-     "title": "European Commission President Ursula von der LEYEN in Ukraine",
-     "summary": "Bilateral meeting with Volodymyr ZELENSKYY, President of Ukraine",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292904",
-     "title": "European Commission President Ursula von der LEYEN in Ukraine",
-     "summary": "Ukraine - Southeast Europe Summit Family photo and roundtable working lunch",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-07-15T16:05:18+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-15T15:35:10.000Z",
-   "durationSec": 7325,
-   "channel": "EBS",
-   "status": "RECORDED",
-   "title": "607th European Economic and Social Committee Plenary session",
-   "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "DE",
-    "IT",
-    "ES",
-    "EL",
-    "PT",
-    "NL",
-    "DA",
-    "FI",
-    "SV",
-    "CS",
-    "ET",
-    "LV",
-    "LT",
-    "HU",
-    "MT",
-    "PL",
-    "SK",
-    "SL",
-    "BG",
-    "RO",
-    "GA",
-    "HR"
-   ],
-   "items": [
-    {
-     "ref": "I-292443",
-     "title": "607th European Economic and Social Committee Plenary session",
-     "summary": "Presentation of the priorities of the Irish Presidency of the Council of the European Union with Thomas BYRNE, Minister of State for European Affairs and Defence of Ireland",
-     "inst": "European Economic "
-    },
-    {
-     "ref": "I-292706",
-     "title": "607th European Economic and Social Committee Plenary session",
-     "summary": "Better protection for workers: quality jobs and fair labour mobility with Roxana MÎNZATU, Executive Vice-President of the European Commission for Social Rights and Skills, Quality Jobs and Preparedness linked to SOC/856 - Quality jobs roadmap and SOC/861 - Towards a clear EU framework for the posting of third-country nationals (TCNs): ensuring genuine posting, legal certainty and fair competition",
-     "inst": "European Economic "
-    }
-   ],
-   "firstSeen": "2026-07-15T16:05:18+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-15T17:35:00.000Z",
-   "durationSec": 157,
-   "channel": "EBS+",
-   "status": "EDIT",
-   "title": "European Commission President Ursula von der LEYEN in Ukraine",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292880",
-     "title": "European Commission President Ursula von der LEYEN in Ukraine",
-     "summary": "Visit to UNESCO World Heritage sites damaged by the Russian strike on the territory of the Kyiv-Pechersk Lavra on 15 June 2026",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-07-15T17:33:37+00:00"
-  },
   {
    "ep": false,
    "start": "2026-07-16T07:30:00.000Z",
@@ -1237,6 +811,118 @@
     }
    ],
    "firstSeen": "2026-07-15T12:20:08+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-22T08:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "Weekly European Commission College meeting",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292773",
+     "title": "Weekly European Commission College meeting",
+     "summary": "Exterior views of the European Commission Berlaymont building",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292774",
+     "title": "Weekly European Commission College meeting",
+     "summary": "Roundtable",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-16T05:23:15+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-22T10:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "Read-out of the College meeting / press conference (details to follow)",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "EL",
+    "PT",
+    "NL",
+    "DA",
+    "FI",
+    "SV",
+    "CS",
+    "ET",
+    "LV",
+    "LT",
+    "HU",
+    "MT",
+    "PL",
+    "SK",
+    "SL",
+    "BG",
+    "RO",
+    "HR"
+   ],
+   "items": [
+    {
+     "ref": "I-292776",
+     "title": "Read-out of the College meeting / press conference (details to follow)",
+     "summary": "Read-out of the College meeting / press conference",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-16T05:23:15+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-22T10:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "Read-out of the College meeting / press conference with international sign language (details to follow)",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "EL",
+    "PT",
+    "NL",
+    "DA",
+    "FI",
+    "SV",
+    "CS",
+    "ET",
+    "LV",
+    "LT",
+    "HU",
+    "MT",
+    "PL",
+    "SK",
+    "SL",
+    "BG",
+    "RO",
+    "HR"
+   ],
+   "items": [
+    {
+     "ref": "I-292777",
+     "title": "Read-out of the College meeting / press conference with international sign language (details to follow)",
+     "summary": "Read-out of the College meeting / press conference (with international sign language)",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-16T05:23:15+00:00"
   }
  ]
 }
