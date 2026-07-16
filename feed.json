@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-07-16T06:26:19+00:00",
+ "generatedAt": "2026-07-16T08:42:23+00:00",
  "events": [
   {
    "ep": false,
-   "start": "2026-07-16T07:30:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-16T06:56:58.000Z",
+   "durationSec": 3315,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "Informal meeting of Home Affairs Ministers in Dublin, Ireland",
@@ -13,17 +13,85 @@
    ],
    "items": [
     {
-     "ref": "I-292449",
+     "ref": "I-292944",
      "title": "Informal meeting of Home Affairs Ministers in Dublin, Ireland",
-     "summary": "Arrivals, welcome and doorsteps",
+     "summary": "Doorstep Francisco Javier ZARZALEJOS Nieto, Chair of the Committee on Civil Liberties, Justice and Home Affairs (LIBE) of the European Parliament",
+     "inst": "Host"
+    },
+    {
+     "ref": "I-292963",
+     "title": "Informal meeting of Home Affairs Ministers in Dublin, Ireland",
+     "summary": "Doorstep Johannes LEIJTENS, Executive Director of Frontex",
+     "inst": "Host"
+    },
+    {
+     "ref": "I-292945",
+     "title": "Informal meeting of Home Affairs Ministers in Dublin, Ireland",
+     "summary": "Doorstep Maciej DUSZCZYK, Undersecretary of State at the Ministry of the Interior and Administration of Poland",
+     "inst": "Host"
+    },
+    {
+     "ref": "I-292946",
+     "title": "Informal meeting of Home Affairs Ministers in Dublin, Ireland",
+     "summary": "Doorstep Anders HALL, State Secretary to the Minister for Migration of Sweden",
+     "inst": "Host"
+    },
+    {
+     "ref": "I-292957",
+     "title": "Informal meeting of Home Affairs Ministers in Dublin, Ireland",
+     "summary": "Doorstep Gerhard Karner, Federal Minister of the Interior of Austria",
+     "inst": "Host"
+    },
+    {
+     "ref": "I-292947",
+     "title": "Informal meeting of Home Affairs Ministers in Dublin, Ireland",
+     "summary": "Doorstep Anneleen VAN BOSSUYT, Minister of Asylum and Migration, and of Social Integration, in charge of Major Cities Policy of Belgium",
+     "inst": "Host"
+    },
+    {
+     "ref": "I-292949",
+     "title": "Informal meeting of Home Affairs Ministers in Dublin, Ireland",
+     "summary": "Doorstep Igor TARO, Minister of the Interior of Estonia",
+     "inst": "Host"
+    },
+    {
+     "ref": "I-292950",
+     "title": "Informal meeting of Home Affairs Ministers in Dublin, Ireland",
+     "summary": "Doorstep Martynas Katelynas, Minister of the Interior od Lithaunia",
+     "inst": "Host"
+    },
+    {
+     "ref": "I-292951",
+     "title": "Informal meeting of Home Affairs Ministers in Dublin, Ireland",
+     "summary": "Doorstep Magnus BRUNNER, European Commissioner for Internal Affairs and Migration",
      "inst": "Host"
     }
    ],
-   "firstSeen": "2026-07-14T16:00:14+00:00"
+   "firstSeen": "2026-07-16T08:42:23+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-16T08:00:00.000Z",
+   "start": "2026-07-16T07:56:05.680Z",
+   "durationSec": 417,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "Informal meeting of Home Affairs Ministers in Dublin, Ireland",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292840",
+     "title": "Informal meeting of Home Affairs Ministers in Dublin, Ireland",
+     "summary": "Roundtable",
+     "inst": "Host"
+    }
+   ],
+   "firstSeen": "2026-07-16T08:42:23+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-16T07:58:34.360Z",
    "durationSec": 0,
    "channel": "EBS",
    "status": "LIVE",
@@ -63,32 +131,32 @@
      "inst": "European Economic "
     }
    ],
-   "firstSeen": "2026-07-10T15:36:19+00:00"
+   "firstSeen": "2026-07-16T08:42:23+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-16T08:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-16T08:03:24.480Z",
+   "durationSec": 222,
    "channel": "EBS+",
-   "status": "LIVE",
+   "status": "RECORDED",
    "title": "Informal meeting of Home Affairs Ministers in Dublin, Ireland",
    "languages": [
     "INT"
    ],
    "items": [
     {
-     "ref": "I-292840",
+     "ref": "I-292955",
      "title": "Informal meeting of Home Affairs Ministers in Dublin, Ireland",
-     "summary": "Roundtable",
+     "summary": "Doorstep Jim O'CALLAGHAN is the Minister for Justice, Home Affairs and Migration of Ireland",
      "inst": "Host"
     }
    ],
-   "firstSeen": "2026-07-14T16:00:14+00:00"
+   "firstSeen": "2026-07-16T08:42:23+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-16T08:30:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-16T08:07:24.680Z",
+   "durationSec": 821,
    "channel": "EBS+",
    "status": "EDIT",
    "title": "Informal meeting of Home Affairs Ministers in Dublin, Ireland",
@@ -99,11 +167,11 @@
     {
      "ref": "I-292849",
      "title": "Informal meeting of Home Affairs Ministers in Dublin, Ireland",
-     "summary": "Compilation of all arrivals and welcome",
+     "summary": "Compilation of all arrivals and welcome by Jim O'CALLAGHAN is the Minister for Justice, Home Affairs and Migration of Ireland",
      "inst": "Host"
     }
    ],
-   "firstSeen": "2026-07-14T16:00:14+00:00"
+   "firstSeen": "2026-07-16T08:42:23+00:00"
   },
   {
    "ep": false,
@@ -130,7 +198,7 @@
    "start": "2026-07-16T11:00:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
-   "status": "",
+   "status": "EDIT_RECORDED",
    "title": "Court of Justice of the European Union",
    "languages": [
     "INT"
