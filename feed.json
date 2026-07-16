@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-16T12:45:58+00:00",
+ "generatedAt": "2026-07-16T15:08:33+00:00",
  "events": [
   {
    "ep": false,
@@ -165,7 +165,7 @@
     {
      "ref": "I-292955",
      "title": "Informal meeting of Home Affairs Ministers in Dublin, Ireland",
-     "summary": "Doorstep Jim O'CALLAGHAN is the Minister for Justice, Home Affairs and Migration of Ireland",
+     "summary": "Doorstep Jim O'CALLAGHAN, Minister for Justice, Home Affairs and Migration of Ireland",
      "inst": "Host"
     }
    ],
@@ -281,8 +281,8 @@
   },
   {
    "ep": false,
-   "start": "2026-07-16T13:30:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-16T13:45:10.000Z",
+   "durationSec": 28,
    "channel": "EBS",
    "status": "EDIT_RECORDED",
    "title": "High Represntative / Vice-President Kaja KALLAS in Djibouti",
@@ -291,24 +291,18 @@
    ],
    "items": [
     {
-     "ref": "I-292448",
+     "ref": "I-292892",
      "title": "High Represntative / Vice-President Kaja KALLAS in Djibouti",
-     "summary": "Official visit to ship ITS BERGAMINI",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292891",
-     "title": "High Represntative / Vice-President Kaja KALLAS in Djibouti",
-     "summary": "Official visit to ship ESP NUMANCIA",
+     "summary": "Bilateral meeting with Abdoulkader Kamil MOHAMED, Prime Minister of Djibouti",
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-14T16:00:14+00:00"
+   "firstSeen": "2026-07-16T15:08:33+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-16T13:30:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-16T13:58:41.880Z",
+   "durationSec": 1849,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "Informal meeting of Home Affairs Ministers in Dublin, Ireland",
@@ -317,34 +311,19 @@
    ],
    "items": [
     {
-     "ref": "I-292965",
-     "title": "Informal meeting of Home Affairs Ministers in Dublin, Ireland",
-     "summary": "Exit doorstep Gerhard KARNER, Federal Minister of the Interior of Austria",
-     "inst": "Host"
-    }
-   ],
-   "firstSeen": "2026-07-16T12:45:58+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-16T14:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "Informal meeting of Home Affairs Ministers in Dublin, Ireland",
-   "languages": [
-    "INT",
-    "EN"
-   ],
-   "items": [
-    {
      "ref": "I-292842",
      "title": "Informal meeting of Home Affairs Ministers in Dublin, Ireland",
-     "summary": "Press conference by the Irish Presidency and the European Commission",
+     "summary": "Press conference by Jim O'CALLAGHAN, Minister for Justice, Home Affairs and Migration of Ireland and Magnus BRUNNER, European Commissioner for Internal Affairs and Migration",
+     "inst": "Host"
+    },
+    {
+     "ref": "I-292843",
+     "title": "Informal meeting of Home Affairs Ministers in Dublin, Ireland",
+     "summary": "Recorded cutaways (mute)",
      "inst": "Host"
     }
    ],
-   "firstSeen": "2026-07-14T16:00:14+00:00"
+   "firstSeen": "2026-07-16T15:08:33+00:00"
   },
   {
    "ep": false,
@@ -358,15 +337,21 @@
    ],
    "items": [
     {
-     "ref": "I-292892",
-     "title": "High Represntative / Vice-President Kaja KALLAS in Djibouti",
-     "summary": "Bilateral meeting with Abdoulkader Kamil MOHAMED, Prime Minister of Djibouti",
-     "inst": "EC"
-    },
-    {
      "ref": "I-292893",
      "title": "High Represntative / Vice-President Kaja KALLAS in Djibouti",
      "summary": "EU-Djibouti SOFA signing ceremony",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292448",
+     "title": "High Represntative / Vice-President Kaja KALLAS in Djibouti",
+     "summary": "Official visit to ship ITS BERGAMINI",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292891",
+     "title": "High Represntative / Vice-President Kaja KALLAS in Djibouti",
+     "summary": "Official visit to ship ESP NUMANCIA",
      "inst": "EC"
     }
    ],
