@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-16T11:06:20+00:00",
+ "generatedAt": "2026-07-16T12:45:58+00:00",
  "events": [
   {
    "ep": false,
@@ -213,7 +213,7 @@
   },
   {
    "ep": false,
-   "start": "2026-07-16T11:00:10.000Z",
+   "start": "2026-07-16T11:15:10.000Z",
    "durationSec": 2739,
    "channel": "EBS+",
    "status": "EDIT_RECORDED",
@@ -277,7 +277,7 @@
      "inst": "Court of Justice o"
     }
    ],
-   "firstSeen": "2026-07-16T11:06:20+00:00"
+   "firstSeen": "2026-07-16T12:45:58+00:00"
   },
   {
    "ep": false,
@@ -304,6 +304,26 @@
     }
    ],
    "firstSeen": "2026-07-14T16:00:14+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-16T13:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "Informal meeting of Home Affairs Ministers in Dublin, Ireland",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292965",
+     "title": "Informal meeting of Home Affairs Ministers in Dublin, Ireland",
+     "summary": "Exit doorstep Gerhard KARNER, Federal Minister of the Interior of Austria",
+     "inst": "Host"
+    }
+   ],
+   "firstSeen": "2026-07-16T12:45:58+00:00"
   },
   {
    "ep": false,
@@ -371,6 +391,26 @@
     }
    ],
    "firstSeen": "2026-07-14T16:00:14+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-17T07:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT_RECORDED",
+   "title": "European Commissioner Hadja LAHBIB in Venezuela (16/07/2026)",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292453",
+     "title": "European Commissioner Hadja LAHBIB in Venezuela (16/07/2026)",
+     "summary": "Details to follow",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-16T12:45:58+00:00"
   },
   {
    "ep": false,
