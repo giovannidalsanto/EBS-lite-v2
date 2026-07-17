@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-17T10:22:53+00:00",
+ "generatedAt": "2026-07-17T11:53:54+00:00",
  "events": [
   {
    "ep": false,
@@ -160,7 +160,7 @@
   {
    "ep": false,
    "start": "2026-07-17T10:04:22.680Z",
-   "durationSec": 0,
+   "durationSec": 3686,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "EC press conference (with international sign language) by European Commission Executive Vice-President Teresa RIBERA and Commissioners Wopke HOEKSTRA and Dan JØRGENSEN on the ETS review and the Energy package",
@@ -203,7 +203,7 @@
   {
    "ep": false,
    "start": "2026-07-17T10:04:24.680Z",
-   "durationSec": 0,
+   "durationSec": 3716,
    "channel": "EBS",
    "status": "LIVE",
    "title": "Press conference by European Commission Executive Vice-President Teresa RIBERA and Commissioners Wopke HOEKSTRA and Dan JØRGENSEN on the ETS review and the Energy package",
@@ -234,6 +234,12 @@
     "HR"
    ],
    "items": [
+    {
+     "ref": "I-293021",
+     "title": "Press conference by European Commission Executive Vice-President Teresa RIBERA and Commissioners Wopke HOEKSTRA and Dan JØRGENSEN on the ETS review and the Energy package",
+     "summary": "Press conference opening remarks by Teresa RIBERA, Executive Vice-President of the European Commission for a Clean, Just and Competitive Transition Press conference opening remarks by Wopke HOEKSTRA, European Commissioner for Climate, Net Zero and Clean Growth Press conference opening remarks by Dan JØRGENSEN, European Commissioner for Energy and Housing Q&A Recorded cutaways",
+     "inst": "EC"
+    },
     {
      "ref": "I-292591",
      "title": "Press conference by European Commission Executive Vice-President Teresa RIBERA and Commissioners Wopke HOEKSTRA and Dan JØRGENSEN on the ETS review and the Energy package",
@@ -269,7 +275,7 @@
   },
   {
    "ep": false,
-   "start": "2026-07-17T10:15:00.000Z",
+   "start": "2026-07-17T11:24:35.640Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
@@ -308,11 +314,11 @@
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-17T10:22:53+00:00"
+   "firstSeen": "2026-07-17T11:53:54+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-17T11:00:00.000Z",
+   "start": "2026-07-17T11:24:36.680Z",
    "durationSec": 0,
    "channel": "EBS",
    "status": "LIVE",
@@ -347,15 +353,33 @@
     {
      "ref": "I-292592",
      "title": "Read-out of the College meeting / press conference by European Commission Executive Vice-President Henna VIRKKUNEN and Commissioner Michael McGRATH on the Rule of Law report",
-     "summary": "Read-out of the College meeting / press conference by Henna VIRKKUNEN, Executive Vice-President of the European Commission for Tech Sovereignty, Security and Democracy and Michael MCGRATH, European Commissioner for Democracy, Justice, the Rule of Law, and Consumer Protection",
+     "summary": "Read-out of the College meeting / press conference opening remarks by Henna VIRKKUNEN, Executive Vice-President of the European Commission for Tech Sovereignty, Security and Democracy",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-293019",
+     "title": "Read-out of the College meeting / press conference by European Commission Executive Vice-President Henna VIRKKUNEN and Commissioner Michael McGRATH on the Rule of Law report",
+     "summary": "Press conference opening remarks by Michael MCGRATH, European Commissioner for Democracy, Justice, the Rule of Law, and Consumer Protection",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-293020",
+     "title": "Read-out of the College meeting / press conference by European Commission Executive Vice-President Henna VIRKKUNEN and Commissioner Michael McGRATH on the Rule of Law report",
+     "summary": "Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292803",
+     "title": "Read-out of the College meeting / press conference by European Commission Executive Vice-President Henna VIRKKUNEN and Commissioner Michael McGRATH on the Rule of Law report",
+     "summary": "Recorded cutaways",
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-17T10:22:53+00:00"
+   "firstSeen": "2026-07-17T11:53:54+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-17T12:00:00.000Z",
+   "start": "2026-07-17T13:00:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
    "status": "LIVE",
@@ -394,7 +418,7 @@
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-17T08:37:07+00:00"
+   "firstSeen": "2026-07-17T11:53:54+00:00"
   },
   {
    "ep": false,
