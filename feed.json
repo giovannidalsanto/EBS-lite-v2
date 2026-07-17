@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-17T05:24:58+00:00",
+ "generatedAt": "2026-07-17T06:23:32+00:00",
  "events": [
   {
    "ep": false,
@@ -24,7 +24,7 @@
   {
    "ep": false,
    "start": "2026-07-17T07:30:00.000Z",
-   "durationSec": 0,
+   "durationSec": 309,
    "channel": "EBS",
    "status": "EDIT_RECORDED",
    "title": "European Commissioner Hadja LAHBIB in Venezuela (16/07/2026)",
