@@ -1,376 +1,6 @@
 {
- "generatedAt": "2026-07-16T16:50:43+00:00",
+ "generatedAt": "2026-07-17T05:24:58+00:00",
  "events": [
-  {
-   "ep": false,
-   "start": "2026-07-16T06:56:58.000Z",
-   "durationSec": 3315,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "Informal meeting of Justice and Home Affairs Ministers (Home Affairs) in Dublin, Ireland",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292944",
-     "title": "Informal meeting of Justice and Home Affairs Ministers (Home Affairs) in Dublin, Ireland",
-     "summary": "Doorstep Francisco Javier ZARZALEJOS Nieto, Chair of the Committee on Civil Liberties, Justice and Home Affairs (LIBE) of the European Parliament",
-     "inst": "Host"
-    },
-    {
-     "ref": "I-292963",
-     "title": "Informal meeting of Justice and Home Affairs Ministers (Home Affairs) in Dublin, Ireland",
-     "summary": "Doorstep Johannes LEIJTENS, Executive Director of Frontex",
-     "inst": "Host"
-    },
-    {
-     "ref": "I-292945",
-     "title": "Informal meeting of Justice and Home Affairs Ministers (Home Affairs) in Dublin, Ireland",
-     "summary": "Doorstep Maciej DUSZCZYK, Undersecretary of State at the Ministry of the Interior and Administration of Poland",
-     "inst": "Host"
-    },
-    {
-     "ref": "I-292946",
-     "title": "Informal meeting of Justice and Home Affairs Ministers (Home Affairs) in Dublin, Ireland",
-     "summary": "Doorstep Anders HALL, State Secretary to the Minister for Migration of Sweden",
-     "inst": "Host"
-    },
-    {
-     "ref": "I-292957",
-     "title": "Informal meeting of Justice and Home Affairs Ministers (Home Affairs) in Dublin, Ireland",
-     "summary": "Doorstep Gerhard KARNER, Federal Minister of the Interior of Austria",
-     "inst": "Host"
-    },
-    {
-     "ref": "I-292947",
-     "title": "Informal meeting of Justice and Home Affairs Ministers (Home Affairs) in Dublin, Ireland",
-     "summary": "Doorstep Anneleen VAN BOSSUYT, Minister of Asylum and Migration, and of Social Integration, in charge of Major Cities Policy of Belgium",
-     "inst": "Host"
-    },
-    {
-     "ref": "I-292949",
-     "title": "Informal meeting of Justice and Home Affairs Ministers (Home Affairs) in Dublin, Ireland",
-     "summary": "Doorstep Igor TARO, Minister of the Interior of Estonia",
-     "inst": "Host"
-    },
-    {
-     "ref": "I-292950",
-     "title": "Informal meeting of Justice and Home Affairs Ministers (Home Affairs) in Dublin, Ireland",
-     "summary": "Doorstep Martynas KATEYNAS, Minister of the Interior of Lithaunia",
-     "inst": "Host"
-    },
-    {
-     "ref": "I-292951",
-     "title": "Informal meeting of Justice and Home Affairs Ministers (Home Affairs) in Dublin, Ireland",
-     "summary": "Doorstep Magnus BRUNNER, European Commissioner for Internal Affairs and Migration",
-     "inst": "Host"
-    }
-   ],
-   "firstSeen": "2026-07-16T16:50:43+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-16T07:56:05.680Z",
-   "durationSec": 417,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "Informal meeting of Justice and Home Affairs Ministers (Home Affairs) in Dublin, Ireland",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292840",
-     "title": "Informal meeting of Justice and Home Affairs Ministers (Home Affairs) in Dublin, Ireland",
-     "summary": "Roundtable",
-     "inst": "Host"
-    }
-   ],
-   "firstSeen": "2026-07-16T16:50:43+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-16T07:58:34.360Z",
-   "durationSec": 10872,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "607th European Economic and Social Committee Plenary session",
-   "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "DE",
-    "IT",
-    "ES",
-    "EL",
-    "PT",
-    "NL",
-    "DA",
-    "FI",
-    "SV",
-    "CS",
-    "ET",
-    "LV",
-    "LT",
-    "HU",
-    "MT",
-    "PL",
-    "SK",
-    "SL",
-    "BG",
-    "RO",
-    "GA",
-    "HR"
-   ],
-   "items": [
-    {
-     "ref": "I-292444",
-     "title": "607th European Economic and Social Committee Plenary session",
-     "summary": "High-level debate on EU enlargement Opening remarks by Séamus BOLAND, President of the European Economic and Social Committee (EESC) Keynote speech by Marta KOS, European Commissioner for Enlargement Debate with EESC Members",
-     "inst": "European Economic "
-    },
-    {
-     "ref": "I-292966",
-     "title": "607th European Economic and Social Committee Plenary session",
-     "summary": "High-level debate on EU enlargement Session I - Building a safer, more resilient and secure Europe with Mihai POPSOI, Minister of Foreign Affairs of the Republic of Moldova, Nerijus ALEKSIEJŪNAS, Ambassador, Permanent Representative of the Republic of Lithuania to the EU, and Ariane RODERT, Rapporteur of the European economic and Social Committees Opinion on the European Preparedness Union Strategy Video message by David McALLISTER, Member of the European Parliament, Chair of the AFET Committee Participants from the enlargement candidate members initiative Moderator: Teona LAVRELASHVILI, Research Associate, Wilfried Martens Centre for European Studies",
-     "inst": "European Economic "
-    },
-    {
-     "ref": "I-292971",
-     "title": "607th European Economic and Social Committee Plenary session",
-     "summary": "High-level debate on EU enlargement Session II - Accelerating socio-economic convergence with the EU to drive European growth and competitiveness with Zulfi ISMAILI, Ambassador of the Republic of North Macedonia to the European Union, Oleg ROIBU, EESC Member, rapporteur of the opinion REX/612 \"Civil society's role in supporting reform under the Growth Plans for the Western Balkans and Moldova, as well as in Ukraine's reform path\", and Andrej ZORKO, EESC Member, co-rapporteur of the opinion REX/612 Participants from the enlargement candidate members initiative Moderator: Igor Šoltes, Head of the Regional Cooperation Council (RCC) Office in Brussels",
-     "inst": "European Economic "
-    },
-    {
-     "ref": "I-292972",
-     "title": "607th European Economic and Social Committee Plenary session",
-     "summary": "High-level debate on EU enlargement Concluding remarks by Valentina SUPERTI, Director for Western Balkans, European Commission’s Directorate-General for Enlargement and Eastern Neighbourhood (DG ENEST), and Séamus BOLAND, President of the European Economic and Social Committee (EESC)",
-     "inst": "European Economic "
-    }
-   ],
-   "firstSeen": "2026-07-16T08:42:23+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-16T08:03:24.480Z",
-   "durationSec": 222,
-   "channel": "EBS+",
-   "status": "RECORDED",
-   "title": "Informal meeting of Justice and Home Affairs Ministers (Home Affairs) in Dublin, Ireland",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292955",
-     "title": "Informal meeting of Justice and Home Affairs Ministers (Home Affairs) in Dublin, Ireland",
-     "summary": "Doorstep Jim O'CALLAGHAN, Minister for Justice, Home Affairs and Migration of Ireland",
-     "inst": "Host"
-    }
-   ],
-   "firstSeen": "2026-07-16T16:50:43+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-16T08:07:24.680Z",
-   "durationSec": 821,
-   "channel": "EBS+",
-   "status": "EDIT",
-   "title": "Informal meeting of Justice and Home Affairs Ministers (Home Affairs) in Dublin, Ireland",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292849",
-     "title": "Informal meeting of Justice and Home Affairs Ministers (Home Affairs) in Dublin, Ireland",
-     "summary": "Compilation of all arrivals and welcome by Jim O'CALLAGHAN is the Minister for Justice, Home Affairs and Migration of Ireland",
-     "inst": "Host"
-    }
-   ],
-   "firstSeen": "2026-07-16T16:50:43+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-16T09:59:35.840Z",
-   "durationSec": 119,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "Informal meeting of Justice and Home Affairs Ministers (Home Affairs) in Dublin, Ireland",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292841",
-     "title": "Informal meeting of Justice and Home Affairs Ministers (Home Affairs) in Dublin, Ireland",
-     "summary": "Family photo",
-     "inst": "Host"
-    }
-   ],
-   "firstSeen": "2026-07-16T16:50:43+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-16T11:15:10.000Z",
-   "durationSec": 2739,
-   "channel": "EBS+",
-   "status": "EDIT_RECORDED",
-   "title": "Court of Justice of the European Union",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292648",
-     "title": "Court of Justice of the European Union",
-     "summary": "ECJ Joined cases in cases C-258/23 Imagens Médicas Integradas S.A., C-259/23 Synlabhealth II S.A., C-260/23 SIBS-Sociedade Gestoras de Paricipaçoes Sociais S.A. regarding infringement of the rules of competition and the right to respect for personal data Read by Nuno José CARDOSO DA SILVA PIÇARRA, Judge",
-     "inst": "Court of Justice o"
-    },
-    {
-     "ref": "I-292649",
-     "title": "Court of Justice of the European Union",
-     "summary": "ECJ ruling in case C-196/24 Aucrinde regarding cooperation between courts of the member states in the taking of evidence: exhumation of a body for the purpose of establishing parentage Read by Koen LENAERTS, President of the Court of Justice of the European Union",
-     "inst": "Court of Justice o"
-    },
-    {
-     "ref": "I-292650",
-     "title": "Court of Justice of the European Union",
-     "summary": "ECJ rulings in cases C-523/24 Sociedad Civil Catalana and C-666/24 Associació Catalana de Víctimes d’Organitzacions Terroristes regarding the compatibility of amnesty Spanish law regarding Catalonia with EU law Read by Koen LENAERTS, President of the Court of Justice of the European Union",
-     "inst": "Court of Justice o"
-    },
-    {
-     "ref": "I-292652",
-     "title": "Court of Justice of the European Union",
-     "summary": "ECJ ruling in case C-280/25 Lin II regarding the protection of the financial interests of the European union Read by Octavia SPINEANU-MATEI, President of the VIII Chamber",
-     "inst": "Court of Justice o"
-    },
-    {
-     "ref": "I-292653",
-     "title": "Court of Justice of the European Union",
-     "summary": "ECJ ruling in case C-26/25 Bukla regarding the return directive Read by Koen LENAERTS, President of the Court of Justice of the European Union",
-     "inst": "Court of Justice o"
-    },
-    {
-     "ref": "I-292654",
-     "title": "Court of Justice of the European Union",
-     "summary": "ECJ ruling in case C-209/23 RRC Sports regarding the regulations of football agents Read by Thomas von DANWITZ, Vice-President of the Court of Justice of the European Union",
-     "inst": "Court of Justice o"
-    },
-    {
-     "ref": "I-292655",
-     "title": "Court of Justice of the European Union",
-     "summary": "ECJ joined cases in C-424/24 FIGC and Coni and C-425/24 FIGC and Coni regarding disciplinary sanction imposed pursuant to sport law Read by Koen LENAERTS, President of the Court of Justice of the European Union",
-     "inst": "Court of Justice o"
-    },
-    {
-     "ref": "I-292656",
-     "title": "Court of Justice of the European Union",
-     "summary": "ECJ ruling in case C-421/24 AGCOM regarding advertising on gambling",
-     "inst": "Court of Justice o"
-    },
-    {
-     "ref": "I-292657",
-     "title": "Court of Justice of the European Union",
-     "summary": "Opinion of the advocate general in case C-524/24 Italy v Austria regarding the prohibition of the cross-border traffic of certain heavy goods (Brenner motorway Read by Andrea BIONDI, Advocat General",
-     "inst": "Court of Justice o"
-    }
-   ],
-   "firstSeen": "2026-07-16T12:45:58+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-16T13:45:10.000Z",
-   "durationSec": 28,
-   "channel": "EBS",
-   "status": "EDIT_RECORDED",
-   "title": "High Representative / Vice-President Kaja KALLAS in Djibouti",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292892",
-     "title": "High Representative / Vice-President Kaja KALLAS in Djibouti",
-     "summary": "Bilateral meeting with Abdoulkader Kamil MOHAMED, Prime Minister of Djibouti",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-07-16T16:50:43+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-16T13:58:41.880Z",
-   "durationSec": 1849,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "Informal meeting of Justice and Home Affairs Ministers (Home Affairs) in Dublin, Ireland",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292842",
-     "title": "Informal meeting of Justice and Home Affairs Ministers (Home Affairs) in Dublin, Ireland",
-     "summary": "Press conference by Jim O'CALLAGHAN, Minister for Justice, Home Affairs and Migration of Ireland and Magnus BRUNNER, European Commissioner for Internal Affairs and Migration",
-     "inst": "Host"
-    },
-    {
-     "ref": "I-292843",
-     "title": "Informal meeting of Justice and Home Affairs Ministers (Home Affairs) in Dublin, Ireland",
-     "summary": "Recorded cutaways (mute)",
-     "inst": "Host"
-    }
-   ],
-   "firstSeen": "2026-07-16T16:50:43+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-16T16:30:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "EDIT_RECORDED",
-   "title": "High Representative / Vice-President Kaja KALLAS in Djibouti",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292893",
-     "title": "High Representative / Vice-President Kaja KALLAS in Djibouti",
-     "summary": "EU-Djibouti SOFA signing ceremony",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-07-16T16:50:43+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-16T17:15:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "EDIT_RECORDED",
-   "title": "High Representative / Vice-President Kaja KALLAS in Djibouti",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292448",
-     "title": "High Representative / Vice-President Kaja KALLAS in Djibouti",
-     "summary": "Official visit to ship ITS BERGAMINI",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292891",
-     "title": "High Representative / Vice-President Kaja KALLAS in Djibouti",
-     "summary": "Official visit to ship ESP NUMANCIA",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-07-16T16:50:43+00:00"
-  },
   {
    "ep": false,
    "start": "2026-07-17T07:00:00.000Z",
@@ -1048,6 +678,66 @@
     }
    ],
    "firstSeen": "2026-07-16T05:23:15+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-23T10:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "EC Midday press briefing of 23/07/2026",
+   "languages": [
+    "INT",
+    "EN",
+    "FR"
+   ],
+   "items": [
+    {
+     "ref": "I-292752",
+     "title": "EC Midday press briefing of 23/07/2026",
+     "summary": "Announcements",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292753",
+     "title": "EC Midday press briefing of 23/07/2026",
+     "summary": "Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292754",
+     "title": "EC Midday press briefing of 23/07/2026",
+     "summary": "Exterior views of the European Commission Berlaymont building",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292755",
+     "title": "EC Midday press briefing of 23/07/2026",
+     "summary": "Recorded cutaways",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-17T05:24:58+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-23T12:45:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "Press conference following the Governing Council meeting of the ECB in Frankfurt",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292623",
+     "title": "Press conference following the Governing Council meeting of the ECB in Frankfurt",
+     "summary": "Press conference by Christine LAGARDE, President of the European Central Bank (ECB)",
+     "inst": "European Central B"
+    }
+   ],
+   "firstSeen": "2026-07-17T05:24:58+00:00"
   }
  ]
 }
