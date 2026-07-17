@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-17T08:37:07+00:00",
+ "generatedAt": "2026-07-17T10:22:53+00:00",
  "events": [
   {
    "ep": false,
@@ -139,54 +139,31 @@
   },
   {
    "ep": false,
-   "start": "2026-07-17T08:30:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
+   "start": "2026-07-17T09:48:05.720Z",
+   "durationSec": 214,
+   "channel": "EBS+",
    "status": "LIVE",
-   "title": "Read-out of the College meeting / press conference by European Commission Executive Vice-President Teresa RIBERA and Commissioners Wopke HOEKSTRA and Dan JØRGENSEN on the ETS review and the Energy package",
+   "title": "Informal meeting of Justice and Home Affairs Ministers (Justice) in Dublin, Ireland",
    "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "DE",
-    "IT",
-    "ES",
-    "EL",
-    "PT",
-    "NL",
-    "DA",
-    "FI",
-    "SV",
-    "CS",
-    "ET",
-    "LV",
-    "LT",
-    "HU",
-    "MT",
-    "PL",
-    "SK",
-    "SL",
-    "BG",
-    "RO",
-    "HR"
+    "INT"
    ],
    "items": [
     {
-     "ref": "I-292591",
-     "title": "Read-out of the College meeting / press conference by European Commission Executive Vice-President Teresa RIBERA and Commissioners Wopke HOEKSTRA and Dan JØRGENSEN on the ETS review and the Energy package",
-     "summary": "Press conference by Teresa RIBERA, Executive Vice-President of the European Commission for a Clean, Just and Competitive Transition, Wopke HOEKSTRA, European Commissioner for Climate, Net Zero and Clean Growth and Dan JØRGENSEN, European Commissioner for Energy and Housing",
-     "inst": "EC"
+     "ref": "I-292845",
+     "title": "Informal meeting of Justice and Home Affairs Ministers (Justice) in Dublin, Ireland",
+     "summary": "Family photo",
+     "inst": "Host"
     }
    ],
-   "firstSeen": "2026-07-17T08:37:07+00:00"
+   "firstSeen": "2026-07-17T10:22:53+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-17T08:30:00.000Z",
+   "start": "2026-07-17T10:04:22.680Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
-   "title": "Read-out of the College meeting / press conference (with international sign language) by European Commission Executive Vice-President Teresa RIBERA and Commissioners Wopke HOEKSTRA and Dan JØRGENSEN on the ETS review and the Energy package",
+   "title": "EC press conference (with international sign language) by European Commission Executive Vice-President Teresa RIBERA and Commissioners Wopke HOEKSTRA and Dan JØRGENSEN on the ETS review and the Energy package",
    "languages": [
     "INT",
     "EN",
@@ -216,20 +193,87 @@
    "items": [
     {
      "ref": "I-292700",
-     "title": "Read-out of the College meeting / press conference (with international sign language) by European Commission Executive Vice-President Teresa RIBERA and Commissioners Wopke HOEKSTRA and Dan JØRGENSEN on the ETS review and the Energy package",
+     "title": "EC press conference (with international sign language) by European Commission Executive Vice-President Teresa RIBERA and Commissioners Wopke HOEKSTRA and Dan JØRGENSEN on the ETS review and the Energy package",
      "summary": "Press conference (with international sign language) by Teresa RIBERA, Executive Vice-President of the European Commission for a Clean, Just and Competitive Transition, Wopke HOEKSTRA, European Commissioner for Climate, Net Zero and Clean Growth and Dan JØRGENSEN, European Commissioner for Energy and Housing",
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-17T08:37:07+00:00"
+   "firstSeen": "2026-07-17T10:22:53+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-17T09:30:00.000Z",
+   "start": "2026-07-17T10:04:24.680Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "Press conference by European Commission Executive Vice-President Teresa RIBERA and Commissioners Wopke HOEKSTRA and Dan JØRGENSEN on the ETS review and the Energy package",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "EL",
+    "PT",
+    "NL",
+    "DA",
+    "FI",
+    "SV",
+    "CS",
+    "ET",
+    "LV",
+    "LT",
+    "HU",
+    "MT",
+    "PL",
+    "SK",
+    "SL",
+    "BG",
+    "RO",
+    "HR"
+   ],
+   "items": [
+    {
+     "ref": "I-292591",
+     "title": "Press conference by European Commission Executive Vice-President Teresa RIBERA and Commissioners Wopke HOEKSTRA and Dan JØRGENSEN on the ETS review and the Energy package",
+     "summary": "Press conference opening remarks by Teresa RIBERA, Executive Vice-President of the European Commission for a Clean, Just and Competitive Transition",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-293016",
+     "title": "Press conference by European Commission Executive Vice-President Teresa RIBERA and Commissioners Wopke HOEKSTRA and Dan JØRGENSEN on the ETS review and the Energy package",
+     "summary": "Press conference opening remarks by Wopke HOEKSTRA, European Commissioner for Climate, Net Zero and Clean Growth",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-293017",
+     "title": "Press conference by European Commission Executive Vice-President Teresa RIBERA and Commissioners Wopke HOEKSTRA and Dan JØRGENSEN on the ETS review and the Energy package",
+     "summary": "Press conference opening remarks by Dan JØRGENSEN, European Commissioner for Energy and Housing",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-293018",
+     "title": "Press conference by European Commission Executive Vice-President Teresa RIBERA and Commissioners Wopke HOEKSTRA and Dan JØRGENSEN on the ETS review and the Energy package",
+     "summary": "Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292802",
+     "title": "Press conference by European Commission Executive Vice-President Teresa RIBERA and Commissioners Wopke HOEKSTRA and Dan JØRGENSEN on the ETS review and the Energy package",
+     "summary": "Recorded cutaways",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-17T10:22:53+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-17T10:15:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
-   "title": "EC press conference (with international sign language) by European Commission Executive Vice-President Henna VIRKKUNEN and Commissioner Michael McGRATH on the Rule of Law report",
+   "title": "Read-out of the College meeting / press conference (with international sign language) by European Commission Executive Vice-President Henna VIRKKUNEN and Commissioner Michael McGRATH on the Rule of Law report",
    "languages": [
     "INT",
     "EN",
@@ -259,32 +303,12 @@
    "items": [
     {
      "ref": "I-292701",
-     "title": "EC press conference (with international sign language) by European Commission Executive Vice-President Henna VIRKKUNEN and Commissioner Michael McGRATH on the Rule of Law report",
-     "summary": "Press conference (with international sign language) by Henna VIRKKUNEN, Executive Vice-President of the European Commission for Tech Sovereignty, Security and Democracy and Michael MCGRATH, European Commissioner for Democracy, Justice, the Rule of Law, and Consumer Protection",
+     "title": "Read-out of the College meeting / press conference (with international sign language) by European Commission Executive Vice-President Henna VIRKKUNEN and Commissioner Michael McGRATH on the Rule of Law report",
+     "summary": "Read-out of the College meeting / press conference (with international sign language) by Henna VIRKKUNEN, Executive Vice-President of the European Commission for Tech Sovereignty, Security and Democracy and Michael MCGRATH, European Commissioner for Democracy, Justice, the Rule of Law, and Consumer Protection",
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-17T08:37:07+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-17T10:30:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS+",
-   "status": "RECORDED",
-   "title": "Informal meeting of Justice and Home Affairs Ministers (Justice) in Dublin, Ireland",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292845",
-     "title": "Informal meeting of Justice and Home Affairs Ministers (Justice) in Dublin, Ireland",
-     "summary": "Family photo",
-     "inst": "Host"
-    }
-   ],
-   "firstSeen": "2026-07-16T16:50:43+00:00"
+   "firstSeen": "2026-07-17T10:22:53+00:00"
   },
   {
    "ep": false,
@@ -292,7 +316,7 @@
    "durationSec": 0,
    "channel": "EBS",
    "status": "LIVE",
-   "title": "EC press conference by European Commission Executive Vice-President Henna VIRKKUNEN and Commissioner Michael McGRATH on the Rule of Law report",
+   "title": "Read-out of the College meeting / press conference by European Commission Executive Vice-President Henna VIRKKUNEN and Commissioner Michael McGRATH on the Rule of Law report",
    "languages": [
     "INT",
     "EN",
@@ -322,12 +346,12 @@
    "items": [
     {
      "ref": "I-292592",
-     "title": "EC press conference by European Commission Executive Vice-President Henna VIRKKUNEN and Commissioner Michael McGRATH on the Rule of Law report",
-     "summary": "Press conference by Henna VIRKKUNEN, Executive Vice-President of the European Commission for Tech Sovereignty, Security and Democracy and Michael MCGRATH, European Commissioner for Democracy, Justice, the Rule of Law, and Consumer Protection",
+     "title": "Read-out of the College meeting / press conference by European Commission Executive Vice-President Henna VIRKKUNEN and Commissioner Michael McGRATH on the Rule of Law report",
+     "summary": "Read-out of the College meeting / press conference by Henna VIRKKUNEN, Executive Vice-President of the European Commission for Tech Sovereignty, Security and Democracy and Michael MCGRATH, European Commissioner for Democracy, Justice, the Rule of Law, and Consumer Protection",
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-17T08:37:07+00:00"
+   "firstSeen": "2026-07-17T10:22:53+00:00"
   },
   {
    "ep": false,
