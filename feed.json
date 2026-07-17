@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-17T13:54:55+00:00",
+ "generatedAt": "2026-07-17T15:19:48+00:00",
  "events": [
   {
    "ep": false,
@@ -489,8 +489,8 @@
   },
   {
    "ep": false,
-   "start": "2026-07-17T14:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-17T14:31:33.720Z",
+   "durationSec": 615,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "Informal meeting of Justice and Home Affairs Ministers (Justice) in Dublin, Ireland",
@@ -505,7 +505,7 @@
      "inst": "Host"
     }
    ],
-   "firstSeen": "2026-07-17T13:54:55+00:00"
+   "firstSeen": "2026-07-17T15:19:48+00:00"
   },
   {
    "ep": true,
