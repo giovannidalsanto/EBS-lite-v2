@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-07-17T06:23:32+00:00",
+ "generatedAt": "2026-07-17T08:37:07+00:00",
  "events": [
   {
    "ep": false,
-   "start": "2026-07-17T07:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-17T06:58:33.160Z",
+   "durationSec": 2766,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "Informal meeting of Justice and Home Affairs Ministers (Justice) in Dublin, Ireland",
@@ -15,15 +15,45 @@
     {
      "ref": "I-292450",
      "title": "Informal meeting of Justice and Home Affairs Ministers (Justice) in Dublin, Ireland",
-     "summary": "Arrivals, welcome and doorsteps",
+     "summary": "Doorstep Jim O'CALLAGHAN, Minister for Justice, Home Affairs and Migration of Ireland",
+     "inst": "Host"
+    },
+    {
+     "ref": "I-292991",
+     "title": "Informal meeting of Justice and Home Affairs Ministers (Justice) in Dublin, Ireland",
+     "summary": "Doorstep Francisco Javier ZARZALEJOS Nieto, Chair of the Committee on Civil Liberties, Justice and Home Affairs (LIBE) of the European Parliament",
+     "inst": "Host"
+    },
+    {
+     "ref": "I-292992",
+     "title": "Informal meeting of Justice and Home Affairs Ministers (Justice) in Dublin, Ireland",
+     "summary": "Doorstep Anna SPORRER, Minister of Justice of Austria",
+     "inst": "Host"
+    },
+    {
+     "ref": "I-292993",
+     "title": "Informal meeting of Justice and Home Affairs Ministers (Justice) in Dublin, Ireland",
+     "summary": "Doorstep Liisa PAKOSTA, Minister of Justice and Digital Affairs of Estonia",
+     "inst": "Host"
+    },
+    {
+     "ref": "I-292994",
+     "title": "Informal meeting of Justice and Home Affairs Ministers (Justice) in Dublin, Ireland",
+     "summary": "Doorstep Rita TAMAŠUNIENĖ, Minister of Justice of Lithuania",
+     "inst": "Host"
+    },
+    {
+     "ref": "I-292998",
+     "title": "Informal meeting of Justice and Home Affairs Ministers (Justice) in Dublin, Ireland",
+     "summary": "Doorstep Francesco SISTO, Deputy Minister of Justice of Italy",
      "inst": "Host"
     }
    ],
-   "firstSeen": "2026-07-16T16:50:43+00:00"
+   "firstSeen": "2026-07-17T08:37:07+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-17T07:30:00.000Z",
+   "start": "2026-07-17T07:30:10.000Z",
    "durationSec": 309,
    "channel": "EBS",
    "status": "EDIT_RECORDED",
@@ -33,18 +63,18 @@
    ],
    "items": [
     {
-     "ref": "I-292453",
+     "ref": "I-292941",
      "title": "European Commissioner Hadja LAHBIB in Venezuela (16/07/2026)",
-     "summary": "Details to follow",
+     "summary": "Visit of affected zones in the cities of Carabeilleda & Catia la mar at la Guaira State and meeting with displaced people in Playa Verde (La Guaira city)",
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-16T12:45:58+00:00"
+   "firstSeen": "2026-07-17T08:37:07+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-17T08:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-17T07:54:59.400Z",
+   "durationSec": 222,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "Informal meeting of Justice and Home Affairs Ministers (Justice) in Dublin, Ireland",
@@ -59,12 +89,32 @@
      "inst": "Host"
     }
    ],
-   "firstSeen": "2026-07-16T16:50:43+00:00"
+   "firstSeen": "2026-07-17T08:37:07+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-17T08:30:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-17T07:59:22.720Z",
+   "durationSec": 903,
+   "channel": "EBS+",
+   "status": "EDIT",
+   "title": "Informal meeting of Justice and Home Affairs Ministers (Justice) in Dublin, Ireland",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292848",
+     "title": "Informal meeting of Justice and Home Affairs Ministers (Justice) in Dublin, Ireland",
+     "summary": "Compilation of all arrivals and welcome by Jim O'CALLAGHAN, Minister for Justice, Home Affairs and Migration of Ireland",
+     "inst": "Host"
+    }
+   ],
+   "firstSeen": "2026-07-17T08:37:07+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-17T08:26:10.000Z",
+   "durationSec": 194,
    "channel": "EBS",
    "status": "EDIT",
    "title": "Weekly European Commission College meeting",
@@ -85,31 +135,11 @@
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-13T10:39:50+00:00"
+   "firstSeen": "2026-07-17T08:37:07+00:00"
   },
   {
    "ep": false,
    "start": "2026-07-17T08:30:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS+",
-   "status": "EDIT",
-   "title": "Informal meeting of Justice and Home Affairs Ministers (Justice) in Dublin, Ireland",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292848",
-     "title": "Informal meeting of Justice and Home Affairs Ministers (Justice) in Dublin, Ireland",
-     "summary": "Compilation of all arrivals and welcome",
-     "inst": "Host"
-    }
-   ],
-   "firstSeen": "2026-07-16T16:50:43+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-17T09:30:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
    "status": "LIVE",
@@ -148,11 +178,11 @@
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-14T10:53:10+00:00"
+   "firstSeen": "2026-07-17T08:37:07+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-17T09:30:00.000Z",
+   "start": "2026-07-17T08:30:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
@@ -191,78 +221,15 @@
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-14T10:53:10+00:00"
+   "firstSeen": "2026-07-17T08:37:07+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-17T10:30:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS+",
-   "status": "RECORDED",
-   "title": "Informal meeting of Justice and Home Affairs Ministers (Justice) in Dublin, Ireland",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292845",
-     "title": "Informal meeting of Justice and Home Affairs Ministers (Justice) in Dublin, Ireland",
-     "summary": "Family photo",
-     "inst": "Host"
-    }
-   ],
-   "firstSeen": "2026-07-16T16:50:43+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-17T11:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "EC press conference by European Commission Executive Vice-President Henna VIRKKUNEN and Commissioner Michael McGRATH on the Rule of Law report on the Rule of Law report",
-   "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "DE",
-    "IT",
-    "ES",
-    "EL",
-    "PT",
-    "NL",
-    "DA",
-    "FI",
-    "SV",
-    "CS",
-    "ET",
-    "LV",
-    "LT",
-    "HU",
-    "MT",
-    "PL",
-    "SK",
-    "SL",
-    "BG",
-    "RO",
-    "HR"
-   ],
-   "items": [
-    {
-     "ref": "I-292592",
-     "title": "EC press conference by European Commission Executive Vice-President Henna VIRKKUNEN and Commissioner Michael McGRATH on the Rule of Law report on the Rule of Law report",
-     "summary": "Press conference by Henna VIRKKUNEN, Executive Vice-President of the European Commission for Tech Sovereignty, Security and Democracy and Michael MCGRATH, European Commissioner for Democracy, Justice, the Rule of Law, and Consumer Protection",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-07-14T10:53:10+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-17T11:00:00.000Z",
+   "start": "2026-07-17T09:30:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
-   "title": "EC press conference (with international sign language) by European Commission Executive Vice-President Henna VIRKKUNEN and Commissioner Michael McGRATH on the Rule of Law report on the Rule of Law report",
+   "title": "EC press conference (with international sign language) by European Commission Executive Vice-President Henna VIRKKUNEN and Commissioner Michael McGRATH on the Rule of Law report",
    "languages": [
     "INT",
     "EN",
@@ -292,12 +259,75 @@
    "items": [
     {
      "ref": "I-292701",
-     "title": "EC press conference (with international sign language) by European Commission Executive Vice-President Henna VIRKKUNEN and Commissioner Michael McGRATH on the Rule of Law report on the Rule of Law report",
+     "title": "EC press conference (with international sign language) by European Commission Executive Vice-President Henna VIRKKUNEN and Commissioner Michael McGRATH on the Rule of Law report",
      "summary": "Press conference (with international sign language) by Henna VIRKKUNEN, Executive Vice-President of the European Commission for Tech Sovereignty, Security and Democracy and Michael MCGRATH, European Commissioner for Democracy, Justice, the Rule of Law, and Consumer Protection",
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-14T10:53:10+00:00"
+   "firstSeen": "2026-07-17T08:37:07+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-17T10:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "RECORDED",
+   "title": "Informal meeting of Justice and Home Affairs Ministers (Justice) in Dublin, Ireland",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292845",
+     "title": "Informal meeting of Justice and Home Affairs Ministers (Justice) in Dublin, Ireland",
+     "summary": "Family photo",
+     "inst": "Host"
+    }
+   ],
+   "firstSeen": "2026-07-16T16:50:43+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-17T11:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "EC press conference by European Commission Executive Vice-President Henna VIRKKUNEN and Commissioner Michael McGRATH on the Rule of Law report",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "EL",
+    "PT",
+    "NL",
+    "DA",
+    "FI",
+    "SV",
+    "CS",
+    "ET",
+    "LV",
+    "LT",
+    "HU",
+    "MT",
+    "PL",
+    "SK",
+    "SL",
+    "BG",
+    "RO",
+    "HR"
+   ],
+   "items": [
+    {
+     "ref": "I-292592",
+     "title": "EC press conference by European Commission Executive Vice-President Henna VIRKKUNEN and Commissioner Michael McGRATH on the Rule of Law report",
+     "summary": "Press conference by Henna VIRKKUNEN, Executive Vice-President of the European Commission for Tech Sovereignty, Security and Democracy and Michael MCGRATH, European Commissioner for Democracy, Justice, the Rule of Law, and Consumer Protection",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-17T08:37:07+00:00"
   },
   {
    "ep": false,
@@ -305,7 +335,7 @@
    "durationSec": 0,
    "channel": "EBS",
    "status": "LIVE",
-   "title": "EC press conference by European Commissioner Maria Luís ALBUQUERQUE on the competitiveness of the banking sector",
+   "title": "EC press conference by European Commissioner Maria Luís ALBUQUERQUE on the Report on the competitiveness of the banking sector",
    "languages": [
     "INT",
     "EN",
@@ -335,20 +365,20 @@
    "items": [
     {
      "ref": "I-292593",
-     "title": "EC press conference by European Commissioner Maria Luís ALBUQUERQUE on the competitiveness of the banking sector",
+     "title": "EC press conference by European Commissioner Maria Luís ALBUQUERQUE on the Report on the competitiveness of the banking sector",
      "summary": "Press conference by Maria Luís ALBUQUERQUE, European Commissioner for Financial Services and the Savings and Investment Union",
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-14T10:53:10+00:00"
+   "firstSeen": "2026-07-17T08:37:07+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-17T12:00:00.000Z",
+   "start": "2026-07-17T13:00:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
-   "title": "EC press conference (with international sign language) by European Commissioner Maria Luís ALBUQUERQUE on the competitiveness of the banking sector",
+   "title": "EC press conference (with international sign language) by European Commissioner Maria Luís ALBUQUERQUE on the Report on the competitiveness of the banking sector",
    "languages": [
     "INT",
     "EN",
@@ -378,12 +408,12 @@
    "items": [
     {
      "ref": "I-292702",
-     "title": "EC press conference (with international sign language) by European Commissioner Maria Luís ALBUQUERQUE on the competitiveness of the banking sector",
+     "title": "EC press conference (with international sign language) by European Commissioner Maria Luís ALBUQUERQUE on the Report on the competitiveness of the banking sector",
      "summary": "Press conference (with international sign language) by Maria Luís ALBUQUERQUE, European Commissioner for Financial Services and the Savings and Investment Union",
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-14T10:53:10+00:00"
+   "firstSeen": "2026-07-17T08:37:07+00:00"
   },
   {
    "ep": false,
