@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-17T11:53:54+00:00",
+ "generatedAt": "2026-07-17T13:54:55+00:00",
  "events": [
   {
    "ep": false,
@@ -276,7 +276,7 @@
   {
    "ep": false,
    "start": "2026-07-17T11:24:35.640Z",
-   "durationSec": 0,
+   "durationSec": 2960,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "Read-out of the College meeting / press conference (with international sign language) by European Commission Executive Vice-President Henna VIRKKUNEN and Commissioner Michael McGRATH on the Rule of Law report",
@@ -319,7 +319,7 @@
   {
    "ep": false,
    "start": "2026-07-17T11:24:36.680Z",
-   "durationSec": 0,
+   "durationSec": 2992,
    "channel": "EBS",
    "status": "LIVE",
    "title": "Read-out of the College meeting / press conference by European Commission Executive Vice-President Henna VIRKKUNEN and Commissioner Michael McGRATH on the Rule of Law report",
@@ -351,6 +351,12 @@
    ],
    "items": [
     {
+     "ref": "I-293023",
+     "title": "Read-out of the College meeting / press conference by European Commission Executive Vice-President Henna VIRKKUNEN and Commissioner Michael McGRATH on the Rule of Law report",
+     "summary": "Read-out of the College meeting / press conference opening remarks by Henna VIRKKUNEN, Executive Vice-President of the European Commission for Tech Sovereignty, Security and Democracy Press conference opening remarks by Michael MCGRATH, European Commissioner for Democracy, Justice, the Rule of Law, and Consumer Protection Q&A Recorded cutaways",
+     "inst": "EC"
+    },
+    {
      "ref": "I-292592",
      "title": "Read-out of the College meeting / press conference by European Commission Executive Vice-President Henna VIRKKUNEN and Commissioner Michael McGRATH on the Rule of Law report",
      "summary": "Read-out of the College meeting / press conference opening remarks by Henna VIRKKUNEN, Executive Vice-President of the European Commission for Tech Sovereignty, Security and Democracy",
@@ -379,51 +385,8 @@
   },
   {
    "ep": false,
-   "start": "2026-07-17T13:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "EC press conference by European Commissioner Maria Luís ALBUQUERQUE on the Report on the competitiveness of the banking sector",
-   "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "DE",
-    "IT",
-    "ES",
-    "EL",
-    "PT",
-    "NL",
-    "DA",
-    "FI",
-    "SV",
-    "CS",
-    "ET",
-    "LV",
-    "LT",
-    "HU",
-    "MT",
-    "PL",
-    "SK",
-    "SL",
-    "BG",
-    "RO",
-    "HR"
-   ],
-   "items": [
-    {
-     "ref": "I-292593",
-     "title": "EC press conference by European Commissioner Maria Luís ALBUQUERQUE on the Report on the competitiveness of the banking sector",
-     "summary": "Press conference by Maria Luís ALBUQUERQUE, European Commissioner for Financial Services and the Savings and Investment Union",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-07-17T11:53:54+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-17T13:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-17T13:10:45.520Z",
+   "durationSec": 2105,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "EC press conference (with international sign language) by European Commissioner Maria Luís ALBUQUERQUE on the Report on the competitiveness of the banking sector",
@@ -461,48 +424,170 @@
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-17T08:37:07+00:00"
+   "firstSeen": "2026-07-17T13:54:55+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-17T14:30:00.000Z",
+   "start": "2026-07-17T13:10:53.000Z",
+   "durationSec": 2130,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "EC press conference by European Commissioner Maria Luís ALBUQUERQUE on the Report on the competitiveness of the banking sector",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "EL",
+    "PT",
+    "NL",
+    "DA",
+    "FI",
+    "SV",
+    "CS",
+    "ET",
+    "LV",
+    "LT",
+    "HU",
+    "MT",
+    "PL",
+    "SK",
+    "SL",
+    "BG",
+    "RO",
+    "HR"
+   ],
+   "items": [
+    {
+     "ref": "I-293027",
+     "title": "EC press conference by European Commissioner Maria Luís ALBUQUERQUE on the Report on the competitiveness of the banking sector",
+     "summary": "Press conference by Maria Luís ALBUQUERQUE, European Commissioner for Financial Services and the Savings and Investment Union Q&A Recorded cutaways",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292593",
+     "title": "EC press conference by European Commissioner Maria Luís ALBUQUERQUE on the Report on the competitiveness of the banking sector",
+     "summary": "Press conference by Maria Luís ALBUQUERQUE, European Commissioner for Financial Services and the Savings and Investment Union",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-293024",
+     "title": "EC press conference by European Commissioner Maria Luís ALBUQUERQUE on the Report on the competitiveness of the banking sector",
+     "summary": "Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292804",
+     "title": "EC press conference by European Commissioner Maria Luís ALBUQUERQUE on the Report on the competitiveness of the banking sector",
+     "summary": "Recorded cutaways",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-17T13:54:55+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-17T14:00:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "Informal meeting of Justice and Home Affairs Ministers (Justice) in Dublin, Ireland",
    "languages": [
-    "INT",
-    "EN"
+    "INT"
    ],
    "items": [
     {
      "ref": "I-292846",
      "title": "Informal meeting of Justice and Home Affairs Ministers (Justice) in Dublin, Ireland",
-     "summary": "Press conference by the Irish Presidency and the European Commission",
+     "summary": "Exit doorstep Jim O'CALLAGHAN, Minister for Justice, Home Affairs and Migration of Ireland",
      "inst": "Host"
     }
    ],
-   "firstSeen": "2026-07-16T16:50:43+00:00"
+   "firstSeen": "2026-07-17T13:54:55+00:00"
   },
   {
-   "ep": false,
+   "ep": true,
    "start": "2026-07-19T07:00:00.000Z",
-   "durationSec": 0,
+   "durationSec": 4133,
    "channel": "EBS+",
    "status": "EDIT",
-   "title": "EC archives of the week",
+   "title": "EC archives of the week (19-25/07): Birth of Jacques Delors (20/07/2025, 101 years ago) Signing of the Yaoundé I Convention (20/07/1963, 63 years ago) G7/G8 Summit: meeting between Romano Prodi, Bob Geldof, Bono, and Lorenzo Jovanotti, artists et representatives of the \"Drop the Debt\" organization (20/07/2001, 25 years ago) Belgium National Day (21/07) Best-of Eurozone Summit, Brussels (21/07/2011, 15 years ago) Entry into force of the Treaty of Paris establishing the European Coal and Steel Community (ECSC) (23/07/1952, 74 years ago)",
    "languages": [
     "INT"
    ],
    "items": [
     {
-     "ref": "I-284734",
-     "title": "EC archives of the week (05-11/07): Meeting between Muhammad Yunus, 2006 Nobel Peace Prize ® laureate, and José Manuel Barroso, President of the EC (06/07/2011, 15 years ago) Debate and vote on the draft revision of the Treaties of the EC, plenary session of the EP (07-08/07/1981, 45 years ago) EU-US leaders meeting and NATO Summit in Warsaw (08-09/07/2016, 10 years ago) Ministers for Finance gave Slovenia the final go-ahead to become the 13th Member of the Eurozone on 1 January 2007 (11/07/2006, 20 years ago) International Day of Reflection and Commemoration of the 1995 Genocide in Srebrenica (11/07)",
-     "summary": "Details to follow",
+     "ref": "I-068049",
+     "title": "Jacques Delors, President of the European Commission (1985 - 1995)",
+     "summary": "Jacques Delors was President of the European Commission from 1985 until 1995. He passed away on 27 December 2023. This archive video illustrates key moments and events during the ten-year mandate of Jacques Delors at the Presidency of the European Commission",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-001766",
+     "title": "Signing of the Yaoundé I Convention",
+     "summary": "The signing of the first Convention of Association between the six Member States of the EEC and eighteen African countries and Madagascar (AASM) took place in Yaoundé (Cameroun) on 20 July 1963. Were present the Representatives of the Member States of the EEC, the Members of the Commission of the EEC and the Represenatives of the African and Malagasy Head of States."
+    },
+    {
+     "ref": "I-036883",
+     "title": "G7/G8 Summit: meeting between Romano Prodi, Bob Geldof, Bono, and Lorenzo Jovanotti, artists et representatives of the \"Drop the Debt\" organization",
+     "summary": "Romano Prodi, President of the EC, met the artists Bob Geldof, Bono, and Lorenzo Jovanotti, as representatives of the organisation \"Drop the Debt\"",
+     "inst": "European Council"
+    },
+    {
+     "ref": "I-287309",
+     "title": "EC archives of the week (19-25/07): Birth of Jacques Delors (20/07/2025, 101 years ago) Signing of the Yaoundé I Convention (20/07/1963, 63 years ago) G7/G8 Summit: meeting between Romano Prodi, Bob Geldof, Bono, and Lorenzo Jovanotti, artists et representatives of the \"Drop the Debt\" organization (20/07/2001, 25 years ago) Belgium National Day (21/07) Best-of Eurozone Summit, Brussels (21/07/2011, 15 years ago) Entry into force of the Treaty of Paris establishing the European Coal and Steel Community (ECSC) (23/07/1952, 74 years ago)",
+     "summary": "This Infoclip presents images of emblematic places in Brussels (Belgium), such as the Belgian Federal Parliament, the Royal Palace, the Leopold Park, the Belgian Ministry of Foreign Affairs, the Monts des Arts, city centre streets, the Galeries Royales Saint-Hubert, the Grand Place and the European Quarter.",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I287309-V_v"
+    },
+    {
+     "ref": "I-198998",
+     "title": "European Union Capitals: Brussels, Belgium",
+     "summary": "This stockshot provides illustrative images of Brussels, capital of Belgium, filmed in November and December 2020. It presents general views of the city, official buildings and sights, general atmosphere in the streets and historic places and buildings in the heart of the city during the coronavirus pandemic.",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-070564",
+     "title": "Eurozone Summit, Brussels, 21/07/2011",
+     "summary": "Euro area leaders gathered in Brussels on 21 July 2011 for an emergency summit to discuss the financial stability of the euro area and a second international bailout for Greece. The euro area countries and the International Monetary Fund gave Greece a second bailout worth 109 billion euro, on top of the 110 billion euro already granted a year before. Banks and other private investors will contribute some 37 billion euro to the rescue package by either rolling over Greek debt, swapping it for new bonds with lower interest rates or selling the bonds back to Greece at a low price. The euro area will provide some form of guarantees to the new Greek bonds rated at \"selective default\", so that Greek banks will be able to continue accessing liquidity support from the European Central Bank.",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-002652",
+     "title": "History of a Treaty",
+     "summary": "The events which led to the signing of the Paris Treaty on April 18, 1951. Robert Schuman's declaration on May 9, 1950. Survey of the institutions of the Coal and Steel Community. Speeches by Jean Monnet then president of the High Authority. First results.",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-001654",
+     "title": "Retrospective on Robert Schuman from 1947 to 1963",
+     "summary": "This stockshot presents a portrait of Robert Schuman. From the Lorraine region, Schuman was the former President of the French Council, the former French Minister for Foreign Affairs, the President of the European Parliament and its President of honour. The three European Communities owe him their existence. The famous declaration of 9 May 1950 materialized an idea of Jean Monnet, the project known as the Schuman Plan, which then became the European Coal and Steel Community (ECSC). It presents a new conception of the relations between European nations, establishing independent institutions with powers of their own. This fervent French patriot dedicated his life to two tasks: European construction and Franco-German reconciliation, its precondition.",
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-13T05:51:02+00:00"
+   "firstSeen": "2026-07-17T13:54:55+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-20T07:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "European Commission executive Vice-President Teresa RIBERA in San Sebastian, Spain",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292851",
+     "title": "European Commission executive Vice-President Teresa RIBERA in San Sebastian, Spain",
+     "summary": "Escuela de verano Session 1 - Opening speech by Teresa RIBERA, Executive Vice-President of the European Commission for a Clean, Just and Competitive Transition",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-17T13:54:55+00:00"
   },
   {
    "ep": false,
@@ -543,6 +628,26 @@
     }
    ],
    "firstSeen": "2026-07-14T05:12:07+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-20T13:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "EDIT_RECORDED",
+   "title": "European Commission executive Vice-President Teresa RIBERA in San Sebastian, Spain",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-293026",
+     "title": "European Commission executive Vice-President Teresa RIBERA in San Sebastian, Spain",
+     "summary": "Visit to the LIFE Wetlands project",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-17T13:54:55+00:00"
   },
   {
    "ep": false,
