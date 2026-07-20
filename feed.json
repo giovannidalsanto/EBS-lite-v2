@@ -1,574 +1,6 @@
 {
- "generatedAt": "2026-07-17T16:41:55+00:00",
+ "generatedAt": "2026-07-20T05:51:52+00:00",
  "events": [
-  {
-   "ep": false,
-   "start": "2026-07-17T06:58:33.160Z",
-   "durationSec": 2766,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "Informal meeting of Justice and Home Affairs Ministers (Justice) in Dublin, Ireland",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292450",
-     "title": "Informal meeting of Justice and Home Affairs Ministers (Justice) in Dublin, Ireland",
-     "summary": "Doorstep Jim O'CALLAGHAN, Minister for Justice, Home Affairs and Migration of Ireland",
-     "inst": "Host"
-    },
-    {
-     "ref": "I-292991",
-     "title": "Informal meeting of Justice and Home Affairs Ministers (Justice) in Dublin, Ireland",
-     "summary": "Doorstep Francisco Javier ZARZALEJOS Nieto, Chair of the Committee on Civil Liberties, Justice and Home Affairs (LIBE) of the European Parliament",
-     "inst": "Host"
-    },
-    {
-     "ref": "I-292992",
-     "title": "Informal meeting of Justice and Home Affairs Ministers (Justice) in Dublin, Ireland",
-     "summary": "Doorstep Anna SPORRER, Minister of Justice of Austria",
-     "inst": "Host"
-    },
-    {
-     "ref": "I-292993",
-     "title": "Informal meeting of Justice and Home Affairs Ministers (Justice) in Dublin, Ireland",
-     "summary": "Doorstep Liisa PAKOSTA, Minister of Justice and Digital Affairs of Estonia",
-     "inst": "Host"
-    },
-    {
-     "ref": "I-292994",
-     "title": "Informal meeting of Justice and Home Affairs Ministers (Justice) in Dublin, Ireland",
-     "summary": "Doorstep Rita TAMAŠUNIENĖ, Minister of Justice of Lithuania",
-     "inst": "Host"
-    },
-    {
-     "ref": "I-292998",
-     "title": "Informal meeting of Justice and Home Affairs Ministers (Justice) in Dublin, Ireland",
-     "summary": "Doorstep Francesco SISTO, Deputy Minister of Justice of Italy",
-     "inst": "Host"
-    }
-   ],
-   "firstSeen": "2026-07-17T08:37:07+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-17T07:30:10.000Z",
-   "durationSec": 309,
-   "channel": "EBS",
-   "status": "EDIT_RECORDED",
-   "title": "European Commissioner Hadja LAHBIB in Venezuela (16/07/2026)",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292941",
-     "title": "European Commissioner Hadja LAHBIB in Venezuela (16/07/2026)",
-     "summary": "Visit of affected zones in the cities of Carabeilleda & Catia la mar at la Guaira State and meeting with displaced people in Playa Verde (La Guaira city)",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-07-17T08:37:07+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-17T07:54:59.400Z",
-   "durationSec": 222,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "Informal meeting of Justice and Home Affairs Ministers (Justice) in Dublin, Ireland",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292844",
-     "title": "Informal meeting of Justice and Home Affairs Ministers (Justice) in Dublin, Ireland",
-     "summary": "Roundtable",
-     "inst": "Host"
-    }
-   ],
-   "firstSeen": "2026-07-17T08:37:07+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-17T07:59:22.720Z",
-   "durationSec": 903,
-   "channel": "EBS+",
-   "status": "EDIT",
-   "title": "Informal meeting of Justice and Home Affairs Ministers (Justice) in Dublin, Ireland",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292848",
-     "title": "Informal meeting of Justice and Home Affairs Ministers (Justice) in Dublin, Ireland",
-     "summary": "Compilation of all arrivals and welcome by Jim O'CALLAGHAN, Minister for Justice, Home Affairs and Migration of Ireland",
-     "inst": "Host"
-    }
-   ],
-   "firstSeen": "2026-07-17T08:37:07+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-17T08:26:10.000Z",
-   "durationSec": 194,
-   "channel": "EBS",
-   "status": "EDIT",
-   "title": "Weekly European Commission College meeting",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292414",
-     "title": "Weekly European Commission College meeting",
-     "summary": "Exterior views of the European Commission Berlaymont building",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292415",
-     "title": "Weekly European Commission College meeting",
-     "summary": "Roundtable",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-07-17T08:37:07+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-17T09:48:05.720Z",
-   "durationSec": 214,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "Informal meeting of Justice and Home Affairs Ministers (Justice) in Dublin, Ireland",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292845",
-     "title": "Informal meeting of Justice and Home Affairs Ministers (Justice) in Dublin, Ireland",
-     "summary": "Family photo",
-     "inst": "Host"
-    }
-   ],
-   "firstSeen": "2026-07-17T10:22:53+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-17T10:04:22.680Z",
-   "durationSec": 3686,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "EC press conference (with international sign language) by European Commission Executive Vice-President Teresa RIBERA and Commissioners Wopke HOEKSTRA and Dan JØRGENSEN on the ETS review and the Energy package",
-   "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "DE",
-    "IT",
-    "ES",
-    "EL",
-    "PT",
-    "NL",
-    "DA",
-    "FI",
-    "SV",
-    "CS",
-    "ET",
-    "LV",
-    "LT",
-    "HU",
-    "MT",
-    "PL",
-    "SK",
-    "SL",
-    "BG",
-    "RO",
-    "HR"
-   ],
-   "items": [
-    {
-     "ref": "I-292700",
-     "title": "EC press conference (with international sign language) by European Commission Executive Vice-President Teresa RIBERA and Commissioners Wopke HOEKSTRA and Dan JØRGENSEN on the ETS review and the Energy package",
-     "summary": "Press conference (with international sign language) by Teresa RIBERA, Executive Vice-President of the European Commission for a Clean, Just and Competitive Transition, Wopke HOEKSTRA, European Commissioner for Climate, Net Zero and Clean Growth and Dan JØRGENSEN, European Commissioner for Energy and Housing",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-07-17T10:22:53+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-17T10:04:24.680Z",
-   "durationSec": 3716,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "Press conference by European Commission Executive Vice-President Teresa RIBERA and Commissioners Wopke HOEKSTRA and Dan JØRGENSEN on the ETS review and the Energy package",
-   "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "DE",
-    "IT",
-    "ES",
-    "EL",
-    "PT",
-    "NL",
-    "DA",
-    "FI",
-    "SV",
-    "CS",
-    "ET",
-    "LV",
-    "LT",
-    "HU",
-    "MT",
-    "PL",
-    "SK",
-    "SL",
-    "BG",
-    "RO",
-    "HR"
-   ],
-   "items": [
-    {
-     "ref": "I-293021",
-     "title": "Press conference by European Commission Executive Vice-President Teresa RIBERA and Commissioners Wopke HOEKSTRA and Dan JØRGENSEN on the ETS review and the Energy package",
-     "summary": "Press conference opening remarks by Teresa RIBERA, Executive Vice-President of the European Commission for a Clean, Just and Competitive Transition Press conference opening remarks by Wopke HOEKSTRA, European Commissioner for Climate, Net Zero and Clean Growth Press conference opening remarks by Dan JØRGENSEN, European Commissioner for Energy and Housing Q&A Recorded cutaways",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292591",
-     "title": "Press conference by European Commission Executive Vice-President Teresa RIBERA and Commissioners Wopke HOEKSTRA and Dan JØRGENSEN on the ETS review and the Energy package",
-     "summary": "Press conference opening remarks by Teresa RIBERA, Executive Vice-President of the European Commission for a Clean, Just and Competitive Transition",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-293016",
-     "title": "Press conference by European Commission Executive Vice-President Teresa RIBERA and Commissioners Wopke HOEKSTRA and Dan JØRGENSEN on the ETS review and the Energy package",
-     "summary": "Press conference opening remarks by Wopke HOEKSTRA, European Commissioner for Climate, Net Zero and Clean Growth",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-293017",
-     "title": "Press conference by European Commission Executive Vice-President Teresa RIBERA and Commissioners Wopke HOEKSTRA and Dan JØRGENSEN on the ETS review and the Energy package",
-     "summary": "Press conference opening remarks by Dan JØRGENSEN, European Commissioner for Energy and Housing",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-293018",
-     "title": "Press conference by European Commission Executive Vice-President Teresa RIBERA and Commissioners Wopke HOEKSTRA and Dan JØRGENSEN on the ETS review and the Energy package",
-     "summary": "Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292802",
-     "title": "Press conference by European Commission Executive Vice-President Teresa RIBERA and Commissioners Wopke HOEKSTRA and Dan JØRGENSEN on the ETS review and the Energy package",
-     "summary": "Recorded cutaways",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-07-17T10:22:53+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-17T11:24:35.640Z",
-   "durationSec": 2960,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "Read-out of the College meeting / press conference (with international sign language) by European Commission Executive Vice-President Henna VIRKKUNEN and Commissioner Michael McGRATH on the Rule of Law report",
-   "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "DE",
-    "IT",
-    "ES",
-    "EL",
-    "PT",
-    "NL",
-    "DA",
-    "FI",
-    "SV",
-    "CS",
-    "ET",
-    "LV",
-    "LT",
-    "HU",
-    "MT",
-    "PL",
-    "SK",
-    "SL",
-    "BG",
-    "RO",
-    "HR"
-   ],
-   "items": [
-    {
-     "ref": "I-292701",
-     "title": "Read-out of the College meeting / press conference (with international sign language) by European Commission Executive Vice-President Henna VIRKKUNEN and Commissioner Michael McGRATH on the Rule of Law report",
-     "summary": "Read-out of the College meeting / press conference (with international sign language) by Henna VIRKKUNEN, Executive Vice-President of the European Commission for Tech Sovereignty, Security and Democracy and Michael MCGRATH, European Commissioner for Democracy, Justice, the Rule of Law, and Consumer Protection",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-07-17T11:53:54+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-17T11:24:36.680Z",
-   "durationSec": 2992,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "Read-out of the College meeting / press conference by European Commission Executive Vice-President Henna VIRKKUNEN and Commissioner Michael McGRATH on the Rule of Law report",
-   "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "DE",
-    "IT",
-    "ES",
-    "EL",
-    "PT",
-    "NL",
-    "DA",
-    "FI",
-    "SV",
-    "CS",
-    "ET",
-    "LV",
-    "LT",
-    "HU",
-    "MT",
-    "PL",
-    "SK",
-    "SL",
-    "BG",
-    "RO",
-    "HR"
-   ],
-   "items": [
-    {
-     "ref": "I-293023",
-     "title": "Read-out of the College meeting / press conference by European Commission Executive Vice-President Henna VIRKKUNEN and Commissioner Michael McGRATH on the Rule of Law report",
-     "summary": "Read-out of the College meeting / press conference opening remarks by Henna VIRKKUNEN, Executive Vice-President of the European Commission for Tech Sovereignty, Security and Democracy Press conference opening remarks by Michael MCGRATH, European Commissioner for Democracy, Justice, the Rule of Law, and Consumer Protection Q&A Recorded cutaways",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292592",
-     "title": "Read-out of the College meeting / press conference by European Commission Executive Vice-President Henna VIRKKUNEN and Commissioner Michael McGRATH on the Rule of Law report",
-     "summary": "Read-out of the College meeting / press conference opening remarks by Henna VIRKKUNEN, Executive Vice-President of the European Commission for Tech Sovereignty, Security and Democracy",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-293019",
-     "title": "Read-out of the College meeting / press conference by European Commission Executive Vice-President Henna VIRKKUNEN and Commissioner Michael McGRATH on the Rule of Law report",
-     "summary": "Press conference opening remarks by Michael MCGRATH, European Commissioner for Democracy, Justice, the Rule of Law, and Consumer Protection",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-293020",
-     "title": "Read-out of the College meeting / press conference by European Commission Executive Vice-President Henna VIRKKUNEN and Commissioner Michael McGRATH on the Rule of Law report",
-     "summary": "Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292803",
-     "title": "Read-out of the College meeting / press conference by European Commission Executive Vice-President Henna VIRKKUNEN and Commissioner Michael McGRATH on the Rule of Law report",
-     "summary": "Recorded cutaways",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-07-17T11:53:54+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-17T13:10:45.520Z",
-   "durationSec": 2105,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "EC press conference (with international sign language) by European Commissioner Maria Luís ALBUQUERQUE on the Report on the competitiveness of the banking sector",
-   "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "DE",
-    "IT",
-    "ES",
-    "EL",
-    "PT",
-    "NL",
-    "DA",
-    "FI",
-    "SV",
-    "CS",
-    "ET",
-    "LV",
-    "LT",
-    "HU",
-    "MT",
-    "PL",
-    "SK",
-    "SL",
-    "BG",
-    "RO",
-    "HR"
-   ],
-   "items": [
-    {
-     "ref": "I-292702",
-     "title": "EC press conference (with international sign language) by European Commissioner Maria Luís ALBUQUERQUE on the Report on the competitiveness of the banking sector",
-     "summary": "Press conference (with international sign language) by Maria Luís ALBUQUERQUE, European Commissioner for Financial Services and the Savings and Investment Union",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-07-17T13:54:55+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-17T13:10:53.000Z",
-   "durationSec": 2130,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "EC press conference by European Commissioner Maria Luís ALBUQUERQUE on the Report on the competitiveness of the banking sector",
-   "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "DE",
-    "IT",
-    "ES",
-    "EL",
-    "PT",
-    "NL",
-    "DA",
-    "FI",
-    "SV",
-    "CS",
-    "ET",
-    "LV",
-    "LT",
-    "HU",
-    "MT",
-    "PL",
-    "SK",
-    "SL",
-    "BG",
-    "RO",
-    "HR"
-   ],
-   "items": [
-    {
-     "ref": "I-293027",
-     "title": "EC press conference by European Commissioner Maria Luís ALBUQUERQUE on the Report on the competitiveness of the banking sector",
-     "summary": "Press conference by Maria Luís ALBUQUERQUE, European Commissioner for Financial Services and the Savings and Investment Union Q&A Recorded cutaways",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292593",
-     "title": "EC press conference by European Commissioner Maria Luís ALBUQUERQUE on the Report on the competitiveness of the banking sector",
-     "summary": "Press conference by Maria Luís ALBUQUERQUE, European Commissioner for Financial Services and the Savings and Investment Union",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-293024",
-     "title": "EC press conference by European Commissioner Maria Luís ALBUQUERQUE on the Report on the competitiveness of the banking sector",
-     "summary": "Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292804",
-     "title": "EC press conference by European Commissioner Maria Luís ALBUQUERQUE on the Report on the competitiveness of the banking sector",
-     "summary": "Recorded cutaways",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-07-17T13:54:55+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-17T14:31:33.720Z",
-   "durationSec": 615,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "Informal meeting of Justice and Home Affairs Ministers (Justice) in Dublin, Ireland",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292846",
-     "title": "Informal meeting of Justice and Home Affairs Ministers (Justice) in Dublin, Ireland",
-     "summary": "Exit doorstep Jim O'CALLAGHAN, Minister for Justice, Home Affairs and Migration of Ireland",
-     "inst": "Host"
-    }
-   ],
-   "firstSeen": "2026-07-17T15:19:48+00:00"
-  },
-  {
-   "ep": true,
-   "start": "2026-07-19T07:00:10.000Z",
-   "durationSec": 4133,
-   "channel": "EBS+",
-   "status": "EDIT",
-   "title": "EC archives of the week (19-25/07): Birth of Jacques Delors (20/07/2025, 101 years ago) Signing of the Yaoundé I Convention (20/07/1963, 63 years ago) G7/G8 Summit: meeting between Romano Prodi, Bob Geldof, Bono, and Lorenzo Jovanotti, artists et representatives of the \"Drop the Debt\" organization (20/07/2001, 25 years ago) Belgium National Day (21/07) Best-of Eurozone Summit, Brussels (21/07/2011, 15 years ago) Entry into force of the Treaty of Paris establishing the European Coal and Steel Community (ECSC) (23/07/1952, 74 years ago)",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-068049",
-     "title": "Jacques Delors, President of the European Commission (1985 - 1995)",
-     "summary": "Jacques Delors was President of the European Commission from 1985 until 1995. He passed away on 27 December 2023. This archive video illustrates key moments and events during the ten-year mandate of Jacques Delors at the Presidency of the European Commission",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-001766",
-     "title": "Signing of the Yaoundé I Convention",
-     "summary": "The signing of the first Convention of Association between the six Member States of the EEC and eighteen African countries and Madagascar (AASM) took place in Yaoundé (Cameroun) on 20 July 1963. Were present the Representatives of the Member States of the EEC, the Members of the Commission of the EEC and the Represenatives of the African and Malagasy Head of States."
-    },
-    {
-     "ref": "I-036883",
-     "title": "G7/G8 Summit: meeting between Romano Prodi, Bob Geldof, Bono, and Lorenzo Jovanotti, artists et representatives of the \"Drop the Debt\" organization",
-     "summary": "Romano Prodi, President of the EC, met the artists Bob Geldof, Bono, and Lorenzo Jovanotti, as representatives of the organisation \"Drop the Debt\"",
-     "inst": "European Council"
-    },
-    {
-     "ref": "I-287309",
-     "title": "EC archives of the week (19-25/07): Birth of Jacques Delors (20/07/2025, 101 years ago) Signing of the Yaoundé I Convention (20/07/1963, 63 years ago) G7/G8 Summit: meeting between Romano Prodi, Bob Geldof, Bono, and Lorenzo Jovanotti, artists et representatives of the \"Drop the Debt\" organization (20/07/2001, 25 years ago) Belgium National Day (21/07) Best-of Eurozone Summit, Brussels (21/07/2011, 15 years ago) Entry into force of the Treaty of Paris establishing the European Coal and Steel Community (ECSC) (23/07/1952, 74 years ago)",
-     "summary": "This Infoclip presents images of emblematic places in Brussels (Belgium), such as the Belgian Federal Parliament, the Royal Palace, the Leopold Park, the Belgian Ministry of Foreign Affairs, the Monts des Arts, city centre streets, the Galeries Royales Saint-Hubert, the Grand Place and the European Quarter.",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I287309-V_v"
-    },
-    {
-     "ref": "I-198998",
-     "title": "European Union Capitals: Brussels, Belgium",
-     "summary": "This stockshot provides illustrative images of Brussels, capital of Belgium, filmed in November and December 2020. It presents general views of the city, official buildings and sights, general atmosphere in the streets and historic places and buildings in the heart of the city during the coronavirus pandemic.",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-070564",
-     "title": "Eurozone Summit, Brussels, 21/07/2011",
-     "summary": "Euro area leaders gathered in Brussels on 21 July 2011 for an emergency summit to discuss the financial stability of the euro area and a second international bailout for Greece. The euro area countries and the International Monetary Fund gave Greece a second bailout worth 109 billion euro, on top of the 110 billion euro already granted a year before. Banks and other private investors will contribute some 37 billion euro to the rescue package by either rolling over Greek debt, swapping it for new bonds with lower interest rates or selling the bonds back to Greece at a low price. The euro area will provide some form of guarantees to the new Greek bonds rated at \"selective default\", so that Greek banks will be able to continue accessing liquidity support from the European Central Bank.",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-002652",
-     "title": "History of a Treaty",
-     "summary": "The events which led to the signing of the Paris Treaty on April 18, 1951. Robert Schuman's declaration on May 9, 1950. Survey of the institutions of the Coal and Steel Community. Speeches by Jean Monnet then president of the High Authority. First results.",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-001654",
-     "title": "Retrospective on Robert Schuman from 1947 to 1963",
-     "summary": "This stockshot presents a portrait of Robert Schuman. From the Lorraine region, Schuman was the former President of the French Council, the former French Minister for Foreign Affairs, the President of the European Parliament and its President of honour. The three European Communities owe him their existence. The famous declaration of 9 May 1950 materialized an idea of Jean Monnet, the project known as the Schuman Plan, which then became the European Coal and Steel Community (ECSC). It presents a new conception of the relations between European nations, establishing independent institutions with powers of their own. This fervent French patriot dedicated his life to two tasks: European construction and Franco-German reconciliation, its precondition.",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-07-17T16:41:55+00:00"
-  },
   {
    "ep": false,
    "start": "2026-07-20T07:30:00.000Z",
@@ -901,6 +333,167 @@
     }
    ],
    "firstSeen": "2026-07-17T05:24:58+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-24T07:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "Informal meeting of Environment Ministers in Dublin, Ireland",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292789",
+     "title": "Informal meeting of Environment Ministers in Dublin, Ireland",
+     "summary": "Arrivals, welcome and doorsteps",
+     "inst": "Host"
+    }
+   ],
+   "firstSeen": "2026-07-20T05:51:52+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-24T08:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "Informal meeting of Environment Ministers in Dublin, Ireland",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292935",
+     "title": "Informal meeting of Environment Ministers in Dublin, Ireland",
+     "summary": "Roundtable",
+     "inst": "Host"
+    }
+   ],
+   "firstSeen": "2026-07-20T05:51:52+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-24T08:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "Informal meeting of Environment Ministers in Dublin, Ireland",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292936",
+     "title": "Informal meeting of Environment Ministers in Dublin, Ireland",
+     "summary": "Compilation of all arrivals and welcome",
+     "inst": "Host"
+    }
+   ],
+   "firstSeen": "2026-07-20T05:51:52+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-24T10:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "EC Midday press briefing of 24/07/2026",
+   "languages": [
+    "INT",
+    "EN",
+    "FR"
+   ],
+   "items": [
+    {
+     "ref": "I-292756",
+     "title": "EC Midday press briefing of 24/07/2026",
+     "summary": "Announcements",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292757",
+     "title": "EC Midday press briefing of 24/07/2026",
+     "summary": "Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292758",
+     "title": "EC Midday press briefing of 24/07/2026",
+     "summary": "Exterior views of the European Commission Berlaymont building",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292759",
+     "title": "EC Midday press briefing of 24/07/2026",
+     "summary": "Recorded cutaways",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-20T05:51:52+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-24T11:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "RECORDED",
+   "title": "Informal meeting of Environment Ministers in Dublin, Ireland",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292937",
+     "title": "Informal meeting of Environment Ministers in Dublin, Ireland",
+     "summary": "Family photo",
+     "inst": "Host"
+    }
+   ],
+   "firstSeen": "2026-07-20T05:51:52+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-24T14:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "RECORDED",
+   "title": "Informal meeting of Environment Ministers in Dublin, Ireland",
+   "languages": [
+    "INT",
+    "EN"
+   ],
+   "items": [
+    {
+     "ref": "I-292938",
+     "title": "Informal meeting of Environment Ministers in Dublin, Ireland",
+     "summary": "Press conference by the Irish Presidency and the European Commission",
+     "inst": "Host"
+    }
+   ],
+   "firstSeen": "2026-07-20T05:51:52+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-26T07:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "EDIT",
+   "title": "EC archives of the week",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-283215",
+     "title": "EC archives of the week (12-18/07): Brussels European Council (12-13/07/1976, 50 years ago) Birth Simone Veil (13/07/1927, 99 years ago) France National Day (14/07) Terrorist attack in Nice (14/07/2016, 10 years ago) 11th Asia/Europe Meeting (ASEM11), Ulaanbaatar, Mongolia (14-16/07/2016, 10 years ago) European floods (14/07/2021, 5 years ago) World Youth Skills Day 2026 “Skills for a shared future” (15/07) Visit of Ursula von der Leyen, President of the European Commission, to Ireland to present the Commission’s assessment of the national recovery plan under NextGenerationEU (16/07/2021, 5 years ago) Election of Simone Veil as President of the EP (17/07/1979, 47 years ago) Nelson Mandela International Day (18/07)",
+     "summary": "Details to follow",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-20T05:51:52+00:00"
   }
  ]
 }
