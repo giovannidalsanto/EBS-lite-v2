@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-20T12:34:07+00:00",
+ "generatedAt": "2026-07-20T14:52:07+00:00",
  "events": [
   {
    "ep": false,
@@ -117,8 +117,8 @@
   },
   {
    "ep": false,
-   "start": "2026-07-20T13:30:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-20T13:10:10.000Z",
+   "durationSec": 133,
    "channel": "EBS+",
    "status": "EDIT",
    "title": "European Commission executive Vice-President Teresa RIBERA in San Sebastian, Spain",
@@ -129,15 +129,15 @@
     {
      "ref": "I-293026",
      "title": "European Commission executive Vice-President Teresa RIBERA in San Sebastian, Spain",
-     "summary": "Visit to the LIFE Wetlands project",
+     "summary": "Visit to the LIFE Wetlands project (Parque Ecológico Plaiaundi)",
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-17T13:54:55+00:00"
+   "firstSeen": "2026-07-20T14:52:07+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-21T07:00:00.000Z",
+   "start": "2026-07-21T06:55:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
    "status": "LIVE",
@@ -151,9 +151,15 @@
      "title": "Signing of the agreement between Republic of Poland and European Union according to the additional financial contribution to the EU Secure Connectivity Program",
      "summary": "Official signing ceremony hosted by Andrius KUBILIUS, European Commissioner for Defence and Space and attended by Andrius KUBILIUS, European Commissioner for Defence and Space",
      "inst": "EC"
+    },
+    {
+     "ref": "I-293091",
+     "title": "Signing of the agreement between Republic of Poland and European Union according to the additional financial contribution to the EU Secure Connectivity Program",
+     "summary": "Press conference",
+     "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-20T12:34:07+00:00"
+   "firstSeen": "2026-07-20T14:52:07+00:00"
   },
   {
    "ep": false,
