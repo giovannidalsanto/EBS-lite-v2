@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-20T14:52:07+00:00",
+ "generatedAt": "2026-07-20T16:38:10+00:00",
  "events": [
   {
    "ep": false,
@@ -141,25 +141,25 @@
    "durationSec": 0,
    "channel": "EBS",
    "status": "LIVE",
-   "title": "Signing of the agreement between Republic of Poland and European Union according to the additional financial contribution to the EU Secure Connectivity Program",
+   "title": "European Commissioner Andrius KUBILIUS in Warsaw, Poland",
    "languages": [
     "INT"
    ],
    "items": [
     {
      "ref": "I-292970",
-     "title": "Signing of the agreement between Republic of Poland and European Union according to the additional financial contribution to the EU Secure Connectivity Program",
-     "summary": "Official signing ceremony hosted by Andrius KUBILIUS, European Commissioner for Defence and Space and attended by Andrius KUBILIUS, European Commissioner for Defence and Space",
+     "title": "European Commissioner Andrius KUBILIUS in Warsaw, Poland",
+     "summary": "Signing of the contribution agreement concluded between Poland and the Commission relating to the Resilience and Recovery Facility contribution of Poland to the IRIS² programme Welcome address by the host, Ms Karolina ŁUKASZEWICZ, Deputy Director of DKS Speeches: Marcin KIERWIŃSKI, Polish Minister for Internal Affairs and Administration Andrius KUBILIUS, European Commissioner for Defence and Space Shruti VYAS, SpaceRISE Coordinator, SES Signing of the agreement Signing of the memorandum Presentation of a certificate of appreciation to Polsa – the Polish Space Agency presented by Tomasz SZYMANSKI, Secretary of State at the Ministry of the Interior and Administration",
      "inst": "EC"
     },
     {
      "ref": "I-293091",
-     "title": "Signing of the agreement between Republic of Poland and European Union according to the additional financial contribution to the EU Secure Connectivity Program",
-     "summary": "Press conference",
+     "title": "European Commissioner Andrius KUBILIUS in Warsaw, Poland",
+     "summary": "Press conference by Marcin KIERWIŃSKI, Polish Minister for Internal Affairs and Administration and Andrius KUBILIUS, European Commissioner for Defence and Space",
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-20T14:52:07+00:00"
+   "firstSeen": "2026-07-20T16:38:10+00:00"
   },
   {
    "ep": false,
@@ -264,6 +264,26 @@
   },
   {
    "ep": false,
+   "start": "2026-07-21T23:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "EDIT_RECORDED",
+   "title": "High Representative / Vice-President Kaja KALLAS in the Philippines",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292782",
+     "title": "High Representative / Vice-President Kaja KALLAS in the Philippines",
+     "summary": "EU-ASEAN Post-Ministerial Conference and the ASEAN Foreign Ministers’ Meeting",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-20T16:38:10+00:00"
+  },
+  {
+   "ep": false,
    "start": "2026-07-22T10:00:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
@@ -356,6 +376,26 @@
   },
   {
    "ep": false,
+   "start": "2026-07-22T23:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "",
+   "title": "High Representative / Vice-President Kaja KALLAS in the Philippines",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292783",
+     "title": "High Representative / Vice-President Kaja KALLAS in the Philippines",
+     "summary": "33rd ASEAN Regional Forum Ministerial Meeting",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-20T16:38:10+00:00"
+  },
+  {
+   "ep": false,
    "start": "2026-07-23T10:00:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
@@ -413,6 +453,26 @@
     }
    ],
    "firstSeen": "2026-07-17T05:24:58+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-23T23:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "EDIT_RECORDED",
+   "title": "High Representative / Vice-President Kaja KALLAS in the Philippines",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292784",
+     "title": "High Representative / Vice-President Kaja KALLAS in the Philippines",
+     "summary": "Details to follow",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-20T16:38:10+00:00"
   },
   {
    "ep": false,
