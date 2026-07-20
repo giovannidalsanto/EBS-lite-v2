@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-20T10:18:23+00:00",
+ "generatedAt": "2026-07-20T12:34:07+00:00",
  "events": [
   {
    "ep": false,
@@ -24,7 +24,7 @@
   {
    "ep": false,
    "start": "2026-07-20T10:08:29.080Z",
-   "durationSec": 0,
+   "durationSec": 1568,
    "channel": "EBS",
    "status": "LIVE",
    "title": "EC Midday press briefing of 20/07/2026",
@@ -34,6 +34,12 @@
     "FR"
    ],
    "items": [
+    {
+     "ref": "I-293074",
+     "title": "EC Midday press briefing of 20/07/2026",
+     "summary": "ANNOUNCEMENT - Victory of Spain at the Football World Cup 2026 ANNOUNCEMENT - Press arrangements: Q&A ANNOUNCEMENT - Commission fines AliExpress €550 million for breaching the Digital Services Act: Q&A FOREIGN AFFAIRS - EU Special Representative for Sahel: Q&A PRESIDENT AGENDA - Upcoming meeting between EC President von der Leyen and Professor Draghi: Q&A ARTIFICIAL INTELLIGENCE (AI) - Anthropic / Mythos: Q&A DIGITAL SERVICES ACT (DSA) - Commission fines AliExpress €550 million for breaching the Digital Services Act / Google: Q&A WAR IN UKRAINE / BUDGET - Ukraine 90 billion loan / Drone deal / Outcome of the phone call between EC President von der Leyen and Ukrainian PM Koretskyi: Q&A ENLARGEMENT - Ukraine: Q&A WAR IN UKRAINE / ENERGY - EU sanctions against Russia / EU ban on Russian LNG: Q&A Exterior views of the European Commission Berlaymont building Recorded cutaways",
+     "inst": "EC"
+    },
     {
      "ref": "I-292748",
      "title": "EC Midday press briefing of 20/07/2026",
@@ -61,7 +67,37 @@
     {
      "ref": "I-293046",
      "title": "EC Midday press briefing of 20/07/2026",
-     "summary": "Q&A",
+     "summary": "PRESIDENT AGENDA - Upcoming meeting between EC President von der Leyen and Professor Draghi: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-293047",
+     "title": "EC Midday press briefing of 20/07/2026",
+     "summary": "ARTIFICIAL INTELLIGENCE (AI) - Anthropic / Mythos: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-293048",
+     "title": "EC Midday press briefing of 20/07/2026",
+     "summary": "DIGITAL SERVICES ACT (DSA) - Commission fines AliExpress €550 million for breaching the Digital Services Act / Google: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-293049",
+     "title": "EC Midday press briefing of 20/07/2026",
+     "summary": "WAR IN UKRAINE / BUDGET - Ukraine 90 billion loan / Drone deal / Outcome of the phone call between EC President von der Leyen and Ukrainian PM Koretskyi: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-293050",
+     "title": "EC Midday press briefing of 20/07/2026",
+     "summary": "ENLARGEMENT - Ukraine: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-293051",
+     "title": "EC Midday press briefing of 20/07/2026",
+     "summary": "WAR IN UKRAINE / ENERGY - EU sanctions against Russia / EU ban on Russian LNG: Q&A",
      "inst": "EC"
     },
     {
@@ -98,6 +134,26 @@
     }
    ],
    "firstSeen": "2026-07-17T13:54:55+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-21T07:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "Signing of the agreement between Republic of Poland and European Union according to the additional financial contribution to the EU Secure Connectivity Program",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292970",
+     "title": "Signing of the agreement between Republic of Poland and European Union according to the additional financial contribution to the EU Secure Connectivity Program",
+     "summary": "Official signing ceremony hosted by Andrius KUBILIUS, European Commissioner for Defence and Space and attended by Andrius KUBILIUS, European Commissioner for Defence and Space",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-20T12:34:07+00:00"
   },
   {
    "ep": false,
