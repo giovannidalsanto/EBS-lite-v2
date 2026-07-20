@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-07-20T06:55:38+00:00",
+ "generatedAt": "2026-07-20T10:18:23+00:00",
  "events": [
   {
    "ep": false,
-   "start": "2026-07-20T07:30:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-20T07:49:53.720Z",
+   "durationSec": 3202,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "European Commission executive Vice-President Teresa RIBERA in San Sebastian, Spain",
@@ -15,15 +15,15 @@
     {
      "ref": "I-292851",
      "title": "European Commission executive Vice-President Teresa RIBERA in San Sebastian, Spain",
-     "summary": "Escuela de verano Session 1 - Opening speech by Teresa RIBERA, Executive Vice-President of the European Commission for a Clean, Just and Competitive Transition",
+     "summary": "Escuela de verano Session 1 - Opening speech and Q&A with Teresa RIBERA, Executive Vice-President of the European Commission for a Clean, Just and Competitive Transition",
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-17T13:54:55+00:00"
+   "firstSeen": "2026-07-20T10:18:23+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-20T10:00:00.000Z",
+   "start": "2026-07-20T10:08:29.080Z",
    "durationSec": 0,
    "channel": "EBS",
    "status": "LIVE",
@@ -37,11 +37,29 @@
     {
      "ref": "I-292748",
      "title": "EC Midday press briefing of 20/07/2026",
-     "summary": "Announcements",
+     "summary": "ANNOUNCEMENT - Victory of Spain at the Football World Cup 2026",
      "inst": "EC"
     },
     {
      "ref": "I-292749",
+     "title": "EC Midday press briefing of 20/07/2026",
+     "summary": "ANNOUNCEMENT - Press arrangements: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-293044",
+     "title": "EC Midday press briefing of 20/07/2026",
+     "summary": "ANNOUNCEMENT - Commission fines AliExpress €550 million for breaching the Digital Services Act: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-293045",
+     "title": "EC Midday press briefing of 20/07/2026",
+     "summary": "FOREIGN AFFAIRS - EU Special Representative for Sahel: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-293046",
      "title": "EC Midday press briefing of 20/07/2026",
      "summary": "Q&A",
      "inst": "EC"
@@ -59,14 +77,14 @@
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-14T05:12:07+00:00"
+   "firstSeen": "2026-07-20T10:18:23+00:00"
   },
   {
    "ep": false,
    "start": "2026-07-20T13:30:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
-   "status": "EDIT_RECORDED",
+   "status": "EDIT",
    "title": "European Commission executive Vice-President Teresa RIBERA in San Sebastian, Spain",
    "languages": [
     "INT"
@@ -340,19 +358,19 @@
    "durationSec": 0,
    "channel": "EBS",
    "status": "LIVE",
-   "title": "Informal meeting of Environment Ministers in Dublin, Ireland",
+   "title": "Informal meeting of Environment and Climate Ministers in Dublin, Ireland",
    "languages": [
     "INT"
    ],
    "items": [
     {
      "ref": "I-292789",
-     "title": "Informal meeting of Environment Ministers in Dublin, Ireland",
+     "title": "Informal meeting of Environment and Climate Ministers in Dublin, Ireland",
      "summary": "Arrivals, welcome and doorsteps",
      "inst": "Host"
     }
    ],
-   "firstSeen": "2026-07-20T05:51:52+00:00"
+   "firstSeen": "2026-07-20T10:18:23+00:00"
   },
   {
    "ep": false,
@@ -360,19 +378,19 @@
    "durationSec": 0,
    "channel": "EBS",
    "status": "LIVE",
-   "title": "Informal meeting of Environment Ministers in Dublin, Ireland",
+   "title": "Informal meeting of Environment and Climate Ministers in Dublin, Ireland",
    "languages": [
     "INT"
    ],
    "items": [
     {
      "ref": "I-292935",
-     "title": "Informal meeting of Environment Ministers in Dublin, Ireland",
+     "title": "Informal meeting of Environment and Climate Ministers in Dublin, Ireland",
      "summary": "Roundtable",
      "inst": "Host"
     }
    ],
-   "firstSeen": "2026-07-20T05:51:52+00:00"
+   "firstSeen": "2026-07-20T10:18:23+00:00"
   },
   {
    "ep": false,
@@ -380,19 +398,19 @@
    "durationSec": 0,
    "channel": "EBS",
    "status": "EDIT",
-   "title": "Informal meeting of Environment Ministers in Dublin, Ireland",
+   "title": "Informal meeting of Environment and Climate Ministers in Dublin, Ireland",
    "languages": [
     "INT"
    ],
    "items": [
     {
      "ref": "I-292936",
-     "title": "Informal meeting of Environment Ministers in Dublin, Ireland",
+     "title": "Informal meeting of Environment and Climate Ministers in Dublin, Ireland",
      "summary": "Compilation of all arrivals and welcome",
      "inst": "Host"
     }
    ],
-   "firstSeen": "2026-07-20T05:51:52+00:00"
+   "firstSeen": "2026-07-20T10:18:23+00:00"
   },
   {
    "ep": false,
@@ -440,19 +458,19 @@
    "durationSec": 0,
    "channel": "EBS",
    "status": "RECORDED",
-   "title": "Informal meeting of Environment Ministers in Dublin, Ireland",
+   "title": "Informal meeting of Environment and Climate Ministers in Dublin, Ireland",
    "languages": [
     "INT"
    ],
    "items": [
     {
      "ref": "I-292937",
-     "title": "Informal meeting of Environment Ministers in Dublin, Ireland",
+     "title": "Informal meeting of Environment and Climate Ministers in Dublin, Ireland",
      "summary": "Family photo",
      "inst": "Host"
     }
    ],
-   "firstSeen": "2026-07-20T05:51:52+00:00"
+   "firstSeen": "2026-07-20T10:18:23+00:00"
   },
   {
    "ep": false,
@@ -460,7 +478,7 @@
    "durationSec": 0,
    "channel": "EBS",
    "status": "RECORDED",
-   "title": "Informal meeting of Environment Ministers in Dublin, Ireland",
+   "title": "Informal meeting of Environment and Climate Ministers in Dublin, Ireland",
    "languages": [
     "INT",
     "EN"
@@ -468,12 +486,12 @@
    "items": [
     {
      "ref": "I-292938",
-     "title": "Informal meeting of Environment Ministers in Dublin, Ireland",
+     "title": "Informal meeting of Environment and Climate Ministers in Dublin, Ireland",
      "summary": "Press conference by the Irish Presidency and the European Commission",
      "inst": "Host"
     }
    ],
-   "firstSeen": "2026-07-20T05:51:52+00:00"
+   "firstSeen": "2026-07-20T10:18:23+00:00"
   },
   {
    "ep": false,
