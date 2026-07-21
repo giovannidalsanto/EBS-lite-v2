@@ -1,140 +1,6 @@
 {
- "generatedAt": "2026-07-20T16:38:10+00:00",
+ "generatedAt": "2026-07-21T05:32:40+00:00",
  "events": [
-  {
-   "ep": false,
-   "start": "2026-07-20T07:49:53.720Z",
-   "durationSec": 3202,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "European Commission executive Vice-President Teresa RIBERA in San Sebastian, Spain",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292851",
-     "title": "European Commission executive Vice-President Teresa RIBERA in San Sebastian, Spain",
-     "summary": "Escuela de verano Session 1 - Opening speech and Q&A with Teresa RIBERA, Executive Vice-President of the European Commission for a Clean, Just and Competitive Transition",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-07-20T10:18:23+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-20T10:08:29.080Z",
-   "durationSec": 1568,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "EC Midday press briefing of 20/07/2026",
-   "languages": [
-    "INT",
-    "EN",
-    "FR"
-   ],
-   "items": [
-    {
-     "ref": "I-293074",
-     "title": "EC Midday press briefing of 20/07/2026",
-     "summary": "ANNOUNCEMENT - Victory of Spain at the Football World Cup 2026 ANNOUNCEMENT - Press arrangements: Q&A ANNOUNCEMENT - Commission fines AliExpress €550 million for breaching the Digital Services Act: Q&A FOREIGN AFFAIRS - EU Special Representative for Sahel: Q&A PRESIDENT AGENDA - Upcoming meeting between EC President von der Leyen and Professor Draghi: Q&A ARTIFICIAL INTELLIGENCE (AI) - Anthropic / Mythos: Q&A DIGITAL SERVICES ACT (DSA) - Commission fines AliExpress €550 million for breaching the Digital Services Act / Google: Q&A WAR IN UKRAINE / BUDGET - Ukraine 90 billion loan / Drone deal / Outcome of the phone call between EC President von der Leyen and Ukrainian PM Koretskyi: Q&A ENLARGEMENT - Ukraine: Q&A WAR IN UKRAINE / ENERGY - EU sanctions against Russia / EU ban on Russian LNG: Q&A Exterior views of the European Commission Berlaymont building Recorded cutaways",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292748",
-     "title": "EC Midday press briefing of 20/07/2026",
-     "summary": "ANNOUNCEMENT - Victory of Spain at the Football World Cup 2026",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292749",
-     "title": "EC Midday press briefing of 20/07/2026",
-     "summary": "ANNOUNCEMENT - Press arrangements: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-293044",
-     "title": "EC Midday press briefing of 20/07/2026",
-     "summary": "ANNOUNCEMENT - Commission fines AliExpress €550 million for breaching the Digital Services Act: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-293045",
-     "title": "EC Midday press briefing of 20/07/2026",
-     "summary": "FOREIGN AFFAIRS - EU Special Representative for Sahel: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-293046",
-     "title": "EC Midday press briefing of 20/07/2026",
-     "summary": "PRESIDENT AGENDA - Upcoming meeting between EC President von der Leyen and Professor Draghi: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-293047",
-     "title": "EC Midday press briefing of 20/07/2026",
-     "summary": "ARTIFICIAL INTELLIGENCE (AI) - Anthropic / Mythos: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-293048",
-     "title": "EC Midday press briefing of 20/07/2026",
-     "summary": "DIGITAL SERVICES ACT (DSA) - Commission fines AliExpress €550 million for breaching the Digital Services Act / Google: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-293049",
-     "title": "EC Midday press briefing of 20/07/2026",
-     "summary": "WAR IN UKRAINE / BUDGET - Ukraine 90 billion loan / Drone deal / Outcome of the phone call between EC President von der Leyen and Ukrainian PM Koretskyi: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-293050",
-     "title": "EC Midday press briefing of 20/07/2026",
-     "summary": "ENLARGEMENT - Ukraine: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-293051",
-     "title": "EC Midday press briefing of 20/07/2026",
-     "summary": "WAR IN UKRAINE / ENERGY - EU sanctions against Russia / EU ban on Russian LNG: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292750",
-     "title": "EC Midday press briefing of 20/07/2026",
-     "summary": "Exterior views of the European Commission Berlaymont building",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292751",
-     "title": "EC Midday press briefing of 20/07/2026",
-     "summary": "Recorded cutaways",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-07-20T10:18:23+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-20T13:10:10.000Z",
-   "durationSec": 133,
-   "channel": "EBS+",
-   "status": "EDIT",
-   "title": "European Commission executive Vice-President Teresa RIBERA in San Sebastian, Spain",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-293026",
-     "title": "European Commission executive Vice-President Teresa RIBERA in San Sebastian, Spain",
-     "summary": "Visit to the LIFE Wetlands project (Parque Ecológico Plaiaundi)",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-07-20T14:52:07+00:00"
-  },
   {
    "ep": false,
    "start": "2026-07-21T06:55:00.000Z",
@@ -379,7 +245,7 @@
    "start": "2026-07-22T23:00:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
-   "status": "",
+   "status": "EDIT_RECORDED",
    "title": "High Representative / Vice-President Kaja KALLAS in the Philippines",
    "languages": [
     "INT"
@@ -393,6 +259,26 @@
     }
    ],
    "firstSeen": "2026-07-20T16:38:10+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-23T00:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "",
+   "title": "European Commissioner Andrius KUBILIUS in Washington DC, USA",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-293092",
+     "title": "European Commissioner Andrius KUBILIUS in Washington DC, USA",
+     "summary": "Details to follow",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-21T05:32:40+00:00"
   },
   {
    "ep": false,
