@@ -1,21 +1,22 @@
 {
- "generatedAt": "2026-07-21T06:36:00+00:00",
+ "generatedAt": "2026-07-21T09:13:27+00:00",
  "events": [
   {
    "ep": false,
-   "start": "2026-07-21T06:55:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-21T07:03:25.320Z",
+   "durationSec": 2938,
    "channel": "EBS",
    "status": "LIVE",
    "title": "European Commissioner Andrius KUBILIUS in Warsaw, Poland",
    "languages": [
-    "INT"
+    "INT",
+    "EN"
    ],
    "items": [
     {
      "ref": "I-292970",
      "title": "European Commissioner Andrius KUBILIUS in Warsaw, Poland",
-     "summary": "Signing of the contribution agreement concluded between Poland and the Commission relating to the Resilience and Recovery Facility contribution of Poland to the IRIS² programme Welcome address by the host, Ms Karolina ŁUKASZEWICZ, Deputy Director of DKS Speeches: Marcin KIERWIŃSKI, Polish Minister for Internal Affairs and Administration Andrius KUBILIUS, European Commissioner for Defence and Space Shruti VYAS, SpaceRISE Coordinator, SES Signing of the agreement Signing of the memorandum Presentation of a certificate of appreciation to Polsa – the Polish Space Agency presented by Tomasz SZYMANSKI, Secretary of State at the Ministry of the Interior and Administration",
+     "summary": "Signing of the contribution agreement concluded between Poland and the Commission relating to the Resilience and Recovery Facility contribution of Poland to the IRIS² programme Welcome address by the host, Karolina ŁUKASZEWICZ, Deputy Director of DKS Speeches: Marcin KIERWIŃSKI, Polish Minister for Internal Affairs and Administration Andrius KUBILIUS, European Commissioner for Defence and Space Shruti VYAS, SpaceRISE Coordinator, SES Signing of the agreement Signing of the memorandum Presentation of a certificate of appreciation to Polsa – the Polish Space Agency presented by Tomasz SZYMANSKI, Secretary of State at the Ministry of the Interior and Administration",
      "inst": "EC"
     },
     {
@@ -25,73 +26,103 @@
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-20T16:38:10+00:00"
+   "firstSeen": "2026-07-21T09:13:27+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-21T07:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-21T07:04:15.920Z",
+   "durationSec": 2393,
    "channel": "EBS+",
    "status": "LIVE",
-   "title": "Informal meeting of Research and Innovation Ministers in Dublin, Ireland",
+   "title": "Informal meeting of Research and Innovation Ministers (COMPET Research) in Dublin, Ireland",
    "languages": [
     "INT"
    ],
    "items": [
     {
      "ref": "I-292817",
-     "title": "Informal meeting of Research and Innovation Ministers in Dublin, Ireland",
-     "summary": "Arrivals, welcome and doorsteps",
+     "title": "Informal meeting of Research and Innovation Ministers (COMPET Research) in Dublin, Ireland",
+     "summary": "Doorstep Martina HIRAYAMA, State Secretary for Education, Research and Innovation (SBFI) of Switzerland",
      "inst": "Host"
     },
     {
      "ref": "I-293093",
-     "title": "Informal meeting of Research and Innovation Ministers in Dublin, Ireland",
-     "summary": "Arrivals, welcome and doorsteps",
+     "title": "Informal meeting of Research and Innovation Ministers (COMPET Research) in Dublin, Ireland",
+     "summary": "Doorstep Teresa RIESGO ALCAIDE, Secretary General for Innovation at Ministry of Science and Innovation of Spain",
+     "inst": "Host"
+    },
+    {
+     "ref": "I-293094",
+     "title": "Informal meeting of Research and Innovation Ministers (COMPET Research) in Dublin, Ireland",
+     "summary": "Doorstep Andrei ALEXANDRU, President, National Authority for Research of Romania",
+     "inst": "Host"
+    },
+    {
+     "ref": "I-293095",
+     "title": "Informal meeting of Research and Innovation Ministers (COMPET Research) in Dublin, Ireland",
+     "summary": "Doorstep Andrzej SZEPTYCKI, Undersecretary of State at the Polish Ministry of Science and Higher Education of Poland",
+     "inst": "Host"
+    },
+    {
+     "ref": "I-293096",
+     "title": "Informal meeting of Research and Innovation Ministers (COMPET Research) in Dublin, Ireland",
+     "summary": "Doorstep Sakari PUISTO, Minister of Economic Affairs of Finland",
+     "inst": "Host"
+    },
+    {
+     "ref": "I-293097",
+     "title": "Informal meeting of Research and Innovation Ministers (COMPET Research) in Dublin, Ireland",
+     "summary": "Doorstep Eva-Maria HOLZLEITNER, Federal Minister for Women, Science and Research of Austria",
+     "inst": "Host"
+    },
+    {
+     "ref": "I-293098",
+     "title": "Informal meeting of Research and Innovation Ministers (COMPET Research) in Dublin, Ireland",
+     "summary": "Doorstep James LAWLESS, Minister for Further and Higher Education, Research, Innovation and Science of Ireland",
      "inst": "Host"
     }
    ],
-   "firstSeen": "2026-07-15T10:57:26+00:00"
+   "firstSeen": "2026-07-21T09:13:27+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-21T08:30:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-21T07:58:59.280Z",
+   "durationSec": 315,
    "channel": "EBS+",
    "status": "LIVE",
-   "title": "Informal meeting of Research and Innovation Ministers in Dublin, Ireland",
+   "title": "Informal meeting of Research and Innovation Ministers (COMPET Research) in Dublin, Ireland",
    "languages": [
     "INT"
    ],
    "items": [
     {
      "ref": "I-292921",
-     "title": "Informal meeting of Research and Innovation Ministers in Dublin, Ireland",
+     "title": "Informal meeting of Research and Innovation Ministers (COMPET Research) in Dublin, Ireland",
      "summary": "Roundtable",
      "inst": "Host"
     }
    ],
-   "firstSeen": "2026-07-15T10:57:26+00:00"
+   "firstSeen": "2026-07-21T09:13:27+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-21T09:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-21T08:05:04.960Z",
+   "durationSec": 833,
    "channel": "EBS+",
    "status": "EDIT",
-   "title": "Informal meeting of Research and Innovation Ministers in Dublin, Ireland",
+   "title": "Informal meeting of Research and Innovation Ministers (COMPET Research) in Dublin, Ireland",
    "languages": [
     "INT"
    ],
    "items": [
     {
      "ref": "I-292934",
-     "title": "Informal meeting of Research and Innovation Ministers in Dublin, Ireland",
-     "summary": "Compilation of all arrivals and welcome",
+     "title": "Informal meeting of Research and Innovation Ministers (COMPET Research) in Dublin, Ireland",
+     "summary": "Compilation of all arrivals and welcome by James LAWLESS, Minister for Further and Higher Education, Research, Innovation and Science of Ireland",
      "inst": "Host"
     }
    ],
-   "firstSeen": "2026-07-15T12:20:08+00:00"
+   "firstSeen": "2026-07-21T09:13:27+00:00"
   },
   {
    "ep": false,
@@ -99,19 +130,39 @@
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
-   "title": "Informal meeting of Research and Innovation Ministers in Dublin, Ireland",
+   "title": "Informal meeting of Research and Innovation Ministers (COMPET Research) in Dublin, Ireland",
    "languages": [
     "INT"
    ],
    "items": [
     {
      "ref": "I-292922",
-     "title": "Informal meeting of Research and Innovation Ministers in Dublin, Ireland",
+     "title": "Informal meeting of Research and Innovation Ministers (COMPET Research) in Dublin, Ireland",
      "summary": "Family photo",
      "inst": "Host"
     }
    ],
-   "firstSeen": "2026-07-15T10:57:26+00:00"
+   "firstSeen": "2026-07-21T09:13:27+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-21T11:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "RECORDED",
+   "title": "EU-Oman Signature of Establishment Agreement",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292968",
+     "title": "EU-Oman Signature of Establishment Agreement",
+     "summary": "Signing ceremony",
+     "inst": "European External "
+    }
+   ],
+   "firstSeen": "2026-07-21T09:13:27+00:00"
   },
   {
    "ep": false,
@@ -119,7 +170,7 @@
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
-   "title": "Informal meeting of Research and Innovation Ministers in Dublin, Ireland",
+   "title": "Informal meeting of Research and Innovation Ministers (COMPET Research) in Dublin, Ireland",
    "languages": [
     "INT",
     "EN"
@@ -127,12 +178,12 @@
    "items": [
     {
      "ref": "I-292933",
-     "title": "Informal meeting of Research and Innovation Ministers in Dublin, Ireland",
-     "summary": "Press conference by the Irish Presidency and the European Commission",
+     "title": "Informal meeting of Research and Innovation Ministers (COMPET Research) in Dublin, Ireland",
+     "summary": "Press conference by James LAWLESS, Minister for Further and Higher Education, Research, Innovation and Science of Ireland and Ekaterina ZAHARIEVA, European Commissioner for Startups, Research and Innovation",
      "inst": "Host"
     }
    ],
-   "firstSeen": "2026-07-15T12:20:08+00:00"
+   "firstSeen": "2026-07-21T09:13:27+00:00"
   },
   {
    "ep": false,
@@ -160,7 +211,7 @@
    "durationSec": 0,
    "channel": "EBS",
    "status": "LIVE",
-   "title": "Read-out of the College meeting / press conference (details to follow)",
+   "title": "Read-out of the College meeting / press conference by European Commission Executive Vice-President Roxana MÎNZATU on the Communication on the European Pillar of Social Rights",
    "languages": [
     "INT",
     "EN",
@@ -190,18 +241,18 @@
    "items": [
     {
      "ref": "I-292776",
-     "title": "Read-out of the College meeting / press conference (details to follow)",
-     "summary": "Read-out of the College meeting / press conference",
+     "title": "Read-out of the College meeting / press conference by European Commission Executive Vice-President Roxana MÎNZATU on the Communication on the European Pillar of Social Rights",
+     "summary": "Read-out of the College meeting / press conference by Roxana MÎNZATU, Executive Vice-President of the European Commission for Social Rights and Skills, Quality Jobs and Preparedness",
      "inst": "EC"
     },
     {
      "ref": "I-292773",
-     "title": "Weekly European Commission College meeting",
+     "title": "Read-out of the College meeting / press conference by European Commission Executive Vice-President Roxana MÎNZATU on the Communication on the European Pillar of Social Rights",
      "summary": "Exterior views of the European Commission Berlaymont building",
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-16T05:23:15+00:00"
+   "firstSeen": "2026-07-21T09:13:27+00:00"
   },
   {
    "ep": false,
@@ -209,7 +260,7 @@
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
-   "title": "Read-out of the College meeting / press conference with international sign language (details to follow)",
+   "title": "Read-out of the College meeting / press conference (with international sign language) by European Commission Executive Vice-President Roxana MÎNZATU on the Communication on the European Pillar of Social Rights",
    "languages": [
     "INT",
     "EN",
@@ -239,12 +290,12 @@
    "items": [
     {
      "ref": "I-292777",
-     "title": "Read-out of the College meeting / press conference with international sign language (details to follow)",
-     "summary": "Read-out of the College meeting / press conference (with international sign language)",
+     "title": "Read-out of the College meeting / press conference (with international sign language) by European Commission Executive Vice-President Roxana MÎNZATU on the Communication on the European Pillar of Social Rights",
+     "summary": "Read-out of the College meeting / press conference (with international sign language) by Roxana MÎNZATU, Executive Vice-President of the European Commission for Social Rights and Skills, Quality Jobs and Preparedness",
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-16T05:23:15+00:00"
+   "firstSeen": "2026-07-21T09:13:27+00:00"
   },
   {
    "ep": false,
