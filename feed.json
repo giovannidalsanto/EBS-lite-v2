@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-21T09:13:27+00:00",
+ "generatedAt": "2026-07-21T11:25:19+00:00",
  "events": [
   {
    "ep": false,
@@ -126,8 +126,8 @@
   },
   {
    "ep": false,
-   "start": "2026-07-21T10:30:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-21T10:50:22.960Z",
+   "durationSec": 48,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "Informal meeting of Research and Innovation Ministers (COMPET Research) in Dublin, Ireland",
@@ -142,7 +142,7 @@
      "inst": "Host"
     }
    ],
-   "firstSeen": "2026-07-21T09:13:27+00:00"
+   "firstSeen": "2026-07-21T11:25:19+00:00"
   },
   {
    "ep": false,
@@ -150,19 +150,19 @@
    "durationSec": 0,
    "channel": "EBS",
    "status": "RECORDED",
-   "title": "EU-Oman Signature of Establishment Agreement",
+   "title": "EU-Oman Signature of Establishment Agreement for EU Delegation in Muscat",
    "languages": [
     "INT"
    ],
    "items": [
     {
      "ref": "I-292968",
-     "title": "EU-Oman Signature of Establishment Agreement",
-     "summary": "Signing ceremony",
+     "title": "EU-Oman Signature of Establishment Agreement for EU Delegation in Muscat",
+     "summary": "Signing ceremony by Kaja KALLAS, High Representative of the Union for Foreign Affairs and Security Policy and Vice-President of the European Commission and Sayyid Badr BIN HAMAD, Foreign Minister of the Sultanate of Oman",
      "inst": "European External "
     }
    ],
-   "firstSeen": "2026-07-21T09:13:27+00:00"
+   "firstSeen": "2026-07-21T11:25:19+00:00"
   },
   {
    "ep": false,
