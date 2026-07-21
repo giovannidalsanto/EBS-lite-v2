@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-21T05:32:40+00:00",
+ "generatedAt": "2026-07-21T06:36:00+00:00",
  "events": [
   {
    "ep": false,
@@ -40,6 +40,12 @@
    "items": [
     {
      "ref": "I-292817",
+     "title": "Informal meeting of Research and Innovation Ministers in Dublin, Ireland",
+     "summary": "Arrivals, welcome and doorsteps",
+     "inst": "Host"
+    },
+    {
+     "ref": "I-293093",
      "title": "Informal meeting of Research and Innovation Ministers in Dublin, Ireland",
      "summary": "Arrivals, welcome and doorsteps",
      "inst": "Host"
