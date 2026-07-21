@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-21T11:25:19+00:00",
+ "generatedAt": "2026-07-21T12:57:22+00:00",
  "events": [
   {
    "ep": false,
@@ -146,8 +146,34 @@
   },
   {
    "ep": false,
-   "start": "2026-07-21T11:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-21T11:47:12.280Z",
+   "durationSec": 958,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "Informal meeting of Research and Innovation Ministers (COMPET Research) in Dublin, Ireland",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292933",
+     "title": "Informal meeting of Research and Innovation Ministers (COMPET Research) in Dublin, Ireland",
+     "summary": "Press conference by James LAWLESS, Minister for Further and Higher Education, Research, Innovation and Science of Ireland and Ekaterina ZAHARIEVA, European Commissioner for Startups, Research and Innovation",
+     "inst": "Host"
+    },
+    {
+     "ref": "I-293104",
+     "title": "Informal meeting of Research and Innovation Ministers (COMPET Research) in Dublin, Ireland",
+     "summary": "Recorded cutaways (mute)",
+     "inst": "Host"
+    }
+   ],
+   "firstSeen": "2026-07-21T12:57:22+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-21T11:55:10.000Z",
+   "durationSec": 552,
    "channel": "EBS",
    "status": "RECORDED",
    "title": "EU-Oman Signature of Establishment Agreement for EU Delegation in Muscat",
@@ -162,35 +188,14 @@
      "inst": "European External "
     }
    ],
-   "firstSeen": "2026-07-21T11:25:19+00:00"
+   "firstSeen": "2026-07-21T12:57:22+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-21T11:45:00.000Z",
+   "start": "2026-07-22T09:30:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
-   "status": "LIVE",
-   "title": "Informal meeting of Research and Innovation Ministers (COMPET Research) in Dublin, Ireland",
-   "languages": [
-    "INT",
-    "EN"
-   ],
-   "items": [
-    {
-     "ref": "I-292933",
-     "title": "Informal meeting of Research and Innovation Ministers (COMPET Research) in Dublin, Ireland",
-     "summary": "Press conference by James LAWLESS, Minister for Further and Higher Education, Research, Innovation and Science of Ireland and Ekaterina ZAHARIEVA, European Commissioner for Startups, Research and Innovation",
-     "inst": "Host"
-    }
-   ],
-   "firstSeen": "2026-07-21T09:13:27+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-21T23:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS+",
-   "status": "EDIT_RECORDED",
+   "status": "RECORDED",
    "title": "High Representative / Vice-President Kaja KALLAS in the Philippines",
    "languages": [
     "INT"
@@ -199,11 +204,11 @@
     {
      "ref": "I-292782",
      "title": "High Representative / Vice-President Kaja KALLAS in the Philippines",
-     "summary": "EU-ASEAN Post-Ministerial Conference and the ASEAN Foreign Ministers’ Meeting",
+     "summary": "EU-ASEAN Post-Ministerial Conference and the ASEAN Foreign Ministers’ Meeting Opening remarks by Kaja KALLAS, High Representative of the Union for Foreign Affairs and Security Policy and Vice-President of the European Commission",
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-20T16:38:10+00:00"
+   "firstSeen": "2026-07-21T12:57:22+00:00"
   },
   {
    "ep": false,
@@ -299,23 +304,23 @@
   },
   {
    "ep": false,
-   "start": "2026-07-22T23:00:00.000Z",
+   "start": "2026-07-22T13:30:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
-   "status": "EDIT_RECORDED",
+   "status": "EDIT",
    "title": "High Representative / Vice-President Kaja KALLAS in the Philippines",
    "languages": [
     "INT"
    ],
    "items": [
     {
-     "ref": "I-292783",
+     "ref": "I-293101",
      "title": "High Representative / Vice-President Kaja KALLAS in the Philippines",
-     "summary": "33rd ASEAN Regional Forum Ministerial Meeting",
+     "summary": "Likhang Filipino Cultural Activity",
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-20T16:38:10+00:00"
+   "firstSeen": "2026-07-21T12:57:22+00:00"
   },
   {
    "ep": false,
@@ -336,6 +341,26 @@
     }
    ],
    "firstSeen": "2026-07-21T05:32:40+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-23T07:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "EDIT",
+   "title": "High Representative / Vice-President Kaja KALLAS in the Philippines",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292783",
+     "title": "High Representative / Vice-President Kaja KALLAS in the Philippines",
+     "summary": "Bilateral meeting with Gilbert TEODORO, Secretary of National Defence of Philippines",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-21T12:57:22+00:00"
   },
   {
    "ep": false,
@@ -399,26 +424,6 @@
   },
   {
    "ep": false,
-   "start": "2026-07-23T23:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS+",
-   "status": "EDIT_RECORDED",
-   "title": "High Representative / Vice-President Kaja KALLAS in the Philippines",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292784",
-     "title": "High Representative / Vice-President Kaja KALLAS in the Philippines",
-     "summary": "Details to follow",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-07-20T16:38:10+00:00"
-  },
-  {
-   "ep": false,
    "start": "2026-07-24T07:00:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
@@ -436,6 +441,26 @@
     }
    ],
    "firstSeen": "2026-07-20T10:18:23+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-24T07:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "RECORDED",
+   "title": "High Representative / Vice-President Kaja KALLAS in the Philippines",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292784",
+     "title": "High Representative / Vice-President Kaja KALLAS in the Philippines",
+     "summary": "Press conference by Kaja KALLAS, High Representative of the Union for Foreign Affairs and Security Policy and Vice-President of the European Commission",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-21T12:57:22+00:00"
   },
   {
    "ep": false,
@@ -536,6 +561,26 @@
     }
    ],
    "firstSeen": "2026-07-20T10:18:23+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-24T11:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "RECORDED",
+   "title": "High Representative / Vice-President Kaja KALLAS in the Philippines",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-293102",
+     "title": "High Representative / Vice-President Kaja KALLAS in the Philippines",
+     "summary": "High-Level Conference of High Contracting Parties to the Treaty of Amity and Cooperation in Southeast Asia (TAC) Opening session remarks by Kaja KALLAS, High Representative of the Union for Foreign Affairs and Security Policy and Vice-President of the European Commission",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-21T12:57:22+00:00"
   },
   {
    "ep": false,
