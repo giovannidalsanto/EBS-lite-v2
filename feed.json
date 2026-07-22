@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-22T06:36:59+00:00",
+ "generatedAt": "2026-07-22T09:13:09+00:00",
  "events": [
   {
    "ep": false,
@@ -135,26 +135,6 @@
   },
   {
    "ep": false,
-   "start": "2026-07-23T00:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS+",
-   "status": "",
-   "title": "European Commissioner Andrius KUBILIUS in Washington DC, USA",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-293092",
-     "title": "European Commissioner Andrius KUBILIUS in Washington DC, USA",
-     "summary": "Details to follow",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-07-21T05:32:40+00:00"
-  },
-  {
-   "ep": false,
    "start": "2026-07-23T07:30:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
@@ -285,13 +265,53 @@
    ],
    "items": [
     {
+     "ref": "I-292937",
+     "title": "Informal meeting of Environment and Climate Ministers in Dublin, Ireland",
+     "summary": "Family photo",
+     "inst": "Host"
+    }
+   ],
+   "firstSeen": "2026-07-20T10:18:23+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-24T08:15:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "RECORDED",
+   "title": "European Commissioner Andrius KUBILIUS in Washington DC, USA (23/07/2026)",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-293092",
+     "title": "European Commissioner Andrius KUBILIUS in Washington DC, USA (23/07/2026)",
+     "summary": "Details to follow",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-22T09:13:09+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-24T08:20:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "Informal meeting of Environment and Climate Ministers in Dublin, Ireland",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
      "ref": "I-292935",
      "title": "Informal meeting of Environment and Climate Ministers in Dublin, Ireland",
      "summary": "Roundtable",
      "inst": "Host"
     }
    ],
-   "firstSeen": "2026-07-20T10:18:23+00:00"
+   "firstSeen": "2026-07-22T09:13:09+00:00"
   },
   {
    "ep": false,
@@ -352,26 +372,6 @@
     }
    ],
    "firstSeen": "2026-07-20T05:51:52+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-24T11:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "RECORDED",
-   "title": "Informal meeting of Environment and Climate Ministers in Dublin, Ireland",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292937",
-     "title": "Informal meeting of Environment and Climate Ministers in Dublin, Ireland",
-     "summary": "Family photo",
-     "inst": "Host"
-    }
-   ],
-   "firstSeen": "2026-07-20T10:18:23+00:00"
   },
   {
    "ep": false,
