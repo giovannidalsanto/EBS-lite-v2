@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-22T15:10:02+00:00",
+ "generatedAt": "2026-07-22T16:57:28+00:00",
  "events": [
   {
    "ep": false,
@@ -133,7 +133,7 @@
   },
   {
    "ep": false,
-   "start": "2026-07-22T15:15:00.000Z",
+   "start": "2026-07-22T15:15:10.000Z",
    "durationSec": 194,
    "channel": "EBS+",
    "status": "EDIT",
@@ -149,7 +149,7 @@
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-22T15:10:02+00:00"
+   "firstSeen": "2026-07-22T16:57:28+00:00"
   },
   {
    "ep": false,
@@ -422,7 +422,7 @@
    "start": "2026-07-24T14:30:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
-   "status": "RECORDED",
+   "status": "LIVE",
    "title": "Informal meeting of Environment and Climate Ministers in Dublin, Ireland",
    "languages": [
     "INT",
