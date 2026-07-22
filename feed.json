@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-22T13:04:26+00:00",
+ "generatedAt": "2026-07-22T15:10:02+00:00",
  "events": [
   {
    "ep": false,
@@ -133,8 +133,8 @@
   },
   {
    "ep": false,
-   "start": "2026-07-22T13:30:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-22T15:15:00.000Z",
+   "durationSec": 194,
    "channel": "EBS+",
    "status": "EDIT",
    "title": "High Representative / Vice-President Kaja KALLAS in the Philippines",
@@ -149,7 +149,7 @@
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-21T12:57:22+00:00"
+   "firstSeen": "2026-07-22T15:10:02+00:00"
   },
   {
    "ep": false,
@@ -441,22 +441,56 @@
   {
    "ep": false,
    "start": "2026-07-26T07:00:00.000Z",
-   "durationSec": 0,
+   "durationSec": 2083,
    "channel": "EBS+",
    "status": "EDIT",
-   "title": "EC archives of the week",
+   "title": "EC archives of the week (26/07-01/08): Opening of negotiations on the accession of Greece to the EC (27/07/1976, 50 years ago) 75th anniversary of the signing of the 1951 Convention on the Status of Refugees (28/07) World Nature Conservation Day (28/07) Signing of the Yaoundé Convention II (29/07/1969, 57 years ago) Entry into force of the Common Agricultural Policy (30/07/1962, 64 years ago) Death of Paul-Henri Spaak (31/07/1972, 54 years ago)",
    "languages": [
     "INT"
    ],
    "items": [
     {
-     "ref": "I-283215",
-     "title": "EC archives of the week (12-18/07): Brussels European Council (12-13/07/1976, 50 years ago) Birth Simone Veil (13/07/1927, 99 years ago) France National Day (14/07) Terrorist attack in Nice (14/07/2016, 10 years ago) 11th Asia/Europe Meeting (ASEM11), Ulaanbaatar, Mongolia (14-16/07/2016, 10 years ago) European floods (14/07/2021, 5 years ago) World Youth Skills Day 2026 “Skills for a shared future” (15/07) Visit of Ursula von der Leyen, President of the European Commission, to Ireland to present the Commission’s assessment of the national recovery plan under NextGenerationEU (16/07/2021, 5 years ago) Election of Simone Veil as President of the EP (17/07/1979, 47 years ago) Nelson Mandela International Day (18/07)",
-     "summary": "Details to follow",
+     "ref": "I-002298",
+     "title": "Opening of negotiations on the accession of Greece to the EC",
+     "summary": "A meeting took place in Brussels on negotiations on the accession of Greece to the EC.",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-070596",
+     "title": "Statement by Kristalina Georgieva on the 60th Anniversary of the UN Refugee Convention",
+     "summary": "On 23 July 2011, Kristalina Georgieva, Member of the EC in charge of International Cooperation, Humanitarian Aid and Crisis Response gave a statement on the 60th Anniversary of the UN Refugee Convention during her visit in the Dadaab refugee camp in Kenya where she met families driven from Somalia by decades of conflict and the worst drought in 60 years.",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-227468",
+     "title": "Nature Restoration Law",
+     "summary": "This video stockshot offers views of the site of Demerbroeken Aarschot’s nature reserve (Belgium – Demervalley Aarschot, Langdorp and Rillaar) within the scope of the European Commission’s proposal: the Nature Restoration Law. The NGO Natuurpunt handles the site and its volunteers are striving to preserve nature and the landscape of the region, while cohabiting with farmers and cultivated areas. The Commission proposed the first-ever legislation that explicitly targets the restoration of Europe's nature , to repair the 80% of European habitats that are in poor condition, and to bring back nature to all ecosystems, from forest and agricultural land to marine, freshwater and urban ecosystems. The aim is to cover at least 20% of the EU's land and sea areas by 2030 with nature restoration measures, and eventually extend these to all ecosystems in need of restoration by 2050.",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-270369",
+     "title": "Restoring Europe’s Seas with the Nature Restoration Regulation",
+     "summary": "The EU Nature Restoration Regulation (NRR) sets out an ambitious framework to restore degraded ecosystems across Europe, including the marine environment. As part of the EU’s broader commitment to halt biodiversity loss and address climate change, the regulation introduces legally binding targets with the aim to restore at least 20% of the EU’s land and 20% of sea areas by 2030. This video explains the main marine targets under the NRR, showcasing the types of actions and seabed habitats involved in restoration efforts. It focuses on three key obligations under the regulation, designed to enhance biodiversity and strengthen the climate resilience of Europe’s marine ecosystems: • Restoring seabed habitats, such as seagrass meadows, macroalgal forests or soft sediments, by reducing damaging pressures and implementing active restoration, helping marine ecosystems recover to a good condition. • Filling knowledge gaps through improved mapping, data collection, and monitoring, enabling a better understanding of habitat condition, restoration needs, and how progress can be measured. • Restoring habitats of protected species, such as marine mammals, sea turtles, seabirds, sharks and rays, by improving both the quality and the quantity of their essential marine habitats. The video includes examples of seabed habitats and ongoing restoration initiatives—highlighting the importance of coordinated efforts that support people, nature, and the climate.",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-002048",
+     "title": "Signing of the Yaoundé Convention II",
+     "summary": "The Yaoundé Convention, established in 1964 between the EC and the ASMM (African States, Madagascar and Mauritius), expired on 31/05/1969. The Yaoundé Convention II was established and signed on 29/07/1969. This association increases trade and forms a framework for the technical and financial aid provided by the European Development Fund. The fund builds ports, roads and hospitals."
+    },
+    {
+     "ref": "I-053635",
+     "title": "History of the Common Agricultural Policy (CAP)",
+     "summary": "On the occasion of the 50th anniversary of the Treaties of Rome, this archive video stockshot gives an overview of the history of the Common Agricultural Policy (CAP)."
+    },
+    {
+     "ref": "I-072671",
+     "title": "Founding fathers of the EU: Paul-Henri Spaak",
+     "summary": "‘A European statesman’ – Belgian Paul-Henri Spaak’s long political career fully merits this title. Lying about his age, he was accepted into the Belgian Army during the First World War, and consequently spent two years as a German prisoner of war. During the Second World War, now as foreign minister, he attempted in vain to preserve Belgium’s neutrality. Together with the government he went into exile, first to Paris, and later to London. After the liberation of Belgium, Spaak served both as Foreign Minister and as Prime Minister. Even during the Second World War, he had formulated plans for a merger of the Benelux countries, and directly after the war he campaigned for the unification of Europe, supporting the European Coal and Steel Community and a European defence community. For Spaak, uniting countries through binding treaty obligations was the most effective means of guaranteeing peace and stability. He was able to help achieve these aims as president of the first full meeting of the United Nations (1946) and as Secretary General of NATO (1957-61). Spaak was a leading figure in formulating the content of the Treaty of Rome. At the ‘Messina Conference’ in 1955, the six participating governments appointed him president of the working committee that prepared the Treaty.",
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-20T05:51:52+00:00"
+   "firstSeen": "2026-07-22T15:10:02+00:00"
   },
   {
    "ep": false,
