@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-07-22T09:13:09+00:00",
+ "generatedAt": "2026-07-22T11:26:24+00:00",
  "events": [
   {
    "ep": false,
-   "start": "2026-07-22T09:30:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-22T09:45:10.000Z",
+   "durationSec": 254,
    "channel": "EBS+",
    "status": "RECORDED",
    "title": "High Representative / Vice-President Kaja KALLAS in the Philippines",
@@ -19,61 +19,12 @@
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-21T12:57:22+00:00"
+   "firstSeen": "2026-07-22T11:26:24+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-22T10:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "Read-out of the College meeting / press conference by European Commission Executive Vice-President Roxana MÎNZATU on the Communication on the European Pillar of Social Rights",
-   "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "DE",
-    "IT",
-    "ES",
-    "EL",
-    "PT",
-    "NL",
-    "DA",
-    "FI",
-    "SV",
-    "CS",
-    "ET",
-    "LV",
-    "LT",
-    "HU",
-    "MT",
-    "PL",
-    "SK",
-    "SL",
-    "BG",
-    "RO",
-    "HR"
-   ],
-   "items": [
-    {
-     "ref": "I-292776",
-     "title": "Read-out of the College meeting / press conference by European Commission Executive Vice-President Roxana MÎNZATU on the Communication on the European Pillar of Social Rights",
-     "summary": "Read-out of the College meeting / press conference by Roxana MÎNZATU, Executive Vice-President of the European Commission for Social Rights and Skills, Quality Jobs and Preparedness",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292773",
-     "title": "Read-out of the College meeting / press conference by European Commission Executive Vice-President Roxana MÎNZATU on the Communication on the European Pillar of Social Rights",
-     "summary": "Exterior views of the European Commission Berlaymont building",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-07-21T09:13:27+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-22T10:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-22T10:35:04.440Z",
+   "durationSec": 2043,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "Read-out of the College meeting / press conference (with international sign language) by European Commission Executive Vice-President Roxana MÎNZATU on the Communication on the European Pillar of Social Rights",
@@ -111,7 +62,68 @@
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-21T09:13:27+00:00"
+   "firstSeen": "2026-07-22T11:26:24+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-22T10:35:09.760Z",
+   "durationSec": 2095,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "Read-out of the College meeting / press conference by European Commission Executive Vice-President Roxana MÎNZATU on the Communication on the European Pillar of Social Rights",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "EL",
+    "PT",
+    "NL",
+    "DA",
+    "FI",
+    "SV",
+    "CS",
+    "ET",
+    "LV",
+    "LT",
+    "HU",
+    "MT",
+    "PL",
+    "SK",
+    "SL",
+    "BG",
+    "RO",
+    "HR"
+   ],
+   "items": [
+    {
+     "ref": "I-292776",
+     "title": "Read-out of the College meeting / press conference by European Commission Executive Vice-President Roxana MÎNZATU on the Communication on the European Pillar of Social Rights",
+     "summary": "Read-out of the College meeting / press conference by Roxana MÎNZATU, Executive Vice-President of the European Commission for Social Rights and Skills, Quality Jobs and Preparedness",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-293161",
+     "title": "Read-out of the College meeting / press conference by European Commission Executive Vice-President Roxana MÎNZATU on the Communication on the European Pillar of Social Rights",
+     "summary": "Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-292773",
+     "title": "Read-out of the College meeting / press conference by European Commission Executive Vice-President Roxana MÎNZATU on the Communication on the European Pillar of Social Rights",
+     "summary": "Exterior views of the European Commission Berlaymont building",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-293028",
+     "title": "Read-out of the College meeting / press conference by European Commission Executive Vice-President Roxana MÎNZATU on the Communication on the European Pillar of Social Rights",
+     "summary": "Recorded cutaways",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-22T11:26:24+00:00"
   },
   {
    "ep": false,
