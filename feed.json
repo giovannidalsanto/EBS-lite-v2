@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-22T11:26:24+00:00",
+ "generatedAt": "2026-07-22T13:04:26+00:00",
  "events": [
   {
    "ep": false,
@@ -98,6 +98,12 @@
     "HR"
    ],
    "items": [
+    {
+     "ref": "I-293162",
+     "title": "Read-out of the College meeting / press conference by European Commission Executive Vice-President Roxana MÎNZATU on the Communication on the European Pillar of Social Rights",
+     "summary": "Read-out of the College meeting / press conference by Roxana MÎNZATU, Executive Vice-President of the European Commission for Social Rights and Skills, Quality Jobs and Preparedness Q&A Exterior views of the European Commission Berlaymont building Recorded cutaways",
+     "inst": "EC"
+    },
     {
      "ref": "I-292776",
      "title": "Read-out of the College meeting / press conference by European Commission Executive Vice-President Roxana MÎNZATU on the Communication on the European Pillar of Social Rights",
@@ -291,19 +297,25 @@
    "durationSec": 0,
    "channel": "EBS+",
    "status": "RECORDED",
-   "title": "European Commissioner Andrius KUBILIUS in Washington DC, USA (23/07/2026)",
+   "title": "European Commissioner Andrius KUBILIUS in Washington DC, USA at the EU Defence Night event (23/07/2026)",
    "languages": [
     "INT"
    ],
    "items": [
     {
      "ref": "I-293092",
-     "title": "European Commissioner Andrius KUBILIUS in Washington DC, USA (23/07/2026)",
-     "summary": "Details to follow",
+     "title": "European Commissioner Andrius KUBILIUS in Washington DC, USA at the EU Defence Night event (23/07/2026)",
+     "summary": "Keynote Address by Andrius KUBILIUS, European Commissioner for Defence and Space",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-293163",
+     "title": "European Commissioner Andrius KUBILIUS in Washington DC, USA at the EU Defence Night event (23/07/2026)",
+     "summary": "Panel discussions “Producing at Scale and Speed: EU–U.S. Industrial Cooperation” Moderator: Nick SCHIFRIN, PBS News Andrius KUBILIUS, European Commissioner for Defence and Space Micheal DUFFEY, U.S. Under Secretary of War for Acquisition and Sustainment Magdalena SOBKOWIAK-CZARNECKA, Polish Secretary of State Ministry of Defense Howard BROMBERG, Vice-President for Strategy and Business Development, Lockheed Martin Juan de la CUEVA, Chief Business Officer, Navantia",
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-22T09:13:09+00:00"
+   "firstSeen": "2026-07-22T13:04:26+00:00"
   },
   {
    "ep": false,
