@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-23T09:12:03+00:00",
+ "generatedAt": "2026-07-23T11:25:59+00:00",
  "events": [
   {
    "ep": false,
@@ -23,8 +23,8 @@
   },
   {
    "ep": false,
-   "start": "2026-07-23T10:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-23T10:04:40.400Z",
+   "durationSec": 2874,
    "channel": "EBS",
    "status": "LIVE",
    "title": "EC Midday press briefing of 23/07/2026",
@@ -35,31 +35,97 @@
    ],
    "items": [
     {
+     "ref": "I-293200",
+     "title": "EC Midday press briefing of 23/07/2026",
+     "summary": "ANNOUNCEMENT - Press arrangements ANNOUNCEMENT - Commission fines Google €890 million for breaches of the Digital Markets Act ANNOUNCEMENT - Commission approves more than €103 million support from the EU Solidarity Fund to help Malta, Portugal, and Spain recover from storms DIGITAL MARKETS ACT / EU-US RELATIONS - Commission fines Google €890 million for breaches of the Digital Markets Act / Tariffs: Q&A ARTIFICIAL INTELLIGENCE / CYBERSECURITY - OpenAI: Q&A DIGITAL AFFAIRS - Child Safety on line / France DEFENCE - Security Action for Europe (SAFE) Mechanism / Greece / Israeli defence products: Q&A WAR IN UKRAINE - 21st package of sanctions against Russia / Exemptions / Greece: Q&A COLLEGE AGENDA / DATA PROTECTION - Outcome of the visit of Commissioner McGrath to the United States: Q&A MIGRATION - Libya: Q&A RULE OF LAW - Hungary: Q&A REPowerEU / ENERGY - German nuclear fuel plant / Rosatom / Framatome: Q&A WAR IN UKRAINE / INTERNAL MARKET - EU Sanctions against Russia / Export of Irish alumina to Russia: Q&A TRADE / EU-US RELATIONS - EU-US Joint statement / Tariffs / Pharmaceutical sector: Q&A TRADE - China: Q&A Exterior views of the European Commission Berlaymont building Recorded cutaways",
+     "inst": "EC"
+    },
+    {
      "ref": "I-292752",
      "title": "EC Midday press briefing of 23/07/2026",
-     "summary": "Announcements",
+     "summary": "ANNOUNCEMENT - Press arrangements",
      "inst": "EC"
     },
     {
      "ref": "I-292753",
      "title": "EC Midday press briefing of 23/07/2026",
-     "summary": "Q&A",
+     "summary": "ANNOUNCEMENT - Commission fines Google €890 million for breaches of the Digital Markets Act",
      "inst": "EC"
     },
     {
-     "ref": "I-292754",
+     "ref": "I-293182",
      "title": "EC Midday press briefing of 23/07/2026",
-     "summary": "Exterior views of the European Commission Berlaymont building",
+     "summary": "ANNOUNCEMENT - Commission approves more than €103 million support from the EU Solidarity Fund to help Malta, Portugal, and Spain recover from storms",
      "inst": "EC"
     },
     {
-     "ref": "I-292755",
+     "ref": "I-293183",
      "title": "EC Midday press briefing of 23/07/2026",
-     "summary": "Recorded cutaways",
+     "summary": "DIGITAL MARKETS ACT / EU-US RELATIONS - Commission fines Google €890 million for breaches of the Digital Markets Act / Tariffs: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-293184",
+     "title": "EC Midday press briefing of 23/07/2026",
+     "summary": "ARTIFICIAL INTELLIGENCE / CYBERSECURITY - OpenAI: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-293185",
+     "title": "EC Midday press briefing of 23/07/2026",
+     "summary": "DIGITAL AFFAIRS - Child Safety on line / France",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-293186",
+     "title": "EC Midday press briefing of 23/07/2026",
+     "summary": "DEFENCE - Security Action for Europe (SAFE) Mechanism / Greece / Israeli defence products: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-293187",
+     "title": "EC Midday press briefing of 23/07/2026",
+     "summary": "WAR IN UKRAINE - 21st package of sanctions against Russia / Exemptions / Greece: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-293188",
+     "title": "EC Midday press briefing of 23/07/2026",
+     "summary": "COLLEGE AGENDA / DATA PROTECTION - Outcome of the visit of Commissioner McGrath to the United States: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-293189",
+     "title": "EC Midday press briefing of 23/07/2026",
+     "summary": "MIGRATION - Libya: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-293190",
+     "title": "EC Midday press briefing of 23/07/2026",
+     "summary": "RULE OF LAW - Hungary: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-293195",
+     "title": "EC Midday press briefing of 23/07/2026",
+     "summary": "REPowerEU / ENERGY - German nuclear fuel plant / Rosatom / Framatome: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-293196",
+     "title": "EC Midday press briefing of 23/07/2026",
+     "summary": "WAR IN UKRAINE / INTERNAL MARKET - EU Sanctions against Russia / Export of Irish alumina to Russia: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-293197",
+     "title": "EC Midday press briefing of 23/07/2026",
+     "summary": "TRADE / EU-US RELATIONS - EU-US Joint statement / Tariffs / Pharmaceutical sector: Q&A",
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-17T05:24:58+00:00"
+   "firstSeen": "2026-07-23T11:25:59+00:00"
   },
   {
    "ep": false,
@@ -83,23 +149,43 @@
   },
   {
    "ep": false,
+   "start": "2026-07-23T14:15:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "Unveiling of the shortlisted design proposals for future euro banknotes",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-293201",
+     "title": "Unveiling of the shortlisted design proposals for future euro banknotes",
+     "summary": "Presentation by Christine LAGARDE, President of the European Central Bank (ECB)",
+     "inst": "European Central B"
+    }
+   ],
+   "firstSeen": "2026-07-23T11:25:59+00:00"
+  },
+  {
+   "ep": false,
    "start": "2026-07-24T07:00:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
    "status": "LIVE",
-   "title": "Informal meeting of Environment and Climate Ministers in Dublin, Ireland",
+   "title": "Informal meeting of Environment and Climate Ministers (ENVI) in Dublin, Ireland",
    "languages": [
     "INT"
    ],
    "items": [
     {
      "ref": "I-292789",
-     "title": "Informal meeting of Environment and Climate Ministers in Dublin, Ireland",
+     "title": "Informal meeting of Environment and Climate Ministers (ENVI) in Dublin, Ireland",
      "summary": "Arrivals, welcome and doorsteps",
      "inst": "Host"
     }
    ],
-   "firstSeen": "2026-07-20T10:18:23+00:00"
+   "firstSeen": "2026-07-23T11:25:59+00:00"
   },
   {
    "ep": false,
@@ -127,19 +213,19 @@
    "durationSec": 0,
    "channel": "EBS",
    "status": "LIVE",
-   "title": "Informal meeting of Environment and Climate Ministers in Dublin, Ireland",
+   "title": "Informal meeting of Environment and Climate Ministers (ENVI) in Dublin, Ireland",
    "languages": [
     "INT"
    ],
    "items": [
     {
      "ref": "I-292937",
-     "title": "Informal meeting of Environment and Climate Ministers in Dublin, Ireland",
+     "title": "Informal meeting of Environment and Climate Ministers (ENVI) in Dublin, Ireland",
      "summary": "Family photo",
      "inst": "Host"
     }
    ],
-   "firstSeen": "2026-07-20T10:18:23+00:00"
+   "firstSeen": "2026-07-23T11:25:59+00:00"
   },
   {
    "ep": false,
@@ -173,19 +259,19 @@
    "durationSec": 0,
    "channel": "EBS",
    "status": "LIVE",
-   "title": "Informal meeting of Environment and Climate Ministers in Dublin, Ireland",
+   "title": "Informal meeting of Environment and Climate Ministers (ENVI) in Dublin, Ireland",
    "languages": [
     "INT"
    ],
    "items": [
     {
      "ref": "I-292935",
-     "title": "Informal meeting of Environment and Climate Ministers in Dublin, Ireland",
+     "title": "Informal meeting of Environment and Climate Ministers (ENVI) in Dublin, Ireland",
      "summary": "Roundtable",
      "inst": "Host"
     }
    ],
-   "firstSeen": "2026-07-22T09:13:09+00:00"
+   "firstSeen": "2026-07-23T11:25:59+00:00"
   },
   {
    "ep": false,
@@ -193,19 +279,19 @@
    "durationSec": 0,
    "channel": "EBS",
    "status": "EDIT",
-   "title": "Informal meeting of Environment and Climate Ministers in Dublin, Ireland",
+   "title": "Informal meeting of Environment and Climate Ministers (ENVI) in Dublin, Ireland",
    "languages": [
     "INT"
    ],
    "items": [
     {
      "ref": "I-292936",
-     "title": "Informal meeting of Environment and Climate Ministers in Dublin, Ireland",
+     "title": "Informal meeting of Environment and Climate Ministers (ENVI) in Dublin, Ireland",
      "summary": "Compilation of all arrivals and welcome",
      "inst": "Host"
     }
    ],
-   "firstSeen": "2026-07-20T10:18:23+00:00"
+   "firstSeen": "2026-07-23T11:25:59+00:00"
   },
   {
    "ep": false,
@@ -273,7 +359,7 @@
    "durationSec": 0,
    "channel": "EBS",
    "status": "LIVE",
-   "title": "Informal meeting of Environment and Climate Ministers in Dublin, Ireland",
+   "title": "Informal meeting of Environment and Climate Ministers (ENVI) in Dublin, Ireland",
    "languages": [
     "INT",
     "EN"
@@ -281,12 +367,12 @@
    "items": [
     {
      "ref": "I-292938",
-     "title": "Informal meeting of Environment and Climate Ministers in Dublin, Ireland",
+     "title": "Informal meeting of Environment and Climate Ministers (ENVI) in Dublin, Ireland",
      "summary": "Press conference by the Irish Presidency and the European Commission",
      "inst": "Host"
     }
    ],
-   "firstSeen": "2026-07-20T10:18:23+00:00"
+   "firstSeen": "2026-07-23T11:25:59+00:00"
   },
   {
    "ep": false,
@@ -396,11 +482,92 @@
     {
      "ref": "I-293039",
      "title": "Informal meeting of Fisheries Ministers (AGRIFISH Fisheries) in Cork, Ireland",
-     "summary": "Details to follow",
+     "summary": "Arrivals, welcome and doorsteps",
      "inst": "Host"
     }
    ],
    "firstSeen": "2026-07-23T09:12:03+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-29T08:15:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "Informal meeting of Fisheries Ministers (AGRIFISH Fisheries) in Cork, Ireland",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-293175",
+     "title": "Informal meeting of Fisheries Ministers (AGRIFISH Fisheries) in Cork, Ireland",
+     "summary": "Family photo",
+     "inst": "Host"
+    }
+   ],
+   "firstSeen": "2026-07-23T11:25:59+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-29T08:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "Informal meeting of Fisheries Ministers (AGRIFISH Fisheries) in Cork, Ireland",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-293176",
+     "title": "Informal meeting of Fisheries Ministers (AGRIFISH Fisheries) in Cork, Ireland",
+     "summary": "Roundtable",
+     "inst": "Host"
+    }
+   ],
+   "firstSeen": "2026-07-23T11:25:59+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-29T08:45:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "EDIT",
+   "title": "Informal meeting of Fisheries Ministers (AGRIFISH Fisheries) in Cork, Ireland",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-293177",
+     "title": "Informal meeting of Fisheries Ministers (AGRIFISH Fisheries) in Cork, Ireland",
+     "summary": "Compilation of all arrivals and welcome",
+     "inst": "Host"
+    }
+   ],
+   "firstSeen": "2026-07-23T11:25:59+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-29T13:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "Informal meeting of Fisheries Ministers (AGRIFISH Fisheries) in Cork, Ireland",
+   "languages": [
+    "INT",
+    "EN"
+   ],
+   "items": [
+    {
+     "ref": "I-293178",
+     "title": "Informal meeting of Fisheries Ministers (AGRIFISH Fisheries) in Cork, Ireland",
+     "summary": "Press conference by the Irish Presidency and the European Commission",
+     "inst": "Host"
+    }
+   ],
+   "firstSeen": "2026-07-23T11:25:59+00:00"
   }
  ]
 }
