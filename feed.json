@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-24T09:05:38+00:00",
+ "generatedAt": "2026-07-24T11:07:43+00:00",
  "events": [
   {
    "ep": false,
@@ -111,8 +111,8 @@
   },
   {
    "ep": false,
-   "start": "2026-07-24T08:15:21.440Z",
-   "durationSec": 222,
+   "start": "2026-07-24T08:18:21.440Z",
+   "durationSec": 42,
    "channel": "EBS",
    "status": "LIVE",
    "title": "Informal meeting of Environment and Climate Ministers (ENVI) in Dublin, Ireland",
@@ -127,7 +127,7 @@
      "inst": "Host"
     }
    ],
-   "firstSeen": "2026-07-24T09:05:38+00:00"
+   "firstSeen": "2026-07-24T11:07:43+00:00"
   },
   {
    "ep": false,
@@ -172,7 +172,7 @@
   {
    "ep": false,
    "start": "2026-07-24T08:46:53.040Z",
-   "durationSec": 486,
+   "durationSec": 1059,
    "channel": "EBS",
    "status": "RECORDED",
    "title": "Informal meeting of Environment and Climate Ministers (ENVI) in Dublin, Ireland",
@@ -183,31 +183,43 @@
     {
      "ref": "I-293216",
      "title": "Informal meeting of Environment and Climate Ministers (ENVI) in Dublin, Ireland",
-     "summary": "Recorded doorsteps",
+     "summary": "Doorstep Astrid Willa Eide HOEM, State Secretary to Minister of Climate and Environment of Norway",
      "inst": "Host"
     },
     {
      "ref": "I-293219",
      "title": "Informal meeting of Environment and Climate Ministers (ENVI) in Dublin, Ireland",
-     "summary": "Recorded doorsteps",
+     "summary": "Doorstep Mika NYKÄNEN, State Secretary at the Ministry of the Environment of Finland",
      "inst": "Host"
     },
     {
      "ref": "I-293220",
      "title": "Informal meeting of Environment and Climate Ministers (ENVI) in Dublin, Ireland",
-     "summary": "Recorded doorsteps",
+     "summary": "Doorstep Einars CILINSKIS, Parliamentary Secretary, Ministry of Climate and Energy of Lithuania",
      "inst": "Host"
     },
     {
      "ref": "I-293222",
      "title": "Informal meeting of Environment and Climate Ministers (ENVI) in Dublin, Ireland",
-     "summary": "Recorded doorsteps",
+     "summary": "Doorstep Igor ČERVENÝ, Minister of the Environment of Czechia",
      "inst": "Host"
     },
     {
      "ref": "I-293223",
      "title": "Informal meeting of Environment and Climate Ministers (ENVI) in Dublin, Ireland",
-     "summary": "Recorded doorsteps",
+     "summary": "Doorstep Marija VUČKOVIĆ, Minister of the Environment and Green Transition of Croatia",
+     "inst": "Host"
+    },
+    {
+     "ref": "I-293224",
+     "title": "Informal meeting of Environment and Climate Ministers (ENVI) in Dublin, Ireland",
+     "summary": "Doorstep Norbert TOTSCHNIG, Federal Minister for Agriculture, Forestry, Climate and Environmental Protection, Regions and Water Management of Austria",
+     "inst": "Host"
+    },
+    {
+     "ref": "I-293225",
+     "title": "Informal meeting of Environment and Climate Ministers (ENVI) in Dublin, Ireland",
+     "summary": "Doorstep Jessika ROSWALL, European Commissioner for Environment, Water Resilience and a Competitive Circular Economy",
      "inst": "Host"
     }
    ],
@@ -215,7 +227,7 @@
   },
   {
    "ep": false,
-   "start": "2026-07-24T09:10:00.000Z",
+   "start": "2026-07-24T09:10:10.200Z",
    "durationSec": 277,
    "channel": "EBS",
    "status": "EDIT",
@@ -231,12 +243,12 @@
      "inst": "Host"
     }
    ],
-   "firstSeen": "2026-07-24T09:05:38+00:00"
+   "firstSeen": "2026-07-24T11:07:43+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-24T10:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-24T10:14:20.760Z",
+   "durationSec": 2694,
    "channel": "EBS",
    "status": "LIVE",
    "title": "EC Midday press briefing of 24/07/2026",
@@ -247,31 +259,97 @@
    ],
    "items": [
     {
+     "ref": "I-293243",
+     "title": "EC Midday press briefing of 24/07/2026",
+     "summary": "ANNOUNCEMENT - Commission preliminary finds TikTok in breach of Digital Services Act for failing to ensure safe accounts for minors ANNOUNCEMENT - Today’s council ANNOUNCEMENT - Summer midday briefings schedule CRISIS RESPONSE - Wildfires in Europe / Civil Protection Mechanism: Q&A TRADE - EU/US Relations / Tariffs: Q&A DIGITAL MARKETS ACT / EU-US RELATIONS - Commission fines Google €890 million for breaches of the Digital Markets Act / US Reaction: Q&A TRADE - China: Q&A WAR IN UKRAINE - Peace negotiations / US initiative: Q&A FOREIGN AFFAIRS - Georgia: Q&A FOREIGN AFFAIRS / TRADE - Armenia: Q&A FOREIGN AFFAIRS - Gaza: Q&A WAR IN UKRAINE / INTERNAL MARKET - EU Sanctions against Russia / Export of Irish alumina to Russia: Q&A WAR IN UKRAINE / INTERNAL MARKET - 21st package of sanctions against Russia / Kulevi oil terminal, in Georgia: Q&A WAR IN UKRAINE - 21st package of sanctions against Russia / Exemptions / Greece: Q&A SECURITY POLICY - Drone incidents in Romania: Q&A INTERNATIONAL LAW - International Criminal Court (ICC): Q&A Exterior views of the European Commission Berlaymont building Recorded cutaways",
+     "inst": "EC"
+    },
+    {
      "ref": "I-292756",
      "title": "EC Midday press briefing of 24/07/2026",
-     "summary": "Announcements",
+     "summary": "ANNOUNCEMENT - Commission preliminary finds TikTok in breach of Digital Services Act for failing to ensure safe accounts for minors",
      "inst": "EC"
     },
     {
      "ref": "I-292757",
      "title": "EC Midday press briefing of 24/07/2026",
-     "summary": "Q&A",
+     "summary": "ANNOUNCEMENT - Today’s council",
      "inst": "EC"
     },
     {
-     "ref": "I-292758",
+     "ref": "I-293226",
      "title": "EC Midday press briefing of 24/07/2026",
-     "summary": "Exterior views of the European Commission Berlaymont building",
+     "summary": "ANNOUNCEMENT - Summer midday briefings schedule",
      "inst": "EC"
     },
     {
-     "ref": "I-292759",
+     "ref": "I-293228",
      "title": "EC Midday press briefing of 24/07/2026",
-     "summary": "Recorded cutaways",
+     "summary": "CRISIS RESPONSE - Wildfires in Europe / Civil Protection Mechanism: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-293229",
+     "title": "EC Midday press briefing of 24/07/2026",
+     "summary": "TRADE - EU/US Relations / Tariffs: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-293230",
+     "title": "EC Midday press briefing of 24/07/2026",
+     "summary": "DIGITAL MARKETS ACT / EU-US RELATIONS - Commission fines Google €890 million for breaches of the Digital Markets Act / US Reaction: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-293231",
+     "title": "EC Midday press briefing of 24/07/2026",
+     "summary": "TRADE - China: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-293232",
+     "title": "EC Midday press briefing of 24/07/2026",
+     "summary": "WAR IN UKRAINE - Peace negotiations / US initiative: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-293233",
+     "title": "EC Midday press briefing of 24/07/2026",
+     "summary": "FOREIGN AFFAIRS - Georgia: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-293234",
+     "title": "EC Midday press briefing of 24/07/2026",
+     "summary": "FOREIGN AFFAIRS / TRADE - Armenia: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-293235",
+     "title": "EC Midday press briefing of 24/07/2026",
+     "summary": "FOREIGN AFFAIRS - Gaza: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-293236",
+     "title": "EC Midday press briefing of 24/07/2026",
+     "summary": "WAR IN UKRAINE / INTERNAL MARKET - EU Sanctions against Russia / Export of Irish alumina to Russia: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-293237",
+     "title": "EC Midday press briefing of 24/07/2026",
+     "summary": "WAR IN UKRAINE / INTERNAL MARKET - 21st package of sanctions against Russia / Kulevi oil terminal, in Georgia: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-293238",
+     "title": "EC Midday press briefing of 24/07/2026",
+     "summary": "WAR IN UKRAINE - 21st package of sanctions against Russia / Exemptions / Greece: Q&A",
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-20T05:51:52+00:00"
+   "firstSeen": "2026-07-24T11:07:43+00:00"
   },
   {
    "ep": false,
